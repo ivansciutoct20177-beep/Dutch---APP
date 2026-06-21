@@ -35,8 +35,10 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import androidx.compose.material.icons.filled.Settings
 import com.dutchapp.learn.data.Progress
 import com.dutchapp.learn.data.model.Course
+import com.dutchapp.learn.ui.components.DailyGoalCard
 import com.dutchapp.learn.ui.theme.GoldYellow
 import com.dutchapp.learn.ui.theme.Orange
 import com.dutchapp.learn.viewmodel.CourseProgressLogic
@@ -45,7 +47,7 @@ import com.dutchapp.learn.viewmodel.CourseProgressLogic
 fun ProfileScreen(
     course: Course,
     progress: Progress,
-    onReset: () -> Unit,
+    onOpenSettings: () -> Unit,
     bottomBar: @Composable () -> Unit
 ) {
     val totalLessons = course.allLessons.size
@@ -104,6 +106,9 @@ fun ProfileScreen(
                 MetricCard(Icons.Filled.MenuBook, wordsLearned.toString(), "Parole apprese", MaterialTheme.colorScheme.secondary, Modifier.weight(1f))
             }
 
+            Spacer(Modifier.height(12.dp))
+            DailyGoalCard(todayXp = progress.todayXp, dailyGoal = progress.dailyGoal)
+
             Spacer(Modifier.height(24.dp))
             Text(
                 "Avanzamento per livello",
@@ -121,14 +126,17 @@ fun ProfileScreen(
             }
 
             Spacer(Modifier.height(28.dp))
-            Box(
+            Row(
                 Modifier
                     .clip(RoundedCornerShape(12.dp))
-                    .border(2.dp, MaterialTheme.colorScheme.error, RoundedCornerShape(12.dp))
-                    .clickable { onReset() }
-                    .padding(horizontal = 24.dp, vertical = 12.dp)
+                    .border(2.dp, MaterialTheme.colorScheme.outline, RoundedCornerShape(12.dp))
+                    .clickable { onOpenSettings() }
+                    .padding(horizontal = 24.dp, vertical = 12.dp),
+                verticalAlignment = Alignment.CenterVertically,
+                horizontalArrangement = Arrangement.spacedBy(8.dp)
             ) {
-                Text("Azzera progressi", color = MaterialTheme.colorScheme.error, fontWeight = FontWeight.Bold)
+                Icon(Icons.Filled.Settings, contentDescription = null, tint = MaterialTheme.colorScheme.onBackground)
+                Text("Impostazioni", color = MaterialTheme.colorScheme.onBackground, fontWeight = FontWeight.Bold)
             }
             Spacer(Modifier.height(16.dp))
         }

@@ -5,17 +5,21 @@ import androidx.compose.foundation.border
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
+import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Bolt
 import androidx.compose.material.icons.filled.LocalFireDepartment
 import androidx.compose.material.icons.filled.Star
 import androidx.compose.material.icons.filled.StarBorder
+import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.Icon
 import androidx.compose.material3.LinearProgressIndicator
 import androidx.compose.material3.MaterialTheme
@@ -164,5 +168,43 @@ fun StatsHeader(xp: Int, streak: Int, modifier: Modifier = Modifier) {
     ) {
         StatPill(Icons.Filled.LocalFireDepartment, streak.toString(), Orange)
         StatPill(Icons.Filled.Bolt, xp.toString(), GoldYellow)
+    }
+}
+
+/** Daily goal ring with current/target XP (Duolingo-style daily goal). */
+@Composable
+fun DailyGoalCard(todayXp: Int, dailyGoal: Int, modifier: Modifier = Modifier) {
+    val frac = if (dailyGoal <= 0) 1f else (todayXp / dailyGoal.toFloat()).coerceIn(0f, 1f)
+    Row(
+        modifier = modifier
+            .fillMaxWidth()
+            .padding(horizontal = 16.dp, vertical = 8.dp)
+            .clip(RoundedCornerShape(18.dp))
+            .background(MaterialTheme.colorScheme.surface)
+            .border(1.dp, MaterialTheme.colorScheme.outline, RoundedCornerShape(18.dp))
+            .padding(14.dp),
+        verticalAlignment = Alignment.CenterVertically,
+        horizontalArrangement = Arrangement.spacedBy(14.dp)
+    ) {
+        Box(contentAlignment = Alignment.Center) {
+            CircularProgressIndicator(
+                progress = { frac },
+                modifier = Modifier.size(54.dp),
+                color = GoldYellow,
+                trackColor = MaterialTheme.colorScheme.outline.copy(alpha = 0.4f),
+                strokeWidth = 6.dp
+            )
+            Icon(Icons.Filled.Bolt, contentDescription = null, tint = GoldYellow, modifier = Modifier.size(24.dp))
+        }
+        Column(Modifier.weight(1f)) {
+            Text("Obiettivo di oggi", fontWeight = FontWeight.Bold, color = MaterialTheme.colorScheme.onSurface)
+            Text(
+                "$todayXp / $dailyGoal XP",
+                color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.6f)
+            )
+        }
+        if (frac >= 1f) {
+            Text("✅", fontSize = 22.sp)
+        }
     }
 }

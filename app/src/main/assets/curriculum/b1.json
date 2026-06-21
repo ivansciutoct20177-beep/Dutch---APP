@@ -8,6 +8,7 @@
       "id": "b1u1",
       "title": "Emozioni",
       "icon": "😊",
+      "tip": "Gli aggettivi prendono spesso una -e davanti al nome: 'een blije man' (un uomo felice), ma 'de man is blij' senza -e dopo il verbo.",
       "lessons": [
         {
           "id": "b1u1l1",
@@ -95,6 +96,31 @@
             {"nl": "bijna", "it": "quasi", "en": "almost", "pos": "adv"},
             {"nl": "snel", "it": "veloce", "en": "fast", "emoji": "💨", "pos": "adj"},
             {"nl": "langzaam", "it": "lento", "en": "slow", "emoji": "🐢", "pos": "adj"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1u5",
+      "title": "Connettivi",
+      "icon": "🔗",
+      "tip": "I connettivi legano le frasi. Attenzione: 'want' e 'omdat' significano entrambi 'perché', ma 'omdat' manda il verbo alla fine: 'Ik blijf thuis omdat ik moe ben'.",
+      "lessons": [
+        {
+          "id": "b1u5l1",
+          "title": "Collegare le frasi",
+          "items": [
+            {"nl": "en", "it": "e", "en": "and", "pos": "conj"},
+            {"nl": "maar", "it": "ma", "en": "but", "pos": "conj"},
+            {"nl": "of", "it": "o / oppure", "en": "or", "pos": "conj"},
+            {"nl": "want", "it": "perché (coord.)", "en": "because", "pos": "conj"},
+            {"nl": "omdat", "it": "poiché (subord.)", "en": "because", "pos": "conj"},
+            {"nl": "dus", "it": "quindi", "en": "so", "pos": "conj"},
+            {"nl": "als", "it": "se / quando", "en": "if / when", "pos": "conj"},
+            {"nl": "terwijl", "it": "mentre", "en": "while", "pos": "conj"},
+            {"nl": "hoewel", "it": "sebbene", "en": "although", "pos": "conj"},
+            {"nl": "daarom", "it": "perciò", "en": "therefore", "pos": "adv"},
+            {"nl": "ook", "it": "anche", "en": "also", "pos": "adv"}
           ]
         }
       ]

@@ -1,11 +1,16 @@
 package com.dutchapp.learn.data.model
 
 /** Types of step the learner sees inside a lesson. */
-enum class ExerciseKind { INTRO, PICTURE, TRANSLATE, LISTEN, TYPE, MATCH }
+enum class ExerciseKind { TIP, INTRO, PICTURE, TRANSLATE, LISTEN, TYPE, MATCH, SPEAK }
 
 /** A single step inside a lesson session. */
 sealed class Exercise {
     abstract val kind: ExerciseKind
+}
+
+/** Grammar note shown at the start of a unit (Duolingo-style "Tips"). Not graded. */
+data class TipExercise(val title: String, val text: String) : Exercise() {
+    override val kind = ExerciseKind.TIP
 }
 
 /** Teaching card shown before testing: emoji + word + translation + audio. */
@@ -51,3 +56,14 @@ data class MatchExercise(
 ) : Exercise() {
     override val kind = ExerciseKind.MATCH
 }
+
+/** Rosetta-Stone style pronunciation practice via speech recognition. Not graded. */
+data class SpeakExercise(
+    val target: VocabItem
+) : Exercise() {
+    override val kind = ExerciseKind.SPEAK
+}
+
+/** Whether the step counts toward the lesson score. */
+val Exercise.graded: Boolean
+    get() = this !is TipExercise && this !is IntroExercise && this !is SpeakExercise

@@ -42,6 +42,7 @@ import com.dutchapp.learn.data.model.Course
 import com.dutchapp.learn.data.model.CourseUnit
 import com.dutchapp.learn.data.model.Lesson
 import com.dutchapp.learn.data.model.Level
+import com.dutchapp.learn.ui.components.DailyGoalCard
 import com.dutchapp.learn.ui.components.StarsRow
 import com.dutchapp.learn.ui.components.StatsHeader
 import com.dutchapp.learn.viewmodel.CourseProgressLogic
@@ -66,6 +67,7 @@ fun HomeScreen(
         ) {
             item {
                 StatsHeader(xp = progress.xp, streak = progress.streak)
+                DailyGoalCard(todayXp = progress.todayXp, dailyGoal = progress.dailyGoal)
                 Text(
                     text = "Leer Nederlands",
                     style = MaterialTheme.typography.headlineLarge,

@@ -6,6 +6,7 @@ import com.dutchapp.learn.data.model.Lesson
 import com.dutchapp.learn.data.model.ListenExercise
 import com.dutchapp.learn.data.model.MatchExercise
 import com.dutchapp.learn.data.model.PictureExercise
+import com.dutchapp.learn.data.model.SpeakExercise
 import com.dutchapp.learn.data.model.TranslateExercise
 import com.dutchapp.learn.data.model.TypeExercise
 import com.dutchapp.learn.data.model.VocabItem
@@ -24,7 +25,8 @@ object ExerciseGenerator {
     fun build(
         lesson: Lesson,
         levelPool: List<VocabItem>,
-        random: Random = Random(System.nanoTime())
+        random: Random = Random(System.nanoTime()),
+        includeSpeaking: Boolean = true
     ): List<Exercise> {
         val items = lesson.items
         if (items.isEmpty()) return emptyList()
@@ -60,6 +62,11 @@ object ExerciseGenerator {
         if (items.size >= 2) {
             quiz += translateExercise(items.first(), pool, random, promptInDutch = true)
             quiz += listenExercise(items.last(), pool, random)
+        }
+
+        // 5) Optional pronunciation practice (Rosetta-Stone style, not graded)
+        if (includeSpeaking && items.size >= 3) {
+            quiz += SpeakExercise(items.shuffled(random).first())
         }
 
         session += quiz.shuffled(random)

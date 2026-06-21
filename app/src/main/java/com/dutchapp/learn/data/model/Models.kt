@@ -32,6 +32,7 @@ data class CourseUnit(
     val id: String,
     val title: String,
     val icon: String = "📘",     // emoji shown on the unit header
+    val tip: String = "",        // optional grammar note (Duolingo-style "Tips")
     val lessons: List<Lesson> = emptyList()
 )
 

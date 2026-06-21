@@ -8,6 +8,7 @@
       "id": "a2u1",
       "title": "Verbi comuni",
       "icon": "🏃",
+      "tip": "Al presente: con 'ik' (io) si usa la radice del verbo; con 'jij/hij/zij' si aggiunge -t. Es: ik werk, jij werkt, hij werkt.",
       "lessons": [
         {
           "id": "a2u1l1",
@@ -202,6 +203,33 @@
             {"nl": "de reis", "it": "il viaggio", "en": "trip", "emoji": "🧳", "pos": "n"},
             {"nl": "het spel", "it": "il gioco", "en": "game", "emoji": "🎮", "pos": "n"},
             {"nl": "de hobby", "it": "l'hobby", "en": "hobby", "emoji": "🎨", "pos": "n"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2u7",
+      "title": "Direzioni e luoghi",
+      "icon": "🧭",
+      "tip": "Le preposizioni di luogo indicano dove si trova qualcosa: op (su), onder (sotto), in (in), naast (accanto), voor (davanti), achter (dietro).",
+      "lessons": [
+        {
+          "id": "a2u7l1",
+          "title": "Dove si trova",
+          "items": [
+            {"nl": "op", "it": "su / sopra", "en": "on", "emoji": "⬆️", "pos": "prep"},
+            {"nl": "onder", "it": "sotto", "en": "under", "emoji": "⬇️", "pos": "prep"},
+            {"nl": "in", "it": "in / dentro", "en": "in", "pos": "prep"},
+            {"nl": "naast", "it": "accanto a", "en": "next to", "pos": "prep"},
+            {"nl": "voor", "it": "davanti a", "en": "in front of", "pos": "prep"},
+            {"nl": "achter", "it": "dietro", "en": "behind", "pos": "prep"},
+            {"nl": "tussen", "it": "tra", "en": "between", "pos": "prep"},
+            {"nl": "boven", "it": "sopra", "en": "above", "pos": "prep"},
+            {"nl": "links", "it": "a sinistra", "en": "left", "emoji": "⬅️", "pos": "adv"},
+            {"nl": "rechts", "it": "a destra", "en": "right", "emoji": "➡️", "pos": "adv"},
+            {"nl": "rechtdoor", "it": "dritto", "en": "straight ahead", "emoji": "⬆️", "pos": "adv"},
+            {"nl": "hier", "it": "qui", "en": "here", "pos": "adv"},
+            {"nl": "daar", "it": "là", "en": "there", "pos": "adv"}
           ]
         }
       ]

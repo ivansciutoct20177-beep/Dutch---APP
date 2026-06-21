@@ -17,6 +17,7 @@ class TtsManager(context: Context) {
 
     private var tts: TextToSpeech? = null
     @Volatile private var ready = false
+    @Volatile var muted: Boolean = false
     @Volatile var dutchSupported: Boolean = true
         private set
 
@@ -34,13 +35,13 @@ class TtsManager(context: Context) {
 
     fun speak(text: String) {
         val engine = tts ?: return
-        if (!ready || text.isBlank()) return
+        if (!ready || muted || text.isBlank()) return
         engine.speak(text, TextToSpeech.QUEUE_FLUSH, null, "nl_${text.hashCode()}")
     }
 
     fun speakSlow(text: String) {
         val engine = tts ?: return
-        if (!ready || text.isBlank()) return
+        if (!ready || muted || text.isBlank()) return
         engine.setSpeechRate(0.6f)
         engine.speak(text, TextToSpeech.QUEUE_FLUSH, null, "slow_${text.hashCode()}")
         engine.setSpeechRate(0.9f)

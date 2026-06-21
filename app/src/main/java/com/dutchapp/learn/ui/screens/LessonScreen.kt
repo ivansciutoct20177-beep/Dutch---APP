@@ -1,5 +1,15 @@
 package com.dutchapp.learn.ui.screens
 
+import android.Manifest
+import android.content.Intent
+import android.content.pm.PackageManager
+import android.os.Bundle
+import android.speech.RecognitionListener
+import android.speech.RecognizerIntent
+import android.speech.SpeechRecognizer
+import androidx.activity.compose.rememberLauncherForActivityResult
+import androidx.activity.result.contract.ActivityResultContracts
+import androidx.core.content.ContextCompat
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
@@ -20,12 +30,14 @@ import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Close
 import androidx.compose.material.icons.filled.Favorite
+import androidx.compose.material.icons.filled.Mic
 import androidx.compose.material.icons.filled.VolumeUp
 import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.DisposableEffect
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateListOf
@@ -37,6 +49,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.input.ImeAction
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
@@ -47,9 +60,12 @@ import com.dutchapp.learn.data.model.IntroExercise
 import com.dutchapp.learn.data.model.ListenExercise
 import com.dutchapp.learn.data.model.MatchExercise
 import com.dutchapp.learn.data.model.PictureExercise
+import com.dutchapp.learn.data.model.SpeakExercise
+import com.dutchapp.learn.data.model.TipExercise
 import com.dutchapp.learn.data.model.TranslateExercise
 import com.dutchapp.learn.data.model.TypeExercise
 import com.dutchapp.learn.data.model.VocabItem
+import com.dutchapp.learn.data.model.graded
 import com.dutchapp.learn.ui.components.ChunkyButton
 import com.dutchapp.learn.ui.components.LessonProgressBar
 import com.dutchapp.learn.ui.components.OptionCard
@@ -82,7 +98,7 @@ fun LessonScreen(
     }
 
     val tts = LocalTts.current
-    val gradedTotal = remember(session) { session.count { it !is IntroExercise } }
+    val gradedTotal = remember(session) { session.count { it.graded } }
 
     var index by remember { mutableStateOf(0) }
     var correct by remember { mutableStateOf(0) }
@@ -112,6 +128,7 @@ fun LessonScreen(
             is IntroExercise -> tts?.speak(ex.item.nl)
             is ListenExercise -> tts?.speak(ex.target.nl)
             is PictureExercise -> tts?.speak(ex.target.nl)
+            is SpeakExercise -> tts?.speak(ex.target.nl)
             else -> {}
         }
     }
@@ -123,12 +140,14 @@ fun LessonScreen(
         is TypeExercise -> normalize(typed) == normalize(ex.target.nl)
         is MatchExercise -> matchDone
         is IntroExercise -> true
+        is TipExercise -> true
+        is SpeakExercise -> true
     }
 
     fun answerProvided(): Boolean = when (current) {
         is TypeExercise -> typed.isNotBlank()
         is MatchExercise -> matchDone
-        is IntroExercise -> true
+        is IntroExercise, is TipExercise, is SpeakExercise -> true
         else -> selected >= 0
     }
 
@@ -149,7 +168,7 @@ fun LessonScreen(
 
     fun onPrimary() {
         when {
-            current is IntroExercise -> advanceOrFinish()
+            !current.graded -> advanceOrFinish()
             !revealed -> {
                 val ok = evaluate()
                 revealed = true
@@ -209,6 +228,8 @@ fun LessonScreen(
                 .padding(horizontal = 20.dp)
         ) {
             when (val ex = current) {
+                is TipExercise -> TipContent(ex)
+                is SpeakExercise -> SpeakContent(ex) { tts?.speak(ex.target.nl) }
                 is IntroExercise -> IntroContent(ex.item) { tts?.speak(ex.item.nl) }
                 is PictureExercise -> PictureContent(
                     ex = ex, selected = selected, revealed = revealed,
@@ -242,10 +263,10 @@ fun LessonScreen(
         // Feedback + primary button
         FeedbackAndButton(
             revealed = revealed,
-            isIntro = current is IntroExercise,
+            nonGraded = !current.graded,
             isCorrect = lastCorrect,
             correctAnswer = correctAnswerText(current),
-            enabled = answerProvided() || current is IntroExercise,
+            enabled = answerProvided(),
             onClick = { onPrimary() }
         )
     }
@@ -318,6 +339,145 @@ private fun IntroContent(item: VocabItem, onSpeak: () -> Unit) {
                     }
                 }
             }
+        }
+    }
+}
+
+@Composable
+private fun TipContent(ex: TipExercise) {
+    Column(Modifier.fillMaxWidth().padding(top = 8.dp)) {
+        Text("💡 Suggerimento", color = MaterialTheme.colorScheme.secondary, fontWeight = FontWeight.Bold)
+        Spacer(Modifier.height(8.dp))
+        Text(
+            ex.title,
+            style = MaterialTheme.typography.headlineMedium,
+            color = MaterialTheme.colorScheme.onBackground,
+            fontWeight = FontWeight.ExtraBold
+        )
+        Spacer(Modifier.height(12.dp))
+        Box(
+            Modifier
+                .fillMaxWidth()
+                .clip(RoundedCornerShape(16.dp))
+                .background(MaterialTheme.colorScheme.secondaryContainer.copy(alpha = 0.4f))
+                .padding(16.dp)
+        ) {
+            Text(
+                ex.text,
+                style = MaterialTheme.typography.bodyLarge,
+                color = MaterialTheme.colorScheme.onBackground
+            )
+        }
+    }
+}
+
+@Composable
+private fun SpeakContent(ex: SpeakExercise, onSpeakModel: () -> Unit) {
+    val context = LocalContext.current
+    val available = remember { SpeechRecognizer.isRecognitionAvailable(context) }
+    var recognized by remember(ex) { mutableStateOf<String?>(null) }
+    var listening by remember(ex) { mutableStateOf(false) }
+    var matched by remember(ex) { mutableStateOf<Boolean?>(null) }
+    var hasPermission by remember {
+        mutableStateOf(
+            ContextCompat.checkSelfPermission(context, Manifest.permission.RECORD_AUDIO) ==
+                PackageManager.PERMISSION_GRANTED
+        )
+    }
+    val recognizer = remember(ex) {
+        if (available) SpeechRecognizer.createSpeechRecognizer(context) else null
+    }
+    DisposableEffect(ex) {
+        onDispose { recognizer?.destroy() }
+    }
+
+    fun startListening() {
+        val r = recognizer ?: return
+        recognized = null
+        matched = null
+        listening = true
+        r.setRecognitionListener(object : RecognitionListener {
+            override fun onResults(results: Bundle?) {
+                val said = results
+                    ?.getStringArrayList(SpeechRecognizer.RESULTS_RECOGNITION)
+                    ?.firstOrNull()
+                    .orEmpty()
+                recognized = said
+                val n1 = normalize(said)
+                val n2 = normalize(ex.target.nl)
+                matched = said.isNotBlank() && (n1.contains(n2) || n2.contains(n1))
+                listening = false
+            }
+            override fun onError(error: Int) {
+                listening = false
+                if (matched == null) matched = false
+            }
+            override fun onReadyForSpeech(params: Bundle?) {}
+            override fun onBeginningOfSpeech() {}
+            override fun onRmsChanged(rmsdB: Float) {}
+            override fun onBufferReceived(buffer: ByteArray?) {}
+            override fun onEndOfSpeech() {}
+            override fun onPartialResults(partialResults: Bundle?) {}
+            override fun onEvent(eventType: Int, params: Bundle?) {}
+        })
+        val intent = Intent(RecognizerIntent.ACTION_RECOGNIZE_SPEECH).apply {
+            putExtra(RecognizerIntent.EXTRA_LANGUAGE_MODEL, RecognizerIntent.LANGUAGE_MODEL_FREE_FORM)
+            putExtra(RecognizerIntent.EXTRA_LANGUAGE, "nl-NL")
+            putExtra(RecognizerIntent.EXTRA_MAX_RESULTS, 3)
+        }
+        r.startListening(intent)
+    }
+
+    val permLauncher = rememberLauncherForActivityResult(
+        ActivityResultContracts.RequestPermission()
+    ) { granted ->
+        hasPermission = granted
+        if (granted) startListening()
+    }
+
+    Column(
+        Modifier.fillMaxWidth().padding(top = 8.dp),
+        horizontalAlignment = Alignment.CenterHorizontally
+    ) {
+        Text("🗣️ Pronuncia", color = MaterialTheme.colorScheme.secondary, fontWeight = FontWeight.Bold)
+        Spacer(Modifier.height(8.dp))
+        if (ex.target.hasPicture) {
+            Text(ex.target.emoji, fontSize = 72.sp)
+            Spacer(Modifier.height(8.dp))
+        }
+        Row(verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(10.dp)) {
+            Text(ex.target.nl, fontSize = 30.sp, fontWeight = FontWeight.ExtraBold, color = MaterialTheme.colorScheme.onBackground)
+            SpeakerButton(size = 44, onClick = onSpeakModel)
+        }
+        Text("Tocca il microfono e ripeti", color = MaterialTheme.colorScheme.onBackground.copy(alpha = 0.6f))
+        Spacer(Modifier.height(20.dp))
+        Box(
+            Modifier
+                .size(96.dp)
+                .clip(CircleShape)
+                .background(if (listening) ErrorRed else MaterialTheme.colorScheme.secondary)
+                .clickable {
+                    when {
+                        !available -> {}
+                        !hasPermission -> permLauncher.launch(Manifest.permission.RECORD_AUDIO)
+                        else -> startListening()
+                    }
+                },
+            contentAlignment = Alignment.Center
+        ) {
+            Icon(Icons.Filled.Mic, contentDescription = "Parla", tint = Color.White, modifier = Modifier.size(44.dp))
+        }
+        Spacer(Modifier.height(16.dp))
+        when {
+            !available -> Text(
+                "Riconoscimento vocale non disponibile qui. Puoi continuare.",
+                color = MaterialTheme.colorScheme.onBackground.copy(alpha = 0.6f),
+                textAlign = TextAlign.Center
+            )
+            listening -> Text("Sto ascoltando…", color = MaterialTheme.colorScheme.secondary, fontWeight = FontWeight.Bold)
+            matched == true -> Text("Ottima pronuncia! ✅", color = LeafGreen, fontWeight = FontWeight.Bold)
+            matched == false -> Text("Ho sentito: \"${recognized.orEmpty()}\". Riprova 🎙️", color = Orange, fontWeight = FontWeight.SemiBold)
+            else -> {}
         }
     }
 }
@@ -574,25 +734,25 @@ private fun MatchContent(
 @Composable
 private fun FeedbackAndButton(
     revealed: Boolean,
-    isIntro: Boolean,
+    nonGraded: Boolean,
     isCorrect: Boolean,
     correctAnswer: String,
     enabled: Boolean,
     onClick: () -> Unit
 ) {
     val bgColor = when {
-        !revealed || isIntro -> MaterialTheme.colorScheme.surface
+        !revealed || nonGraded -> MaterialTheme.colorScheme.surface
         isCorrect -> LeafGreen.copy(alpha = 0.15f)
         else -> ErrorRed.copy(alpha = 0.12f)
     }
     val buttonColor = when {
-        isIntro -> Orange
+        nonGraded -> Orange
         !revealed -> Orange
         isCorrect -> LeafGreen
         else -> ErrorRed
     }
     val buttonText = when {
-        isIntro -> "Continua"
+        nonGraded -> "Continua"
         !revealed -> "Controlla"
         else -> "Continua"
     }
@@ -602,7 +762,7 @@ private fun FeedbackAndButton(
             .background(bgColor)
             .padding(16.dp)
     ) {
-        if (revealed && !isIntro) {
+        if (revealed && !nonGraded) {
             Text(
                 text = if (isCorrect) "Esatto! 🎉" else "Risposta corretta:",
                 fontWeight = FontWeight.Bold,

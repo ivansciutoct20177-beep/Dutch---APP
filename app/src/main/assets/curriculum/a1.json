@@ -8,6 +8,7 @@
       "id": "a1u1",
       "title": "Saluti e cortesia",
       "icon": "👋",
+      "tip": "Benvenuto! In olandese 'de' e 'het' significano entrambi 'il/la'. La maggior parte delle parole usa 'de'. Iniziamo dai saluti di tutti i giorni.",
       "lessons": [
         {
           "id": "a1u1l1",
@@ -317,6 +318,134 @@
             {"nl": "de maand", "it": "il mese", "en": "month", "emoji": "📅", "pos": "n"},
             {"nl": "het jaar", "it": "l'anno", "en": "year", "pos": "n"},
             {"nl": "de dag", "it": "il giorno", "en": "day", "emoji": "📆", "pos": "n"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1u7",
+      "title": "Animali",
+      "icon": "🐶",
+      "tip": "Ogni nome ha il suo articolo (de o het) da memorizzare. Es: de hond (il cane), het paard (il cavallo).",
+      "lessons": [
+        {
+          "id": "a1u7l1",
+          "title": "Animali domestici e fattoria",
+          "items": [
+            {"nl": "de hond", "it": "il cane", "en": "dog", "emoji": "🐶", "pos": "n"},
+            {"nl": "de kat", "it": "il gatto", "en": "cat", "emoji": "🐱", "pos": "n"},
+            {"nl": "de vogel", "it": "l'uccello", "en": "bird", "emoji": "🐦", "pos": "n"},
+            {"nl": "de koe", "it": "la mucca", "en": "cow", "emoji": "🐮", "pos": "n"},
+            {"nl": "het paard", "it": "il cavallo", "en": "horse", "emoji": "🐴", "pos": "n"},
+            {"nl": "het varken", "it": "il maiale", "en": "pig", "emoji": "🐷", "pos": "n"},
+            {"nl": "de kip", "it": "la gallina", "en": "chicken", "emoji": "🐔", "pos": "n"},
+            {"nl": "het schaap", "it": "la pecora", "en": "sheep", "emoji": "🐑", "pos": "n"},
+            {"nl": "de muis", "it": "il topo", "en": "mouse", "emoji": "🐭", "pos": "n"},
+            {"nl": "het konijn", "it": "il coniglio", "en": "rabbit", "emoji": "🐰", "pos": "n"}
+          ]
+        },
+        {
+          "id": "a1u7l2",
+          "title": "Animali selvatici",
+          "items": [
+            {"nl": "de leeuw", "it": "il leone", "en": "lion", "emoji": "🦁", "pos": "n"},
+            {"nl": "de olifant", "it": "l'elefante", "en": "elephant", "emoji": "🐘", "pos": "n"},
+            {"nl": "de beer", "it": "l'orso", "en": "bear", "emoji": "🐻", "pos": "n"},
+            {"nl": "de aap", "it": "la scimmia", "en": "monkey", "emoji": "🐵", "pos": "n"},
+            {"nl": "de tijger", "it": "la tigre", "en": "tiger", "emoji": "🐯", "pos": "n"},
+            {"nl": "de wolf", "it": "il lupo", "en": "wolf", "emoji": "🐺", "pos": "n"},
+            {"nl": "de vos", "it": "la volpe", "en": "fox", "emoji": "🦊", "pos": "n"},
+            {"nl": "de slang", "it": "il serpente", "en": "snake", "emoji": "🐍", "pos": "n"},
+            {"nl": "de vlinder", "it": "la farfalla", "en": "butterfly", "emoji": "🦋", "pos": "n"},
+            {"nl": "de bij", "it": "l'ape", "en": "bee", "emoji": "🐝", "pos": "n"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1u8",
+      "title": "Fare domande",
+      "icon": "❓",
+      "tip": "Le domande iniziano con una parola interrogativa seguita dal verbo: 'Waar woon je?' = Dove abiti? Il verbo va sempre in seconda posizione.",
+      "lessons": [
+        {
+          "id": "a1u8l1",
+          "title": "Parole interrogative",
+          "items": [
+            {"nl": "wat", "it": "cosa", "en": "what", "pos": "pron", "exampleNl": "Wat is dit?", "exampleIt": "Cos'è questo?"},
+            {"nl": "wie", "it": "chi", "en": "who", "pos": "pron"},
+            {"nl": "waar", "it": "dove", "en": "where", "pos": "adv", "exampleNl": "Waar ben je?", "exampleIt": "Dove sei?"},
+            {"nl": "wanneer", "it": "quando", "en": "when", "pos": "adv"},
+            {"nl": "waarom", "it": "perché", "en": "why", "pos": "adv"},
+            {"nl": "hoe", "it": "come", "en": "how", "pos": "adv"},
+            {"nl": "welke", "it": "quale", "en": "which", "pos": "pron"},
+            {"nl": "hoeveel", "it": "quanto", "en": "how much", "pos": "adv"},
+            {"nl": "hoe laat", "it": "a che ora", "en": "at what time", "pos": "phr"},
+            {"nl": "met wie", "it": "con chi", "en": "with whom", "pos": "phr"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1u9",
+      "title": "Frasi utili",
+      "icon": "💬",
+      "tip": "Frasi pronte all'uso per cavartela subito nelle conversazioni e in viaggio.",
+      "lessons": [
+        {
+          "id": "a1u9l1",
+          "title": "In conversazione",
+          "items": [
+            {"nl": "Ik begrijp het niet", "it": "Non capisco", "en": "I don't understand", "pos": "phr"},
+            {"nl": "Kun je dat herhalen?", "it": "Puoi ripeterlo?", "en": "Can you repeat that?", "pos": "phr"},
+            {"nl": "Hoe zeg je dat?", "it": "Come si dice?", "en": "How do you say that?", "pos": "phr"},
+            {"nl": "Ik spreek een beetje Nederlands", "it": "Parlo un po' di olandese", "en": "I speak a little Dutch", "pos": "phr"},
+            {"nl": "Spreek je Engels?", "it": "Parli inglese?", "en": "Do you speak English?", "pos": "phr"},
+            {"nl": "Ik kom uit Italië", "it": "Vengo dall'Italia", "en": "I come from Italy", "emoji": "🇮🇹", "pos": "phr"},
+            {"nl": "Wat betekent dit?", "it": "Cosa significa?", "en": "What does this mean?", "pos": "phr"},
+            {"nl": "Langzaam, alstublieft", "it": "Più lentamente, per favore", "en": "Slowly, please", "pos": "phr"},
+            {"nl": "Geen probleem", "it": "Nessun problema", "en": "No problem", "pos": "phr"},
+            {"nl": "Ik weet het niet", "it": "Non lo so", "en": "I don't know", "pos": "phr"}
+          ]
+        },
+        {
+          "id": "a1u9l2",
+          "title": "In viaggio",
+          "items": [
+            {"nl": "Waar is het toilet?", "it": "Dov'è il bagno?", "en": "Where is the toilet?", "emoji": "🚻", "pos": "phr"},
+            {"nl": "Hoeveel kost het?", "it": "Quanto costa?", "en": "How much is it?", "emoji": "💶", "pos": "phr"},
+            {"nl": "De rekening, alstublieft", "it": "Il conto, per favore", "en": "The bill, please", "emoji": "🧾", "pos": "phr"},
+            {"nl": "Ik wil graag koffie", "it": "Vorrei un caffè", "en": "I would like coffee", "emoji": "☕", "pos": "phr"},
+            {"nl": "Waar is het station?", "it": "Dov'è la stazione?", "en": "Where is the station?", "emoji": "🚉", "pos": "phr"},
+            {"nl": "Help!", "it": "Aiuto!", "en": "Help!", "emoji": "🆘", "pos": "phr"},
+            {"nl": "Ik ben verdwaald", "it": "Mi sono perso", "en": "I am lost", "pos": "phr"},
+            {"nl": "Mag ik betalen?", "it": "Posso pagare?", "en": "Can I pay?", "emoji": "💳", "pos": "phr"},
+            {"nl": "Goede reis", "it": "Buon viaggio", "en": "Have a good trip", "emoji": "✈️", "pos": "phr"},
+            {"nl": "Tot de volgende keer", "it": "Alla prossima", "en": "Until next time", "pos": "phr"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1u10",
+      "title": "Che ore sono",
+      "icon": "🕐",
+      "tip": "'Hoe laat is het?' = Che ore sono? Per l'ora in punto si usa 'uur': 'Het is drie uur' = Sono le tre.",
+      "lessons": [
+        {
+          "id": "a1u10l1",
+          "title": "L'orologio e i momenti del giorno",
+          "items": [
+            {"nl": "Hoe laat is het?", "it": "Che ore sono?", "en": "What time is it?", "emoji": "🕐", "pos": "phr"},
+            {"nl": "het uur", "it": "l'ora", "en": "hour", "emoji": "⏰", "pos": "n"},
+            {"nl": "de minuut", "it": "il minuto", "en": "minute", "pos": "n"},
+            {"nl": "half", "it": "mezza (ora)", "en": "half", "pos": "adj"},
+            {"nl": "kwart", "it": "un quarto", "en": "quarter", "pos": "n"},
+            {"nl": "nu", "it": "adesso", "en": "now", "pos": "adv"},
+            {"nl": "de ochtend", "it": "la mattina", "en": "morning", "emoji": "🌅", "pos": "n"},
+            {"nl": "de middag", "it": "il pomeriggio", "en": "afternoon", "emoji": "🏙️", "pos": "n"},
+            {"nl": "de avond", "it": "la sera", "en": "evening", "emoji": "🌆", "pos": "n"},
+            {"nl": "de nacht", "it": "la notte", "en": "night", "emoji": "🌙", "pos": "n"}
           ]
         }
       ]
