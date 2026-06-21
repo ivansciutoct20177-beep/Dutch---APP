@@ -9,8 +9,8 @@ import com.dutchapp.learn.data.model.VocabItem
 import kotlinx.serialization.json.Json
 
 /**
- * Loads the curriculum from assets/curriculum/*.json. Each file is one CEFR
- * level. Files are cached after first load.
+ * Loads the curriculum from JSON files in assets/curriculum. Each file is one
+ * CEFR level. Files are cached after first load.
  */
 class CourseRepository(private val context: Context) {
 
