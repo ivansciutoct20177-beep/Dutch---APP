@@ -1,0 +1,325 @@
+{
+  "id": "A1",
+  "title": "A1 · Principiante",
+  "subtitle": "Le prime parole e frasi di tutti i giorni",
+  "color": "#58CC02",
+  "units": [
+    {
+      "id": "a1u1",
+      "title": "Saluti e cortesia",
+      "icon": "👋",
+      "lessons": [
+        {
+          "id": "a1u1l1",
+          "title": "Ciao!",
+          "items": [
+            {"nl": "hallo", "it": "ciao", "en": "hello", "emoji": "👋", "pos": "phr"},
+            {"nl": "hoi", "it": "ciao (informale)", "en": "hi", "emoji": "🙋", "pos": "phr"},
+            {"nl": "goedemorgen", "it": "buongiorno", "en": "good morning", "emoji": "🌅", "pos": "phr", "exampleNl": "Goedemorgen, hoe gaat het?", "exampleIt": "Buongiorno, come va?"},
+            {"nl": "goedemiddag", "it": "buon pomeriggio", "en": "good afternoon", "emoji": "☀️", "pos": "phr"},
+            {"nl": "goedenavond", "it": "buonasera", "en": "good evening", "emoji": "🌆", "pos": "phr"},
+            {"nl": "goedenacht", "it": "buonanotte", "en": "good night", "emoji": "🌙", "pos": "phr"},
+            {"nl": "dag", "it": "ciao / arrivederci", "en": "bye", "emoji": "👋", "pos": "phr"},
+            {"nl": "tot ziens", "it": "arrivederci", "en": "goodbye", "pos": "phr"},
+            {"nl": "tot morgen", "it": "a domani", "en": "see you tomorrow", "pos": "phr"},
+            {"nl": "welkom", "it": "benvenuto", "en": "welcome", "emoji": "🎉", "pos": "phr"}
+          ]
+        },
+        {
+          "id": "a1u1l2",
+          "title": "Per favore e grazie",
+          "items": [
+            {"nl": "alsjeblieft", "it": "per favore / prego", "en": "please", "emoji": "🙏", "pos": "phr"},
+            {"nl": "dank je wel", "it": "grazie", "en": "thank you", "emoji": "🙏", "pos": "phr"},
+            {"nl": "bedankt", "it": "grazie", "en": "thanks", "pos": "phr"},
+            {"nl": "graag gedaan", "it": "prego", "en": "you're welcome", "pos": "phr"},
+            {"nl": "sorry", "it": "scusa", "en": "sorry", "emoji": "😟", "pos": "phr"},
+            {"nl": "pardon", "it": "mi scusi", "en": "excuse me", "pos": "phr"},
+            {"nl": "ja", "it": "sì", "en": "yes", "emoji": "✅", "pos": "adv"},
+            {"nl": "nee", "it": "no", "en": "no", "emoji": "❌", "pos": "adv"},
+            {"nl": "misschien", "it": "forse", "en": "maybe", "pos": "adv"},
+            {"nl": "oké", "it": "va bene", "en": "okay", "emoji": "👌", "pos": "phr"}
+          ]
+        },
+        {
+          "id": "a1u1l3",
+          "title": "Come stai?",
+          "items": [
+            {"nl": "Hoe gaat het?", "it": "Come va?", "en": "How are you?", "pos": "phr"},
+            {"nl": "goed", "it": "bene", "en": "good", "emoji": "👍", "pos": "adj"},
+            {"nl": "heel goed", "it": "molto bene", "en": "very good", "pos": "phr"},
+            {"nl": "slecht", "it": "male", "en": "bad", "emoji": "👎", "pos": "adj"},
+            {"nl": "niet slecht", "it": "non male", "en": "not bad", "pos": "phr"},
+            {"nl": "en jij?", "it": "e tu?", "en": "and you?", "pos": "phr"},
+            {"nl": "Hoe heet je?", "it": "Come ti chiami?", "en": "What's your name?", "pos": "phr"},
+            {"nl": "Ik heet...", "it": "Mi chiamo...", "en": "My name is...", "pos": "phr"},
+            {"nl": "aangenaam", "it": "piacere", "en": "nice to meet you", "emoji": "🤝", "pos": "phr"},
+            {"nl": "tot straks", "it": "a dopo", "en": "see you later", "pos": "phr"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1u2",
+      "title": "Persone e famiglia",
+      "icon": "👨‍👩‍👧",
+      "lessons": [
+        {
+          "id": "a1u2l1",
+          "title": "Io e tu",
+          "items": [
+            {"nl": "ik", "it": "io", "en": "I", "pos": "pron"},
+            {"nl": "jij", "it": "tu", "en": "you", "pos": "pron"},
+            {"nl": "hij", "it": "lui", "en": "he", "pos": "pron"},
+            {"nl": "zij", "it": "lei / loro", "en": "she / they", "pos": "pron"},
+            {"nl": "wij", "it": "noi", "en": "we", "pos": "pron"},
+            {"nl": "jullie", "it": "voi", "en": "you (pl.)", "pos": "pron"},
+            {"nl": "de man", "it": "l'uomo", "en": "the man", "emoji": "👨", "pos": "n"},
+            {"nl": "de vrouw", "it": "la donna", "en": "the woman", "emoji": "👩", "pos": "n"},
+            {"nl": "het kind", "it": "il bambino", "en": "the child", "emoji": "🧒", "pos": "n"},
+            {"nl": "de mensen", "it": "le persone", "en": "people", "emoji": "👥", "pos": "n"}
+          ]
+        },
+        {
+          "id": "a1u2l2",
+          "title": "La famiglia",
+          "items": [
+            {"nl": "de familie", "it": "la famiglia", "en": "family", "emoji": "👨‍👩‍👧‍👦", "pos": "n"},
+            {"nl": "de moeder", "it": "la madre", "en": "mother", "emoji": "👩", "pos": "n", "exampleNl": "Mijn moeder kookt lekker.", "exampleIt": "Mia madre cucina bene."},
+            {"nl": "de vader", "it": "il padre", "en": "father", "emoji": "👨", "pos": "n"},
+            {"nl": "de zus", "it": "la sorella", "en": "sister", "emoji": "👧", "pos": "n"},
+            {"nl": "de broer", "it": "il fratello", "en": "brother", "emoji": "👦", "pos": "n"},
+            {"nl": "de oma", "it": "la nonna", "en": "grandma", "emoji": "👵", "pos": "n"},
+            {"nl": "de opa", "it": "il nonno", "en": "grandpa", "emoji": "👴", "pos": "n"},
+            {"nl": "de dochter", "it": "la figlia", "en": "daughter", "pos": "n"},
+            {"nl": "de zoon", "it": "il figlio", "en": "son", "pos": "n"},
+            {"nl": "de baby", "it": "il bebè", "en": "baby", "emoji": "👶", "pos": "n"}
+          ]
+        },
+        {
+          "id": "a1u2l3",
+          "title": "Amici e persone",
+          "items": [
+            {"nl": "de vriend", "it": "l'amico", "en": "friend (m)", "emoji": "🧑", "pos": "n"},
+            {"nl": "de vriendin", "it": "l'amica", "en": "friend (f)", "emoji": "👩", "pos": "n"},
+            {"nl": "de buurman", "it": "il vicino", "en": "neighbour", "pos": "n"},
+            {"nl": "de leraar", "it": "l'insegnante", "en": "teacher", "emoji": "👨‍🏫", "pos": "n"},
+            {"nl": "de student", "it": "lo studente", "en": "student", "emoji": "🧑‍🎓", "pos": "n"},
+            {"nl": "het meisje", "it": "la ragazza", "en": "girl", "emoji": "👧", "pos": "n"},
+            {"nl": "de jongen", "it": "il ragazzo", "en": "boy", "emoji": "👦", "pos": "n"},
+            {"nl": "iedereen", "it": "tutti", "en": "everyone", "pos": "pron"},
+            {"nl": "niemand", "it": "nessuno", "en": "nobody", "pos": "pron"},
+            {"nl": "samen", "it": "insieme", "en": "together", "emoji": "🤝", "pos": "adv"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1u3",
+      "title": "Numeri e colori",
+      "icon": "🔢",
+      "lessons": [
+        {
+          "id": "a1u3l1",
+          "title": "Numeri 0-10",
+          "items": [
+            {"nl": "nul", "it": "zero", "en": "zero", "emoji": "0️⃣", "pos": "num"},
+            {"nl": "een", "it": "uno", "en": "one", "emoji": "1️⃣", "pos": "num"},
+            {"nl": "twee", "it": "due", "en": "two", "emoji": "2️⃣", "pos": "num"},
+            {"nl": "drie", "it": "tre", "en": "three", "emoji": "3️⃣", "pos": "num"},
+            {"nl": "vier", "it": "quattro", "en": "four", "emoji": "4️⃣", "pos": "num"},
+            {"nl": "vijf", "it": "cinque", "en": "five", "emoji": "5️⃣", "pos": "num"},
+            {"nl": "zes", "it": "sei", "en": "six", "emoji": "6️⃣", "pos": "num"},
+            {"nl": "zeven", "it": "sette", "en": "seven", "emoji": "7️⃣", "pos": "num"},
+            {"nl": "acht", "it": "otto", "en": "eight", "emoji": "8️⃣", "pos": "num"},
+            {"nl": "negen", "it": "nove", "en": "nine", "emoji": "9️⃣", "pos": "num"},
+            {"nl": "tien", "it": "dieci", "en": "ten", "emoji": "🔟", "pos": "num"}
+          ]
+        },
+        {
+          "id": "a1u3l2",
+          "title": "Numeri 11-20",
+          "items": [
+            {"nl": "elf", "it": "undici", "en": "eleven", "pos": "num"},
+            {"nl": "twaalf", "it": "dodici", "en": "twelve", "pos": "num"},
+            {"nl": "dertien", "it": "tredici", "en": "thirteen", "pos": "num"},
+            {"nl": "veertien", "it": "quattordici", "en": "fourteen", "pos": "num"},
+            {"nl": "vijftien", "it": "quindici", "en": "fifteen", "pos": "num"},
+            {"nl": "zestien", "it": "sedici", "en": "sixteen", "pos": "num"},
+            {"nl": "zeventien", "it": "diciassette", "en": "seventeen", "pos": "num"},
+            {"nl": "achttien", "it": "diciotto", "en": "eighteen", "pos": "num"},
+            {"nl": "negentien", "it": "diciannove", "en": "nineteen", "pos": "num"},
+            {"nl": "twintig", "it": "venti", "en": "twenty", "pos": "num"}
+          ]
+        },
+        {
+          "id": "a1u3l3",
+          "title": "Colori",
+          "items": [
+            {"nl": "rood", "it": "rosso", "en": "red", "emoji": "🔴", "pos": "adj"},
+            {"nl": "blauw", "it": "blu", "en": "blue", "emoji": "🔵", "pos": "adj"},
+            {"nl": "groen", "it": "verde", "en": "green", "emoji": "🟢", "pos": "adj"},
+            {"nl": "geel", "it": "giallo", "en": "yellow", "emoji": "🟡", "pos": "adj"},
+            {"nl": "zwart", "it": "nero", "en": "black", "emoji": "⚫", "pos": "adj"},
+            {"nl": "wit", "it": "bianco", "en": "white", "emoji": "⚪", "pos": "adj"},
+            {"nl": "oranje", "it": "arancione", "en": "orange", "emoji": "🟠", "pos": "adj"},
+            {"nl": "paars", "it": "viola", "en": "purple", "emoji": "🟣", "pos": "adj"},
+            {"nl": "bruin", "it": "marrone", "en": "brown", "emoji": "🟤", "pos": "adj"},
+            {"nl": "roze", "it": "rosa", "en": "pink", "emoji": "🌸", "pos": "adj"},
+            {"nl": "grijs", "it": "grigio", "en": "grey", "pos": "adj"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1u4",
+      "title": "Cibo e bevande",
+      "icon": "🍎",
+      "lessons": [
+        {
+          "id": "a1u4l1",
+          "title": "Frutta",
+          "items": [
+            {"nl": "de appel", "it": "la mela", "en": "apple", "emoji": "🍎", "pos": "n"},
+            {"nl": "de banaan", "it": "la banana", "en": "banana", "emoji": "🍌", "pos": "n"},
+            {"nl": "de sinaasappel", "it": "l'arancia", "en": "orange", "emoji": "🍊", "pos": "n"},
+            {"nl": "de druiven", "it": "l'uva", "en": "grapes", "emoji": "🍇", "pos": "n"},
+            {"nl": "de aardbei", "it": "la fragola", "en": "strawberry", "emoji": "🍓", "pos": "n"},
+            {"nl": "de citroen", "it": "il limone", "en": "lemon", "emoji": "🍋", "pos": "n"},
+            {"nl": "de peer", "it": "la pera", "en": "pear", "emoji": "🍐", "pos": "n"},
+            {"nl": "de kers", "it": "la ciliegia", "en": "cherry", "emoji": "🍒", "pos": "n"},
+            {"nl": "de watermeloen", "it": "l'anguria", "en": "watermelon", "emoji": "🍉", "pos": "n"},
+            {"nl": "het fruit", "it": "la frutta", "en": "fruit", "emoji": "🍏", "pos": "n"}
+          ]
+        },
+        {
+          "id": "a1u4l2",
+          "title": "Bevande e colazione",
+          "items": [
+            {"nl": "het water", "it": "l'acqua", "en": "water", "emoji": "💧", "pos": "n"},
+            {"nl": "de koffie", "it": "il caffè", "en": "coffee", "emoji": "☕", "pos": "n", "exampleNl": "Ik drink graag koffie.", "exampleIt": "Mi piace bere il caffè."},
+            {"nl": "de thee", "it": "il tè", "en": "tea", "emoji": "🍵", "pos": "n"},
+            {"nl": "de melk", "it": "il latte", "en": "milk", "emoji": "🥛", "pos": "n"},
+            {"nl": "het bier", "it": "la birra", "en": "beer", "emoji": "🍺", "pos": "n"},
+            {"nl": "de wijn", "it": "il vino", "en": "wine", "emoji": "🍷", "pos": "n"},
+            {"nl": "het sap", "it": "il succo", "en": "juice", "emoji": "🧃", "pos": "n"},
+            {"nl": "het brood", "it": "il pane", "en": "bread", "emoji": "🍞", "pos": "n"},
+            {"nl": "het ei", "it": "l'uovo", "en": "egg", "emoji": "🥚", "pos": "n"},
+            {"nl": "de kaas", "it": "il formaggio", "en": "cheese", "emoji": "🧀", "pos": "n"}
+          ]
+        },
+        {
+          "id": "a1u4l3",
+          "title": "Pasti e verdura",
+          "items": [
+            {"nl": "het ontbijt", "it": "la colazione", "en": "breakfast", "emoji": "🍳", "pos": "n"},
+            {"nl": "de lunch", "it": "il pranzo", "en": "lunch", "emoji": "🥪", "pos": "n"},
+            {"nl": "het diner", "it": "la cena", "en": "dinner", "emoji": "🍽️", "pos": "n"},
+            {"nl": "de groente", "it": "la verdura", "en": "vegetable", "emoji": "🥦", "pos": "n"},
+            {"nl": "de tomaat", "it": "il pomodoro", "en": "tomato", "emoji": "🍅", "pos": "n"},
+            {"nl": "de wortel", "it": "la carota", "en": "carrot", "emoji": "🥕", "pos": "n"},
+            {"nl": "de aardappel", "it": "la patata", "en": "potato", "emoji": "🥔", "pos": "n"},
+            {"nl": "de soep", "it": "la zuppa", "en": "soup", "emoji": "🍲", "pos": "n"},
+            {"nl": "de rijst", "it": "il riso", "en": "rice", "emoji": "🍚", "pos": "n"},
+            {"nl": "het vlees", "it": "la carne", "en": "meat", "emoji": "🍖", "pos": "n"},
+            {"nl": "de vis", "it": "il pesce", "en": "fish", "emoji": "🐟", "pos": "n"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1u5",
+      "title": "La casa",
+      "icon": "🏠",
+      "lessons": [
+        {
+          "id": "a1u5l1",
+          "title": "Le stanze",
+          "items": [
+            {"nl": "het huis", "it": "la casa", "en": "house", "emoji": "🏠", "pos": "n"},
+            {"nl": "de kamer", "it": "la stanza", "en": "room", "emoji": "🚪", "pos": "n"},
+            {"nl": "de keuken", "it": "la cucina", "en": "kitchen", "emoji": "🍳", "pos": "n"},
+            {"nl": "de slaapkamer", "it": "la camera da letto", "en": "bedroom", "emoji": "🛏️", "pos": "n"},
+            {"nl": "de badkamer", "it": "il bagno", "en": "bathroom", "emoji": "🛁", "pos": "n"},
+            {"nl": "de woonkamer", "it": "il soggiorno", "en": "living room", "emoji": "🛋️", "pos": "n"},
+            {"nl": "de tuin", "it": "il giardino", "en": "garden", "emoji": "🌳", "pos": "n"},
+            {"nl": "de deur", "it": "la porta", "en": "door", "emoji": "🚪", "pos": "n"},
+            {"nl": "het raam", "it": "la finestra", "en": "window", "emoji": "🪟", "pos": "n"},
+            {"nl": "de trap", "it": "le scale", "en": "stairs", "emoji": "🪜", "pos": "n"}
+          ]
+        },
+        {
+          "id": "a1u5l2",
+          "title": "Mobili e oggetti",
+          "items": [
+            {"nl": "de tafel", "it": "il tavolo", "en": "table", "emoji": "🪵", "pos": "n"},
+            {"nl": "de stoel", "it": "la sedia", "en": "chair", "emoji": "🪑", "pos": "n"},
+            {"nl": "het bed", "it": "il letto", "en": "bed", "emoji": "🛏️", "pos": "n"},
+            {"nl": "de bank", "it": "il divano", "en": "sofa", "emoji": "🛋️", "pos": "n"},
+            {"nl": "de lamp", "it": "la lampada", "en": "lamp", "emoji": "💡", "pos": "n"},
+            {"nl": "de klok", "it": "l'orologio", "en": "clock", "emoji": "🕐", "pos": "n"},
+            {"nl": "de televisie", "it": "la televisione", "en": "television", "emoji": "📺", "pos": "n"},
+            {"nl": "de telefoon", "it": "il telefono", "en": "phone", "emoji": "📱", "pos": "n"},
+            {"nl": "de sleutel", "it": "la chiave", "en": "key", "emoji": "🔑", "pos": "n"},
+            {"nl": "het boek", "it": "il libro", "en": "book", "emoji": "📖", "pos": "n"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1u6",
+      "title": "Tempo e giorni",
+      "icon": "📅",
+      "lessons": [
+        {
+          "id": "a1u6l1",
+          "title": "Giorni della settimana",
+          "items": [
+            {"nl": "maandag", "it": "lunedì", "en": "Monday", "pos": "n"},
+            {"nl": "dinsdag", "it": "martedì", "en": "Tuesday", "pos": "n"},
+            {"nl": "woensdag", "it": "mercoledì", "en": "Wednesday", "pos": "n"},
+            {"nl": "donderdag", "it": "giovedì", "en": "Thursday", "pos": "n"},
+            {"nl": "vrijdag", "it": "venerdì", "en": "Friday", "pos": "n"},
+            {"nl": "zaterdag", "it": "sabato", "en": "Saturday", "pos": "n"},
+            {"nl": "zondag", "it": "domenica", "en": "Sunday", "pos": "n"},
+            {"nl": "de week", "it": "la settimana", "en": "week", "emoji": "📅", "pos": "n"},
+            {"nl": "vandaag", "it": "oggi", "en": "today", "pos": "adv"},
+            {"nl": "morgen", "it": "domani", "en": "tomorrow", "pos": "adv"},
+            {"nl": "gisteren", "it": "ieri", "en": "yesterday", "pos": "adv"}
+          ]
+        },
+        {
+          "id": "a1u6l2",
+          "title": "Il tempo (meteo)",
+          "items": [
+            {"nl": "het weer", "it": "il tempo (meteo)", "en": "weather", "emoji": "🌦️", "pos": "n"},
+            {"nl": "de zon", "it": "il sole", "en": "sun", "emoji": "☀️", "pos": "n"},
+            {"nl": "de regen", "it": "la pioggia", "en": "rain", "emoji": "🌧️", "pos": "n"},
+            {"nl": "de wolk", "it": "la nuvola", "en": "cloud", "emoji": "☁️", "pos": "n"},
+            {"nl": "de sneeuw", "it": "la neve", "en": "snow", "emoji": "❄️", "pos": "n"},
+            {"nl": "de wind", "it": "il vento", "en": "wind", "emoji": "💨", "pos": "n"},
+            {"nl": "warm", "it": "caldo", "en": "warm", "emoji": "🔥", "pos": "adj"},
+            {"nl": "koud", "it": "freddo", "en": "cold", "emoji": "🥶", "pos": "adj"},
+            {"nl": "de regenboog", "it": "l'arcobaleno", "en": "rainbow", "emoji": "🌈", "pos": "n"}
+          ]
+        },
+        {
+          "id": "a1u6l3",
+          "title": "Mesi e stagioni",
+          "items": [
+            {"nl": "de lente", "it": "la primavera", "en": "spring", "emoji": "🌷", "pos": "n"},
+            {"nl": "de zomer", "it": "l'estate", "en": "summer", "emoji": "🏖️", "pos": "n"},
+            {"nl": "de herfst", "it": "l'autunno", "en": "autumn", "emoji": "🍂", "pos": "n"},
+            {"nl": "de winter", "it": "l'inverno", "en": "winter", "emoji": "⛄", "pos": "n"},
+            {"nl": "januari", "it": "gennaio", "en": "January", "pos": "n"},
+            {"nl": "juli", "it": "luglio", "en": "July", "pos": "n"},
+            {"nl": "december", "it": "dicembre", "en": "December", "pos": "n"},
+            {"nl": "de maand", "it": "il mese", "en": "month", "emoji": "📅", "pos": "n"},
+            {"nl": "het jaar", "it": "l'anno", "en": "year", "pos": "n"},
+            {"nl": "de dag", "it": "il giorno", "en": "day", "emoji": "📆", "pos": "n"}
+          ]
+        }
+      ]
+    }
+  ]
+}

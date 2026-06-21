@@ -1,0 +1,103 @@
+{
+  "id": "B2",
+  "title": "B2 · Avanzato",
+  "subtitle": "Società, lavoro, ambiente e relazioni",
+  "color": "#FF9600",
+  "units": [
+    {
+      "id": "b2u1",
+      "title": "Società e attualità",
+      "icon": "📰",
+      "lessons": [
+        {
+          "id": "b2u1l1",
+          "title": "Vita pubblica",
+          "items": [
+            {"nl": "de regering", "it": "il governo", "en": "government", "emoji": "🏛️", "pos": "n"},
+            {"nl": "de wet", "it": "la legge", "en": "law", "emoji": "⚖️", "pos": "n"},
+            {"nl": "de belasting", "it": "le tasse", "en": "tax", "emoji": "💸", "pos": "n"},
+            {"nl": "de maatschappij", "it": "la società", "en": "society", "pos": "n"},
+            {"nl": "de burger", "it": "il cittadino", "en": "citizen", "emoji": "🧑", "pos": "n"},
+            {"nl": "de verkiezing", "it": "le elezioni", "en": "election", "emoji": "🗳️", "pos": "n"},
+            {"nl": "het nieuws", "it": "le notizie", "en": "news", "emoji": "📰", "pos": "n"},
+            {"nl": "de invloed", "it": "l'influenza", "en": "influence", "pos": "n"},
+            {"nl": "de vrijheid", "it": "la libertà", "en": "freedom", "emoji": "🕊️", "pos": "n"},
+            {"nl": "de gelijkheid", "it": "l'uguaglianza", "en": "equality", "pos": "n"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2u2",
+      "title": "Lavoro e affari",
+      "icon": "📈",
+      "lessons": [
+        {
+          "id": "b2u2l1",
+          "title": "Il mondo del lavoro",
+          "items": [
+            {"nl": "het bedrijf", "it": "l'azienda", "en": "company", "emoji": "🏢", "pos": "n"},
+            {"nl": "de werknemer", "it": "il dipendente", "en": "employee", "pos": "n"},
+            {"nl": "de werkgever", "it": "il datore di lavoro", "en": "employer", "pos": "n"},
+            {"nl": "de winst", "it": "il profitto", "en": "profit", "emoji": "📈", "pos": "n"},
+            {"nl": "het verlies", "it": "la perdita", "en": "loss", "emoji": "📉", "pos": "n"},
+            {"nl": "de klant", "it": "il cliente", "en": "customer", "emoji": "🛍️", "pos": "n"},
+            {"nl": "de afspraak", "it": "l'appuntamento", "en": "appointment", "emoji": "📅", "pos": "n"},
+            {"nl": "de vergadering", "it": "la riunione", "en": "meeting", "pos": "n"},
+            {"nl": "het salaris", "it": "lo stipendio", "en": "salary", "emoji": "💶", "pos": "n"},
+            {"nl": "de ervaring", "it": "l'esperienza", "en": "experience", "pos": "n"},
+            {"nl": "solliciteren", "it": "candidarsi", "en": "to apply (job)", "pos": "v"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2u3",
+      "title": "Natura e ambiente",
+      "icon": "🌍",
+      "lessons": [
+        {
+          "id": "b2u3l1",
+          "title": "Il mondo naturale",
+          "items": [
+            {"nl": "de natuur", "it": "la natura", "en": "nature", "emoji": "🌿", "pos": "n"},
+            {"nl": "het milieu", "it": "l'ambiente", "en": "environment", "emoji": "🌍", "pos": "n"},
+            {"nl": "de boom", "it": "l'albero", "en": "tree", "emoji": "🌳", "pos": "n"},
+            {"nl": "de bloem", "it": "il fiore", "en": "flower", "emoji": "🌸", "pos": "n"},
+            {"nl": "het bos", "it": "il bosco", "en": "forest", "emoji": "🌲", "pos": "n"},
+            {"nl": "de berg", "it": "la montagna", "en": "mountain", "emoji": "⛰️", "pos": "n"},
+            {"nl": "de rivier", "it": "il fiume", "en": "river", "emoji": "🏞️", "pos": "n"},
+            {"nl": "de zee", "it": "il mare", "en": "sea", "emoji": "🌊", "pos": "n"},
+            {"nl": "het klimaat", "it": "il clima", "en": "climate", "emoji": "🌡️", "pos": "n"},
+            {"nl": "de vervuiling", "it": "l'inquinamento", "en": "pollution", "emoji": "🏭", "pos": "n"},
+            {"nl": "duurzaam", "it": "sostenibile", "en": "sustainable", "emoji": "♻️", "pos": "adj"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2u4",
+      "title": "Carattere e relazioni",
+      "icon": "🤝",
+      "lessons": [
+        {
+          "id": "b2u4l1",
+          "title": "Personalità",
+          "items": [
+            {"nl": "eerlijk", "it": "onesto", "en": "honest", "pos": "adj"},
+            {"nl": "vriendelijk", "it": "gentile", "en": "kind", "emoji": "😊", "pos": "adj"},
+            {"nl": "verlegen", "it": "timido", "en": "shy", "pos": "adj"},
+            {"nl": "slim", "it": "intelligente", "en": "smart", "emoji": "🧠", "pos": "adj"},
+            {"nl": "lui", "it": "pigro", "en": "lazy", "pos": "adj"},
+            {"nl": "geduldig", "it": "paziente", "en": "patient", "pos": "adj"},
+            {"nl": "betrouwbaar", "it": "affidabile", "en": "reliable", "pos": "adj"},
+            {"nl": "zelfstandig", "it": "indipendente", "en": "independent", "pos": "adj"},
+            {"nl": "het vertrouwen", "it": "la fiducia", "en": "trust", "pos": "n"},
+            {"nl": "de relatie", "it": "la relazione", "en": "relationship", "pos": "n"},
+            {"nl": "de ruzie", "it": "il litigio", "en": "quarrel", "pos": "n"}
+          ]
+        }
+      ]
+    }
+  ]
+}

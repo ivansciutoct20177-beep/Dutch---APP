@@ -1,0 +1,210 @@
+{
+  "id": "A2",
+  "title": "A2 · Elementare",
+  "subtitle": "Verbi, corpo, città e vita quotidiana",
+  "color": "#1CB0F6",
+  "units": [
+    {
+      "id": "a2u1",
+      "title": "Verbi comuni",
+      "icon": "🏃",
+      "lessons": [
+        {
+          "id": "a2u1l1",
+          "title": "Azioni di base",
+          "items": [
+            {"nl": "zijn", "it": "essere", "en": "to be", "pos": "v", "exampleNl": "Ik ben moe.", "exampleIt": "Sono stanco."},
+            {"nl": "hebben", "it": "avere", "en": "to have", "pos": "v", "exampleNl": "Ik heb een hond.", "exampleIt": "Ho un cane."},
+            {"nl": "gaan", "it": "andare", "en": "to go", "pos": "v"},
+            {"nl": "komen", "it": "venire", "en": "to come", "pos": "v"},
+            {"nl": "doen", "it": "fare", "en": "to do", "pos": "v"},
+            {"nl": "maken", "it": "fare / creare", "en": "to make", "pos": "v"},
+            {"nl": "zeggen", "it": "dire", "en": "to say", "pos": "v"},
+            {"nl": "zien", "it": "vedere", "en": "to see", "pos": "v"},
+            {"nl": "weten", "it": "sapere", "en": "to know", "pos": "v"},
+            {"nl": "willen", "it": "volere", "en": "to want", "pos": "v"}
+          ]
+        },
+        {
+          "id": "a2u1l2",
+          "title": "Vita quotidiana",
+          "items": [
+            {"nl": "eten", "it": "mangiare", "en": "to eat", "emoji": "🍽️", "pos": "v"},
+            {"nl": "drinken", "it": "bere", "en": "to drink", "emoji": "🥤", "pos": "v"},
+            {"nl": "slapen", "it": "dormire", "en": "to sleep", "emoji": "😴", "pos": "v"},
+            {"nl": "werken", "it": "lavorare", "en": "to work", "emoji": "💼", "pos": "v"},
+            {"nl": "wonen", "it": "abitare", "en": "to live", "emoji": "🏠", "pos": "v"},
+            {"nl": "spreken", "it": "parlare", "en": "to speak", "emoji": "💬", "pos": "v"},
+            {"nl": "lezen", "it": "leggere", "en": "to read", "emoji": "📖", "pos": "v"},
+            {"nl": "schrijven", "it": "scrivere", "en": "to write", "emoji": "✍️", "pos": "v"},
+            {"nl": "luisteren", "it": "ascoltare", "en": "to listen", "emoji": "👂", "pos": "v"},
+            {"nl": "kijken", "it": "guardare", "en": "to watch", "emoji": "👀", "pos": "v"}
+          ]
+        },
+        {
+          "id": "a2u1l3",
+          "title": "Movimento",
+          "items": [
+            {"nl": "lopen", "it": "camminare", "en": "to walk", "emoji": "🚶", "pos": "v"},
+            {"nl": "rennen", "it": "correre", "en": "to run", "emoji": "🏃", "pos": "v"},
+            {"nl": "springen", "it": "saltare", "en": "to jump", "emoji": "🤾", "pos": "v"},
+            {"nl": "zwemmen", "it": "nuotare", "en": "to swim", "emoji": "🏊", "pos": "v"},
+            {"nl": "fietsen", "it": "andare in bici", "en": "to cycle", "emoji": "🚴", "pos": "v"},
+            {"nl": "rijden", "it": "guidare", "en": "to drive", "emoji": "🚗", "pos": "v"},
+            {"nl": "vliegen", "it": "volare", "en": "to fly", "emoji": "✈️", "pos": "v"},
+            {"nl": "dansen", "it": "ballare", "en": "to dance", "emoji": "💃", "pos": "v"},
+            {"nl": "vallen", "it": "cadere", "en": "to fall", "pos": "v"},
+            {"nl": "staan", "it": "stare in piedi", "en": "to stand", "emoji": "🧍", "pos": "v"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2u2",
+      "title": "Il corpo e la salute",
+      "icon": "🧍",
+      "lessons": [
+        {
+          "id": "a2u2l1",
+          "title": "Il corpo",
+          "items": [
+            {"nl": "het hoofd", "it": "la testa", "en": "head", "emoji": "🗣️", "pos": "n"},
+            {"nl": "het haar", "it": "i capelli", "en": "hair", "emoji": "💇", "pos": "n"},
+            {"nl": "het oog", "it": "l'occhio", "en": "eye", "emoji": "👁️", "pos": "n"},
+            {"nl": "de neus", "it": "il naso", "en": "nose", "emoji": "👃", "pos": "n"},
+            {"nl": "de mond", "it": "la bocca", "en": "mouth", "emoji": "👄", "pos": "n"},
+            {"nl": "het oor", "it": "l'orecchio", "en": "ear", "emoji": "👂", "pos": "n"},
+            {"nl": "de hand", "it": "la mano", "en": "hand", "emoji": "✋", "pos": "n"},
+            {"nl": "de voet", "it": "il piede", "en": "foot", "emoji": "🦶", "pos": "n"},
+            {"nl": "het been", "it": "la gamba", "en": "leg", "emoji": "🦵", "pos": "n"},
+            {"nl": "de arm", "it": "il braccio", "en": "arm", "emoji": "💪", "pos": "n"}
+          ]
+        },
+        {
+          "id": "a2u2l2",
+          "title": "La salute",
+          "items": [
+            {"nl": "ziek", "it": "malato", "en": "sick", "emoji": "🤒", "pos": "adj"},
+            {"nl": "gezond", "it": "sano", "en": "healthy", "emoji": "🥗", "pos": "adj"},
+            {"nl": "de dokter", "it": "il dottore", "en": "doctor", "emoji": "👨‍⚕️", "pos": "n"},
+            {"nl": "het ziekenhuis", "it": "l'ospedale", "en": "hospital", "emoji": "🏥", "pos": "n"},
+            {"nl": "de pijn", "it": "il dolore", "en": "pain", "emoji": "🤕", "pos": "n"},
+            {"nl": "de koorts", "it": "la febbre", "en": "fever", "emoji": "🌡️", "pos": "n"},
+            {"nl": "het medicijn", "it": "la medicina", "en": "medicine", "emoji": "💊", "pos": "n"},
+            {"nl": "moe", "it": "stanco", "en": "tired", "emoji": "😴", "pos": "adj"},
+            {"nl": "de tand", "it": "il dente", "en": "tooth", "emoji": "🦷", "pos": "n"},
+            {"nl": "het hart", "it": "il cuore", "en": "heart", "emoji": "❤️", "pos": "n"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2u3",
+      "title": "Vestiti",
+      "icon": "👕",
+      "lessons": [
+        {
+          "id": "a2u3l1",
+          "title": "Cosa indossi",
+          "items": [
+            {"nl": "de kleren", "it": "i vestiti", "en": "clothes", "emoji": "🧺", "pos": "n"},
+            {"nl": "het shirt", "it": "la maglietta", "en": "shirt", "emoji": "👕", "pos": "n"},
+            {"nl": "de broek", "it": "i pantaloni", "en": "trousers", "emoji": "👖", "pos": "n"},
+            {"nl": "de jas", "it": "la giacca", "en": "coat", "emoji": "🧥", "pos": "n"},
+            {"nl": "de schoenen", "it": "le scarpe", "en": "shoes", "emoji": "👟", "pos": "n"},
+            {"nl": "de jurk", "it": "il vestito", "en": "dress", "emoji": "👗", "pos": "n"},
+            {"nl": "de hoed", "it": "il cappello", "en": "hat", "emoji": "🎩", "pos": "n"},
+            {"nl": "de sok", "it": "il calzino", "en": "sock", "emoji": "🧦", "pos": "n"},
+            {"nl": "de bril", "it": "gli occhiali", "en": "glasses", "emoji": "👓", "pos": "n"},
+            {"nl": "de tas", "it": "la borsa", "en": "bag", "emoji": "👜", "pos": "n"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2u4",
+      "title": "In città",
+      "icon": "🏙️",
+      "lessons": [
+        {
+          "id": "a2u4l1",
+          "title": "Luoghi della città",
+          "items": [
+            {"nl": "de stad", "it": "la città", "en": "city", "emoji": "🏙️", "pos": "n"},
+            {"nl": "de straat", "it": "la strada", "en": "street", "emoji": "🛣️", "pos": "n"},
+            {"nl": "de winkel", "it": "il negozio", "en": "shop", "emoji": "🏬", "pos": "n"},
+            {"nl": "de markt", "it": "il mercato", "en": "market", "emoji": "🧺", "pos": "n"},
+            {"nl": "het station", "it": "la stazione", "en": "station", "emoji": "🚉", "pos": "n"},
+            {"nl": "het restaurant", "it": "il ristorante", "en": "restaurant", "emoji": "🍴", "pos": "n"},
+            {"nl": "het hotel", "it": "l'hotel", "en": "hotel", "emoji": "🏨", "pos": "n"},
+            {"nl": "de bank", "it": "la banca", "en": "bank", "emoji": "🏦", "pos": "n"},
+            {"nl": "de school", "it": "la scuola", "en": "school", "emoji": "🏫", "pos": "n"},
+            {"nl": "de kerk", "it": "la chiesa", "en": "church", "emoji": "⛪", "pos": "n"}
+          ]
+        },
+        {
+          "id": "a2u4l2",
+          "title": "Trasporti",
+          "items": [
+            {"nl": "de auto", "it": "l'auto", "en": "car", "emoji": "🚗", "pos": "n"},
+            {"nl": "de bus", "it": "l'autobus", "en": "bus", "emoji": "🚌", "pos": "n"},
+            {"nl": "de trein", "it": "il treno", "en": "train", "emoji": "🚆", "pos": "n"},
+            {"nl": "de fiets", "it": "la bicicletta", "en": "bicycle", "emoji": "🚲", "pos": "n"},
+            {"nl": "het vliegtuig", "it": "l'aereo", "en": "airplane", "emoji": "✈️", "pos": "n"},
+            {"nl": "de boot", "it": "la barca", "en": "boat", "emoji": "⛵", "pos": "n"},
+            {"nl": "de taxi", "it": "il taxi", "en": "taxi", "emoji": "🚕", "pos": "n"},
+            {"nl": "de tram", "it": "il tram", "en": "tram", "emoji": "🚊", "pos": "n"},
+            {"nl": "de weg", "it": "la via", "en": "road", "emoji": "🛤️", "pos": "n"},
+            {"nl": "het kaartje", "it": "il biglietto", "en": "ticket", "emoji": "🎫", "pos": "n"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2u5",
+      "title": "Lavoro e professioni",
+      "icon": "💼",
+      "lessons": [
+        {
+          "id": "a2u5l1",
+          "title": "I mestieri",
+          "items": [
+            {"nl": "het werk", "it": "il lavoro", "en": "work", "emoji": "💼", "pos": "n"},
+            {"nl": "de baan", "it": "l'impiego", "en": "job", "pos": "n"},
+            {"nl": "de arts", "it": "il medico", "en": "physician", "emoji": "🩺", "pos": "n"},
+            {"nl": "de politieagent", "it": "il poliziotto", "en": "police officer", "emoji": "👮", "pos": "n"},
+            {"nl": "de kok", "it": "il cuoco", "en": "cook", "emoji": "👨‍🍳", "pos": "n"},
+            {"nl": "de boer", "it": "il contadino", "en": "farmer", "emoji": "👨‍🌾", "pos": "n"},
+            {"nl": "de ingenieur", "it": "l'ingegnere", "en": "engineer", "emoji": "👷", "pos": "n"},
+            {"nl": "de verkoper", "it": "il commesso", "en": "salesperson", "pos": "n"},
+            {"nl": "het kantoor", "it": "l'ufficio", "en": "office", "emoji": "🏢", "pos": "n"},
+            {"nl": "de collega", "it": "il collega", "en": "colleague", "pos": "n"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2u6",
+      "title": "Tempo libero",
+      "icon": "⚽",
+      "lessons": [
+        {
+          "id": "a2u6l1",
+          "title": "Hobby e svago",
+          "items": [
+            {"nl": "de sport", "it": "lo sport", "en": "sport", "emoji": "⚽", "pos": "n"},
+            {"nl": "het voetbal", "it": "il calcio", "en": "football", "emoji": "⚽", "pos": "n"},
+            {"nl": "de muziek", "it": "la musica", "en": "music", "emoji": "🎵", "pos": "n"},
+            {"nl": "de film", "it": "il film", "en": "movie", "emoji": "🎬", "pos": "n"},
+            {"nl": "het feest", "it": "la festa", "en": "party", "emoji": "🎉", "pos": "n"},
+            {"nl": "de vakantie", "it": "la vacanza", "en": "holiday", "emoji": "🏖️", "pos": "n"},
+            {"nl": "het strand", "it": "la spiaggia", "en": "beach", "emoji": "🏖️", "pos": "n"},
+            {"nl": "de reis", "it": "il viaggio", "en": "trip", "emoji": "🧳", "pos": "n"},
+            {"nl": "het spel", "it": "il gioco", "en": "game", "emoji": "🎮", "pos": "n"},
+            {"nl": "de hobby", "it": "l'hobby", "en": "hobby", "emoji": "🎨", "pos": "n"}
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "C1",
+  "title": "C1 · Competente",
+  "subtitle": "Astrazione, modi di dire e linguaggio accademico",
+  "color": "#FF4B4B",
+  "units": [
+    {
+      "id": "c1u1",
+      "title": "Idee astratte",
+      "icon": "💡",
+      "lessons": [
+        {
+          "id": "c1u1l1",
+          "title": "Concetti sottili",
+          "items": [
+            {"nl": "het besef", "it": "la consapevolezza", "en": "awareness", "pos": "n"},
+            {"nl": "de overtuiging", "it": "la convinzione", "en": "conviction", "pos": "n"},
+            {"nl": "de veronderstelling", "it": "la supposizione", "en": "assumption", "pos": "n"},
+            {"nl": "de nuance", "it": "la sfumatura", "en": "nuance", "pos": "n"},
+            {"nl": "het vooroordeel", "it": "il pregiudizio", "en": "prejudice", "pos": "n"},
+            {"nl": "de tegenstrijdigheid", "it": "la contraddizione", "en": "contradiction", "pos": "n"},
+            {"nl": "de samenhang", "it": "la coerenza / il nesso", "en": "coherence", "pos": "n"},
+            {"nl": "de verhouding", "it": "il rapporto / la proporzione", "en": "ratio / relation", "pos": "n"},
+            {"nl": "het streven", "it": "l'aspirazione", "en": "aspiration", "pos": "n"},
+            {"nl": "de waarneming", "it": "la percezione", "en": "perception", "pos": "n"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1u2",
+      "title": "Modi di dire",
+      "icon": "🗯️",
+      "lessons": [
+        {
+          "id": "c1u2l1",
+          "title": "Espressioni idiomatiche",
+          "items": [
+            {"nl": "de spijker op de kop slaan", "it": "colpire nel segno", "en": "to hit the nail on the head", "pos": "phr"},
+            {"nl": "om de hete brij heen draaien", "it": "girarci intorno", "en": "to beat around the bush", "pos": "phr"},
+            {"nl": "de kat uit de boom kijken", "it": "stare a vedere come si mettono le cose", "en": "to wait and see", "pos": "phr"},
+            {"nl": "met de deur in huis vallen", "it": "andare dritti al punto", "en": "to get straight to the point", "pos": "phr"},
+            {"nl": "de draad kwijt zijn", "it": "perdere il filo", "en": "to lose the thread", "pos": "phr"},
+            {"nl": "het hoofd koel houden", "it": "mantenere la calma", "en": "to keep a cool head", "pos": "phr"},
+            {"nl": "iets door de vingers zien", "it": "chiudere un occhio", "en": "to turn a blind eye", "pos": "phr"},
+            {"nl": "de knoop doorhakken", "it": "prendere una decisione netta", "en": "to cut the knot", "pos": "phr"},
+            {"nl": "boter bij de vis", "it": "pagamento immediato", "en": "cash on the nail", "pos": "phr"},
+            {"nl": "een appeltje voor de dorst", "it": "un gruzzolo per i tempi difficili", "en": "a nest egg", "pos": "phr"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1u3",
+      "title": "Linguaggio accademico",
+      "icon": "🎓",
+      "lessons": [
+        {
+          "id": "c1u3l1",
+          "title": "Ricerca e argomentazione",
+          "items": [
+            {"nl": "het onderzoek", "it": "la ricerca", "en": "research", "emoji": "🔬", "pos": "n"},
+            {"nl": "de hypothese", "it": "l'ipotesi", "en": "hypothesis", "pos": "n"},
+            {"nl": "de analyse", "it": "l'analisi", "en": "analysis", "pos": "n"},
+            {"nl": "de conclusie", "it": "la conclusione", "en": "conclusion", "pos": "n"},
+            {"nl": "het argument", "it": "l'argomentazione", "en": "argument", "pos": "n"},
+            {"nl": "het bewijs", "it": "la prova / l'evidenza", "en": "evidence", "pos": "n"},
+            {"nl": "de theorie", "it": "la teoria", "en": "theory", "pos": "n"},
+            {"nl": "het begrip", "it": "il concetto", "en": "concept", "pos": "n"},
+            {"nl": "de bron", "it": "la fonte", "en": "source", "emoji": "📚", "pos": "n"},
+            {"nl": "de samenvatting", "it": "il riassunto", "en": "summary", "pos": "n"},
+            {"nl": "aantonen", "it": "dimostrare", "en": "to demonstrate", "pos": "v"},
+            {"nl": "beïnvloeden", "it": "influenzare", "en": "to influence", "pos": "v"}
+          ]
+        }
+      ]
+    }
+  ]
+}

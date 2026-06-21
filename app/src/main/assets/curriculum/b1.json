@@ -1,0 +1,103 @@
+{
+  "id": "B1",
+  "title": "B1 · Intermedio",
+  "subtitle": "Emozioni, opinioni e verbi più ricchi",
+  "color": "#CE82FF",
+  "units": [
+    {
+      "id": "b1u1",
+      "title": "Emozioni",
+      "icon": "😊",
+      "lessons": [
+        {
+          "id": "b1u1l1",
+          "title": "Come ti senti",
+          "items": [
+            {"nl": "blij", "it": "felice / contento", "en": "happy", "emoji": "😊", "pos": "adj"},
+            {"nl": "verdrietig", "it": "triste", "en": "sad", "emoji": "😢", "pos": "adj"},
+            {"nl": "boos", "it": "arrabbiato", "en": "angry", "emoji": "😠", "pos": "adj"},
+            {"nl": "bang", "it": "spaventato", "en": "afraid", "emoji": "😨", "pos": "adj"},
+            {"nl": "trots", "it": "orgoglioso", "en": "proud", "emoji": "🦁", "pos": "adj"},
+            {"nl": "verrast", "it": "sorpreso", "en": "surprised", "emoji": "😲", "pos": "adj"},
+            {"nl": "rustig", "it": "calmo", "en": "calm", "emoji": "😌", "pos": "adj"},
+            {"nl": "nerveus", "it": "nervoso", "en": "nervous", "emoji": "😰", "pos": "adj"},
+            {"nl": "gelukkig", "it": "felice / fortunato", "en": "lucky / happy", "emoji": "🍀", "pos": "adj"},
+            {"nl": "eenzaam", "it": "solo / solitario", "en": "lonely", "pos": "adj"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1u2",
+      "title": "Comunicazione e opinioni",
+      "icon": "💬",
+      "lessons": [
+        {
+          "id": "b1u2l1",
+          "title": "Esprimere idee",
+          "items": [
+            {"nl": "de mening", "it": "l'opinione", "en": "opinion", "emoji": "💭", "pos": "n", "exampleNl": "Wat is jouw mening?", "exampleIt": "Qual è la tua opinione?"},
+            {"nl": "geloven", "it": "credere", "en": "to believe", "pos": "v"},
+            {"nl": "denken", "it": "pensare", "en": "to think", "emoji": "🤔", "pos": "v"},
+            {"nl": "vinden", "it": "ritenere / trovare", "en": "to find / to think", "pos": "v"},
+            {"nl": "begrijpen", "it": "capire", "en": "to understand", "emoji": "💡", "pos": "v"},
+            {"nl": "uitleggen", "it": "spiegare", "en": "to explain", "pos": "v"},
+            {"nl": "vragen", "it": "chiedere", "en": "to ask", "emoji": "❓", "pos": "v"},
+            {"nl": "antwoorden", "it": "rispondere", "en": "to answer", "pos": "v"},
+            {"nl": "beslissen", "it": "decidere", "en": "to decide", "pos": "v"},
+            {"nl": "het probleem", "it": "il problema", "en": "problem", "emoji": "⚠️", "pos": "n"},
+            {"nl": "de oplossing", "it": "la soluzione", "en": "solution", "emoji": "✅", "pos": "n"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1u3",
+      "title": "Verbi utili",
+      "icon": "🔧",
+      "lessons": [
+        {
+          "id": "b1u3l1",
+          "title": "Agire e scambiare",
+          "items": [
+            {"nl": "beginnen", "it": "iniziare", "en": "to begin", "pos": "v"},
+            {"nl": "stoppen", "it": "fermare / smettere", "en": "to stop", "emoji": "✋", "pos": "v"},
+            {"nl": "proberen", "it": "provare", "en": "to try", "pos": "v"},
+            {"nl": "helpen", "it": "aiutare", "en": "to help", "emoji": "🤝", "pos": "v"},
+            {"nl": "kopen", "it": "comprare", "en": "to buy", "emoji": "🛒", "pos": "v"},
+            {"nl": "verkopen", "it": "vendere", "en": "to sell", "pos": "v"},
+            {"nl": "betalen", "it": "pagare", "en": "to pay", "emoji": "💳", "pos": "v"},
+            {"nl": "kosten", "it": "costare", "en": "to cost", "pos": "v"},
+            {"nl": "krijgen", "it": "ricevere", "en": "to receive", "pos": "v"},
+            {"nl": "geven", "it": "dare", "en": "to give", "emoji": "🎁", "pos": "v"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1u4",
+      "title": "Tempo e quantità",
+      "icon": "⏱️",
+      "lessons": [
+        {
+          "id": "b1u4l1",
+          "title": "Frequenza e misura",
+          "items": [
+            {"nl": "vroeg", "it": "presto", "en": "early", "pos": "adv"},
+            {"nl": "laat", "it": "tardi", "en": "late", "pos": "adv"},
+            {"nl": "vaak", "it": "spesso", "en": "often", "pos": "adv"},
+            {"nl": "soms", "it": "a volte", "en": "sometimes", "pos": "adv"},
+            {"nl": "altijd", "it": "sempre", "en": "always", "pos": "adv"},
+            {"nl": "nooit", "it": "mai", "en": "never", "pos": "adv"},
+            {"nl": "veel", "it": "molto", "en": "much / many", "pos": "adv"},
+            {"nl": "weinig", "it": "poco", "en": "little / few", "pos": "adv"},
+            {"nl": "genoeg", "it": "abbastanza", "en": "enough", "pos": "adv"},
+            {"nl": "bijna", "it": "quasi", "en": "almost", "pos": "adv"},
+            {"nl": "snel", "it": "veloce", "en": "fast", "emoji": "💨", "pos": "adj"},
+            {"nl": "langzaam", "it": "lento", "en": "slow", "emoji": "🐢", "pos": "adj"}
+          ]
+        }
+      ]
+    }
+  ]
+}
