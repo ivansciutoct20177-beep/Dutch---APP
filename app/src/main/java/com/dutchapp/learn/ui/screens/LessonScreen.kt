@@ -233,7 +233,11 @@ fun LessonScreen(
             when (val ex = current) {
                 is TipExercise -> TipContent(ex)
                 is SpeakExercise -> SpeakContent(ex) { tts?.speak(ex.target.nl) }
-                is IntroExercise -> IntroContent(ex.item) { tts?.speak(ex.item.nl) }
+                is IntroExercise -> IntroContent(
+                    item = ex.item,
+                    onSpeak = { tts?.speak(ex.item.nl) },
+                    onSpeakExample = { tts?.speak(ex.item.exampleNl) }
+                )
                 is PictureExercise -> PictureContent(
                     ex = ex, selected = selected, revealed = revealed,
                     onSelect = { if (!revealed) selected = it },
@@ -300,7 +304,7 @@ private fun SpeakerButton(size: Int = 56, onClick: () -> Unit) {
 }
 
 @Composable
-private fun IntroContent(item: VocabItem, onSpeak: () -> Unit) {
+private fun IntroContent(item: VocabItem, onSpeak: () -> Unit, onSpeakExample: () -> Unit) {
     Column(
         Modifier.fillMaxWidth().padding(top = 8.dp),
         horizontalAlignment = Alignment.CenterHorizontally
@@ -327,20 +331,31 @@ private fun IntroContent(item: VocabItem, onSpeak: () -> Unit) {
         )
         if (item.exampleNl.isNotBlank()) {
             Spacer(Modifier.height(16.dp))
-            Box(
+            Text(
+                "Esempio",
+                fontSize = 12.sp,
+                fontWeight = FontWeight.Bold,
+                color = MaterialTheme.colorScheme.secondary,
+                modifier = Modifier.fillMaxWidth()
+            )
+            Spacer(Modifier.height(6.dp))
+            Row(
                 Modifier
                     .fillMaxWidth()
                     .clip(RoundedCornerShape(14.dp))
                     .background(MaterialTheme.colorScheme.surfaceVariant.copy(alpha = 0.4f))
-                    .clickable { onSpeak() }
-                    .padding(14.dp)
+                    .clickable { onSpeakExample() }
+                    .padding(14.dp),
+                verticalAlignment = Alignment.CenterVertically,
+                horizontalArrangement = Arrangement.spacedBy(10.dp)
             ) {
-                Column {
+                Column(Modifier.weight(1f)) {
                     Text("\"${item.exampleNl}\"", fontWeight = FontWeight.SemiBold, color = MaterialTheme.colorScheme.onBackground)
                     if (item.exampleIt.isNotBlank()) {
                         Text(item.exampleIt, fontSize = 13.sp, color = MaterialTheme.colorScheme.onBackground.copy(alpha = 0.6f))
                     }
                 }
+                SpeakerButton(size = 40, onClick = onSpeakExample)
             }
         }
     }
