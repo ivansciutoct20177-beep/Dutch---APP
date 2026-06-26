@@ -1,8 +1,7 @@
 name: Build Android APK
 
 on:
-  push:
-    branches: [ "claude/vigilant-thompson-knfo19", "main" ]
+  # Manual only: the APK is built on demand, not on every push.
   workflow_dispatch:
 
 permissions:
