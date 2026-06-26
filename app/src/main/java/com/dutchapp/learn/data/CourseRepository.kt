@@ -5,6 +5,8 @@ import com.dutchapp.learn.data.model.Course
 import com.dutchapp.learn.data.model.CourseUnit
 import com.dutchapp.learn.data.model.Lesson
 import com.dutchapp.learn.data.model.Level
+import com.dutchapp.learn.data.model.Story
+import com.dutchapp.learn.data.model.StoryBook
 import com.dutchapp.learn.data.model.VocabItem
 import kotlinx.serialization.json.Json
 
@@ -21,6 +23,9 @@ class CourseRepository(private val context: Context) {
 
     @Volatile
     private var cached: Course? = null
+
+    @Volatile
+    private var cachedStories: List<Story>? = null
 
     fun loadCourse(): Course {
         cached?.let { return it }
@@ -55,6 +60,24 @@ class CourseRepository(private val context: Context) {
 
     fun unitOf(lessonId: String): CourseUnit? =
         loadCourse().allUnits.firstOrNull { unit -> unit.lessons.any { it.id == lessonId } }
+
+    fun loadStories(): List<Story> {
+        cachedStories?.let { return it }
+        synchronized(this) {
+            cachedStories?.let { return it }
+            val text = runCatching {
+                context.assets.open("stories/stories.json").bufferedReader().use { it.readText() }
+            }.getOrNull()
+            val stories = text?.let {
+                runCatching { json.decodeFromString<StoryBook>(it).stories }.getOrNull()
+            } ?: emptyList()
+            cachedStories = stories
+            return stories
+        }
+    }
+
+    fun findStory(storyId: String): Story? =
+        loadStories().firstOrNull { it.id == storyId }
 
     companion object {
         private val LEVEL_FILES = listOf("a1", "a2", "b1", "b2", "c1")

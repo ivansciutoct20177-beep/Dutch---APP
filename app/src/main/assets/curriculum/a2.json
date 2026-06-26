@@ -233,6 +233,32 @@
           ]
         }
       ]
+    },
+    {
+      "id": "a2u8",
+      "title": "Al ristorante",
+      "icon": "🍴",
+      "tip": "Frasi chiave: 'Ik wil graag...' (Vorrei...), 'De rekening, alstublieft' (Il conto, per favore), 'Het was lekker' (Era buono).",
+      "lessons": [
+        {
+          "id": "a2u8l1",
+          "title": "A tavola",
+          "items": [
+            {"nl": "de ober", "it": "il cameriere", "en": "waiter", "emoji": "🧑‍🍳", "pos": "n"},
+            {"nl": "het menu", "it": "il menù", "en": "menu", "emoji": "📋", "pos": "n"},
+            {"nl": "de vork", "it": "la forchetta", "en": "fork", "emoji": "🍴", "pos": "n"},
+            {"nl": "het mes", "it": "il coltello", "en": "knife", "emoji": "🔪", "pos": "n"},
+            {"nl": "de lepel", "it": "il cucchiaio", "en": "spoon", "emoji": "🥄", "pos": "n"},
+            {"nl": "het bord", "it": "il piatto", "en": "plate", "emoji": "🍽️", "pos": "n"},
+            {"nl": "het glas", "it": "il bicchiere", "en": "glass", "emoji": "🥛", "pos": "n"},
+            {"nl": "de fles", "it": "la bottiglia", "en": "bottle", "emoji": "🍾", "pos": "n"},
+            {"nl": "de rekening", "it": "il conto", "en": "the bill", "emoji": "🧾", "pos": "n"},
+            {"nl": "lekker", "it": "buono / gustoso", "en": "tasty", "emoji": "😋", "pos": "adj"},
+            {"nl": "de honger", "it": "la fame", "en": "hunger", "emoji": "🍽️", "pos": "n"},
+            {"nl": "de dorst", "it": "la sete", "en": "thirst", "emoji": "💧", "pos": "n"}
+          ]
+        }
+      ]
     }
   ]
 }

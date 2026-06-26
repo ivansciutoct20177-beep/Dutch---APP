@@ -47,6 +47,26 @@ class TtsManager(context: Context) {
         engine.setSpeechRate(0.9f)
     }
 
+    /** Speaks a list of sentences back-to-back (e.g. a whole story). */
+    fun speakSequence(parts: List<String>, slow: Boolean = false) {
+        val engine = tts ?: return
+        if (!ready || muted) return
+        engine.setSpeechRate(if (slow) 0.55f else 0.9f)
+        var first = true
+        parts.forEach { part ->
+            if (part.isNotBlank()) {
+                val mode = if (first) TextToSpeech.QUEUE_FLUSH else TextToSpeech.QUEUE_ADD
+                engine.speak(part, mode, null, "seq_${part.hashCode()}")
+                first = false
+            }
+        }
+        engine.setSpeechRate(0.9f)
+    }
+
+    fun stop() {
+        tts?.stop()
+    }
+
     fun shutdown() {
         tts?.stop()
         tts?.shutdown()

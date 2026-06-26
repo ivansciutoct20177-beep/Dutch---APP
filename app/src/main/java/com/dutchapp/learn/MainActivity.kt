@@ -13,10 +13,11 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.AutoStories
 import androidx.compose.material.icons.filled.Autorenew
 import androidx.compose.material.icons.filled.Home
-import androidx.compose.material.icons.filled.MenuBook
 import androidx.compose.material.icons.filled.Person
+import androidx.compose.material.icons.filled.Translate
 import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
@@ -48,6 +49,8 @@ import com.dutchapp.learn.ui.screens.ProfileScreen
 import com.dutchapp.learn.ui.screens.ResultScreen
 import com.dutchapp.learn.ui.screens.ReviewScreen
 import com.dutchapp.learn.ui.screens.SettingsScreen
+import com.dutchapp.learn.ui.screens.StoriesListScreen
+import com.dutchapp.learn.ui.screens.StoryReaderScreen
 import com.dutchapp.learn.ui.theme.DutchLearnTheme
 import com.dutchapp.learn.viewmodel.AppViewModel
 
@@ -97,6 +100,27 @@ private fun AppNavHost(appViewModel: AppViewModel) {
                 onLessonClick = { lesson -> navController.navigate("lesson/${lesson.id}") },
                 bottomBar = { BottomBar("home", ::selectTab) }
             )
+        }
+
+        composable("stories") {
+            StoriesListScreen(
+                stories = appViewModel.stories(),
+                onOpen = { story -> navController.navigate("story/${story.id}") },
+                bottomBar = { BottomBar("stories", ::selectTab) }
+            )
+        }
+
+        composable(
+            route = "story/{storyId}",
+            arguments = listOf(navArgument("storyId") { type = NavType.StringType })
+        ) { entry ->
+            val storyId = entry.arguments?.getString("storyId").orEmpty()
+            val story = appViewModel.story(storyId)
+            if (story != null) {
+                StoryReaderScreen(story = story, onBack = { navController.popBackStack() })
+            } else {
+                navController.popBackStack()
+            }
         }
 
         composable("review") {
@@ -220,8 +244,9 @@ private fun BottomBar(current: String, onSelect: (String) -> Unit) {
         verticalAlignment = Alignment.CenterVertically
     ) {
         BottomItem("Impara", Icons.Filled.Home, current == "home") { onSelect("home") }
+        BottomItem("Storie", Icons.Filled.AutoStories, current == "stories") { onSelect("stories") }
         BottomItem("Ripasso", Icons.Filled.Autorenew, current == "review") { onSelect("review") }
-        BottomItem("Parole", Icons.Filled.MenuBook, current == "words") { onSelect("words") }
+        BottomItem("Parole", Icons.Filled.Translate, current == "words") { onSelect("words") }
         BottomItem("Profilo", Icons.Filled.Person, current == "profile") { onSelect("profile") }
     }
 }
@@ -232,9 +257,9 @@ private fun BottomItem(label: String, icon: ImageVector, selected: Boolean, onCl
     else MaterialTheme.colorScheme.onSurface.copy(alpha = 0.5f)
     Column(
         horizontalAlignment = Alignment.CenterHorizontally,
-        modifier = Modifier.clickable { onClick() }.padding(horizontal = 14.dp)
+        modifier = Modifier.clickable { onClick() }.padding(horizontal = 6.dp)
     ) {
-        Icon(icon, contentDescription = label, tint = color, modifier = Modifier.size(26.dp))
-        Text(label, color = color, fontSize = 11.sp, fontWeight = FontWeight.SemiBold)
+        Icon(icon, contentDescription = label, tint = color, modifier = Modifier.size(24.dp))
+        Text(label, color = color, fontSize = 10.sp, fontWeight = FontWeight.SemiBold)
     }
 }

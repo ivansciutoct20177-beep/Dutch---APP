@@ -33,6 +33,7 @@ import androidx.compose.material.icons.filled.Favorite
 import androidx.compose.material.icons.filled.Mic
 import androidx.compose.material.icons.filled.VolumeUp
 import androidx.compose.material3.Icon
+import androidx.compose.material3.LinearProgressIndicator
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.Text
@@ -66,10 +67,12 @@ import com.dutchapp.learn.data.model.TranslateExercise
 import com.dutchapp.learn.data.model.TypeExercise
 import com.dutchapp.learn.data.model.VocabItem
 import com.dutchapp.learn.data.model.graded
+import com.dutchapp.learn.util.TextSimilarity
 import com.dutchapp.learn.ui.components.ChunkyButton
 import com.dutchapp.learn.ui.components.LessonProgressBar
 import com.dutchapp.learn.ui.components.OptionCard
 import com.dutchapp.learn.ui.theme.ErrorRed
+import com.dutchapp.learn.ui.theme.GoldYellow
 import com.dutchapp.learn.ui.theme.LeafGreen
 import com.dutchapp.learn.ui.theme.Orange
 
@@ -378,6 +381,7 @@ private fun SpeakContent(ex: SpeakExercise, onSpeakModel: () -> Unit) {
     var recognized by remember(ex) { mutableStateOf<String?>(null) }
     var listening by remember(ex) { mutableStateOf(false) }
     var matched by remember(ex) { mutableStateOf<Boolean?>(null) }
+    var score by remember(ex) { mutableStateOf(0f) }
     var hasPermission by remember {
         mutableStateOf(
             ContextCompat.checkSelfPermission(context, Manifest.permission.RECORD_AUDIO) ==
@@ -403,9 +407,12 @@ private fun SpeakContent(ex: SpeakExercise, onSpeakModel: () -> Unit) {
                     ?.firstOrNull()
                     .orEmpty()
                 recognized = said
-                val n1 = normalize(said)
-                val n2 = normalize(ex.target.nl)
-                matched = said.isNotBlank() && (n1.contains(n2) || n2.contains(n1))
+                val sim = TextSimilarity.ratio(said, ex.target.nl)
+                val contained = said.isNotBlank() &&
+                    (normalize(said).contains(normalize(ex.target.nl)) ||
+                        normalize(ex.target.nl).contains(normalize(said)))
+                score = if (contained) maxOf(sim, 0.85f) else sim
+                matched = said.isNotBlank() && score >= 0.6f
                 listening = false
             }
             override fun onError(error: Int) {
@@ -475,8 +482,42 @@ private fun SpeakContent(ex: SpeakExercise, onSpeakModel: () -> Unit) {
                 textAlign = TextAlign.Center
             )
             listening -> Text("Sto ascoltando…", color = MaterialTheme.colorScheme.secondary, fontWeight = FontWeight.Bold)
-            matched == true -> Text("Ottima pronuncia! ✅", color = LeafGreen, fontWeight = FontWeight.Bold)
-            matched == false -> Text("Ho sentito: \"${recognized.orEmpty()}\". Riprova 🎙️", color = Orange, fontWeight = FontWeight.SemiBold)
+            matched != null -> {
+                val pct = (score * 100).toInt()
+                val scoreColor = when {
+                    score >= 0.8f -> LeafGreen
+                    score >= 0.6f -> GoldYellow
+                    else -> Orange
+                }
+                Text(
+                    when {
+                        score >= 0.8f -> "Ottima pronuncia! $pct%"
+                        score >= 0.6f -> "Quasi perfetto: $pct%"
+                        else -> "Continua a esercitarti: $pct%"
+                    },
+                    color = scoreColor,
+                    fontWeight = FontWeight.Bold
+                )
+                Spacer(Modifier.height(8.dp))
+                LinearProgressIndicator(
+                    progress = { score },
+                    modifier = Modifier
+                        .fillMaxWidth(0.7f)
+                        .height(10.dp)
+                        .clip(RoundedCornerShape(6.dp)),
+                    color = scoreColor,
+                    trackColor = MaterialTheme.colorScheme.outline.copy(alpha = 0.4f)
+                )
+                if (!recognized.isNullOrBlank()) {
+                    Spacer(Modifier.height(6.dp))
+                    Text(
+                        "Ho sentito: \"${recognized.orEmpty()}\" · tocca 🎙️ per riprovare",
+                        color = MaterialTheme.colorScheme.onBackground.copy(alpha = 0.6f),
+                        fontSize = 13.sp,
+                        textAlign = TextAlign.Center
+                    )
+                }
+            }
             else -> {}
         }
     }

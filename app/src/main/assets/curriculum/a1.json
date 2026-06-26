@@ -449,6 +449,32 @@
           ]
         }
       ]
+    },
+    {
+      "id": "a1u11",
+      "title": "Aggettivi comuni",
+      "icon": "🔠",
+      "tip": "Gli aggettivi prendono una -e davanti al nome: 'de grote man', 'het grote huis'. Eccezione: 'een groot huis' (neutro indeterminativo, senza -e).",
+      "lessons": [
+        {
+          "id": "a1u11l1",
+          "title": "Contrari utili",
+          "items": [
+            {"nl": "groot", "it": "grande", "en": "big", "emoji": "🐘", "pos": "adj"},
+            {"nl": "klein", "it": "piccolo", "en": "small", "emoji": "🐭", "pos": "adj"},
+            {"nl": "mooi", "it": "bello", "en": "beautiful", "emoji": "✨", "pos": "adj"},
+            {"nl": "lelijk", "it": "brutto", "en": "ugly", "pos": "adj"},
+            {"nl": "nieuw", "it": "nuovo", "en": "new", "emoji": "🆕", "pos": "adj"},
+            {"nl": "oud", "it": "vecchio", "en": "old", "emoji": "👴", "pos": "adj"},
+            {"nl": "lang", "it": "lungo / alto", "en": "long / tall", "pos": "adj"},
+            {"nl": "kort", "it": "corto / breve", "en": "short", "pos": "adj"},
+            {"nl": "makkelijk", "it": "facile", "en": "easy", "emoji": "✅", "pos": "adj"},
+            {"nl": "moeilijk", "it": "difficile", "en": "difficult", "pos": "adj"},
+            {"nl": "duur", "it": "caro / costoso", "en": "expensive", "emoji": "💰", "pos": "adj"},
+            {"nl": "goedkoop", "it": "economico", "en": "cheap", "pos": "adj"}
+          ]
+        }
+      ]
     }
   ]
 }

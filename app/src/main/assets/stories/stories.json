@@ -1,0 +1,238 @@
+{
+  "stories": [
+    {
+      "id": "st_a1_1",
+      "level": "A1",
+      "title": "Een dag van Anna",
+      "titleIt": "Una giornata di Anna",
+      "icon": "🌞",
+      "intro": "Una storia molto semplice e ripetitiva con le prime parole.",
+      "sentences": [
+        {"nl": "Anna staat vroeg op.", "it": "Anna si alza presto."},
+        {"nl": "Zij eet brood en drinkt koffie.", "it": "Lei mangia pane e beve caffè."},
+        {"nl": "Anna gaat naar haar werk.", "it": "Anna va al lavoro."},
+        {"nl": "Zij werkt in een winkel.", "it": "Lei lavora in un negozio."},
+        {"nl": "Anna is blij.", "it": "Anna è felice."},
+        {"nl": "Na het werk gaat zij naar huis.", "it": "Dopo il lavoro va a casa."},
+        {"nl": "Zij eet soep en kijkt televisie.", "it": "Mangia zuppa e guarda la televisione."},
+        {"nl": "Anna slaapt goed.", "it": "Anna dorme bene."}
+      ],
+      "glossary": [
+        {"nl": "vroeg", "it": "presto", "en": "early"},
+        {"nl": "eet", "it": "mangia", "en": "eats"},
+        {"nl": "brood", "it": "pane", "en": "bread"},
+        {"nl": "drinkt", "it": "beve", "en": "drinks"},
+        {"nl": "koffie", "it": "caffè", "en": "coffee"},
+        {"nl": "gaat", "it": "va", "en": "goes"},
+        {"nl": "werk", "it": "lavoro", "en": "work"},
+        {"nl": "winkel", "it": "negozio", "en": "shop"},
+        {"nl": "blij", "it": "felice", "en": "happy"},
+        {"nl": "huis", "it": "casa", "en": "house"},
+        {"nl": "soep", "it": "zuppa", "en": "soup"},
+        {"nl": "kijkt", "it": "guarda", "en": "watches"},
+        {"nl": "slaapt", "it": "dorme", "en": "sleeps"},
+        {"nl": "goed", "it": "bene", "en": "well"}
+      ]
+    },
+    {
+      "id": "st_a1_2",
+      "level": "A1",
+      "title": "De kat en de hond",
+      "titleIt": "Il gatto e il cane",
+      "icon": "🐱",
+      "intro": "Animali, colori e aggettivi di base.",
+      "sentences": [
+        {"nl": "Dit is een kat.", "it": "Questo è un gatto."},
+        {"nl": "De kat is klein en wit.", "it": "Il gatto è piccolo e bianco."},
+        {"nl": "Dit is een hond.", "it": "Questo è un cane."},
+        {"nl": "De hond is groot en bruin.", "it": "Il cane è grande e marrone."},
+        {"nl": "De kat drinkt melk.", "it": "Il gatto beve latte."},
+        {"nl": "De hond eet vlees.", "it": "Il cane mangia carne."},
+        {"nl": "De kat en de hond spelen samen.", "it": "Il gatto e il cane giocano insieme."},
+        {"nl": "Zij zijn vrienden.", "it": "Sono amici."}
+      ],
+      "glossary": [
+        {"nl": "kat", "it": "gatto", "en": "cat"},
+        {"nl": "hond", "it": "cane", "en": "dog"},
+        {"nl": "klein", "it": "piccolo", "en": "small"},
+        {"nl": "wit", "it": "bianco", "en": "white"},
+        {"nl": "groot", "it": "grande", "en": "big"},
+        {"nl": "bruin", "it": "marrone", "en": "brown"},
+        {"nl": "drinkt", "it": "beve", "en": "drinks"},
+        {"nl": "melk", "it": "latte", "en": "milk"},
+        {"nl": "eet", "it": "mangia", "en": "eats"},
+        {"nl": "vlees", "it": "carne", "en": "meat"},
+        {"nl": "spelen", "it": "giocano", "en": "play"},
+        {"nl": "samen", "it": "insieme", "en": "together"},
+        {"nl": "vrienden", "it": "amici", "en": "friends"}
+      ]
+    },
+    {
+      "id": "st_a2_1",
+      "level": "A2",
+      "title": "Een reis naar Amsterdam",
+      "titleIt": "Un viaggio ad Amsterdam",
+      "icon": "🚆",
+      "intro": "Viaggio, città e trasporti.",
+      "sentences": [
+        {"nl": "Tom gaat met de trein naar Amsterdam.", "it": "Tom va in treno ad Amsterdam."},
+        {"nl": "Het is mooi weer.", "it": "C'è bel tempo."},
+        {"nl": "Hij koopt een kaartje op het station.", "it": "Compra un biglietto in stazione."},
+        {"nl": "In de stad ziet hij veel fietsen.", "it": "In città vede molte biciclette."},
+        {"nl": "Tom bezoekt een museum.", "it": "Tom visita un museo."},
+        {"nl": "Daarna eet hij in een restaurant.", "it": "Poi mangia in un ristorante."},
+        {"nl": "Het eten is erg lekker.", "it": "Il cibo è molto buono."},
+        {"nl": "'s Avonds gaat hij terug naar huis.", "it": "La sera torna a casa."}
+      ],
+      "glossary": [
+        {"nl": "trein", "it": "treno", "en": "train"},
+        {"nl": "mooi", "it": "bello", "en": "beautiful"},
+        {"nl": "weer", "it": "tempo (meteo)", "en": "weather"},
+        {"nl": "koopt", "it": "compra", "en": "buys"},
+        {"nl": "kaartje", "it": "biglietto", "en": "ticket"},
+        {"nl": "station", "it": "stazione", "en": "station"},
+        {"nl": "stad", "it": "città", "en": "city"},
+        {"nl": "ziet", "it": "vede", "en": "sees"},
+        {"nl": "veel", "it": "molti", "en": "many"},
+        {"nl": "fietsen", "it": "biciclette", "en": "bicycles"},
+        {"nl": "bezoekt", "it": "visita", "en": "visits"},
+        {"nl": "museum", "it": "museo", "en": "museum"},
+        {"nl": "daarna", "it": "poi", "en": "afterwards"},
+        {"nl": "restaurant", "it": "ristorante", "en": "restaurant"},
+        {"nl": "eten", "it": "cibo", "en": "food"},
+        {"nl": "lekker", "it": "buono / gustoso", "en": "tasty"},
+        {"nl": "terug", "it": "indietro", "en": "back"}
+      ]
+    },
+    {
+      "id": "st_a2_2",
+      "level": "A2",
+      "title": "Boodschappen doen",
+      "titleIt": "Fare la spesa",
+      "icon": "🛒",
+      "intro": "Cibo, colori e acquisti.",
+      "sentences": [
+        {"nl": "Lisa gaat naar de markt.", "it": "Lisa va al mercato."},
+        {"nl": "Zij koopt groente en fruit.", "it": "Compra verdura e frutta."},
+        {"nl": "De appels zijn rood en de bananen zijn geel.", "it": "Le mele sono rosse e le banane sono gialle."},
+        {"nl": "Lisa wil ook brood en kaas.", "it": "Lisa vuole anche pane e formaggio."},
+        {"nl": "Alles is vers en niet duur.", "it": "Tutto è fresco e non caro."},
+        {"nl": "Zij betaalt met haar kaart.", "it": "Paga con la sua carta."},
+        {"nl": "Lisa gaat tevreden naar huis.", "it": "Lisa torna a casa soddisfatta."}
+      ],
+      "glossary": [
+        {"nl": "markt", "it": "mercato", "en": "market"},
+        {"nl": "koopt", "it": "compra", "en": "buys"},
+        {"nl": "groente", "it": "verdura", "en": "vegetables"},
+        {"nl": "fruit", "it": "frutta", "en": "fruit"},
+        {"nl": "appels", "it": "mele", "en": "apples"},
+        {"nl": "rood", "it": "rosso", "en": "red"},
+        {"nl": "bananen", "it": "banane", "en": "bananas"},
+        {"nl": "geel", "it": "giallo", "en": "yellow"},
+        {"nl": "brood", "it": "pane", "en": "bread"},
+        {"nl": "kaas", "it": "formaggio", "en": "cheese"},
+        {"nl": "vers", "it": "fresco", "en": "fresh"},
+        {"nl": "duur", "it": "caro", "en": "expensive"},
+        {"nl": "betaalt", "it": "paga", "en": "pays"},
+        {"nl": "kaart", "it": "carta", "en": "card"},
+        {"nl": "tevreden", "it": "soddisfatta", "en": "satisfied"}
+      ]
+    },
+    {
+      "id": "st_b1_1",
+      "level": "B1",
+      "title": "Een nieuwe baan",
+      "titleIt": "Un nuovo lavoro",
+      "icon": "💼",
+      "intro": "Emozioni e mondo del lavoro.",
+      "sentences": [
+        {"nl": "Sara heeft een nieuwe baan gevonden.", "it": "Sara ha trovato un nuovo lavoro."},
+        {"nl": "Zij werkt nu bij een groot bedrijf.", "it": "Adesso lavora in una grande azienda."},
+        {"nl": "In het begin is alles moeilijk.", "it": "All'inizio tutto è difficile."},
+        {"nl": "Maar haar collega's zijn aardig en helpen haar.", "it": "Ma i suoi colleghi sono gentili e la aiutano."},
+        {"nl": "Na een maand voelt Sara zich zeker.", "it": "Dopo un mese Sara si sente sicura."},
+        {"nl": "Zij is trots op zichzelf.", "it": "È orgogliosa di sé stessa."},
+        {"nl": "Sara denkt dat de toekomst mooi zal zijn.", "it": "Sara pensa che il futuro sarà bello."}
+      ],
+      "glossary": [
+        {"nl": "baan", "it": "lavoro / impiego", "en": "job"},
+        {"nl": "gevonden", "it": "trovato", "en": "found"},
+        {"nl": "bedrijf", "it": "azienda", "en": "company"},
+        {"nl": "begin", "it": "inizio", "en": "beginning"},
+        {"nl": "moeilijk", "it": "difficile", "en": "difficult"},
+        {"nl": "aardig", "it": "gentile", "en": "kind"},
+        {"nl": "helpen", "it": "aiutano", "en": "help"},
+        {"nl": "maand", "it": "mese", "en": "month"},
+        {"nl": "zeker", "it": "sicura", "en": "sure"},
+        {"nl": "trots", "it": "orgogliosa", "en": "proud"},
+        {"nl": "denkt", "it": "pensa", "en": "thinks"},
+        {"nl": "toekomst", "it": "futuro", "en": "future"}
+      ]
+    },
+    {
+      "id": "st_b2_1",
+      "level": "B2",
+      "title": "Het milieu",
+      "titleIt": "L'ambiente",
+      "icon": "🌍",
+      "intro": "Società, ambiente e argomentazione.",
+      "sentences": [
+        {"nl": "Het klimaat verandert snel en dat is een groot probleem.", "it": "Il clima cambia rapidamente ed è un grande problema."},
+        {"nl": "Veel mensen maken zich zorgen over de toekomst.", "it": "Molte persone si preoccupano per il futuro."},
+        {"nl": "De regering wil de vervuiling verminderen.", "it": "Il governo vuole ridurre l'inquinamento."},
+        {"nl": "Daarom investeert zij in duurzame energie.", "it": "Perciò investe in energia sostenibile."},
+        {"nl": "Burgers kunnen ook helpen door minder afval te maken.", "it": "Anche i cittadini possono aiutare producendo meno rifiuti."},
+        {"nl": "Samen kunnen we het milieu beschermen.", "it": "Insieme possiamo proteggere l'ambiente."}
+      ],
+      "glossary": [
+        {"nl": "klimaat", "it": "clima", "en": "climate"},
+        {"nl": "verandert", "it": "cambia", "en": "changes"},
+        {"nl": "probleem", "it": "problema", "en": "problem"},
+        {"nl": "zorgen", "it": "preoccupazioni", "en": "worries"},
+        {"nl": "toekomst", "it": "futuro", "en": "future"},
+        {"nl": "regering", "it": "governo", "en": "government"},
+        {"nl": "vervuiling", "it": "inquinamento", "en": "pollution"},
+        {"nl": "verminderen", "it": "ridurre", "en": "to reduce"},
+        {"nl": "duurzame", "it": "sostenibile", "en": "sustainable"},
+        {"nl": "energie", "it": "energia", "en": "energy"},
+        {"nl": "burgers", "it": "cittadini", "en": "citizens"},
+        {"nl": "afval", "it": "rifiuti", "en": "waste"},
+        {"nl": "beschermen", "it": "proteggere", "en": "to protect"},
+        {"nl": "milieu", "it": "ambiente", "en": "environment"}
+      ]
+    },
+    {
+      "id": "st_c1_1",
+      "level": "C1",
+      "title": "De kracht van taal",
+      "titleIt": "La forza della lingua",
+      "icon": "🗣️",
+      "intro": "Un testo riflessivo con vocabolario astratto.",
+      "sentences": [
+        {"nl": "Taal is veel meer dan alleen communicatie.", "it": "La lingua è molto più della semplice comunicazione."},
+        {"nl": "Ze weerspiegelt onze cultuur en onze manier van denken.", "it": "Riflette la nostra cultura e il nostro modo di pensare."},
+        {"nl": "Wie een nieuwe taal leert, ontdekt een andere kijk op de wereld.", "it": "Chi impara una nuova lingua scopre un altro sguardo sul mondo."},
+        {"nl": "Soms is een woord moeilijk te vertalen, omdat het een unieke nuance bevat.", "it": "A volte una parola è difficile da tradurre, perché contiene una sfumatura unica."},
+        {"nl": "Juist die nuances maken taal zo boeiend.", "it": "Proprio quelle sfumature rendono la lingua così affascinante."},
+        {"nl": "Door te blijven oefenen, wordt het begrip steeds dieper.", "it": "Continuando a esercitarsi, la comprensione diventa sempre più profonda."}
+      ],
+      "glossary": [
+        {"nl": "taal", "it": "lingua", "en": "language"},
+        {"nl": "communicatie", "it": "comunicazione", "en": "communication"},
+        {"nl": "weerspiegelt", "it": "riflette", "en": "reflects"},
+        {"nl": "cultuur", "it": "cultura", "en": "culture"},
+        {"nl": "manier", "it": "modo", "en": "way"},
+        {"nl": "denken", "it": "pensare", "en": "thinking"},
+        {"nl": "ontdekt", "it": "scopre", "en": "discovers"},
+        {"nl": "kijk", "it": "sguardo / visione", "en": "view"},
+        {"nl": "wereld", "it": "mondo", "en": "world"},
+        {"nl": "vertalen", "it": "tradurre", "en": "to translate"},
+        {"nl": "nuance", "it": "sfumatura", "en": "nuance"},
+        {"nl": "bevat", "it": "contiene", "en": "contains"},
+        {"nl": "boeiend", "it": "affascinante", "en": "fascinating"},
+        {"nl": "oefenen", "it": "esercitarsi", "en": "to practise"},
+        {"nl": "begrip", "it": "comprensione", "en": "understanding"}
+      ]
+    }
+  ]
+}

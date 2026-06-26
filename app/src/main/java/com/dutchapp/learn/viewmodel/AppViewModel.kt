@@ -80,6 +80,10 @@ class AppViewModel(application: Application) : AndroidViewModel(application) {
     fun allWords(): List<VocabItem> =
         course.allLessons.flatMap { it.items }.distinctBy { it.nl }
 
+    fun stories(): List<com.dutchapp.learn.data.model.Story> = repository.loadStories()
+
+    fun story(storyId: String): com.dutchapp.learn.data.model.Story? = repository.findStory(storyId)
+
     fun completeLesson(lessonId: String, stars: Int, xpGain: Int) {
         viewModelScope.launch { store.completeLesson(lessonId, stars, xpGain) }
     }
