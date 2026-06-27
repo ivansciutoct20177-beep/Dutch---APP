@@ -524,6 +524,146 @@
           ]
         }
       ]
+    },
+    {
+      "id": "b1u6",
+      "title": "Viaggi e vacanze",
+      "icon": "✈️",
+      "tip": "In viaggio tornano utili i verbi separabili (aankomen, inpakken) e le subordinate con 'als': 'Vergeet je paspoort niet als je reist'.",
+      "lessons": [
+        {
+          "id": "b1u6l1",
+          "title": "In viaggio",
+          "items": [
+            {
+              "nl": "het paspoort",
+              "it": "il passaporto",
+              "en": "passport",
+              "emoji": "🛂",
+              "pos": "n",
+              "exampleNl": "Vergeet je paspoort niet als je naar het buitenland reist.",
+              "exampleIt": "Non dimenticare il passaporto quando viaggi all'estero."
+            },
+            {
+              "nl": "de luchthaven",
+              "it": "l'aeroporto",
+              "en": "airport",
+              "emoji": "✈️",
+              "pos": "n",
+              "exampleNl": "We moeten twee uur voor vertrek op de luchthaven zijn.",
+              "exampleIt": "Dobbiamo essere in aeroporto due ore prima della partenza."
+            },
+            {
+              "nl": "de bagage",
+              "it": "il bagaglio",
+              "en": "luggage",
+              "emoji": "🧳",
+              "pos": "n",
+              "exampleNl": "Mijn bagage is op de luchthaven kwijtgeraakt.",
+              "exampleIt": "Il mio bagaglio è andato perso in aeroporto."
+            },
+            {
+              "nl": "de bestemming",
+              "it": "la destinazione",
+              "en": "destination",
+              "emoji": "📍",
+              "pos": "n",
+              "exampleNl": "Onze bestemming is een klein dorpje in de bergen.",
+              "exampleIt": "La nostra destinazione è un piccolo paesino in montagna."
+            },
+            {
+              "nl": "de reservering",
+              "it": "la prenotazione",
+              "en": "reservation",
+              "emoji": "📅",
+              "pos": "n",
+              "exampleNl": "Ik heb online een reservering voor het hotel gemaakt.",
+              "exampleIt": "Ho fatto una prenotazione per l'hotel online."
+            },
+            {
+              "nl": "de grens",
+              "it": "il confine / la frontiera",
+              "en": "border",
+              "emoji": "🛂",
+              "pos": "n",
+              "exampleNl": "Bij de grens moesten we onze paspoorten laten zien.",
+              "exampleIt": "Alla frontiera abbiamo dovuto mostrare i passaporti."
+            },
+            {
+              "nl": "de douane",
+              "it": "la dogana",
+              "en": "customs",
+              "emoji": "🛃",
+              "pos": "n",
+              "exampleNl": "We moesten bij de douane onze koffers openmaken.",
+              "exampleIt": "Alla dogana abbiamo dovuto aprire le valigie."
+            },
+            {
+              "nl": "het uitstapje",
+              "it": "la gita / l'escursione",
+              "en": "outing",
+              "emoji": "🚌",
+              "pos": "n",
+              "exampleNl": "Morgen maken we een uitstapje naar de kust.",
+              "exampleIt": "Domani facciamo una gita alla costa."
+            },
+            {
+              "nl": "de gids",
+              "it": "la guida",
+              "en": "guide",
+              "emoji": "🧭",
+              "pos": "n",
+              "exampleNl": "De gids vertelde ons veel over de geschiedenis van de stad.",
+              "exampleIt": "La guida ci ha raccontato molto sulla storia della città."
+            },
+            {
+              "nl": "de toerist",
+              "it": "il turista",
+              "en": "tourist",
+              "emoji": "📸",
+              "pos": "n",
+              "exampleNl": "In de zomer komen er veel toeristen naar Amsterdam.",
+              "exampleIt": "In estate molti turisti vengono ad Amsterdam."
+            },
+            {
+              "nl": "vertrekken",
+              "it": "partire",
+              "en": "to depart",
+              "emoji": "🛫",
+              "pos": "v",
+              "exampleNl": "De bus vertrekt over tien minuten, dus we moeten opschieten.",
+              "exampleIt": "L'autobus parte tra dieci minuti, quindi dobbiamo sbrigarci."
+            },
+            {
+              "nl": "aankomen",
+              "it": "arrivare",
+              "en": "to arrive",
+              "emoji": "🛬",
+              "pos": "v",
+              "exampleNl": "We komen om drie uur in Rome aan.",
+              "exampleIt": "Arriviamo a Roma alle tre."
+            },
+            {
+              "nl": "verblijven",
+              "it": "alloggiare / soggiornare",
+              "en": "to stay",
+              "emoji": "🏨",
+              "pos": "v",
+              "exampleNl": "Tijdens onze vakantie verblijven we in een klein hotel.",
+              "exampleIt": "Durante la vacanza alloggiamo in un piccolo hotel."
+            },
+            {
+              "nl": "inpakken",
+              "it": "fare le valigie / impacchettare",
+              "en": "to pack",
+              "emoji": "🎒",
+              "pos": "v",
+              "exampleNl": "Heb je je koffer al ingepakt voor de reis?",
+              "exampleIt": "Hai già fatto la valigia per il viaggio?"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
