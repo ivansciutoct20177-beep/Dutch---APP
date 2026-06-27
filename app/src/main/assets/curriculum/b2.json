@@ -14,16 +14,93 @@
           "id": "b2u1l1",
           "title": "Vita pubblica",
           "items": [
-            {"nl": "de regering", "it": "il governo", "en": "government", "emoji": "🏛️", "pos": "n"},
-            {"nl": "de wet", "it": "la legge", "en": "law", "emoji": "⚖️", "pos": "n"},
-            {"nl": "de belasting", "it": "le tasse", "en": "tax", "emoji": "💸", "pos": "n"},
-            {"nl": "de maatschappij", "it": "la società", "en": "society", "pos": "n"},
-            {"nl": "de burger", "it": "il cittadino", "en": "citizen", "emoji": "🧑", "pos": "n"},
-            {"nl": "de verkiezing", "it": "le elezioni", "en": "election", "emoji": "🗳️", "pos": "n"},
-            {"nl": "het nieuws", "it": "le notizie", "en": "news", "emoji": "📰", "pos": "n"},
-            {"nl": "de invloed", "it": "l'influenza", "en": "influence", "pos": "n"},
-            {"nl": "de vrijheid", "it": "la libertà", "en": "freedom", "emoji": "🕊️", "pos": "n"},
-            {"nl": "de gelijkheid", "it": "l'uguaglianza", "en": "equality", "pos": "n"}
+            {
+              "nl": "de regering",
+              "it": "il governo",
+              "en": "government",
+              "emoji": "🏛️",
+              "pos": "n",
+              "exampleNl": "Volgens mij doet de regering te weinig voor het milieu.",
+              "exampleIt": "Secondo me il governo fa troppo poco per l'ambiente."
+            },
+            {
+              "nl": "de wet",
+              "it": "la legge",
+              "en": "law",
+              "emoji": "⚖️",
+              "pos": "n",
+              "exampleNl": "De nieuwe wet wordt volgende maand door het parlement aangenomen.",
+              "exampleIt": "La nuova legge verrà approvata il mese prossimo dal parlamento."
+            },
+            {
+              "nl": "de belasting",
+              "it": "le tasse",
+              "en": "tax",
+              "emoji": "💸",
+              "pos": "n",
+              "exampleNl": "In dit land worden de belastingen elk jaar verhoogd.",
+              "exampleIt": "In questo paese le tasse vengono aumentate ogni anno."
+            },
+            {
+              "nl": "de maatschappij",
+              "it": "la società",
+              "en": "society",
+              "pos": "n",
+              "exampleNl": "In een moderne maatschappij is gelijkheid voor iedereen erg belangrijk.",
+              "exampleIt": "In una società moderna l'uguaglianza per tutti è molto importante."
+            },
+            {
+              "nl": "de burger",
+              "it": "il cittadino",
+              "en": "citizen",
+              "emoji": "🧑",
+              "pos": "n",
+              "exampleNl": "Elke burger heeft het recht om zijn mening te geven.",
+              "exampleIt": "Ogni cittadino ha il diritto di esprimere la propria opinione."
+            },
+            {
+              "nl": "de verkiezing",
+              "it": "le elezioni",
+              "en": "election",
+              "emoji": "🗳️",
+              "pos": "n",
+              "exampleNl": "De verkiezingen worden volgend jaar in maart gehouden.",
+              "exampleIt": "Le elezioni si terranno a marzo dell'anno prossimo."
+            },
+            {
+              "nl": "het nieuws",
+              "it": "le notizie",
+              "en": "news",
+              "emoji": "📰",
+              "pos": "n",
+              "exampleNl": "Volgens het nieuws zal de economie volgend jaar groeien.",
+              "exampleIt": "Secondo le notizie l'economia crescerà l'anno prossimo."
+            },
+            {
+              "nl": "de invloed",
+              "it": "l'influenza",
+              "en": "influence",
+              "pos": "n",
+              "exampleNl": "De sociale media hebben een grote invloed op jongeren.",
+              "exampleIt": "I social media hanno una grande influenza sui giovani."
+            },
+            {
+              "nl": "de vrijheid",
+              "it": "la libertà",
+              "en": "freedom",
+              "emoji": "🕊️",
+              "pos": "n",
+              "exampleNl": "Vrijheid van meningsuiting is een belangrijk recht in een democratie.",
+              "exampleIt": "La libertà di espressione è un diritto importante in una democrazia."
+            },
+            {
+              "nl": "de gelijkheid",
+              "it": "l'uguaglianza",
+              "en": "equality",
+              "pos": "n",
+              "exampleNl": "Veel mensen vinden dat gelijkheid nog niet overal bereikt is.",
+              "exampleIt": "Molti pensano che l'uguaglianza non sia ancora raggiunta ovunque."
+            }
           ]
         }
       ]
@@ -37,17 +114,100 @@
           "id": "b2u2l1",
           "title": "Il mondo del lavoro",
           "items": [
-            {"nl": "het bedrijf", "it": "l'azienda", "en": "company", "emoji": "🏢", "pos": "n"},
-            {"nl": "de werknemer", "it": "il dipendente", "en": "employee", "pos": "n"},
-            {"nl": "de werkgever", "it": "il datore di lavoro", "en": "employer", "pos": "n"},
-            {"nl": "de winst", "it": "il profitto", "en": "profit", "emoji": "📈", "pos": "n"},
-            {"nl": "het verlies", "it": "la perdita", "en": "loss", "emoji": "📉", "pos": "n"},
-            {"nl": "de klant", "it": "il cliente", "en": "customer", "emoji": "🛍️", "pos": "n"},
-            {"nl": "de afspraak", "it": "l'appuntamento", "en": "appointment", "emoji": "📅", "pos": "n"},
-            {"nl": "de vergadering", "it": "la riunione", "en": "meeting", "pos": "n"},
-            {"nl": "het salaris", "it": "lo stipendio", "en": "salary", "emoji": "💶", "pos": "n"},
-            {"nl": "de ervaring", "it": "l'esperienza", "en": "experience", "pos": "n"},
-            {"nl": "solliciteren", "it": "candidarsi", "en": "to apply (job)", "pos": "v"}
+            {
+              "nl": "het bedrijf",
+              "it": "l'azienda",
+              "en": "company",
+              "emoji": "🏢",
+              "pos": "n",
+              "exampleNl": "Het bedrijf waar ik werk, heeft meer dan duizend werknemers.",
+              "exampleIt": "L'azienda in cui lavoro ha più di mille dipendenti."
+            },
+            {
+              "nl": "de werknemer",
+              "it": "il dipendente",
+              "en": "employee",
+              "pos": "n",
+              "exampleNl": "De werknemers worden goed betaald voor hun werk.",
+              "exampleIt": "I dipendenti sono pagati bene per il loro lavoro."
+            },
+            {
+              "nl": "de werkgever",
+              "it": "il datore di lavoro",
+              "en": "employer",
+              "pos": "n",
+              "exampleNl": "Een goede werkgever luistert naar de wensen van zijn personeel.",
+              "exampleIt": "Un buon datore di lavoro ascolta i desideri del suo personale."
+            },
+            {
+              "nl": "de winst",
+              "it": "il profitto",
+              "en": "profit",
+              "emoji": "📈",
+              "pos": "n",
+              "exampleNl": "De winst wordt aan het einde van het jaar verdeeld.",
+              "exampleIt": "Il profitto viene diviso alla fine dell'anno."
+            },
+            {
+              "nl": "het verlies",
+              "it": "la perdita",
+              "en": "loss",
+              "emoji": "📉",
+              "pos": "n",
+              "exampleNl": "Door de crisis heeft het bedrijf een groot verlies geleden.",
+              "exampleIt": "A causa della crisi l'azienda ha subito una grande perdita."
+            },
+            {
+              "nl": "de klant",
+              "it": "il cliente",
+              "en": "customer",
+              "emoji": "🛍️",
+              "pos": "n",
+              "exampleNl": "De klant heeft altijd gelijk, zeggen ze in de winkel.",
+              "exampleIt": "Il cliente ha sempre ragione, dicono nel negozio."
+            },
+            {
+              "nl": "de afspraak",
+              "it": "l'appuntamento",
+              "en": "appointment",
+              "emoji": "📅",
+              "pos": "n",
+              "exampleNl": "Ik zou onze afspraak graag naar volgende week willen verzetten.",
+              "exampleIt": "Vorrei spostare il nostro appuntamento alla settimana prossima."
+            },
+            {
+              "nl": "de vergadering",
+              "it": "la riunione",
+              "en": "meeting",
+              "pos": "n",
+              "exampleNl": "De vergadering werd uitgesteld omdat de directeur ziek was.",
+              "exampleIt": "La riunione è stata rinviata perché il direttore era malato."
+            },
+            {
+              "nl": "het salaris",
+              "it": "lo stipendio",
+              "en": "salary",
+              "emoji": "💶",
+              "pos": "n",
+              "exampleNl": "Na een jaar zou ik graag een hoger salaris willen vragen.",
+              "exampleIt": "Dopo un anno vorrei chiedere uno stipendio più alto."
+            },
+            {
+              "nl": "de ervaring",
+              "it": "l'esperienza",
+              "en": "experience",
+              "pos": "n",
+              "exampleNl": "Voor deze baan heb je minstens drie jaar ervaring nodig.",
+              "exampleIt": "Per questo lavoro hai bisogno di almeno tre anni di esperienza."
+            },
+            {
+              "nl": "solliciteren",
+              "it": "candidarsi",
+              "en": "to apply (job)",
+              "pos": "v",
+              "exampleNl": "Ik wil solliciteren naar een functie bij een internationaal bedrijf.",
+              "exampleIt": "Voglio candidarmi per una posizione in un'azienda internazionale."
+            }
           ]
         }
       ]
@@ -61,17 +221,105 @@
           "id": "b2u3l1",
           "title": "Il mondo naturale",
           "items": [
-            {"nl": "de natuur", "it": "la natura", "en": "nature", "emoji": "🌿", "pos": "n"},
-            {"nl": "het milieu", "it": "l'ambiente", "en": "environment", "emoji": "🌍", "pos": "n"},
-            {"nl": "de boom", "it": "l'albero", "en": "tree", "emoji": "🌳", "pos": "n"},
-            {"nl": "de bloem", "it": "il fiore", "en": "flower", "emoji": "🌸", "pos": "n"},
-            {"nl": "het bos", "it": "il bosco", "en": "forest", "emoji": "🌲", "pos": "n"},
-            {"nl": "de berg", "it": "la montagna", "en": "mountain", "emoji": "⛰️", "pos": "n"},
-            {"nl": "de rivier", "it": "il fiume", "en": "river", "emoji": "🏞️", "pos": "n"},
-            {"nl": "de zee", "it": "il mare", "en": "sea", "emoji": "🌊", "pos": "n"},
-            {"nl": "het klimaat", "it": "il clima", "en": "climate", "emoji": "🌡️", "pos": "n"},
-            {"nl": "de vervuiling", "it": "l'inquinamento", "en": "pollution", "emoji": "🏭", "pos": "n"},
-            {"nl": "duurzaam", "it": "sostenibile", "en": "sustainable", "emoji": "♻️", "pos": "adj"}
+            {
+              "nl": "de natuur",
+              "it": "la natura",
+              "en": "nature",
+              "emoji": "🌿",
+              "pos": "n",
+              "exampleNl": "We moeten de natuur beschermen voor de volgende generaties.",
+              "exampleIt": "Dobbiamo proteggere la natura per le generazioni future."
+            },
+            {
+              "nl": "het milieu",
+              "it": "l'ambiente",
+              "en": "environment",
+              "emoji": "🌍",
+              "pos": "n",
+              "exampleNl": "Het milieu wordt elke dag door plastic afval vervuild.",
+              "exampleIt": "L'ambiente viene inquinato ogni giorno dai rifiuti di plastica."
+            },
+            {
+              "nl": "de boom",
+              "it": "l'albero",
+              "en": "tree",
+              "emoji": "🌳",
+              "pos": "n",
+              "exampleNl": "In dit bos worden elk jaar honderden bomen geplant.",
+              "exampleIt": "In questo bosco si piantano centinaia di alberi ogni anno."
+            },
+            {
+              "nl": "de bloem",
+              "it": "il fiore",
+              "en": "flower",
+              "emoji": "🌸",
+              "pos": "n",
+              "exampleNl": "In de lente staan de velden vol met kleurrijke bloemen.",
+              "exampleIt": "In primavera i campi sono pieni di fiori colorati."
+            },
+            {
+              "nl": "het bos",
+              "it": "il bosco",
+              "en": "forest",
+              "emoji": "🌲",
+              "pos": "n",
+              "exampleNl": "Als we niet oppassen, zal het bos langzaam verdwijnen.",
+              "exampleIt": "Se non stiamo attenti, il bosco scomparirà lentamente."
+            },
+            {
+              "nl": "de berg",
+              "it": "la montagna",
+              "en": "mountain",
+              "emoji": "⛰️",
+              "pos": "n",
+              "exampleNl": "Vanaf de top van de berg heb je een prachtig uitzicht.",
+              "exampleIt": "Dalla cima della montagna hai una vista magnifica."
+            },
+            {
+              "nl": "de rivier",
+              "it": "il fiume",
+              "en": "river",
+              "emoji": "🏞️",
+              "pos": "n",
+              "exampleNl": "Het water van de rivier is door de fabriek vervuild.",
+              "exampleIt": "L'acqua del fiume è inquinata dalla fabbrica."
+            },
+            {
+              "nl": "de zee",
+              "it": "il mare",
+              "en": "sea",
+              "emoji": "🌊",
+              "pos": "n",
+              "exampleNl": "Door de opwarming stijgt het niveau van de zee elk jaar.",
+              "exampleIt": "A causa del riscaldamento il livello del mare sale ogni anno."
+            },
+            {
+              "nl": "het klimaat",
+              "it": "il clima",
+              "en": "climate",
+              "emoji": "🌡️",
+              "pos": "n",
+              "exampleNl": "Wetenschappers zeggen dat het klimaat snel aan het veranderen is.",
+              "exampleIt": "Gli scienziati dicono che il clima sta cambiando rapidamente."
+            },
+            {
+              "nl": "de vervuiling",
+              "it": "l'inquinamento",
+              "en": "pollution",
+              "emoji": "🏭",
+              "pos": "n",
+              "exampleNl": "De vervuiling van de lucht zou drastisch verminderd moeten worden.",
+              "exampleIt": "L'inquinamento dell'aria dovrebbe essere ridotto drasticamente."
+            },
+            {
+              "nl": "duurzaam",
+              "it": "sostenibile",
+              "en": "sustainable",
+              "emoji": "♻️",
+              "pos": "adj",
+              "exampleNl": "Steeds meer bedrijven kiezen voor duurzame energie en minder afval.",
+              "exampleIt": "Sempre più aziende scelgono energia sostenibile e meno rifiuti."
+            }
           ]
         }
       ]
@@ -85,17 +333,96 @@
           "id": "b2u4l1",
           "title": "Personalità",
           "items": [
-            {"nl": "eerlijk", "it": "onesto", "en": "honest", "pos": "adj"},
-            {"nl": "vriendelijk", "it": "gentile", "en": "kind", "emoji": "😊", "pos": "adj"},
-            {"nl": "verlegen", "it": "timido", "en": "shy", "pos": "adj"},
-            {"nl": "slim", "it": "intelligente", "en": "smart", "emoji": "🧠", "pos": "adj"},
-            {"nl": "lui", "it": "pigro", "en": "lazy", "pos": "adj"},
-            {"nl": "geduldig", "it": "paziente", "en": "patient", "pos": "adj"},
-            {"nl": "betrouwbaar", "it": "affidabile", "en": "reliable", "pos": "adj"},
-            {"nl": "zelfstandig", "it": "indipendente", "en": "independent", "pos": "adj"},
-            {"nl": "het vertrouwen", "it": "la fiducia", "en": "trust", "pos": "n"},
-            {"nl": "de relatie", "it": "la relazione", "en": "relationship", "pos": "n"},
-            {"nl": "de ruzie", "it": "il litigio", "en": "quarrel", "pos": "n"}
+            {
+              "nl": "eerlijk",
+              "it": "onesto",
+              "en": "honest",
+              "pos": "adj",
+              "exampleNl": "Ik waardeer het dat hij altijd eerlijk tegen me is.",
+              "exampleIt": "Apprezzo il fatto che sia sempre onesto con me."
+            },
+            {
+              "nl": "vriendelijk",
+              "it": "gentile",
+              "en": "kind",
+              "emoji": "😊",
+              "pos": "adj",
+              "exampleNl": "De nieuwe collega is vriendelijk en helpt iedereen graag.",
+              "exampleIt": "Il nuovo collega è gentile e aiuta volentieri tutti."
+            },
+            {
+              "nl": "verlegen",
+              "it": "timido",
+              "en": "shy",
+              "pos": "adj",
+              "exampleNl": "Toen hij jong was, was hij erg verlegen en stil.",
+              "exampleIt": "Quando era giovane, era molto timido e silenzioso."
+            },
+            {
+              "nl": "slim",
+              "it": "intelligente",
+              "en": "smart",
+              "emoji": "🧠",
+              "pos": "adj",
+              "exampleNl": "Ze is zo slim dat ze alles meteen begrijpt.",
+              "exampleIt": "È così intelligente che capisce tutto subito."
+            },
+            {
+              "nl": "lui",
+              "it": "pigro",
+              "en": "lazy",
+              "pos": "adj",
+              "exampleNl": "Hij is te lui om zijn kamer op te ruimen.",
+              "exampleIt": "È troppo pigro per mettere in ordine la sua stanza."
+            },
+            {
+              "nl": "geduldig",
+              "it": "paziente",
+              "en": "patient",
+              "pos": "adj",
+              "exampleNl": "Een goede leraar moet geduldig zijn met zijn leerlingen.",
+              "exampleIt": "Un buon insegnante deve essere paziente con i suoi alunni."
+            },
+            {
+              "nl": "betrouwbaar",
+              "it": "affidabile",
+              "en": "reliable",
+              "pos": "adj",
+              "exampleNl": "Je kunt hem vertrouwen, want hij is heel betrouwbaar.",
+              "exampleIt": "Puoi fidarti di lui, perché è molto affidabile."
+            },
+            {
+              "nl": "zelfstandig",
+              "it": "indipendente",
+              "en": "independent",
+              "pos": "adj",
+              "exampleNl": "Na haar studie wil ze graag zelfstandig gaan wonen.",
+              "exampleIt": "Dopo gli studi vuole andare a vivere da sola."
+            },
+            {
+              "nl": "het vertrouwen",
+              "it": "la fiducia",
+              "en": "trust",
+              "pos": "n",
+              "exampleNl": "Zonder vertrouwen zou een goede relatie niet kunnen bestaan.",
+              "exampleIt": "Senza fiducia una buona relazione non potrebbe esistere."
+            },
+            {
+              "nl": "de relatie",
+              "it": "la relazione",
+              "en": "relationship",
+              "pos": "n",
+              "exampleNl": "Een goede relatie is gebaseerd op respect en eerlijkheid.",
+              "exampleIt": "Una buona relazione si basa sul rispetto e sull'onestà."
+            },
+            {
+              "nl": "de ruzie",
+              "it": "il litigio",
+              "en": "quarrel",
+              "pos": "n",
+              "exampleNl": "Ze hebben ruzie gemaakt omdat ze het niet eens waren.",
+              "exampleIt": "Hanno litigato perché non erano d'accordo."
+            }
           ]
         }
       ]
