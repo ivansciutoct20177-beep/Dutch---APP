@@ -14,16 +14,86 @@
           "id": "c1u1l1",
           "title": "Concetti sottili",
           "items": [
-            {"nl": "het besef", "it": "la consapevolezza", "en": "awareness", "pos": "n"},
-            {"nl": "de overtuiging", "it": "la convinzione", "en": "conviction", "pos": "n"},
-            {"nl": "de veronderstelling", "it": "la supposizione", "en": "assumption", "pos": "n"},
-            {"nl": "de nuance", "it": "la sfumatura", "en": "nuance", "pos": "n"},
-            {"nl": "het vooroordeel", "it": "il pregiudizio", "en": "prejudice", "pos": "n"},
-            {"nl": "de tegenstrijdigheid", "it": "la contraddizione", "en": "contradiction", "pos": "n"},
-            {"nl": "de samenhang", "it": "la coerenza / il nesso", "en": "coherence", "pos": "n"},
-            {"nl": "de verhouding", "it": "il rapporto / la proporzione", "en": "ratio / relation", "pos": "n"},
-            {"nl": "het streven", "it": "l'aspirazione", "en": "aspiration", "pos": "n"},
-            {"nl": "de waarneming", "it": "la percezione", "en": "perception", "pos": "n"}
+            {
+              "nl": "het besef",
+              "it": "la consapevolezza",
+              "en": "awareness",
+              "pos": "n",
+              "exampleNl": "Het besef dat we te laat waren, kwam pas toen de deuren al gesloten waren.",
+              "exampleIt": "La consapevolezza di essere in ritardo arrivò solo quando le porte erano già chiuse."
+            },
+            {
+              "nl": "de overtuiging",
+              "it": "la convinzione",
+              "en": "conviction",
+              "pos": "n",
+              "exampleNl": "Hij verdedigde zijn standpunt met een overtuiging die niemand in de zaal kon negeren.",
+              "exampleIt": "Difese il suo punto di vista con una convinzione che nessuno in sala poté ignorare."
+            },
+            {
+              "nl": "de veronderstelling",
+              "it": "la supposizione",
+              "en": "assumption",
+              "pos": "n",
+              "exampleNl": "De hele theorie berust op de veronderstelling dat alle deelnemers rationeel handelen.",
+              "exampleIt": "L'intera teoria si basa sul presupposto che tutti i partecipanti agiscano in modo razionale."
+            },
+            {
+              "nl": "de nuance",
+              "it": "la sfumatura",
+              "en": "nuance",
+              "pos": "n",
+              "exampleNl": "In een goed debat is het juist de nuance die het verschil maakt.",
+              "exampleIt": "In un buon dibattito è proprio la sfumatura che fa la differenza."
+            },
+            {
+              "nl": "het vooroordeel",
+              "it": "il pregiudizio",
+              "en": "prejudice",
+              "pos": "n",
+              "exampleNl": "Veel mensen beoordelen anderen op basis van een vooroordeel, zonder hen werkelijk te kennen.",
+              "exampleIt": "Molti giudicano gli altri sulla base di un pregiudizio, senza conoscerli davvero."
+            },
+            {
+              "nl": "de tegenstrijdigheid",
+              "it": "la contraddizione",
+              "en": "contradiction",
+              "pos": "n",
+              "exampleNl": "De rechter wees op een opvallende tegenstrijdigheid in de verklaring van de getuige.",
+              "exampleIt": "Il giudice ha segnalato una vistosa contraddizione nella deposizione del testimone."
+            },
+            {
+              "nl": "de samenhang",
+              "it": "la coerenza / il nesso",
+              "en": "coherence",
+              "pos": "n",
+              "exampleNl": "De auteur legt op heldere wijze de samenhang tussen economie en politiek uit.",
+              "exampleIt": "L'autore spiega in modo chiaro il nesso tra economia e politica."
+            },
+            {
+              "nl": "de verhouding",
+              "it": "il rapporto / la proporzione",
+              "en": "ratio / relation",
+              "pos": "n",
+              "exampleNl": "De verhouding tussen kwaliteit en prijs is bij dit product uitstekend.",
+              "exampleIt": "Il rapporto tra qualità e prezzo di questo prodotto è eccellente."
+            },
+            {
+              "nl": "het streven",
+              "it": "l'aspirazione",
+              "en": "aspiration",
+              "pos": "n",
+              "exampleNl": "Het streven naar perfectie kan soms verlammend werken in plaats van motiverend.",
+              "exampleIt": "L'aspirazione alla perfezione a volte può risultare paralizzante invece che motivante."
+            },
+            {
+              "nl": "de waarneming",
+              "it": "la percezione",
+              "en": "perception",
+              "pos": "n",
+              "exampleNl": "Een wetenschappelijke conclusie moet altijd op zorgvuldige waarneming gebaseerd zijn.",
+              "exampleIt": "Una conclusione scientifica deve sempre basarsi su un'osservazione accurata."
+            }
           ]
         }
       ]
@@ -37,16 +107,86 @@
           "id": "c1u2l1",
           "title": "Espressioni idiomatiche",
           "items": [
-            {"nl": "de spijker op de kop slaan", "it": "colpire nel segno", "en": "to hit the nail on the head", "pos": "phr"},
-            {"nl": "om de hete brij heen draaien", "it": "girarci intorno", "en": "to beat around the bush", "pos": "phr"},
-            {"nl": "de kat uit de boom kijken", "it": "stare a vedere come si mettono le cose", "en": "to wait and see", "pos": "phr"},
-            {"nl": "met de deur in huis vallen", "it": "andare dritti al punto", "en": "to get straight to the point", "pos": "phr"},
-            {"nl": "de draad kwijt zijn", "it": "perdere il filo", "en": "to lose the thread", "pos": "phr"},
-            {"nl": "het hoofd koel houden", "it": "mantenere la calma", "en": "to keep a cool head", "pos": "phr"},
-            {"nl": "iets door de vingers zien", "it": "chiudere un occhio", "en": "to turn a blind eye", "pos": "phr"},
-            {"nl": "de knoop doorhakken", "it": "prendere una decisione netta", "en": "to cut the knot", "pos": "phr"},
-            {"nl": "boter bij de vis", "it": "pagamento immediato", "en": "cash on the nail", "pos": "phr"},
-            {"nl": "een appeltje voor de dorst", "it": "un gruzzolo per i tempi difficili", "en": "a nest egg", "pos": "phr"}
+            {
+              "nl": "de spijker op de kop slaan",
+              "it": "colpire nel segno",
+              "en": "to hit the nail on the head",
+              "pos": "phr",
+              "exampleNl": "Met zijn analyse sloeg de journalist precies de spijker op de kop.",
+              "exampleIt": "Con la sua analisi il giornalista ha colpito esattamente nel segno."
+            },
+            {
+              "nl": "om de hete brij heen draaien",
+              "it": "girarci intorno",
+              "en": "to beat around the bush",
+              "pos": "phr",
+              "exampleNl": "In plaats van eerlijk te zijn, bleef hij om de hete brij heen draaien.",
+              "exampleIt": "Invece di essere onesto, continuava a girare intorno al problema."
+            },
+            {
+              "nl": "de kat uit de boom kijken",
+              "it": "stare a vedere come si mettono le cose",
+              "en": "to wait and see",
+              "pos": "phr",
+              "exampleNl": "Tijdens de vergadering keek zij eerst de kat uit de boom voordat ze iets zei.",
+              "exampleIt": "Durante la riunione lei aspettò di vedere come si mettevano le cose prima di dire qualcosa."
+            },
+            {
+              "nl": "met de deur in huis vallen",
+              "it": "andare dritti al punto",
+              "en": "to get straight to the point",
+              "pos": "phr",
+              "exampleNl": "Hij viel meteen met de deur in huis en vroeg om opslag.",
+              "exampleIt": "È andato dritto al punto e ha chiesto un aumento."
+            },
+            {
+              "nl": "de draad kwijt zijn",
+              "it": "perdere il filo",
+              "en": "to lose the thread",
+              "pos": "phr",
+              "exampleNl": "Door alle onderbrekingen was ik de draad helemaal kwijt.",
+              "exampleIt": "Con tutte le interruzioni avevo completamente perso il filo."
+            },
+            {
+              "nl": "het hoofd koel houden",
+              "it": "mantenere la calma",
+              "en": "to keep a cool head",
+              "pos": "phr",
+              "exampleNl": "Zelfs in een crisis weet zij het hoofd koel te houden.",
+              "exampleIt": "Anche in una crisi lei riesce a mantenere la calma."
+            },
+            {
+              "nl": "iets door de vingers zien",
+              "it": "chiudere un occhio",
+              "en": "to turn a blind eye",
+              "pos": "phr",
+              "exampleNl": "De leraar zag de kleine fout door de vingers.",
+              "exampleIt": "L'insegnante ha chiuso un occhio sul piccolo errore."
+            },
+            {
+              "nl": "de knoop doorhakken",
+              "it": "prendere una decisione netta",
+              "en": "to cut the knot",
+              "pos": "phr",
+              "exampleNl": "Na lang twijfelen hakte de directeur eindelijk de knoop door.",
+              "exampleIt": "Dopo molti dubbi il direttore ha finalmente preso una decisione netta."
+            },
+            {
+              "nl": "boter bij de vis",
+              "it": "pagamento immediato",
+              "en": "cash on the nail",
+              "pos": "phr",
+              "exampleNl": "Bij deze deal geldt boter bij de vis: eerst betalen, dan leveren.",
+              "exampleIt": "In questo accordo vale il pagamento immediato: prima si paga, poi si consegna."
+            },
+            {
+              "nl": "een appeltje voor de dorst",
+              "it": "un gruzzolo per i tempi difficili",
+              "en": "a nest egg",
+              "pos": "phr",
+              "exampleNl": "Ze spaart elke maand wat geld als een appeltje voor de dorst.",
+              "exampleIt": "Ogni mese mette da parte un po' di soldi per i tempi difficili."
+            }
           ]
         }
       ]
@@ -60,18 +200,104 @@
           "id": "c1u3l1",
           "title": "Ricerca e argomentazione",
           "items": [
-            {"nl": "het onderzoek", "it": "la ricerca", "en": "research", "emoji": "🔬", "pos": "n"},
-            {"nl": "de hypothese", "it": "l'ipotesi", "en": "hypothesis", "pos": "n"},
-            {"nl": "de analyse", "it": "l'analisi", "en": "analysis", "pos": "n"},
-            {"nl": "de conclusie", "it": "la conclusione", "en": "conclusion", "pos": "n"},
-            {"nl": "het argument", "it": "l'argomentazione", "en": "argument", "pos": "n"},
-            {"nl": "het bewijs", "it": "la prova / l'evidenza", "en": "evidence", "pos": "n"},
-            {"nl": "de theorie", "it": "la teoria", "en": "theory", "pos": "n"},
-            {"nl": "het begrip", "it": "il concetto", "en": "concept", "pos": "n"},
-            {"nl": "de bron", "it": "la fonte", "en": "source", "emoji": "📚", "pos": "n"},
-            {"nl": "de samenvatting", "it": "il riassunto", "en": "summary", "pos": "n"},
-            {"nl": "aantonen", "it": "dimostrare", "en": "to demonstrate", "pos": "v"},
-            {"nl": "beïnvloeden", "it": "influenzare", "en": "to influence", "pos": "v"}
+            {
+              "nl": "het onderzoek",
+              "it": "la ricerca",
+              "en": "research",
+              "emoji": "🔬",
+              "pos": "n",
+              "exampleNl": "Uit recent onderzoek blijkt dat lichaamsbeweging het geheugen aanzienlijk verbetert.",
+              "exampleIt": "Da una recente ricerca emerge che l'attività fisica migliora notevolmente la memoria."
+            },
+            {
+              "nl": "de hypothese",
+              "it": "l'ipotesi",
+              "en": "hypothesis",
+              "pos": "n",
+              "exampleNl": "De onderzoekers formuleerden een hypothese die ze vervolgens met experimenten wilden toetsen.",
+              "exampleIt": "I ricercatori formularono un'ipotesi che poi volevano verificare con degli esperimenti."
+            },
+            {
+              "nl": "de analyse",
+              "it": "l'analisi",
+              "en": "analysis",
+              "pos": "n",
+              "exampleNl": "Een grondige analyse van de gegevens onthulde een verband dat eerder onopgemerkt was gebleven.",
+              "exampleIt": "Un'analisi approfondita dei dati ha rivelato una correlazione rimasta prima inosservata."
+            },
+            {
+              "nl": "de conclusie",
+              "it": "la conclusione",
+              "en": "conclusion",
+              "pos": "n",
+              "exampleNl": "De conclusie van het rapport is dat verdere maatregelen dringend noodzakelijk zijn.",
+              "exampleIt": "La conclusione del rapporto è che ulteriori misure sono urgentemente necessarie."
+            },
+            {
+              "nl": "het argument",
+              "it": "l'argomentazione",
+              "en": "argument",
+              "pos": "n",
+              "exampleNl": "Zijn argument was zo overtuigend dat zelfs de critici uiteindelijk moesten toegeven.",
+              "exampleIt": "Il suo argomento era così convincente che persino i critici alla fine dovettero ammetterlo."
+            },
+            {
+              "nl": "het bewijs",
+              "it": "la prova / l'evidenza",
+              "en": "evidence",
+              "pos": "n",
+              "exampleNl": "Zonder overtuigend bewijs kan een dergelijke bewering niet serieus worden genomen.",
+              "exampleIt": "Senza prove convincenti, una simile affermazione non può essere presa sul serio."
+            },
+            {
+              "nl": "de theorie",
+              "it": "la teoria",
+              "en": "theory",
+              "pos": "n",
+              "exampleNl": "De theorie werd algemeen aanvaard, totdat nieuwe ontdekkingen haar onhoudbaar maakten.",
+              "exampleIt": "La teoria fu generalmente accettata, finché nuove scoperte la resero insostenibile."
+            },
+            {
+              "nl": "het begrip",
+              "it": "il concetto",
+              "en": "concept",
+              "pos": "n",
+              "exampleNl": "Het begrip 'duurzaamheid' wordt tegenwoordig vaak gebruikt zonder dat men het precies definieert.",
+              "exampleIt": "Il concetto di 'sostenibilità' oggi viene spesso usato senza che lo si definisca con precisione."
+            },
+            {
+              "nl": "de bron",
+              "it": "la fonte",
+              "en": "source",
+              "emoji": "📚",
+              "pos": "n",
+              "exampleNl": "De auteur vermeldt elke bron zorgvuldig, zodat de lezer alles kan controleren.",
+              "exampleIt": "L'autore cita ogni fonte con cura, affinché il lettore possa verificare tutto."
+            },
+            {
+              "nl": "de samenvatting",
+              "it": "il riassunto",
+              "en": "summary",
+              "pos": "n",
+              "exampleNl": "In de samenvatting vat de onderzoeker de belangrijkste bevindingen kort en bondig samen.",
+              "exampleIt": "Nel riassunto il ricercatore sintetizza in modo breve e conciso i risultati principali."
+            },
+            {
+              "nl": "aantonen",
+              "it": "dimostrare",
+              "en": "to demonstrate",
+              "pos": "v",
+              "exampleNl": "De studie probeert aan te tonen dat het nieuwe medicijn werkelijk effectief is.",
+              "exampleIt": "Lo studio cerca di dimostrare che il nuovo farmaco è davvero efficace."
+            },
+            {
+              "nl": "beïnvloeden",
+              "it": "influenzare",
+              "en": "to influence",
+              "pos": "v",
+              "exampleNl": "Reclame kan ons gedrag beïnvloeden, ook al zijn we ons daar niet van bewust.",
+              "exampleIt": "La pubblicità può influenzare il nostro comportamento, anche se non ne siamo consapevoli."
+            }
           ]
         }
       ]
