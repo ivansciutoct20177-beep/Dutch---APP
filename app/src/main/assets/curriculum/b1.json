@@ -14,16 +14,95 @@
           "id": "b1u1l1",
           "title": "Come ti senti",
           "items": [
-            {"nl": "blij", "it": "felice / contento", "en": "happy", "emoji": "😊", "pos": "adj"},
-            {"nl": "verdrietig", "it": "triste", "en": "sad", "emoji": "😢", "pos": "adj"},
-            {"nl": "boos", "it": "arrabbiato", "en": "angry", "emoji": "😠", "pos": "adj"},
-            {"nl": "bang", "it": "spaventato", "en": "afraid", "emoji": "😨", "pos": "adj"},
-            {"nl": "trots", "it": "orgoglioso", "en": "proud", "emoji": "🦁", "pos": "adj"},
-            {"nl": "verrast", "it": "sorpreso", "en": "surprised", "emoji": "😲", "pos": "adj"},
-            {"nl": "rustig", "it": "calmo", "en": "calm", "emoji": "😌", "pos": "adj"},
-            {"nl": "nerveus", "it": "nervoso", "en": "nervous", "emoji": "😰", "pos": "adj"},
-            {"nl": "gelukkig", "it": "felice / fortunato", "en": "lucky / happy", "emoji": "🍀", "pos": "adj"},
-            {"nl": "eenzaam", "it": "solo / solitario", "en": "lonely", "pos": "adj"}
+            {
+              "nl": "blij",
+              "it": "felice / contento",
+              "en": "happy",
+              "emoji": "😊",
+              "pos": "adj",
+              "exampleNl": "Ik ben blij dat je er bent.",
+              "exampleIt": "Sono contento che tu ci sia."
+            },
+            {
+              "nl": "verdrietig",
+              "it": "triste",
+              "en": "sad",
+              "emoji": "😢",
+              "pos": "adj",
+              "exampleNl": "Ze is verdrietig omdat haar hond ziek is.",
+              "exampleIt": "È triste perché il suo cane è malato."
+            },
+            {
+              "nl": "boos",
+              "it": "arrabbiato",
+              "en": "angry",
+              "emoji": "😠",
+              "pos": "adj",
+              "exampleNl": "Mijn vader is boos omdat ik te laat ben.",
+              "exampleIt": "Mio padre è arrabbiato perché sono in ritardo."
+            },
+            {
+              "nl": "bang",
+              "it": "spaventato",
+              "en": "afraid",
+              "emoji": "😨",
+              "pos": "adj",
+              "exampleNl": "Ik ben bang dat het gaat regenen.",
+              "exampleIt": "Ho paura che pioverà."
+            },
+            {
+              "nl": "trots",
+              "it": "orgoglioso",
+              "en": "proud",
+              "emoji": "🦁",
+              "pos": "adj",
+              "exampleNl": "Ze is trots omdat ze geslaagd is.",
+              "exampleIt": "È orgogliosa perché è stata promossa."
+            },
+            {
+              "nl": "verrast",
+              "it": "sorpreso",
+              "en": "surprised",
+              "emoji": "😲",
+              "pos": "adj",
+              "exampleNl": "Ik was verrast dat hij zo vroeg kwam.",
+              "exampleIt": "Sono rimasto sorpreso che sia venuto così presto."
+            },
+            {
+              "nl": "rustig",
+              "it": "calmo",
+              "en": "calm",
+              "emoji": "😌",
+              "pos": "adj",
+              "exampleNl": "Blijf rustig, ook als het moeilijk wordt.",
+              "exampleIt": "Resta calmo, anche quando diventa difficile."
+            },
+            {
+              "nl": "nerveus",
+              "it": "nervoso",
+              "en": "nervous",
+              "emoji": "😰",
+              "pos": "adj",
+              "exampleNl": "Ik ben altijd nerveus voor een examen.",
+              "exampleIt": "Sono sempre nervoso prima di un esame."
+            },
+            {
+              "nl": "gelukkig",
+              "it": "felice / fortunato",
+              "en": "lucky / happy",
+              "emoji": "🍀",
+              "pos": "adj",
+              "exampleNl": "Ik voel me gelukkig als ik bij mijn familie ben.",
+              "exampleIt": "Mi sento felice quando sono con la mia famiglia."
+            },
+            {
+              "nl": "eenzaam",
+              "it": "solo / solitario",
+              "en": "lonely",
+              "pos": "adj",
+              "exampleNl": "Soms voelt hij zich eenzaam in de grote stad.",
+              "exampleIt": "A volte si sente solo nella grande città."
+            }
           ]
         }
       ]
@@ -37,17 +116,100 @@
           "id": "b1u2l1",
           "title": "Esprimere idee",
           "items": [
-            {"nl": "de mening", "it": "l'opinione", "en": "opinion", "emoji": "💭", "pos": "n", "exampleNl": "Wat is jouw mening?", "exampleIt": "Qual è la tua opinione?"},
-            {"nl": "geloven", "it": "credere", "en": "to believe", "pos": "v"},
-            {"nl": "denken", "it": "pensare", "en": "to think", "emoji": "🤔", "pos": "v"},
-            {"nl": "vinden", "it": "ritenere / trovare", "en": "to find / to think", "pos": "v"},
-            {"nl": "begrijpen", "it": "capire", "en": "to understand", "emoji": "💡", "pos": "v"},
-            {"nl": "uitleggen", "it": "spiegare", "en": "to explain", "pos": "v"},
-            {"nl": "vragen", "it": "chiedere", "en": "to ask", "emoji": "❓", "pos": "v"},
-            {"nl": "antwoorden", "it": "rispondere", "en": "to answer", "pos": "v"},
-            {"nl": "beslissen", "it": "decidere", "en": "to decide", "pos": "v"},
-            {"nl": "het probleem", "it": "il problema", "en": "problem", "emoji": "⚠️", "pos": "n"},
-            {"nl": "de oplossing", "it": "la soluzione", "en": "solution", "emoji": "✅", "pos": "n"}
+            {
+              "nl": "de mening",
+              "it": "l'opinione",
+              "en": "opinion",
+              "emoji": "💭",
+              "pos": "n",
+              "exampleNl": "Wat is jouw mening?",
+              "exampleIt": "Qual è la tua opinione?"
+            },
+            {
+              "nl": "geloven",
+              "it": "credere",
+              "en": "to believe",
+              "pos": "v",
+              "exampleNl": "Ik geloof dat alles goed komt.",
+              "exampleIt": "Credo che tutto andrà bene."
+            },
+            {
+              "nl": "denken",
+              "it": "pensare",
+              "en": "to think",
+              "emoji": "🤔",
+              "pos": "v",
+              "exampleNl": "Ik denk dat hij gelijk heeft.",
+              "exampleIt": "Penso che abbia ragione."
+            },
+            {
+              "nl": "vinden",
+              "it": "ritenere / trovare",
+              "en": "to find / to think",
+              "pos": "v",
+              "exampleNl": "Ik vind dat we nu moeten beginnen.",
+              "exampleIt": "Penso che dobbiamo iniziare adesso."
+            },
+            {
+              "nl": "begrijpen",
+              "it": "capire",
+              "en": "to understand",
+              "emoji": "💡",
+              "pos": "v",
+              "exampleNl": "Ik begrijp niet waarom je boos bent.",
+              "exampleIt": "Non capisco perché sei arrabbiato."
+            },
+            {
+              "nl": "uitleggen",
+              "it": "spiegare",
+              "en": "to explain",
+              "pos": "v",
+              "exampleNl": "Kun je uitleggen hoe dit werkt?",
+              "exampleIt": "Puoi spiegare come funziona questo?"
+            },
+            {
+              "nl": "vragen",
+              "it": "chiedere",
+              "en": "to ask",
+              "emoji": "❓",
+              "pos": "v",
+              "exampleNl": "Ze vraagt of ik wil meegaan.",
+              "exampleIt": "Chiede se voglio venire."
+            },
+            {
+              "nl": "antwoorden",
+              "it": "rispondere",
+              "en": "to answer",
+              "pos": "v",
+              "exampleNl": "Hij antwoordt altijd heel beleefd.",
+              "exampleIt": "Risponde sempre molto educatamente."
+            },
+            {
+              "nl": "beslissen",
+              "it": "decidere",
+              "en": "to decide",
+              "pos": "v",
+              "exampleNl": "We moeten nu beslissen wat we doen.",
+              "exampleIt": "Dobbiamo decidere adesso cosa facciamo."
+            },
+            {
+              "nl": "het probleem",
+              "it": "il problema",
+              "en": "problem",
+              "emoji": "⚠️",
+              "pos": "n",
+              "exampleNl": "Het grootste probleem is dat we weinig tijd hebben.",
+              "exampleIt": "Il problema più grande è che abbiamo poco tempo."
+            },
+            {
+              "nl": "de oplossing",
+              "it": "la soluzione",
+              "en": "solution",
+              "emoji": "✅",
+              "pos": "n",
+              "exampleNl": "Ik denk dat er een betere oplossing bestaat.",
+              "exampleIt": "Penso che esista una soluzione migliore."
+            }
           ]
         }
       ]
@@ -61,16 +223,91 @@
           "id": "b1u3l1",
           "title": "Agire e scambiare",
           "items": [
-            {"nl": "beginnen", "it": "iniziare", "en": "to begin", "pos": "v"},
-            {"nl": "stoppen", "it": "fermare / smettere", "en": "to stop", "emoji": "✋", "pos": "v"},
-            {"nl": "proberen", "it": "provare", "en": "to try", "pos": "v"},
-            {"nl": "helpen", "it": "aiutare", "en": "to help", "emoji": "🤝", "pos": "v"},
-            {"nl": "kopen", "it": "comprare", "en": "to buy", "emoji": "🛒", "pos": "v"},
-            {"nl": "verkopen", "it": "vendere", "en": "to sell", "pos": "v"},
-            {"nl": "betalen", "it": "pagare", "en": "to pay", "emoji": "💳", "pos": "v"},
-            {"nl": "kosten", "it": "costare", "en": "to cost", "pos": "v"},
-            {"nl": "krijgen", "it": "ricevere", "en": "to receive", "pos": "v"},
-            {"nl": "geven", "it": "dare", "en": "to give", "emoji": "🎁", "pos": "v"}
+            {
+              "nl": "beginnen",
+              "it": "iniziare",
+              "en": "to begin",
+              "pos": "v",
+              "exampleNl": "De film begint zodra iedereen er is.",
+              "exampleIt": "Il film inizia appena ci sono tutti."
+            },
+            {
+              "nl": "stoppen",
+              "it": "fermare / smettere",
+              "en": "to stop",
+              "emoji": "✋",
+              "pos": "v",
+              "exampleNl": "We stoppen met werken als het donker wordt.",
+              "exampleIt": "Smettiamo di lavorare quando fa buio."
+            },
+            {
+              "nl": "proberen",
+              "it": "provare",
+              "en": "to try",
+              "pos": "v",
+              "exampleNl": "Ik probeer elke dag Nederlands te oefenen.",
+              "exampleIt": "Provo a esercitarmi in olandese ogni giorno."
+            },
+            {
+              "nl": "helpen",
+              "it": "aiutare",
+              "en": "to help",
+              "emoji": "🤝",
+              "pos": "v",
+              "exampleNl": "Kun je me helpen met mijn huiswerk?",
+              "exampleIt": "Puoi aiutarmi con i compiti?"
+            },
+            {
+              "nl": "kopen",
+              "it": "comprare",
+              "en": "to buy",
+              "emoji": "🛒",
+              "pos": "v",
+              "exampleNl": "Ik wil een nieuwe jas kopen voor de winter.",
+              "exampleIt": "Voglio comprare una giacca nuova per l'inverno."
+            },
+            {
+              "nl": "verkopen",
+              "it": "vendere",
+              "en": "to sell",
+              "pos": "v",
+              "exampleNl": "Ze verkopen hun huis omdat ze verhuizen.",
+              "exampleIt": "Vendono la loro casa perché traslocano."
+            },
+            {
+              "nl": "betalen",
+              "it": "pagare",
+              "en": "to pay",
+              "emoji": "💳",
+              "pos": "v",
+              "exampleNl": "Kan ik met mijn kaart betalen?",
+              "exampleIt": "Posso pagare con la carta?"
+            },
+            {
+              "nl": "kosten",
+              "it": "costare",
+              "en": "to cost",
+              "pos": "v",
+              "exampleNl": "Ik weet niet hoeveel het kost.",
+              "exampleIt": "Non so quanto costa."
+            },
+            {
+              "nl": "krijgen",
+              "it": "ricevere",
+              "en": "to receive",
+              "pos": "v",
+              "exampleNl": "Ze krijgt een cadeau voor haar verjaardag.",
+              "exampleIt": "Riceve un regalo per il suo compleanno."
+            },
+            {
+              "nl": "geven",
+              "it": "dare",
+              "en": "to give",
+              "emoji": "🎁",
+              "pos": "v",
+              "exampleNl": "Kun je me een goed advies geven?",
+              "exampleIt": "Puoi darmi un buon consiglio?"
+            }
           ]
         }
       ]
@@ -84,18 +321,104 @@
           "id": "b1u4l1",
           "title": "Frequenza e misura",
           "items": [
-            {"nl": "vroeg", "it": "presto", "en": "early", "pos": "adv"},
-            {"nl": "laat", "it": "tardi", "en": "late", "pos": "adv"},
-            {"nl": "vaak", "it": "spesso", "en": "often", "pos": "adv"},
-            {"nl": "soms", "it": "a volte", "en": "sometimes", "pos": "adv"},
-            {"nl": "altijd", "it": "sempre", "en": "always", "pos": "adv"},
-            {"nl": "nooit", "it": "mai", "en": "never", "pos": "adv"},
-            {"nl": "veel", "it": "molto", "en": "much / many", "pos": "adv"},
-            {"nl": "weinig", "it": "poco", "en": "little / few", "pos": "adv"},
-            {"nl": "genoeg", "it": "abbastanza", "en": "enough", "pos": "adv"},
-            {"nl": "bijna", "it": "quasi", "en": "almost", "pos": "adv"},
-            {"nl": "snel", "it": "veloce", "en": "fast", "emoji": "💨", "pos": "adj"},
-            {"nl": "langzaam", "it": "lento", "en": "slow", "emoji": "🐢", "pos": "adj"}
+            {
+              "nl": "vroeg",
+              "it": "presto",
+              "en": "early",
+              "pos": "adv",
+              "exampleNl": "Op werkdagen sta ik altijd vroeg op.",
+              "exampleIt": "Nei giorni lavorativi mi alzo sempre presto."
+            },
+            {
+              "nl": "laat",
+              "it": "tardi",
+              "en": "late",
+              "pos": "adv",
+              "exampleNl": "Sorry dat ik zo laat ben.",
+              "exampleIt": "Scusa se sono così in ritardo."
+            },
+            {
+              "nl": "vaak",
+              "it": "spesso",
+              "en": "often",
+              "pos": "adv",
+              "exampleNl": "Ik ga vaak naar de bioscoop in het weekend.",
+              "exampleIt": "Vado spesso al cinema nel weekend."
+            },
+            {
+              "nl": "soms",
+              "it": "a volte",
+              "en": "sometimes",
+              "pos": "adv",
+              "exampleNl": "Soms eet ik buiten de deur.",
+              "exampleIt": "A volte mangio fuori."
+            },
+            {
+              "nl": "altijd",
+              "it": "sempre",
+              "en": "always",
+              "pos": "adv",
+              "exampleNl": "Hij is altijd op tijd voor zijn afspraken.",
+              "exampleIt": "È sempre puntuale ai suoi appuntamenti."
+            },
+            {
+              "nl": "nooit",
+              "it": "mai",
+              "en": "never",
+              "pos": "adv",
+              "exampleNl": "Ik drink nooit koffie na het avondeten.",
+              "exampleIt": "Non bevo mai caffè dopo cena."
+            },
+            {
+              "nl": "veel",
+              "it": "molto",
+              "en": "much / many",
+              "pos": "adv",
+              "exampleNl": "Er zijn veel mensen op het feest.",
+              "exampleIt": "Ci sono molte persone alla festa."
+            },
+            {
+              "nl": "weinig",
+              "it": "poco",
+              "en": "little / few",
+              "pos": "adv",
+              "exampleNl": "We hebben weinig tijd, dus we moeten opschieten.",
+              "exampleIt": "Abbiamo poco tempo, quindi dobbiamo sbrigarci."
+            },
+            {
+              "nl": "genoeg",
+              "it": "abbastanza",
+              "en": "enough",
+              "pos": "adv",
+              "exampleNl": "Ik heb genoeg geld om dit te kopen.",
+              "exampleIt": "Ho abbastanza soldi per comprarlo."
+            },
+            {
+              "nl": "bijna",
+              "it": "quasi",
+              "en": "almost",
+              "pos": "adv",
+              "exampleNl": "Het is bijna acht uur, we moeten gaan.",
+              "exampleIt": "Sono quasi le otto, dobbiamo andare."
+            },
+            {
+              "nl": "snel",
+              "it": "veloce",
+              "en": "fast",
+              "emoji": "💨",
+              "pos": "adj",
+              "exampleNl": "Hij loopt zo snel dat ik hem niet kan bijhouden.",
+              "exampleIt": "Cammina così veloce che non riesco a stargli dietro."
+            },
+            {
+              "nl": "langzaam",
+              "it": "lento",
+              "en": "slow",
+              "emoji": "🐢",
+              "pos": "adj",
+              "exampleNl": "Kun je wat langzamer praten, alsjeblieft?",
+              "exampleIt": "Puoi parlare un po' più lentamente, per favore?"
+            }
           ]
         }
       ]
@@ -110,17 +433,94 @@
           "id": "b1u5l1",
           "title": "Collegare le frasi",
           "items": [
-            {"nl": "en", "it": "e", "en": "and", "pos": "conj"},
-            {"nl": "maar", "it": "ma", "en": "but", "pos": "conj"},
-            {"nl": "of", "it": "o / oppure", "en": "or", "pos": "conj"},
-            {"nl": "want", "it": "perché (coord.)", "en": "because", "pos": "conj"},
-            {"nl": "omdat", "it": "poiché (subord.)", "en": "because", "pos": "conj"},
-            {"nl": "dus", "it": "quindi", "en": "so", "pos": "conj"},
-            {"nl": "als", "it": "se / quando", "en": "if / when", "pos": "conj"},
-            {"nl": "terwijl", "it": "mentre", "en": "while", "pos": "conj"},
-            {"nl": "hoewel", "it": "sebbene", "en": "although", "pos": "conj"},
-            {"nl": "daarom", "it": "perciò", "en": "therefore", "pos": "adv"},
-            {"nl": "ook", "it": "anche", "en": "also", "pos": "adv"}
+            {
+              "nl": "en",
+              "it": "e",
+              "en": "and",
+              "pos": "conj",
+              "exampleNl": "Ik werk in de stad en ik woon op het platteland.",
+              "exampleIt": "Lavoro in città e abito in campagna."
+            },
+            {
+              "nl": "maar",
+              "it": "ma",
+              "en": "but",
+              "pos": "conj",
+              "exampleNl": "Ik wil komen, maar ik heb geen tijd.",
+              "exampleIt": "Voglio venire, ma non ho tempo."
+            },
+            {
+              "nl": "of",
+              "it": "o / oppure",
+              "en": "or",
+              "pos": "conj",
+              "exampleNl": "Wil je thee of wil je koffie?",
+              "exampleIt": "Vuoi tè o caffè?"
+            },
+            {
+              "nl": "want",
+              "it": "perché (coord.)",
+              "en": "because",
+              "pos": "conj",
+              "exampleNl": "Ik blijf thuis, want ik ben moe.",
+              "exampleIt": "Resto a casa perché sono stanco."
+            },
+            {
+              "nl": "omdat",
+              "it": "poiché (subord.)",
+              "en": "because",
+              "pos": "conj",
+              "exampleNl": "Ik blijf thuis omdat ik ziek ben.",
+              "exampleIt": "Resto a casa perché sono malato."
+            },
+            {
+              "nl": "dus",
+              "it": "quindi",
+              "en": "so",
+              "pos": "conj",
+              "exampleNl": "Het is laat, dus ik ga naar bed.",
+              "exampleIt": "È tardi, quindi vado a letto."
+            },
+            {
+              "nl": "als",
+              "it": "se / quando",
+              "en": "if / when",
+              "pos": "conj",
+              "exampleNl": "Als het mooi weer is, gaan we naar het strand.",
+              "exampleIt": "Se c'è bel tempo, andiamo in spiaggia."
+            },
+            {
+              "nl": "terwijl",
+              "it": "mentre",
+              "en": "while",
+              "pos": "conj",
+              "exampleNl": "Ik luister naar muziek terwijl ik werk.",
+              "exampleIt": "Ascolto musica mentre lavoro."
+            },
+            {
+              "nl": "hoewel",
+              "it": "sebbene",
+              "en": "although",
+              "pos": "conj",
+              "exampleNl": "Hoewel het koud is, draag ik geen jas.",
+              "exampleIt": "Sebbene faccia freddo, non porto la giacca."
+            },
+            {
+              "nl": "daarom",
+              "it": "perciò",
+              "en": "therefore",
+              "pos": "adv",
+              "exampleNl": "Ik ben ziek, daarom blijf ik thuis.",
+              "exampleIt": "Sono malato, perciò resto a casa."
+            },
+            {
+              "nl": "ook",
+              "it": "anche",
+              "en": "also",
+              "pos": "adv",
+              "exampleNl": "Hij komt ook naar het feest.",
+              "exampleIt": "Viene anche lui alla festa."
+            }
           ]
         }
       ]
