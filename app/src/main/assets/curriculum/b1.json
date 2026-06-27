@@ -664,6 +664,146 @@
           ]
         }
       ]
+    },
+    {
+      "id": "b1u7",
+      "title": "Casa e vita quotidiana",
+      "icon": "🏡",
+      "tip": "Molti verbi della casa sono separabili: schoonmaken → 'ik maak het huis schoon', opruimen → 'ruim je kamer op'. Il prefisso va in fondo.",
+      "lessons": [
+        {
+          "id": "b1u7l1",
+          "title": "In casa e faccende",
+          "items": [
+            {
+              "nl": "de buurt",
+              "it": "il quartiere / il vicinato",
+              "en": "neighbourhood",
+              "emoji": "🏘️",
+              "pos": "n",
+              "exampleNl": "Ik woon in een rustige buurt vlak bij het centrum.",
+              "exampleIt": "Abito in un quartiere tranquillo vicino al centro."
+            },
+            {
+              "nl": "de huur",
+              "it": "l'affitto",
+              "en": "rent",
+              "emoji": "🏠",
+              "pos": "n",
+              "exampleNl": "We betalen elke maand veel huur voor dit appartement.",
+              "exampleIt": "Paghiamo molto affitto ogni mese per questo appartamento."
+            },
+            {
+              "nl": "de verhuizing",
+              "it": "il trasloco",
+              "en": "move",
+              "emoji": "📦",
+              "pos": "n",
+              "exampleNl": "De verhuizing naar ons nieuwe huis was erg vermoeiend.",
+              "exampleIt": "Il trasloco nella nostra nuova casa è stato molto faticoso."
+            },
+            {
+              "nl": "de koelkast",
+              "it": "il frigorifero",
+              "en": "fridge",
+              "emoji": "🧊",
+              "pos": "n",
+              "exampleNl": "Zet de melk terug in de koelkast.",
+              "exampleIt": "Rimetti il latte nel frigorifero."
+            },
+            {
+              "nl": "de wasmachine",
+              "it": "la lavatrice",
+              "en": "washing machine",
+              "emoji": "🧺",
+              "pos": "n",
+              "exampleNl": "De wasmachine is kapot, dus ik moet hem laten repareren.",
+              "exampleIt": "La lavatrice è rotta, quindi devo farla riparare."
+            },
+            {
+              "nl": "de verwarming",
+              "it": "il riscaldamento",
+              "en": "heating",
+              "emoji": "🔥",
+              "pos": "n",
+              "exampleNl": "In de winter zetten we de verwarming wat hoger.",
+              "exampleIt": "In inverno alziamo un po' il riscaldamento."
+            },
+            {
+              "nl": "het gereedschap",
+              "it": "gli attrezzi",
+              "en": "tools",
+              "emoji": "🛠️",
+              "pos": "n",
+              "exampleNl": "Voor deze klus heb je het juiste gereedschap nodig.",
+              "exampleIt": "Per questo lavoretto ti servono gli attrezzi giusti."
+            },
+            {
+              "nl": "de zolder",
+              "it": "la soffitta",
+              "en": "attic",
+              "emoji": "🏚️",
+              "pos": "n",
+              "exampleNl": "We bewaren oude spullen op de zolder.",
+              "exampleIt": "Conserviamo le cose vecchie in soffitta."
+            },
+            {
+              "nl": "de kelder",
+              "it": "la cantina",
+              "en": "cellar",
+              "emoji": "🪜",
+              "pos": "n",
+              "exampleNl": "De fietsen staan beneden in de kelder.",
+              "exampleIt": "Le biciclette sono giù in cantina."
+            },
+            {
+              "nl": "het meubel",
+              "it": "il mobile",
+              "en": "piece of furniture",
+              "emoji": "🪑",
+              "pos": "n",
+              "exampleNl": "Ze hebben nieuwe meubels voor de woonkamer gekocht.",
+              "exampleIt": "Hanno comprato mobili nuovi per il soggiorno."
+            },
+            {
+              "nl": "schoonmaken",
+              "it": "pulire",
+              "en": "to clean",
+              "emoji": "🧽",
+              "pos": "v",
+              "exampleNl": "Op zaterdag maken we het hele huis schoon.",
+              "exampleIt": "Il sabato puliamo tutta la casa."
+            },
+            {
+              "nl": "opruimen",
+              "it": "riordinare",
+              "en": "to tidy up",
+              "emoji": "🧹",
+              "pos": "v",
+              "exampleNl": "Ruim je kamer op voordat je weggaat.",
+              "exampleIt": "Riordina la tua stanza prima di uscire."
+            },
+            {
+              "nl": "repareren",
+              "it": "riparare",
+              "en": "to repair",
+              "emoji": "🔧",
+              "pos": "v",
+              "exampleNl": "Mijn buurman kan bijna alles zelf repareren.",
+              "exampleIt": "Il mio vicino sa riparare quasi tutto da solo."
+            },
+            {
+              "nl": "huren",
+              "it": "affittare (prendere in affitto)",
+              "en": "to rent",
+              "emoji": "🔑",
+              "pos": "v",
+              "exampleNl": "We willen voor de vakantie een huisje aan zee huren.",
+              "exampleIt": "Vogliamo affittare una casetta al mare per le vacanze."
+            }
+          ]
+        }
+      ]
     }
   ]
 }
