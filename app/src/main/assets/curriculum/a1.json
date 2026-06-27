@@ -14,48 +14,275 @@
           "id": "a1u1l1",
           "title": "Ciao!",
           "items": [
-            {"nl": "hallo", "it": "ciao", "en": "hello", "emoji": "👋", "pos": "phr"},
-            {"nl": "hoi", "it": "ciao (informale)", "en": "hi", "emoji": "🙋", "pos": "phr"},
-            {"nl": "goedemorgen", "it": "buongiorno", "en": "good morning", "emoji": "🌅", "pos": "phr", "exampleNl": "Goedemorgen, hoe gaat het?", "exampleIt": "Buongiorno, come va?"},
-            {"nl": "goedemiddag", "it": "buon pomeriggio", "en": "good afternoon", "emoji": "☀️", "pos": "phr"},
-            {"nl": "goedenavond", "it": "buonasera", "en": "good evening", "emoji": "🌆", "pos": "phr"},
-            {"nl": "goedenacht", "it": "buonanotte", "en": "good night", "emoji": "🌙", "pos": "phr"},
-            {"nl": "dag", "it": "ciao / arrivederci", "en": "bye", "emoji": "👋", "pos": "phr"},
-            {"nl": "tot ziens", "it": "arrivederci", "en": "goodbye", "pos": "phr"},
-            {"nl": "tot morgen", "it": "a domani", "en": "see you tomorrow", "pos": "phr"},
-            {"nl": "welkom", "it": "benvenuto", "en": "welcome", "emoji": "🎉", "pos": "phr"}
+            {
+              "nl": "hallo",
+              "it": "ciao",
+              "en": "hello",
+              "emoji": "👋",
+              "pos": "phr",
+              "exampleNl": "Hallo, ik ben Anna.",
+              "exampleIt": "Ciao, sono Anna."
+            },
+            {
+              "nl": "hoi",
+              "it": "ciao (informale)",
+              "en": "hi",
+              "emoji": "🙋",
+              "pos": "phr",
+              "exampleNl": "Hoi, alles goed?",
+              "exampleIt": "Ciao, tutto bene?"
+            },
+            {
+              "nl": "goedemorgen",
+              "it": "buongiorno",
+              "en": "good morning",
+              "emoji": "🌅",
+              "pos": "phr",
+              "exampleNl": "Goedemorgen, hoe gaat het?",
+              "exampleIt": "Buongiorno, come va?"
+            },
+            {
+              "nl": "goedemiddag",
+              "it": "buon pomeriggio",
+              "en": "good afternoon",
+              "emoji": "☀️",
+              "pos": "phr",
+              "exampleNl": "Goedemiddag, mevrouw.",
+              "exampleIt": "Buon pomeriggio, signora."
+            },
+            {
+              "nl": "goedenavond",
+              "it": "buonasera",
+              "en": "good evening",
+              "emoji": "🌆",
+              "pos": "phr",
+              "exampleNl": "Goedenavond, welkom.",
+              "exampleIt": "Buonasera, benvenuto."
+            },
+            {
+              "nl": "goedenacht",
+              "it": "buonanotte",
+              "en": "good night",
+              "emoji": "🌙",
+              "pos": "phr",
+              "exampleNl": "Goedenacht, slaap lekker.",
+              "exampleIt": "Buonanotte, dormi bene."
+            },
+            {
+              "nl": "dag",
+              "it": "ciao / arrivederci",
+              "en": "bye",
+              "emoji": "👋",
+              "pos": "phr",
+              "exampleNl": "Dag, tot morgen!",
+              "exampleIt": "Ciao, a domani!"
+            },
+            {
+              "nl": "tot ziens",
+              "it": "arrivederci",
+              "en": "goodbye",
+              "pos": "phr",
+              "exampleNl": "Tot ziens en bedankt.",
+              "exampleIt": "Arrivederci e grazie."
+            },
+            {
+              "nl": "tot morgen",
+              "it": "a domani",
+              "en": "see you tomorrow",
+              "pos": "phr",
+              "exampleNl": "Tot morgen op school.",
+              "exampleIt": "A domani a scuola."
+            },
+            {
+              "nl": "welkom",
+              "it": "benvenuto",
+              "en": "welcome",
+              "emoji": "🎉",
+              "pos": "phr",
+              "exampleNl": "Welkom in Nederland.",
+              "exampleIt": "Benvenuto nei Paesi Bassi."
+            }
           ]
         },
         {
           "id": "a1u1l2",
           "title": "Per favore e grazie",
           "items": [
-            {"nl": "alsjeblieft", "it": "per favore / prego", "en": "please", "emoji": "🙏", "pos": "phr"},
-            {"nl": "dank je wel", "it": "grazie", "en": "thank you", "emoji": "🙏", "pos": "phr"},
-            {"nl": "bedankt", "it": "grazie", "en": "thanks", "pos": "phr"},
-            {"nl": "graag gedaan", "it": "prego", "en": "you're welcome", "pos": "phr"},
-            {"nl": "sorry", "it": "scusa", "en": "sorry", "emoji": "😟", "pos": "phr"},
-            {"nl": "pardon", "it": "mi scusi", "en": "excuse me", "pos": "phr"},
-            {"nl": "ja", "it": "sì", "en": "yes", "emoji": "✅", "pos": "adv"},
-            {"nl": "nee", "it": "no", "en": "no", "emoji": "❌", "pos": "adv"},
-            {"nl": "misschien", "it": "forse", "en": "maybe", "pos": "adv"},
-            {"nl": "oké", "it": "va bene", "en": "okay", "emoji": "👌", "pos": "phr"}
+            {
+              "nl": "alsjeblieft",
+              "it": "per favore / prego",
+              "en": "please",
+              "emoji": "🙏",
+              "pos": "phr",
+              "exampleNl": "Een koffie, alsjeblieft.",
+              "exampleIt": "Un caffè, per favore."
+            },
+            {
+              "nl": "dank je wel",
+              "it": "grazie",
+              "en": "thank you",
+              "emoji": "🙏",
+              "pos": "phr",
+              "exampleNl": "Dank je wel voor de hulp.",
+              "exampleIt": "Grazie per l'aiuto."
+            },
+            {
+              "nl": "bedankt",
+              "it": "grazie",
+              "en": "thanks",
+              "pos": "phr",
+              "exampleNl": "Bedankt voor alles.",
+              "exampleIt": "Grazie di tutto."
+            },
+            {
+              "nl": "graag gedaan",
+              "it": "prego",
+              "en": "you're welcome",
+              "pos": "phr",
+              "exampleNl": "Graag gedaan, hoor.",
+              "exampleIt": "Prego, figurati."
+            },
+            {
+              "nl": "sorry",
+              "it": "scusa",
+              "en": "sorry",
+              "emoji": "😟",
+              "pos": "phr",
+              "exampleNl": "Sorry, ik ben te laat.",
+              "exampleIt": "Scusa, sono in ritardo."
+            },
+            {
+              "nl": "pardon",
+              "it": "mi scusi",
+              "en": "excuse me",
+              "pos": "phr",
+              "exampleNl": "Pardon, mag ik erlangs?",
+              "exampleIt": "Scusi, posso passare?"
+            },
+            {
+              "nl": "ja",
+              "it": "sì",
+              "en": "yes",
+              "emoji": "✅",
+              "pos": "adv",
+              "exampleNl": "Ja, dat is goed.",
+              "exampleIt": "Sì, va bene."
+            },
+            {
+              "nl": "nee",
+              "it": "no",
+              "en": "no",
+              "emoji": "❌",
+              "pos": "adv",
+              "exampleNl": "Nee, dank je.",
+              "exampleIt": "No, grazie."
+            },
+            {
+              "nl": "misschien",
+              "it": "forse",
+              "en": "maybe",
+              "pos": "adv",
+              "exampleNl": "Misschien kom ik morgen.",
+              "exampleIt": "Forse vengo domani."
+            },
+            {
+              "nl": "oké",
+              "it": "va bene",
+              "en": "okay",
+              "emoji": "👌",
+              "pos": "phr",
+              "exampleNl": "Oké, tot straks.",
+              "exampleIt": "Ok, a dopo."
+            }
           ]
         },
         {
           "id": "a1u1l3",
           "title": "Come stai?",
           "items": [
-            {"nl": "Hoe gaat het?", "it": "Come va?", "en": "How are you?", "pos": "phr"},
-            {"nl": "goed", "it": "bene", "en": "good", "emoji": "👍", "pos": "adj"},
-            {"nl": "heel goed", "it": "molto bene", "en": "very good", "pos": "phr"},
-            {"nl": "slecht", "it": "male", "en": "bad", "emoji": "👎", "pos": "adj"},
-            {"nl": "niet slecht", "it": "non male", "en": "not bad", "pos": "phr"},
-            {"nl": "en jij?", "it": "e tu?", "en": "and you?", "pos": "phr"},
-            {"nl": "Hoe heet je?", "it": "Come ti chiami?", "en": "What's your name?", "pos": "phr"},
-            {"nl": "Ik heet...", "it": "Mi chiamo...", "en": "My name is...", "pos": "phr"},
-            {"nl": "aangenaam", "it": "piacere", "en": "nice to meet you", "emoji": "🤝", "pos": "phr"},
-            {"nl": "tot straks", "it": "a dopo", "en": "see you later", "pos": "phr"}
+            {
+              "nl": "Hoe gaat het?",
+              "it": "Come va?",
+              "en": "How are you?",
+              "pos": "phr",
+              "exampleNl": "Hoe gaat het met je?",
+              "exampleIt": "Come va?"
+            },
+            {
+              "nl": "goed",
+              "it": "bene",
+              "en": "good",
+              "emoji": "👍",
+              "pos": "adj",
+              "exampleNl": "Het gaat goed, dank je.",
+              "exampleIt": "Va bene, grazie."
+            },
+            {
+              "nl": "heel goed",
+              "it": "molto bene",
+              "en": "very good",
+              "pos": "phr",
+              "exampleNl": "Het gaat heel goed.",
+              "exampleIt": "Va molto bene."
+            },
+            {
+              "nl": "slecht",
+              "it": "male",
+              "en": "bad",
+              "emoji": "👎",
+              "pos": "adj",
+              "exampleNl": "Ik voel me slecht.",
+              "exampleIt": "Mi sento male."
+            },
+            {
+              "nl": "niet slecht",
+              "it": "non male",
+              "en": "not bad",
+              "pos": "phr",
+              "exampleNl": "Niet slecht, en jij?",
+              "exampleIt": "Non male, e tu?"
+            },
+            {
+              "nl": "en jij?",
+              "it": "e tu?",
+              "en": "and you?",
+              "pos": "phr",
+              "exampleNl": "Ik ben moe, en jij?",
+              "exampleIt": "Sono stanco, e tu?"
+            },
+            {
+              "nl": "Hoe heet je?",
+              "it": "Come ti chiami?",
+              "en": "What's your name?",
+              "pos": "phr",
+              "exampleNl": "Hallo, hoe heet je?",
+              "exampleIt": "Ciao, come ti chiami?"
+            },
+            {
+              "nl": "Ik heet...",
+              "it": "Mi chiamo...",
+              "en": "My name is...",
+              "pos": "phr",
+              "exampleNl": "Ik heet Marco.",
+              "exampleIt": "Mi chiamo Marco."
+            },
+            {
+              "nl": "aangenaam",
+              "it": "piacere",
+              "en": "nice to meet you",
+              "emoji": "🤝",
+              "pos": "phr",
+              "exampleNl": "Aangenaam, ik ben Tom.",
+              "exampleIt": "Piacere, sono Tom."
+            },
+            {
+              "nl": "tot straks",
+              "it": "a dopo",
+              "en": "see you later",
+              "pos": "phr",
+              "exampleNl": "Tot straks bij het station.",
+              "exampleIt": "A dopo alla stazione."
+            }
           ]
         }
       ]
@@ -69,48 +296,277 @@
           "id": "a1u2l1",
           "title": "Io e tu",
           "items": [
-            {"nl": "ik", "it": "io", "en": "I", "pos": "pron"},
-            {"nl": "jij", "it": "tu", "en": "you", "pos": "pron"},
-            {"nl": "hij", "it": "lui", "en": "he", "pos": "pron"},
-            {"nl": "zij", "it": "lei / loro", "en": "she / they", "pos": "pron"},
-            {"nl": "wij", "it": "noi", "en": "we", "pos": "pron"},
-            {"nl": "jullie", "it": "voi", "en": "you (pl.)", "pos": "pron"},
-            {"nl": "de man", "it": "l'uomo", "en": "the man", "emoji": "👨", "pos": "n"},
-            {"nl": "de vrouw", "it": "la donna", "en": "the woman", "emoji": "👩", "pos": "n"},
-            {"nl": "het kind", "it": "il bambino", "en": "the child", "emoji": "🧒", "pos": "n"},
-            {"nl": "de mensen", "it": "le persone", "en": "people", "emoji": "👥", "pos": "n"}
+            {
+              "nl": "ik",
+              "it": "io",
+              "en": "I",
+              "pos": "pron",
+              "exampleNl": "Ik woon in Rome.",
+              "exampleIt": "Io abito a Roma."
+            },
+            {
+              "nl": "jij",
+              "it": "tu",
+              "en": "you",
+              "pos": "pron",
+              "exampleNl": "Waar woon jij?",
+              "exampleIt": "Dove abiti tu?"
+            },
+            {
+              "nl": "hij",
+              "it": "lui",
+              "en": "he",
+              "pos": "pron",
+              "exampleNl": "Hij is mijn broer.",
+              "exampleIt": "Lui è mio fratello."
+            },
+            {
+              "nl": "zij",
+              "it": "lei / loro",
+              "en": "she / they",
+              "pos": "pron",
+              "exampleNl": "Zij heet Lisa.",
+              "exampleIt": "Lei si chiama Lisa."
+            },
+            {
+              "nl": "wij",
+              "it": "noi",
+              "en": "we",
+              "pos": "pron",
+              "exampleNl": "Wij gaan naar huis.",
+              "exampleIt": "Noi andiamo a casa."
+            },
+            {
+              "nl": "jullie",
+              "it": "voi",
+              "en": "you (pl.)",
+              "pos": "pron",
+              "exampleNl": "Wonen jullie hier?",
+              "exampleIt": "Abitate qui voi?"
+            },
+            {
+              "nl": "de man",
+              "it": "l'uomo",
+              "en": "the man",
+              "emoji": "👨",
+              "pos": "n",
+              "exampleNl": "De man leest een boek.",
+              "exampleIt": "L'uomo legge un libro."
+            },
+            {
+              "nl": "de vrouw",
+              "it": "la donna",
+              "en": "the woman",
+              "emoji": "👩",
+              "pos": "n",
+              "exampleNl": "De vrouw drinkt thee.",
+              "exampleIt": "La donna beve il tè."
+            },
+            {
+              "nl": "het kind",
+              "it": "il bambino",
+              "en": "the child",
+              "emoji": "🧒",
+              "pos": "n",
+              "exampleNl": "Het kind speelt buiten.",
+              "exampleIt": "Il bambino gioca fuori."
+            },
+            {
+              "nl": "de mensen",
+              "it": "le persone",
+              "en": "people",
+              "emoji": "👥",
+              "pos": "n",
+              "exampleNl": "De mensen zijn aardig.",
+              "exampleIt": "Le persone sono gentili."
+            }
           ]
         },
         {
           "id": "a1u2l2",
           "title": "La famiglia",
           "items": [
-            {"nl": "de familie", "it": "la famiglia", "en": "family", "emoji": "👨‍👩‍👧‍👦", "pos": "n"},
-            {"nl": "de moeder", "it": "la madre", "en": "mother", "emoji": "👩", "pos": "n", "exampleNl": "Mijn moeder kookt lekker.", "exampleIt": "Mia madre cucina bene."},
-            {"nl": "de vader", "it": "il padre", "en": "father", "emoji": "👨", "pos": "n"},
-            {"nl": "de zus", "it": "la sorella", "en": "sister", "emoji": "👧", "pos": "n"},
-            {"nl": "de broer", "it": "il fratello", "en": "brother", "emoji": "👦", "pos": "n"},
-            {"nl": "de oma", "it": "la nonna", "en": "grandma", "emoji": "👵", "pos": "n"},
-            {"nl": "de opa", "it": "il nonno", "en": "grandpa", "emoji": "👴", "pos": "n"},
-            {"nl": "de dochter", "it": "la figlia", "en": "daughter", "pos": "n"},
-            {"nl": "de zoon", "it": "il figlio", "en": "son", "pos": "n"},
-            {"nl": "de baby", "it": "il bebè", "en": "baby", "emoji": "👶", "pos": "n"}
+            {
+              "nl": "de familie",
+              "it": "la famiglia",
+              "en": "family",
+              "emoji": "👨‍👩‍👧‍👦",
+              "pos": "n",
+              "exampleNl": "Mijn familie is groot.",
+              "exampleIt": "La mia famiglia è grande."
+            },
+            {
+              "nl": "de moeder",
+              "it": "la madre",
+              "en": "mother",
+              "emoji": "👩",
+              "pos": "n",
+              "exampleNl": "Mijn moeder kookt lekker.",
+              "exampleIt": "Mia madre cucina bene."
+            },
+            {
+              "nl": "de vader",
+              "it": "il padre",
+              "en": "father",
+              "emoji": "👨",
+              "pos": "n",
+              "exampleNl": "Mijn vader werkt hard.",
+              "exampleIt": "Mio padre lavora sodo."
+            },
+            {
+              "nl": "de zus",
+              "it": "la sorella",
+              "en": "sister",
+              "emoji": "👧",
+              "pos": "n",
+              "exampleNl": "Mijn zus heet Anna.",
+              "exampleIt": "Mia sorella si chiama Anna."
+            },
+            {
+              "nl": "de broer",
+              "it": "il fratello",
+              "en": "brother",
+              "emoji": "👦",
+              "pos": "n",
+              "exampleNl": "Ik heb één broer.",
+              "exampleIt": "Ho un fratello."
+            },
+            {
+              "nl": "de oma",
+              "it": "la nonna",
+              "en": "grandma",
+              "emoji": "👵",
+              "pos": "n",
+              "exampleNl": "Mijn oma maakt soep.",
+              "exampleIt": "Mia nonna fa la zuppa."
+            },
+            {
+              "nl": "de opa",
+              "it": "il nonno",
+              "en": "grandpa",
+              "emoji": "👴",
+              "pos": "n",
+              "exampleNl": "Mijn opa is tachtig.",
+              "exampleIt": "Mio nonno ha ottant'anni."
+            },
+            {
+              "nl": "de dochter",
+              "it": "la figlia",
+              "en": "daughter",
+              "pos": "n",
+              "exampleNl": "Hun dochter is klein.",
+              "exampleIt": "La loro figlia è piccola."
+            },
+            {
+              "nl": "de zoon",
+              "it": "il figlio",
+              "en": "son",
+              "pos": "n",
+              "exampleNl": "Hun zoon speelt voetbal.",
+              "exampleIt": "Il loro figlio gioca a calcio."
+            },
+            {
+              "nl": "de baby",
+              "it": "il bebè",
+              "en": "baby",
+              "emoji": "👶",
+              "pos": "n",
+              "exampleNl": "De baby slaapt nu.",
+              "exampleIt": "Il bebè dorme adesso."
+            }
           ]
         },
         {
           "id": "a1u2l3",
           "title": "Amici e persone",
           "items": [
-            {"nl": "de vriend", "it": "l'amico", "en": "friend (m)", "emoji": "🧑", "pos": "n"},
-            {"nl": "de vriendin", "it": "l'amica", "en": "friend (f)", "emoji": "👩", "pos": "n"},
-            {"nl": "de buurman", "it": "il vicino", "en": "neighbour", "pos": "n"},
-            {"nl": "de leraar", "it": "l'insegnante", "en": "teacher", "emoji": "👨‍🏫", "pos": "n"},
-            {"nl": "de student", "it": "lo studente", "en": "student", "emoji": "🧑‍🎓", "pos": "n"},
-            {"nl": "het meisje", "it": "la ragazza", "en": "girl", "emoji": "👧", "pos": "n"},
-            {"nl": "de jongen", "it": "il ragazzo", "en": "boy", "emoji": "👦", "pos": "n"},
-            {"nl": "iedereen", "it": "tutti", "en": "everyone", "pos": "pron"},
-            {"nl": "niemand", "it": "nessuno", "en": "nobody", "pos": "pron"},
-            {"nl": "samen", "it": "insieme", "en": "together", "emoji": "🤝", "pos": "adv"}
+            {
+              "nl": "de vriend",
+              "it": "l'amico",
+              "en": "friend (m)",
+              "emoji": "🧑",
+              "pos": "n",
+              "exampleNl": "Hij is mijn beste vriend.",
+              "exampleIt": "Lui è il mio migliore amico."
+            },
+            {
+              "nl": "de vriendin",
+              "it": "l'amica",
+              "en": "friend (f)",
+              "emoji": "👩",
+              "pos": "n",
+              "exampleNl": "Zij is mijn vriendin.",
+              "exampleIt": "Lei è la mia amica."
+            },
+            {
+              "nl": "de buurman",
+              "it": "il vicino",
+              "en": "neighbour",
+              "pos": "n",
+              "exampleNl": "De buurman is aardig.",
+              "exampleIt": "Il vicino è gentile."
+            },
+            {
+              "nl": "de leraar",
+              "it": "l'insegnante",
+              "en": "teacher",
+              "emoji": "👨‍🏫",
+              "pos": "n",
+              "exampleNl": "De leraar legt het uit.",
+              "exampleIt": "L'insegnante lo spiega."
+            },
+            {
+              "nl": "de student",
+              "it": "lo studente",
+              "en": "student",
+              "emoji": "🧑‍🎓",
+              "pos": "n",
+              "exampleNl": "De student leert Nederlands.",
+              "exampleIt": "Lo studente impara l'olandese."
+            },
+            {
+              "nl": "het meisje",
+              "it": "la ragazza",
+              "en": "girl",
+              "emoji": "👧",
+              "pos": "n",
+              "exampleNl": "Het meisje lacht.",
+              "exampleIt": "La ragazza ride."
+            },
+            {
+              "nl": "de jongen",
+              "it": "il ragazzo",
+              "en": "boy",
+              "emoji": "👦",
+              "pos": "n",
+              "exampleNl": "De jongen rent snel.",
+              "exampleIt": "Il ragazzo corre veloce."
+            },
+            {
+              "nl": "iedereen",
+              "it": "tutti",
+              "en": "everyone",
+              "pos": "pron",
+              "exampleNl": "Iedereen is hier.",
+              "exampleIt": "Tutti sono qui."
+            },
+            {
+              "nl": "niemand",
+              "it": "nessuno",
+              "en": "nobody",
+              "pos": "pron",
+              "exampleNl": "Er is niemand thuis.",
+              "exampleIt": "Non c'è nessuno a casa."
+            },
+            {
+              "nl": "samen",
+              "it": "insieme",
+              "en": "together",
+              "emoji": "🤝",
+              "pos": "adv",
+              "exampleNl": "We eten samen.",
+              "exampleIt": "Mangiamo insieme."
+            }
           ]
         }
       ]
@@ -124,50 +580,295 @@
           "id": "a1u3l1",
           "title": "Numeri 0-10",
           "items": [
-            {"nl": "nul", "it": "zero", "en": "zero", "emoji": "0️⃣", "pos": "num"},
-            {"nl": "een", "it": "uno", "en": "one", "emoji": "1️⃣", "pos": "num"},
-            {"nl": "twee", "it": "due", "en": "two", "emoji": "2️⃣", "pos": "num"},
-            {"nl": "drie", "it": "tre", "en": "three", "emoji": "3️⃣", "pos": "num"},
-            {"nl": "vier", "it": "quattro", "en": "four", "emoji": "4️⃣", "pos": "num"},
-            {"nl": "vijf", "it": "cinque", "en": "five", "emoji": "5️⃣", "pos": "num"},
-            {"nl": "zes", "it": "sei", "en": "six", "emoji": "6️⃣", "pos": "num"},
-            {"nl": "zeven", "it": "sette", "en": "seven", "emoji": "7️⃣", "pos": "num"},
-            {"nl": "acht", "it": "otto", "en": "eight", "emoji": "8️⃣", "pos": "num"},
-            {"nl": "negen", "it": "nove", "en": "nine", "emoji": "9️⃣", "pos": "num"},
-            {"nl": "tien", "it": "dieci", "en": "ten", "emoji": "🔟", "pos": "num"}
+            {
+              "nl": "nul",
+              "it": "zero",
+              "en": "zero",
+              "emoji": "0️⃣",
+              "pos": "num",
+              "exampleNl": "Het is nul graden.",
+              "exampleIt": "Sono zero gradi."
+            },
+            {
+              "nl": "een",
+              "it": "uno",
+              "en": "one",
+              "emoji": "1️⃣",
+              "pos": "num",
+              "exampleNl": "Ik zie één vogel.",
+              "exampleIt": "Vedo un uccello."
+            },
+            {
+              "nl": "twee",
+              "it": "due",
+              "en": "two",
+              "emoji": "2️⃣",
+              "pos": "num",
+              "exampleNl": "Ik heb twee katten.",
+              "exampleIt": "Ho due gatti."
+            },
+            {
+              "nl": "drie",
+              "it": "tre",
+              "en": "three",
+              "emoji": "3️⃣",
+              "pos": "num",
+              "exampleNl": "We zijn met z'n drieën.",
+              "exampleIt": "Siamo in tre."
+            },
+            {
+              "nl": "vier",
+              "it": "quattro",
+              "en": "four",
+              "emoji": "4️⃣",
+              "pos": "num",
+              "exampleNl": "Het is vier uur.",
+              "exampleIt": "Sono le quattro."
+            },
+            {
+              "nl": "vijf",
+              "it": "cinque",
+              "en": "five",
+              "emoji": "5️⃣",
+              "pos": "num",
+              "exampleNl": "Ik tel tot vijf.",
+              "exampleIt": "Conto fino a cinque."
+            },
+            {
+              "nl": "zes",
+              "it": "sei",
+              "en": "six",
+              "emoji": "6️⃣",
+              "pos": "num",
+              "exampleNl": "Zij is zes jaar.",
+              "exampleIt": "Lei ha sei anni."
+            },
+            {
+              "nl": "zeven",
+              "it": "sette",
+              "en": "seven",
+              "emoji": "7️⃣",
+              "pos": "num",
+              "exampleNl": "De week heeft zeven dagen.",
+              "exampleIt": "La settimana ha sette giorni."
+            },
+            {
+              "nl": "acht",
+              "it": "otto",
+              "en": "eight",
+              "emoji": "8️⃣",
+              "pos": "num",
+              "exampleNl": "Ik sta om acht uur op.",
+              "exampleIt": "Mi alzo alle otto."
+            },
+            {
+              "nl": "negen",
+              "it": "nove",
+              "en": "nine",
+              "emoji": "9️⃣",
+              "pos": "num",
+              "exampleNl": "Hij werkt vanaf negen uur.",
+              "exampleIt": "Lavora dalle nove."
+            },
+            {
+              "nl": "tien",
+              "it": "dieci",
+              "en": "ten",
+              "emoji": "🔟",
+              "pos": "num",
+              "exampleNl": "Ik heb tien vingers.",
+              "exampleIt": "Ho dieci dita."
+            }
           ]
         },
         {
           "id": "a1u3l2",
           "title": "Numeri 11-20",
           "items": [
-            {"nl": "elf", "it": "undici", "en": "eleven", "pos": "num"},
-            {"nl": "twaalf", "it": "dodici", "en": "twelve", "pos": "num"},
-            {"nl": "dertien", "it": "tredici", "en": "thirteen", "pos": "num"},
-            {"nl": "veertien", "it": "quattordici", "en": "fourteen", "pos": "num"},
-            {"nl": "vijftien", "it": "quindici", "en": "fifteen", "pos": "num"},
-            {"nl": "zestien", "it": "sedici", "en": "sixteen", "pos": "num"},
-            {"nl": "zeventien", "it": "diciassette", "en": "seventeen", "pos": "num"},
-            {"nl": "achttien", "it": "diciotto", "en": "eighteen", "pos": "num"},
-            {"nl": "negentien", "it": "diciannove", "en": "nineteen", "pos": "num"},
-            {"nl": "twintig", "it": "venti", "en": "twenty", "pos": "num"}
+            {
+              "nl": "elf",
+              "it": "undici",
+              "en": "eleven",
+              "pos": "num",
+              "exampleNl": "Ik ben elf jaar oud.",
+              "exampleIt": "Ho undici anni."
+            },
+            {
+              "nl": "twaalf",
+              "it": "dodici",
+              "en": "twelve",
+              "pos": "num",
+              "exampleNl": "Het is twaalf uur.",
+              "exampleIt": "È mezzogiorno."
+            },
+            {
+              "nl": "dertien",
+              "it": "tredici",
+              "en": "thirteen",
+              "pos": "num",
+              "exampleNl": "Er zijn dertien gasten.",
+              "exampleIt": "Ci sono tredici ospiti."
+            },
+            {
+              "nl": "veertien",
+              "it": "quattordici",
+              "en": "fourteen",
+              "pos": "num",
+              "exampleNl": "Over veertien dagen kom ik.",
+              "exampleIt": "Tra quattordici giorni vengo."
+            },
+            {
+              "nl": "vijftien",
+              "it": "quindici",
+              "en": "fifteen",
+              "pos": "num",
+              "exampleNl": "De bus komt om vijftien uur.",
+              "exampleIt": "L'autobus arriva alle quindici."
+            },
+            {
+              "nl": "zestien",
+              "it": "sedici",
+              "en": "sixteen",
+              "pos": "num",
+              "exampleNl": "Mijn zus is zestien.",
+              "exampleIt": "Mia sorella ha sedici anni."
+            },
+            {
+              "nl": "zeventien",
+              "it": "diciassette",
+              "en": "seventeen",
+              "pos": "num",
+              "exampleNl": "Hij is zeventien jaar.",
+              "exampleIt": "Lui ha diciassette anni."
+            },
+            {
+              "nl": "achttien",
+              "it": "diciotto",
+              "en": "eighteen",
+              "pos": "num",
+              "exampleNl": "Op je achttiende ben je volwassen.",
+              "exampleIt": "A diciotto anni sei adulto."
+            },
+            {
+              "nl": "negentien",
+              "it": "diciannove",
+              "en": "nineteen",
+              "pos": "num",
+              "exampleNl": "Het is negentien graden.",
+              "exampleIt": "Sono diciannove gradi."
+            },
+            {
+              "nl": "twintig",
+              "it": "venti",
+              "en": "twenty",
+              "pos": "num",
+              "exampleNl": "Ik heb twintig euro.",
+              "exampleIt": "Ho venti euro."
+            }
           ]
         },
         {
           "id": "a1u3l3",
           "title": "Colori",
           "items": [
-            {"nl": "rood", "it": "rosso", "en": "red", "emoji": "🔴", "pos": "adj"},
-            {"nl": "blauw", "it": "blu", "en": "blue", "emoji": "🔵", "pos": "adj"},
-            {"nl": "groen", "it": "verde", "en": "green", "emoji": "🟢", "pos": "adj"},
-            {"nl": "geel", "it": "giallo", "en": "yellow", "emoji": "🟡", "pos": "adj"},
-            {"nl": "zwart", "it": "nero", "en": "black", "emoji": "⚫", "pos": "adj"},
-            {"nl": "wit", "it": "bianco", "en": "white", "emoji": "⚪", "pos": "adj"},
-            {"nl": "oranje", "it": "arancione", "en": "orange", "emoji": "🟠", "pos": "adj"},
-            {"nl": "paars", "it": "viola", "en": "purple", "emoji": "🟣", "pos": "adj"},
-            {"nl": "bruin", "it": "marrone", "en": "brown", "emoji": "🟤", "pos": "adj"},
-            {"nl": "roze", "it": "rosa", "en": "pink", "emoji": "🌸", "pos": "adj"},
-            {"nl": "grijs", "it": "grigio", "en": "grey", "pos": "adj"}
+            {
+              "nl": "rood",
+              "it": "rosso",
+              "en": "red",
+              "emoji": "🔴",
+              "pos": "adj",
+              "exampleNl": "De appel is rood.",
+              "exampleIt": "La mela è rossa."
+            },
+            {
+              "nl": "blauw",
+              "it": "blu",
+              "en": "blue",
+              "emoji": "🔵",
+              "pos": "adj",
+              "exampleNl": "De lucht is blauw.",
+              "exampleIt": "Il cielo è azzurro."
+            },
+            {
+              "nl": "groen",
+              "it": "verde",
+              "en": "green",
+              "emoji": "🟢",
+              "pos": "adj",
+              "exampleNl": "Het gras is groen.",
+              "exampleIt": "L'erba è verde."
+            },
+            {
+              "nl": "geel",
+              "it": "giallo",
+              "en": "yellow",
+              "emoji": "🟡",
+              "pos": "adj",
+              "exampleNl": "De zon is geel.",
+              "exampleIt": "Il sole è giallo."
+            },
+            {
+              "nl": "zwart",
+              "it": "nero",
+              "en": "black",
+              "emoji": "⚫",
+              "pos": "adj",
+              "exampleNl": "De kat is zwart.",
+              "exampleIt": "Il gatto è nero."
+            },
+            {
+              "nl": "wit",
+              "it": "bianco",
+              "en": "white",
+              "emoji": "⚪",
+              "pos": "adj",
+              "exampleNl": "De sneeuw is wit.",
+              "exampleIt": "La neve è bianca."
+            },
+            {
+              "nl": "oranje",
+              "it": "arancione",
+              "en": "orange",
+              "emoji": "🟠",
+              "pos": "adj",
+              "exampleNl": "De sinaasappel is oranje.",
+              "exampleIt": "L'arancia è arancione."
+            },
+            {
+              "nl": "paars",
+              "it": "viola",
+              "en": "purple",
+              "emoji": "🟣",
+              "pos": "adj",
+              "exampleNl": "Ik hou van paars.",
+              "exampleIt": "Mi piace il viola."
+            },
+            {
+              "nl": "bruin",
+              "it": "marrone",
+              "en": "brown",
+              "emoji": "🟤",
+              "pos": "adj",
+              "exampleNl": "De hond is bruin.",
+              "exampleIt": "Il cane è marrone."
+            },
+            {
+              "nl": "roze",
+              "it": "rosa",
+              "en": "pink",
+              "emoji": "🌸",
+              "pos": "adj",
+              "exampleNl": "De bloem is roze.",
+              "exampleIt": "Il fiore è rosa."
+            },
+            {
+              "nl": "grijs",
+              "it": "grigio",
+              "en": "grey",
+              "pos": "adj",
+              "exampleNl": "De lucht is grijs vandaag.",
+              "exampleIt": "Il cielo è grigio oggi."
+            }
           ]
         }
       ]
@@ -181,49 +882,297 @@
           "id": "a1u4l1",
           "title": "Frutta",
           "items": [
-            {"nl": "de appel", "it": "la mela", "en": "apple", "emoji": "🍎", "pos": "n"},
-            {"nl": "de banaan", "it": "la banana", "en": "banana", "emoji": "🍌", "pos": "n"},
-            {"nl": "de sinaasappel", "it": "l'arancia", "en": "orange", "emoji": "🍊", "pos": "n"},
-            {"nl": "de druiven", "it": "l'uva", "en": "grapes", "emoji": "🍇", "pos": "n"},
-            {"nl": "de aardbei", "it": "la fragola", "en": "strawberry", "emoji": "🍓", "pos": "n"},
-            {"nl": "de citroen", "it": "il limone", "en": "lemon", "emoji": "🍋", "pos": "n"},
-            {"nl": "de peer", "it": "la pera", "en": "pear", "emoji": "🍐", "pos": "n"},
-            {"nl": "de kers", "it": "la ciliegia", "en": "cherry", "emoji": "🍒", "pos": "n"},
-            {"nl": "de watermeloen", "it": "l'anguria", "en": "watermelon", "emoji": "🍉", "pos": "n"},
-            {"nl": "het fruit", "it": "la frutta", "en": "fruit", "emoji": "🍏", "pos": "n"}
+            {
+              "nl": "de appel",
+              "it": "la mela",
+              "en": "apple",
+              "emoji": "🍎",
+              "pos": "n",
+              "exampleNl": "Ik eet een appel.",
+              "exampleIt": "Mangio una mela."
+            },
+            {
+              "nl": "de banaan",
+              "it": "la banana",
+              "en": "banana",
+              "emoji": "🍌",
+              "pos": "n",
+              "exampleNl": "De banaan is geel.",
+              "exampleIt": "La banana è gialla."
+            },
+            {
+              "nl": "de sinaasappel",
+              "it": "l'arancia",
+              "en": "orange",
+              "emoji": "🍊",
+              "pos": "n",
+              "exampleNl": "De sinaasappel is zoet.",
+              "exampleIt": "L'arancia è dolce."
+            },
+            {
+              "nl": "de druiven",
+              "it": "l'uva",
+              "en": "grapes",
+              "emoji": "🍇",
+              "pos": "n",
+              "exampleNl": "De druiven zijn lekker.",
+              "exampleIt": "L'uva è buona."
+            },
+            {
+              "nl": "de aardbei",
+              "it": "la fragola",
+              "en": "strawberry",
+              "emoji": "🍓",
+              "pos": "n",
+              "exampleNl": "Ik hou van aardbeien.",
+              "exampleIt": "Mi piacciono le fragole."
+            },
+            {
+              "nl": "de citroen",
+              "it": "il limone",
+              "en": "lemon",
+              "emoji": "🍋",
+              "pos": "n",
+              "exampleNl": "De citroen is zuur.",
+              "exampleIt": "Il limone è aspro."
+            },
+            {
+              "nl": "de peer",
+              "it": "la pera",
+              "en": "pear",
+              "emoji": "🍐",
+              "pos": "n",
+              "exampleNl": "De peer is rijp.",
+              "exampleIt": "La pera è matura."
+            },
+            {
+              "nl": "de kers",
+              "it": "la ciliegia",
+              "en": "cherry",
+              "emoji": "🍒",
+              "pos": "n",
+              "exampleNl": "De kers is rood.",
+              "exampleIt": "La ciliegia è rossa."
+            },
+            {
+              "nl": "de watermeloen",
+              "it": "l'anguria",
+              "en": "watermelon",
+              "emoji": "🍉",
+              "pos": "n",
+              "exampleNl": "De watermeloen is groot.",
+              "exampleIt": "L'anguria è grande."
+            },
+            {
+              "nl": "het fruit",
+              "it": "la frutta",
+              "en": "fruit",
+              "emoji": "🍏",
+              "pos": "n",
+              "exampleNl": "Ik eet veel fruit.",
+              "exampleIt": "Mangio molta frutta."
+            }
           ]
         },
         {
           "id": "a1u4l2",
           "title": "Bevande e colazione",
           "items": [
-            {"nl": "het water", "it": "l'acqua", "en": "water", "emoji": "💧", "pos": "n"},
-            {"nl": "de koffie", "it": "il caffè", "en": "coffee", "emoji": "☕", "pos": "n", "exampleNl": "Ik drink graag koffie.", "exampleIt": "Mi piace bere il caffè."},
-            {"nl": "de thee", "it": "il tè", "en": "tea", "emoji": "🍵", "pos": "n"},
-            {"nl": "de melk", "it": "il latte", "en": "milk", "emoji": "🥛", "pos": "n"},
-            {"nl": "het bier", "it": "la birra", "en": "beer", "emoji": "🍺", "pos": "n"},
-            {"nl": "de wijn", "it": "il vino", "en": "wine", "emoji": "🍷", "pos": "n"},
-            {"nl": "het sap", "it": "il succo", "en": "juice", "emoji": "🧃", "pos": "n"},
-            {"nl": "het brood", "it": "il pane", "en": "bread", "emoji": "🍞", "pos": "n"},
-            {"nl": "het ei", "it": "l'uovo", "en": "egg", "emoji": "🥚", "pos": "n"},
-            {"nl": "de kaas", "it": "il formaggio", "en": "cheese", "emoji": "🧀", "pos": "n"}
+            {
+              "nl": "het water",
+              "it": "l'acqua",
+              "en": "water",
+              "emoji": "💧",
+              "pos": "n",
+              "exampleNl": "Ik drink water.",
+              "exampleIt": "Bevo acqua."
+            },
+            {
+              "nl": "de koffie",
+              "it": "il caffè",
+              "en": "coffee",
+              "emoji": "☕",
+              "pos": "n",
+              "exampleNl": "Ik drink graag koffie.",
+              "exampleIt": "Mi piace bere il caffè."
+            },
+            {
+              "nl": "de thee",
+              "it": "il tè",
+              "en": "tea",
+              "emoji": "🍵",
+              "pos": "n",
+              "exampleNl": "Wil je thee?",
+              "exampleIt": "Vuoi del tè?"
+            },
+            {
+              "nl": "de melk",
+              "it": "il latte",
+              "en": "milk",
+              "emoji": "🥛",
+              "pos": "n",
+              "exampleNl": "De melk is koud.",
+              "exampleIt": "Il latte è freddo."
+            },
+            {
+              "nl": "het bier",
+              "it": "la birra",
+              "en": "beer",
+              "emoji": "🍺",
+              "pos": "n",
+              "exampleNl": "Het bier is koud.",
+              "exampleIt": "La birra è fredda."
+            },
+            {
+              "nl": "de wijn",
+              "it": "il vino",
+              "en": "wine",
+              "emoji": "🍷",
+              "pos": "n",
+              "exampleNl": "We drinken rode wijn.",
+              "exampleIt": "Beviamo vino rosso."
+            },
+            {
+              "nl": "het sap",
+              "it": "il succo",
+              "en": "juice",
+              "emoji": "🧃",
+              "pos": "n",
+              "exampleNl": "Het sap is zoet.",
+              "exampleIt": "Il succo è dolce."
+            },
+            {
+              "nl": "het brood",
+              "it": "il pane",
+              "en": "bread",
+              "emoji": "🍞",
+              "pos": "n",
+              "exampleNl": "Ik koop vers brood.",
+              "exampleIt": "Compro pane fresco."
+            },
+            {
+              "nl": "het ei",
+              "it": "l'uovo",
+              "en": "egg",
+              "emoji": "🥚",
+              "pos": "n",
+              "exampleNl": "Ik eet een ei.",
+              "exampleIt": "Mangio un uovo."
+            },
+            {
+              "nl": "de kaas",
+              "it": "il formaggio",
+              "en": "cheese",
+              "emoji": "🧀",
+              "pos": "n",
+              "exampleNl": "Nederlandse kaas is lekker.",
+              "exampleIt": "Il formaggio olandese è buono."
+            }
           ]
         },
         {
           "id": "a1u4l3",
           "title": "Pasti e verdura",
           "items": [
-            {"nl": "het ontbijt", "it": "la colazione", "en": "breakfast", "emoji": "🍳", "pos": "n"},
-            {"nl": "de lunch", "it": "il pranzo", "en": "lunch", "emoji": "🥪", "pos": "n"},
-            {"nl": "het diner", "it": "la cena", "en": "dinner", "emoji": "🍽️", "pos": "n"},
-            {"nl": "de groente", "it": "la verdura", "en": "vegetable", "emoji": "🥦", "pos": "n"},
-            {"nl": "de tomaat", "it": "il pomodoro", "en": "tomato", "emoji": "🍅", "pos": "n"},
-            {"nl": "de wortel", "it": "la carota", "en": "carrot", "emoji": "🥕", "pos": "n"},
-            {"nl": "de aardappel", "it": "la patata", "en": "potato", "emoji": "🥔", "pos": "n"},
-            {"nl": "de soep", "it": "la zuppa", "en": "soup", "emoji": "🍲", "pos": "n"},
-            {"nl": "de rijst", "it": "il riso", "en": "rice", "emoji": "🍚", "pos": "n"},
-            {"nl": "het vlees", "it": "la carne", "en": "meat", "emoji": "🍖", "pos": "n"},
-            {"nl": "de vis", "it": "il pesce", "en": "fish", "emoji": "🐟", "pos": "n"}
+            {
+              "nl": "het ontbijt",
+              "it": "la colazione",
+              "en": "breakfast",
+              "emoji": "🍳",
+              "pos": "n",
+              "exampleNl": "Het ontbijt is klaar.",
+              "exampleIt": "La colazione è pronta."
+            },
+            {
+              "nl": "de lunch",
+              "it": "il pranzo",
+              "en": "lunch",
+              "emoji": "🥪",
+              "pos": "n",
+              "exampleNl": "We hebben lunch om één uur.",
+              "exampleIt": "Pranziamo all'una."
+            },
+            {
+              "nl": "het diner",
+              "it": "la cena",
+              "en": "dinner",
+              "emoji": "🍽️",
+              "pos": "n",
+              "exampleNl": "Het diner is om zeven uur.",
+              "exampleIt": "La cena è alle sette."
+            },
+            {
+              "nl": "de groente",
+              "it": "la verdura",
+              "en": "vegetable",
+              "emoji": "🥦",
+              "pos": "n",
+              "exampleNl": "Eet je groente!",
+              "exampleIt": "Mangia la verdura!"
+            },
+            {
+              "nl": "de tomaat",
+              "it": "il pomodoro",
+              "en": "tomato",
+              "emoji": "🍅",
+              "pos": "n",
+              "exampleNl": "De tomaat is rood.",
+              "exampleIt": "Il pomodoro è rosso."
+            },
+            {
+              "nl": "de wortel",
+              "it": "la carota",
+              "en": "carrot",
+              "emoji": "🥕",
+              "pos": "n",
+              "exampleNl": "De wortel is oranje.",
+              "exampleIt": "La carota è arancione."
+            },
+            {
+              "nl": "de aardappel",
+              "it": "la patata",
+              "en": "potato",
+              "emoji": "🥔",
+              "pos": "n",
+              "exampleNl": "Ik kook aardappelen.",
+              "exampleIt": "Cucino le patate."
+            },
+            {
+              "nl": "de soep",
+              "it": "la zuppa",
+              "en": "soup",
+              "emoji": "🍲",
+              "pos": "n",
+              "exampleNl": "De soep is warm.",
+              "exampleIt": "La zuppa è calda."
+            },
+            {
+              "nl": "de rijst",
+              "it": "il riso",
+              "en": "rice",
+              "emoji": "🍚",
+              "pos": "n",
+              "exampleNl": "Ik eet rijst met kip.",
+              "exampleIt": "Mangio riso con pollo."
+            },
+            {
+              "nl": "het vlees",
+              "it": "la carne",
+              "en": "meat",
+              "emoji": "🍖",
+              "pos": "n",
+              "exampleNl": "Hij eet geen vlees.",
+              "exampleIt": "Lui non mangia carne."
+            },
+            {
+              "nl": "de vis",
+              "it": "il pesce",
+              "en": "fish",
+              "emoji": "🐟",
+              "pos": "n",
+              "exampleNl": "De vis is vers.",
+              "exampleIt": "Il pesce è fresco."
+            }
           ]
         }
       ]
@@ -237,32 +1186,192 @@
           "id": "a1u5l1",
           "title": "Le stanze",
           "items": [
-            {"nl": "het huis", "it": "la casa", "en": "house", "emoji": "🏠", "pos": "n"},
-            {"nl": "de kamer", "it": "la stanza", "en": "room", "emoji": "🚪", "pos": "n"},
-            {"nl": "de keuken", "it": "la cucina", "en": "kitchen", "emoji": "🍳", "pos": "n"},
-            {"nl": "de slaapkamer", "it": "la camera da letto", "en": "bedroom", "emoji": "🛏️", "pos": "n"},
-            {"nl": "de badkamer", "it": "il bagno", "en": "bathroom", "emoji": "🛁", "pos": "n"},
-            {"nl": "de woonkamer", "it": "il soggiorno", "en": "living room", "emoji": "🛋️", "pos": "n"},
-            {"nl": "de tuin", "it": "il giardino", "en": "garden", "emoji": "🌳", "pos": "n"},
-            {"nl": "de deur", "it": "la porta", "en": "door", "emoji": "🚪", "pos": "n"},
-            {"nl": "het raam", "it": "la finestra", "en": "window", "emoji": "🪟", "pos": "n"},
-            {"nl": "de trap", "it": "le scale", "en": "stairs", "emoji": "🪜", "pos": "n"}
+            {
+              "nl": "het huis",
+              "it": "la casa",
+              "en": "house",
+              "emoji": "🏠",
+              "pos": "n",
+              "exampleNl": "Ons huis is klein.",
+              "exampleIt": "La nostra casa è piccola."
+            },
+            {
+              "nl": "de kamer",
+              "it": "la stanza",
+              "en": "room",
+              "emoji": "🚪",
+              "pos": "n",
+              "exampleNl": "Mijn kamer is netjes.",
+              "exampleIt": "La mia stanza è in ordine."
+            },
+            {
+              "nl": "de keuken",
+              "it": "la cucina",
+              "en": "kitchen",
+              "emoji": "🍳",
+              "pos": "n",
+              "exampleNl": "De keuken is modern.",
+              "exampleIt": "La cucina è moderna."
+            },
+            {
+              "nl": "de slaapkamer",
+              "it": "la camera da letto",
+              "en": "bedroom",
+              "emoji": "🛏️",
+              "pos": "n",
+              "exampleNl": "De slaapkamer is rustig.",
+              "exampleIt": "La camera da letto è tranquilla."
+            },
+            {
+              "nl": "de badkamer",
+              "it": "il bagno",
+              "en": "bathroom",
+              "emoji": "🛁",
+              "pos": "n",
+              "exampleNl": "De badkamer is boven.",
+              "exampleIt": "Il bagno è di sopra."
+            },
+            {
+              "nl": "de woonkamer",
+              "it": "il soggiorno",
+              "en": "living room",
+              "emoji": "🛋️",
+              "pos": "n",
+              "exampleNl": "We zitten in de woonkamer.",
+              "exampleIt": "Stiamo in soggiorno."
+            },
+            {
+              "nl": "de tuin",
+              "it": "il giardino",
+              "en": "garden",
+              "emoji": "🌳",
+              "pos": "n",
+              "exampleNl": "De tuin is groen.",
+              "exampleIt": "Il giardino è verde."
+            },
+            {
+              "nl": "de deur",
+              "it": "la porta",
+              "en": "door",
+              "emoji": "🚪",
+              "pos": "n",
+              "exampleNl": "Doe de deur dicht.",
+              "exampleIt": "Chiudi la porta."
+            },
+            {
+              "nl": "het raam",
+              "it": "la finestra",
+              "en": "window",
+              "emoji": "🪟",
+              "pos": "n",
+              "exampleNl": "Het raam is open.",
+              "exampleIt": "La finestra è aperta."
+            },
+            {
+              "nl": "de trap",
+              "it": "le scale",
+              "en": "stairs",
+              "emoji": "🪜",
+              "pos": "n",
+              "exampleNl": "De trap is steil.",
+              "exampleIt": "Le scale sono ripide."
+            }
           ]
         },
         {
           "id": "a1u5l2",
           "title": "Mobili e oggetti",
           "items": [
-            {"nl": "de tafel", "it": "il tavolo", "en": "table", "emoji": "🪵", "pos": "n"},
-            {"nl": "de stoel", "it": "la sedia", "en": "chair", "emoji": "🪑", "pos": "n"},
-            {"nl": "het bed", "it": "il letto", "en": "bed", "emoji": "🛏️", "pos": "n"},
-            {"nl": "de bank", "it": "il divano", "en": "sofa", "emoji": "🛋️", "pos": "n"},
-            {"nl": "de lamp", "it": "la lampada", "en": "lamp", "emoji": "💡", "pos": "n"},
-            {"nl": "de klok", "it": "l'orologio", "en": "clock", "emoji": "🕐", "pos": "n"},
-            {"nl": "de televisie", "it": "la televisione", "en": "television", "emoji": "📺", "pos": "n"},
-            {"nl": "de telefoon", "it": "il telefono", "en": "phone", "emoji": "📱", "pos": "n"},
-            {"nl": "de sleutel", "it": "la chiave", "en": "key", "emoji": "🔑", "pos": "n"},
-            {"nl": "het boek", "it": "il libro", "en": "book", "emoji": "📖", "pos": "n"}
+            {
+              "nl": "de tafel",
+              "it": "il tavolo",
+              "en": "table",
+              "emoji": "🪵",
+              "pos": "n",
+              "exampleNl": "Het eten staat op de tafel.",
+              "exampleIt": "Il cibo è sul tavolo."
+            },
+            {
+              "nl": "de stoel",
+              "it": "la sedia",
+              "en": "chair",
+              "emoji": "🪑",
+              "pos": "n",
+              "exampleNl": "Ga op de stoel zitten.",
+              "exampleIt": "Siediti sulla sedia."
+            },
+            {
+              "nl": "het bed",
+              "it": "il letto",
+              "en": "bed",
+              "emoji": "🛏️",
+              "pos": "n",
+              "exampleNl": "Het bed is zacht.",
+              "exampleIt": "Il letto è morbido."
+            },
+            {
+              "nl": "de bank",
+              "it": "il divano",
+              "en": "sofa",
+              "emoji": "🛋️",
+              "pos": "n",
+              "exampleNl": "We zitten op de bank.",
+              "exampleIt": "Stiamo sul divano."
+            },
+            {
+              "nl": "de lamp",
+              "it": "la lampada",
+              "en": "lamp",
+              "emoji": "💡",
+              "pos": "n",
+              "exampleNl": "Doe de lamp aan.",
+              "exampleIt": "Accendi la lampada."
+            },
+            {
+              "nl": "de klok",
+              "it": "l'orologio",
+              "en": "clock",
+              "emoji": "🕐",
+              "pos": "n",
+              "exampleNl": "De klok hangt aan de muur.",
+              "exampleIt": "L'orologio è appeso al muro."
+            },
+            {
+              "nl": "de televisie",
+              "it": "la televisione",
+              "en": "television",
+              "emoji": "📺",
+              "pos": "n",
+              "exampleNl": "De televisie staat aan.",
+              "exampleIt": "La televisione è accesa."
+            },
+            {
+              "nl": "de telefoon",
+              "it": "il telefono",
+              "en": "phone",
+              "emoji": "📱",
+              "pos": "n",
+              "exampleNl": "Mijn telefoon is leeg.",
+              "exampleIt": "Il mio telefono è scarico."
+            },
+            {
+              "nl": "de sleutel",
+              "it": "la chiave",
+              "en": "key",
+              "emoji": "🔑",
+              "pos": "n",
+              "exampleNl": "Ik zoek mijn sleutel.",
+              "exampleIt": "Cerco la mia chiave."
+            },
+            {
+              "nl": "het boek",
+              "it": "il libro",
+              "en": "book",
+              "emoji": "📖",
+              "pos": "n",
+              "exampleNl": "Ik lees een boek.",
+              "exampleIt": "Leggo un libro."
+            }
           ]
         }
       ]
@@ -276,48 +1385,274 @@
           "id": "a1u6l1",
           "title": "Giorni della settimana",
           "items": [
-            {"nl": "maandag", "it": "lunedì", "en": "Monday", "pos": "n"},
-            {"nl": "dinsdag", "it": "martedì", "en": "Tuesday", "pos": "n"},
-            {"nl": "woensdag", "it": "mercoledì", "en": "Wednesday", "pos": "n"},
-            {"nl": "donderdag", "it": "giovedì", "en": "Thursday", "pos": "n"},
-            {"nl": "vrijdag", "it": "venerdì", "en": "Friday", "pos": "n"},
-            {"nl": "zaterdag", "it": "sabato", "en": "Saturday", "pos": "n"},
-            {"nl": "zondag", "it": "domenica", "en": "Sunday", "pos": "n"},
-            {"nl": "de week", "it": "la settimana", "en": "week", "emoji": "📅", "pos": "n"},
-            {"nl": "vandaag", "it": "oggi", "en": "today", "pos": "adv"},
-            {"nl": "morgen", "it": "domani", "en": "tomorrow", "pos": "adv"},
-            {"nl": "gisteren", "it": "ieri", "en": "yesterday", "pos": "adv"}
+            {
+              "nl": "maandag",
+              "it": "lunedì",
+              "en": "Monday",
+              "pos": "n",
+              "exampleNl": "Op maandag werk ik.",
+              "exampleIt": "Lunedì lavoro."
+            },
+            {
+              "nl": "dinsdag",
+              "it": "martedì",
+              "en": "Tuesday",
+              "pos": "n",
+              "exampleNl": "Dinsdag heb ik les.",
+              "exampleIt": "Martedì ho lezione."
+            },
+            {
+              "nl": "woensdag",
+              "it": "mercoledì",
+              "en": "Wednesday",
+              "pos": "n",
+              "exampleNl": "Woensdag is het rustig.",
+              "exampleIt": "Mercoledì è tranquillo."
+            },
+            {
+              "nl": "donderdag",
+              "it": "giovedì",
+              "en": "Thursday",
+              "pos": "n",
+              "exampleNl": "Donderdag ga ik sporten.",
+              "exampleIt": "Giovedì vado a fare sport."
+            },
+            {
+              "nl": "vrijdag",
+              "it": "venerdì",
+              "en": "Friday",
+              "pos": "n",
+              "exampleNl": "Vrijdag is mijn favoriete dag.",
+              "exampleIt": "Venerdì è il mio giorno preferito."
+            },
+            {
+              "nl": "zaterdag",
+              "it": "sabato",
+              "en": "Saturday",
+              "pos": "n",
+              "exampleNl": "Op zaterdag slaap ik uit.",
+              "exampleIt": "Il sabato dormo fino a tardi."
+            },
+            {
+              "nl": "zondag",
+              "it": "domenica",
+              "en": "Sunday",
+              "pos": "n",
+              "exampleNl": "Zondag rust ik.",
+              "exampleIt": "Domenica riposo."
+            },
+            {
+              "nl": "de week",
+              "it": "la settimana",
+              "en": "week",
+              "emoji": "📅",
+              "pos": "n",
+              "exampleNl": "De week begint op maandag.",
+              "exampleIt": "La settimana inizia di lunedì."
+            },
+            {
+              "nl": "vandaag",
+              "it": "oggi",
+              "en": "today",
+              "pos": "adv",
+              "exampleNl": "Vandaag is het mooi weer.",
+              "exampleIt": "Oggi c'è bel tempo."
+            },
+            {
+              "nl": "morgen",
+              "it": "domani",
+              "en": "tomorrow",
+              "pos": "adv",
+              "exampleNl": "Morgen ga ik werken.",
+              "exampleIt": "Domani vado a lavorare."
+            },
+            {
+              "nl": "gisteren",
+              "it": "ieri",
+              "en": "yesterday",
+              "pos": "adv",
+              "exampleNl": "Gisteren was ik thuis.",
+              "exampleIt": "Ieri ero a casa."
+            }
           ]
         },
         {
           "id": "a1u6l2",
           "title": "Il tempo (meteo)",
           "items": [
-            {"nl": "het weer", "it": "il tempo (meteo)", "en": "weather", "emoji": "🌦️", "pos": "n"},
-            {"nl": "de zon", "it": "il sole", "en": "sun", "emoji": "☀️", "pos": "n"},
-            {"nl": "de regen", "it": "la pioggia", "en": "rain", "emoji": "🌧️", "pos": "n"},
-            {"nl": "de wolk", "it": "la nuvola", "en": "cloud", "emoji": "☁️", "pos": "n"},
-            {"nl": "de sneeuw", "it": "la neve", "en": "snow", "emoji": "❄️", "pos": "n"},
-            {"nl": "de wind", "it": "il vento", "en": "wind", "emoji": "💨", "pos": "n"},
-            {"nl": "warm", "it": "caldo", "en": "warm", "emoji": "🔥", "pos": "adj"},
-            {"nl": "koud", "it": "freddo", "en": "cold", "emoji": "🥶", "pos": "adj"},
-            {"nl": "de regenboog", "it": "l'arcobaleno", "en": "rainbow", "emoji": "🌈", "pos": "n"}
+            {
+              "nl": "het weer",
+              "it": "il tempo (meteo)",
+              "en": "weather",
+              "emoji": "🌦️",
+              "pos": "n",
+              "exampleNl": "Het weer is mooi.",
+              "exampleIt": "Il tempo è bello."
+            },
+            {
+              "nl": "de zon",
+              "it": "il sole",
+              "en": "sun",
+              "emoji": "☀️",
+              "pos": "n",
+              "exampleNl": "De zon schijnt.",
+              "exampleIt": "Il sole splende."
+            },
+            {
+              "nl": "de regen",
+              "it": "la pioggia",
+              "en": "rain",
+              "emoji": "🌧️",
+              "pos": "n",
+              "exampleNl": "Ik hou niet van regen.",
+              "exampleIt": "Non mi piace la pioggia."
+            },
+            {
+              "nl": "de wolk",
+              "it": "la nuvola",
+              "en": "cloud",
+              "emoji": "☁️",
+              "pos": "n",
+              "exampleNl": "Er is geen wolk te zien.",
+              "exampleIt": "Non si vede una nuvola."
+            },
+            {
+              "nl": "de sneeuw",
+              "it": "la neve",
+              "en": "snow",
+              "emoji": "❄️",
+              "pos": "n",
+              "exampleNl": "De sneeuw is wit.",
+              "exampleIt": "La neve è bianca."
+            },
+            {
+              "nl": "de wind",
+              "it": "il vento",
+              "en": "wind",
+              "emoji": "💨",
+              "pos": "n",
+              "exampleNl": "De wind is koud.",
+              "exampleIt": "Il vento è freddo."
+            },
+            {
+              "nl": "warm",
+              "it": "caldo",
+              "en": "warm",
+              "emoji": "🔥",
+              "pos": "adj",
+              "exampleNl": "Het is warm vandaag.",
+              "exampleIt": "Oggi fa caldo."
+            },
+            {
+              "nl": "koud",
+              "it": "freddo",
+              "en": "cold",
+              "emoji": "🥶",
+              "pos": "adj",
+              "exampleNl": "In de winter is het koud.",
+              "exampleIt": "In inverno fa freddo."
+            },
+            {
+              "nl": "de regenboog",
+              "it": "l'arcobaleno",
+              "en": "rainbow",
+              "emoji": "🌈",
+              "pos": "n",
+              "exampleNl": "Ik zie een regenboog.",
+              "exampleIt": "Vedo un arcobaleno."
+            }
           ]
         },
         {
           "id": "a1u6l3",
           "title": "Mesi e stagioni",
           "items": [
-            {"nl": "de lente", "it": "la primavera", "en": "spring", "emoji": "🌷", "pos": "n"},
-            {"nl": "de zomer", "it": "l'estate", "en": "summer", "emoji": "🏖️", "pos": "n"},
-            {"nl": "de herfst", "it": "l'autunno", "en": "autumn", "emoji": "🍂", "pos": "n"},
-            {"nl": "de winter", "it": "l'inverno", "en": "winter", "emoji": "⛄", "pos": "n"},
-            {"nl": "januari", "it": "gennaio", "en": "January", "pos": "n"},
-            {"nl": "juli", "it": "luglio", "en": "July", "pos": "n"},
-            {"nl": "december", "it": "dicembre", "en": "December", "pos": "n"},
-            {"nl": "de maand", "it": "il mese", "en": "month", "emoji": "📅", "pos": "n"},
-            {"nl": "het jaar", "it": "l'anno", "en": "year", "pos": "n"},
-            {"nl": "de dag", "it": "il giorno", "en": "day", "emoji": "📆", "pos": "n"}
+            {
+              "nl": "de lente",
+              "it": "la primavera",
+              "en": "spring",
+              "emoji": "🌷",
+              "pos": "n",
+              "exampleNl": "In de lente bloeien de bloemen.",
+              "exampleIt": "In primavera sbocciano i fiori."
+            },
+            {
+              "nl": "de zomer",
+              "it": "l'estate",
+              "en": "summer",
+              "emoji": "🏖️",
+              "pos": "n",
+              "exampleNl": "In de zomer is het warm.",
+              "exampleIt": "In estate fa caldo."
+            },
+            {
+              "nl": "de herfst",
+              "it": "l'autunno",
+              "en": "autumn",
+              "emoji": "🍂",
+              "pos": "n",
+              "exampleNl": "In de herfst vallen de bladeren.",
+              "exampleIt": "In autunno cadono le foglie."
+            },
+            {
+              "nl": "de winter",
+              "it": "l'inverno",
+              "en": "winter",
+              "emoji": "⛄",
+              "pos": "n",
+              "exampleNl": "In de winter sneeuwt het.",
+              "exampleIt": "In inverno nevica."
+            },
+            {
+              "nl": "januari",
+              "it": "gennaio",
+              "en": "January",
+              "pos": "n",
+              "exampleNl": "Januari is de eerste maand.",
+              "exampleIt": "Gennaio è il primo mese."
+            },
+            {
+              "nl": "juli",
+              "it": "luglio",
+              "en": "July",
+              "pos": "n",
+              "exampleNl": "In juli hebben we vakantie.",
+              "exampleIt": "A luglio abbiamo le vacanze."
+            },
+            {
+              "nl": "december",
+              "it": "dicembre",
+              "en": "December",
+              "pos": "n",
+              "exampleNl": "December is koud.",
+              "exampleIt": "Dicembre è freddo."
+            },
+            {
+              "nl": "de maand",
+              "it": "il mese",
+              "en": "month",
+              "emoji": "📅",
+              "pos": "n",
+              "exampleNl": "Een maand heeft vier weken.",
+              "exampleIt": "Un mese ha quattro settimane."
+            },
+            {
+              "nl": "het jaar",
+              "it": "l'anno",
+              "en": "year",
+              "pos": "n",
+              "exampleNl": "Een jaar heeft twaalf maanden.",
+              "exampleIt": "Un anno ha dodici mesi."
+            },
+            {
+              "nl": "de dag",
+              "it": "il giorno",
+              "en": "day",
+              "emoji": "📆",
+              "pos": "n",
+              "exampleNl": "De dag begint vroeg.",
+              "exampleIt": "La giornata inizia presto."
+            }
           ]
         }
       ]
@@ -332,32 +1667,192 @@
           "id": "a1u7l1",
           "title": "Animali domestici e fattoria",
           "items": [
-            {"nl": "de hond", "it": "il cane", "en": "dog", "emoji": "🐶", "pos": "n"},
-            {"nl": "de kat", "it": "il gatto", "en": "cat", "emoji": "🐱", "pos": "n"},
-            {"nl": "de vogel", "it": "l'uccello", "en": "bird", "emoji": "🐦", "pos": "n"},
-            {"nl": "de koe", "it": "la mucca", "en": "cow", "emoji": "🐮", "pos": "n"},
-            {"nl": "het paard", "it": "il cavallo", "en": "horse", "emoji": "🐴", "pos": "n"},
-            {"nl": "het varken", "it": "il maiale", "en": "pig", "emoji": "🐷", "pos": "n"},
-            {"nl": "de kip", "it": "la gallina", "en": "chicken", "emoji": "🐔", "pos": "n"},
-            {"nl": "het schaap", "it": "la pecora", "en": "sheep", "emoji": "🐑", "pos": "n"},
-            {"nl": "de muis", "it": "il topo", "en": "mouse", "emoji": "🐭", "pos": "n"},
-            {"nl": "het konijn", "it": "il coniglio", "en": "rabbit", "emoji": "🐰", "pos": "n"}
+            {
+              "nl": "de hond",
+              "it": "il cane",
+              "en": "dog",
+              "emoji": "🐶",
+              "pos": "n",
+              "exampleNl": "De hond blaft.",
+              "exampleIt": "Il cane abbaia."
+            },
+            {
+              "nl": "de kat",
+              "it": "il gatto",
+              "en": "cat",
+              "emoji": "🐱",
+              "pos": "n",
+              "exampleNl": "De kat slaapt veel.",
+              "exampleIt": "Il gatto dorme molto."
+            },
+            {
+              "nl": "de vogel",
+              "it": "l'uccello",
+              "en": "bird",
+              "emoji": "🐦",
+              "pos": "n",
+              "exampleNl": "De vogel zingt.",
+              "exampleIt": "L'uccello canta."
+            },
+            {
+              "nl": "de koe",
+              "it": "la mucca",
+              "en": "cow",
+              "emoji": "🐮",
+              "pos": "n",
+              "exampleNl": "De koe geeft melk.",
+              "exampleIt": "La mucca dà il latte."
+            },
+            {
+              "nl": "het paard",
+              "it": "il cavallo",
+              "en": "horse",
+              "emoji": "🐴",
+              "pos": "n",
+              "exampleNl": "Het paard rent snel.",
+              "exampleIt": "Il cavallo corre veloce."
+            },
+            {
+              "nl": "het varken",
+              "it": "il maiale",
+              "en": "pig",
+              "emoji": "🐷",
+              "pos": "n",
+              "exampleNl": "Het varken is roze.",
+              "exampleIt": "Il maiale è rosa."
+            },
+            {
+              "nl": "de kip",
+              "it": "la gallina",
+              "en": "chicken",
+              "emoji": "🐔",
+              "pos": "n",
+              "exampleNl": "De kip legt een ei.",
+              "exampleIt": "La gallina fa un uovo."
+            },
+            {
+              "nl": "het schaap",
+              "it": "la pecora",
+              "en": "sheep",
+              "emoji": "🐑",
+              "pos": "n",
+              "exampleNl": "Het schaap eet gras.",
+              "exampleIt": "La pecora mangia l'erba."
+            },
+            {
+              "nl": "de muis",
+              "it": "il topo",
+              "en": "mouse",
+              "emoji": "🐭",
+              "pos": "n",
+              "exampleNl": "De muis is klein.",
+              "exampleIt": "Il topo è piccolo."
+            },
+            {
+              "nl": "het konijn",
+              "it": "il coniglio",
+              "en": "rabbit",
+              "emoji": "🐰",
+              "pos": "n",
+              "exampleNl": "Het konijn springt.",
+              "exampleIt": "Il coniglio salta."
+            }
           ]
         },
         {
           "id": "a1u7l2",
           "title": "Animali selvatici",
           "items": [
-            {"nl": "de leeuw", "it": "il leone", "en": "lion", "emoji": "🦁", "pos": "n"},
-            {"nl": "de olifant", "it": "l'elefante", "en": "elephant", "emoji": "🐘", "pos": "n"},
-            {"nl": "de beer", "it": "l'orso", "en": "bear", "emoji": "🐻", "pos": "n"},
-            {"nl": "de aap", "it": "la scimmia", "en": "monkey", "emoji": "🐵", "pos": "n"},
-            {"nl": "de tijger", "it": "la tigre", "en": "tiger", "emoji": "🐯", "pos": "n"},
-            {"nl": "de wolf", "it": "il lupo", "en": "wolf", "emoji": "🐺", "pos": "n"},
-            {"nl": "de vos", "it": "la volpe", "en": "fox", "emoji": "🦊", "pos": "n"},
-            {"nl": "de slang", "it": "il serpente", "en": "snake", "emoji": "🐍", "pos": "n"},
-            {"nl": "de vlinder", "it": "la farfalla", "en": "butterfly", "emoji": "🦋", "pos": "n"},
-            {"nl": "de bij", "it": "l'ape", "en": "bee", "emoji": "🐝", "pos": "n"}
+            {
+              "nl": "de leeuw",
+              "it": "il leone",
+              "en": "lion",
+              "emoji": "🦁",
+              "pos": "n",
+              "exampleNl": "De leeuw is sterk.",
+              "exampleIt": "Il leone è forte."
+            },
+            {
+              "nl": "de olifant",
+              "it": "l'elefante",
+              "en": "elephant",
+              "emoji": "🐘",
+              "pos": "n",
+              "exampleNl": "De olifant is heel groot.",
+              "exampleIt": "L'elefante è molto grande."
+            },
+            {
+              "nl": "de beer",
+              "it": "l'orso",
+              "en": "bear",
+              "emoji": "🐻",
+              "pos": "n",
+              "exampleNl": "De beer slaapt in de winter.",
+              "exampleIt": "L'orso dorme d'inverno."
+            },
+            {
+              "nl": "de aap",
+              "it": "la scimmia",
+              "en": "monkey",
+              "emoji": "🐵",
+              "pos": "n",
+              "exampleNl": "De aap klimt in de boom.",
+              "exampleIt": "La scimmia si arrampica sull'albero."
+            },
+            {
+              "nl": "de tijger",
+              "it": "la tigre",
+              "en": "tiger",
+              "emoji": "🐯",
+              "pos": "n",
+              "exampleNl": "De tijger heeft strepen.",
+              "exampleIt": "La tigre ha le strisce."
+            },
+            {
+              "nl": "de wolf",
+              "it": "il lupo",
+              "en": "wolf",
+              "emoji": "🐺",
+              "pos": "n",
+              "exampleNl": "De wolf leeft in het bos.",
+              "exampleIt": "Il lupo vive nel bosco."
+            },
+            {
+              "nl": "de vos",
+              "it": "la volpe",
+              "en": "fox",
+              "emoji": "🦊",
+              "pos": "n",
+              "exampleNl": "De vos is slim.",
+              "exampleIt": "La volpe è furba."
+            },
+            {
+              "nl": "de slang",
+              "it": "il serpente",
+              "en": "snake",
+              "emoji": "🐍",
+              "pos": "n",
+              "exampleNl": "De slang is lang.",
+              "exampleIt": "Il serpente è lungo."
+            },
+            {
+              "nl": "de vlinder",
+              "it": "la farfalla",
+              "en": "butterfly",
+              "emoji": "🦋",
+              "pos": "n",
+              "exampleNl": "De vlinder is mooi.",
+              "exampleIt": "La farfalla è bella."
+            },
+            {
+              "nl": "de bij",
+              "it": "l'ape",
+              "en": "bee",
+              "emoji": "🐝",
+              "pos": "n",
+              "exampleNl": "De bij maakt honing.",
+              "exampleIt": "L'ape fa il miele."
+            }
           ]
         }
       ]
@@ -372,16 +1867,86 @@
           "id": "a1u8l1",
           "title": "Parole interrogative",
           "items": [
-            {"nl": "wat", "it": "cosa", "en": "what", "pos": "pron", "exampleNl": "Wat is dit?", "exampleIt": "Cos'è questo?"},
-            {"nl": "wie", "it": "chi", "en": "who", "pos": "pron"},
-            {"nl": "waar", "it": "dove", "en": "where", "pos": "adv", "exampleNl": "Waar ben je?", "exampleIt": "Dove sei?"},
-            {"nl": "wanneer", "it": "quando", "en": "when", "pos": "adv"},
-            {"nl": "waarom", "it": "perché", "en": "why", "pos": "adv"},
-            {"nl": "hoe", "it": "come", "en": "how", "pos": "adv"},
-            {"nl": "welke", "it": "quale", "en": "which", "pos": "pron"},
-            {"nl": "hoeveel", "it": "quanto", "en": "how much", "pos": "adv"},
-            {"nl": "hoe laat", "it": "a che ora", "en": "at what time", "pos": "phr"},
-            {"nl": "met wie", "it": "con chi", "en": "with whom", "pos": "phr"}
+            {
+              "nl": "wat",
+              "it": "cosa",
+              "en": "what",
+              "pos": "pron",
+              "exampleNl": "Wat is dit?",
+              "exampleIt": "Cos'è questo?"
+            },
+            {
+              "nl": "wie",
+              "it": "chi",
+              "en": "who",
+              "pos": "pron",
+              "exampleNl": "Wie ben jij?",
+              "exampleIt": "Chi sei tu?"
+            },
+            {
+              "nl": "waar",
+              "it": "dove",
+              "en": "where",
+              "pos": "adv",
+              "exampleNl": "Waar ben je?",
+              "exampleIt": "Dove sei?"
+            },
+            {
+              "nl": "wanneer",
+              "it": "quando",
+              "en": "when",
+              "pos": "adv",
+              "exampleNl": "Wanneer kom je?",
+              "exampleIt": "Quando vieni?"
+            },
+            {
+              "nl": "waarom",
+              "it": "perché",
+              "en": "why",
+              "pos": "adv",
+              "exampleNl": "Waarom huil je?",
+              "exampleIt": "Perché piangi?"
+            },
+            {
+              "nl": "hoe",
+              "it": "come",
+              "en": "how",
+              "pos": "adv",
+              "exampleNl": "Hoe doe je dat?",
+              "exampleIt": "Come fai questo?"
+            },
+            {
+              "nl": "welke",
+              "it": "quale",
+              "en": "which",
+              "pos": "pron",
+              "exampleNl": "Welke kleur is het?",
+              "exampleIt": "Che colore è?"
+            },
+            {
+              "nl": "hoeveel",
+              "it": "quanto",
+              "en": "how much",
+              "pos": "adv",
+              "exampleNl": "Hoeveel kost dit?",
+              "exampleIt": "Quanto costa questo?"
+            },
+            {
+              "nl": "hoe laat",
+              "it": "a che ora",
+              "en": "at what time",
+              "pos": "phr",
+              "exampleNl": "Hoe laat is het?",
+              "exampleIt": "Che ore sono?"
+            },
+            {
+              "nl": "met wie",
+              "it": "con chi",
+              "en": "with whom",
+              "pos": "phr",
+              "exampleNl": "Met wie ga je?",
+              "exampleIt": "Con chi vai?"
+            }
           ]
         }
       ]
@@ -396,32 +1961,181 @@
           "id": "a1u9l1",
           "title": "In conversazione",
           "items": [
-            {"nl": "Ik begrijp het niet", "it": "Non capisco", "en": "I don't understand", "pos": "phr"},
-            {"nl": "Kun je dat herhalen?", "it": "Puoi ripeterlo?", "en": "Can you repeat that?", "pos": "phr"},
-            {"nl": "Hoe zeg je dat?", "it": "Come si dice?", "en": "How do you say that?", "pos": "phr"},
-            {"nl": "Ik spreek een beetje Nederlands", "it": "Parlo un po' di olandese", "en": "I speak a little Dutch", "pos": "phr"},
-            {"nl": "Spreek je Engels?", "it": "Parli inglese?", "en": "Do you speak English?", "pos": "phr"},
-            {"nl": "Ik kom uit Italië", "it": "Vengo dall'Italia", "en": "I come from Italy", "emoji": "🇮🇹", "pos": "phr"},
-            {"nl": "Wat betekent dit?", "it": "Cosa significa?", "en": "What does this mean?", "pos": "phr"},
-            {"nl": "Langzaam, alstublieft", "it": "Più lentamente, per favore", "en": "Slowly, please", "pos": "phr"},
-            {"nl": "Geen probleem", "it": "Nessun problema", "en": "No problem", "pos": "phr"},
-            {"nl": "Ik weet het niet", "it": "Non lo so", "en": "I don't know", "pos": "phr"}
+            {
+              "nl": "Ik begrijp het niet",
+              "it": "Non capisco",
+              "en": "I don't understand",
+              "pos": "phr",
+              "exampleNl": "Sorry, ik begrijp het niet.",
+              "exampleIt": "Scusa, non capisco."
+            },
+            {
+              "nl": "Kun je dat herhalen?",
+              "it": "Puoi ripeterlo?",
+              "en": "Can you repeat that?",
+              "pos": "phr",
+              "exampleNl": "Kun je dat herhalen, alsjeblieft?",
+              "exampleIt": "Puoi ripeterlo, per favore?"
+            },
+            {
+              "nl": "Hoe zeg je dat?",
+              "it": "Come si dice?",
+              "en": "How do you say that?",
+              "pos": "phr",
+              "exampleNl": "Hoe zeg je dat in het Nederlands?",
+              "exampleIt": "Come si dice in olandese?"
+            },
+            {
+              "nl": "Ik spreek een beetje Nederlands",
+              "it": "Parlo un po' di olandese",
+              "en": "I speak a little Dutch",
+              "pos": "phr",
+              "exampleNl": "Ik spreek maar een beetje Nederlands.",
+              "exampleIt": "Parlo solo un po' di olandese."
+            },
+            {
+              "nl": "Spreek je Engels?",
+              "it": "Parli inglese?",
+              "en": "Do you speak English?",
+              "pos": "phr",
+              "exampleNl": "Sorry, spreek je Engels?",
+              "exampleIt": "Scusa, parli inglese?"
+            },
+            {
+              "nl": "Ik kom uit Italië",
+              "it": "Vengo dall'Italia",
+              "en": "I come from Italy",
+              "emoji": "🇮🇹",
+              "pos": "phr",
+              "exampleNl": "Hallo, ik kom uit Italië.",
+              "exampleIt": "Ciao, vengo dall'Italia."
+            },
+            {
+              "nl": "Wat betekent dit?",
+              "it": "Cosa significa?",
+              "en": "What does this mean?",
+              "pos": "phr",
+              "exampleNl": "Wat betekent dit woord?",
+              "exampleIt": "Cosa significa questa parola?"
+            },
+            {
+              "nl": "Langzaam, alstublieft",
+              "it": "Più lentamente, per favore",
+              "en": "Slowly, please",
+              "pos": "phr",
+              "exampleNl": "Spreek langzaam, alstublieft.",
+              "exampleIt": "Parli lentamente, per favore."
+            },
+            {
+              "nl": "Geen probleem",
+              "it": "Nessun problema",
+              "en": "No problem",
+              "pos": "phr",
+              "exampleNl": "Geen probleem, hoor.",
+              "exampleIt": "Nessun problema, figurati."
+            },
+            {
+              "nl": "Ik weet het niet",
+              "it": "Non lo so",
+              "en": "I don't know",
+              "pos": "phr",
+              "exampleNl": "Sorry, ik weet het niet.",
+              "exampleIt": "Scusa, non lo so."
+            }
           ]
         },
         {
           "id": "a1u9l2",
           "title": "In viaggio",
           "items": [
-            {"nl": "Waar is het toilet?", "it": "Dov'è il bagno?", "en": "Where is the toilet?", "emoji": "🚻", "pos": "phr"},
-            {"nl": "Hoeveel kost het?", "it": "Quanto costa?", "en": "How much is it?", "emoji": "💶", "pos": "phr"},
-            {"nl": "De rekening, alstublieft", "it": "Il conto, per favore", "en": "The bill, please", "emoji": "🧾", "pos": "phr"},
-            {"nl": "Ik wil graag koffie", "it": "Vorrei un caffè", "en": "I would like coffee", "emoji": "☕", "pos": "phr"},
-            {"nl": "Waar is het station?", "it": "Dov'è la stazione?", "en": "Where is the station?", "emoji": "🚉", "pos": "phr"},
-            {"nl": "Help!", "it": "Aiuto!", "en": "Help!", "emoji": "🆘", "pos": "phr"},
-            {"nl": "Ik ben verdwaald", "it": "Mi sono perso", "en": "I am lost", "pos": "phr"},
-            {"nl": "Mag ik betalen?", "it": "Posso pagare?", "en": "Can I pay?", "emoji": "💳", "pos": "phr"},
-            {"nl": "Goede reis", "it": "Buon viaggio", "en": "Have a good trip", "emoji": "✈️", "pos": "phr"},
-            {"nl": "Tot de volgende keer", "it": "Alla prossima", "en": "Until next time", "pos": "phr"}
+            {
+              "nl": "Waar is het toilet?",
+              "it": "Dov'è il bagno?",
+              "en": "Where is the toilet?",
+              "emoji": "🚻",
+              "pos": "phr",
+              "exampleNl": "Pardon, waar is het toilet?",
+              "exampleIt": "Scusi, dov'è il bagno?"
+            },
+            {
+              "nl": "Hoeveel kost het?",
+              "it": "Quanto costa?",
+              "en": "How much is it?",
+              "emoji": "💶",
+              "pos": "phr",
+              "exampleNl": "Hoeveel kost het kaartje?",
+              "exampleIt": "Quanto costa il biglietto?"
+            },
+            {
+              "nl": "De rekening, alstublieft",
+              "it": "Il conto, per favore",
+              "en": "The bill, please",
+              "emoji": "🧾",
+              "pos": "phr",
+              "exampleNl": "Mag ik de rekening, alstublieft?",
+              "exampleIt": "Posso avere il conto, per favore?"
+            },
+            {
+              "nl": "Ik wil graag koffie",
+              "it": "Vorrei un caffè",
+              "en": "I would like coffee",
+              "emoji": "☕",
+              "pos": "phr",
+              "exampleNl": "Ik wil graag een koffie.",
+              "exampleIt": "Vorrei un caffè."
+            },
+            {
+              "nl": "Waar is het station?",
+              "it": "Dov'è la stazione?",
+              "en": "Where is the station?",
+              "emoji": "🚉",
+              "pos": "phr",
+              "exampleNl": "Pardon, waar is het station?",
+              "exampleIt": "Scusi, dov'è la stazione?"
+            },
+            {
+              "nl": "Help!",
+              "it": "Aiuto!",
+              "en": "Help!",
+              "emoji": "🆘",
+              "pos": "phr",
+              "exampleNl": "Help, ik ben verdwaald!",
+              "exampleIt": "Aiuto, mi sono perso!"
+            },
+            {
+              "nl": "Ik ben verdwaald",
+              "it": "Mi sono perso",
+              "en": "I am lost",
+              "pos": "phr",
+              "exampleNl": "Sorry, ik ben verdwaald.",
+              "exampleIt": "Scusa, mi sono perso."
+            },
+            {
+              "nl": "Mag ik betalen?",
+              "it": "Posso pagare?",
+              "en": "Can I pay?",
+              "emoji": "💳",
+              "pos": "phr",
+              "exampleNl": "Mag ik betalen, alstublieft?",
+              "exampleIt": "Posso pagare, per favore?"
+            },
+            {
+              "nl": "Goede reis",
+              "it": "Buon viaggio",
+              "en": "Have a good trip",
+              "emoji": "✈️",
+              "pos": "phr",
+              "exampleNl": "Goede reis en tot snel!",
+              "exampleIt": "Buon viaggio e a presto!"
+            },
+            {
+              "nl": "Tot de volgende keer",
+              "it": "Alla prossima",
+              "en": "Until next time",
+              "pos": "phr",
+              "exampleNl": "Bedankt en tot de volgende keer.",
+              "exampleIt": "Grazie e alla prossima."
+            }
           ]
         }
       ]
@@ -436,16 +2150,92 @@
           "id": "a1u10l1",
           "title": "L'orologio e i momenti del giorno",
           "items": [
-            {"nl": "Hoe laat is het?", "it": "Che ore sono?", "en": "What time is it?", "emoji": "🕐", "pos": "phr"},
-            {"nl": "het uur", "it": "l'ora", "en": "hour", "emoji": "⏰", "pos": "n"},
-            {"nl": "de minuut", "it": "il minuto", "en": "minute", "pos": "n"},
-            {"nl": "half", "it": "mezza (ora)", "en": "half", "pos": "adj"},
-            {"nl": "kwart", "it": "un quarto", "en": "quarter", "pos": "n"},
-            {"nl": "nu", "it": "adesso", "en": "now", "pos": "adv"},
-            {"nl": "de ochtend", "it": "la mattina", "en": "morning", "emoji": "🌅", "pos": "n"},
-            {"nl": "de middag", "it": "il pomeriggio", "en": "afternoon", "emoji": "🏙️", "pos": "n"},
-            {"nl": "de avond", "it": "la sera", "en": "evening", "emoji": "🌆", "pos": "n"},
-            {"nl": "de nacht", "it": "la notte", "en": "night", "emoji": "🌙", "pos": "n"}
+            {
+              "nl": "Hoe laat is het?",
+              "it": "Che ore sono?",
+              "en": "What time is it?",
+              "emoji": "🕐",
+              "pos": "phr",
+              "exampleNl": "Pardon, hoe laat is het?",
+              "exampleIt": "Scusi, che ore sono?"
+            },
+            {
+              "nl": "het uur",
+              "it": "l'ora",
+              "en": "hour",
+              "emoji": "⏰",
+              "pos": "n",
+              "exampleNl": "Een uur heeft zestig minuten.",
+              "exampleIt": "Un'ora ha sessanta minuti."
+            },
+            {
+              "nl": "de minuut",
+              "it": "il minuto",
+              "en": "minute",
+              "pos": "n",
+              "exampleNl": "Wacht een minuut.",
+              "exampleIt": "Aspetta un minuto."
+            },
+            {
+              "nl": "half",
+              "it": "mezza (ora)",
+              "en": "half",
+              "pos": "adj",
+              "exampleNl": "Het is half drie.",
+              "exampleIt": "Sono le due e mezza."
+            },
+            {
+              "nl": "kwart",
+              "it": "un quarto",
+              "en": "quarter",
+              "pos": "n",
+              "exampleNl": "Het is kwart over zes.",
+              "exampleIt": "Sono le sei e un quarto."
+            },
+            {
+              "nl": "nu",
+              "it": "adesso",
+              "en": "now",
+              "pos": "adv",
+              "exampleNl": "Ik kom nu.",
+              "exampleIt": "Vengo adesso."
+            },
+            {
+              "nl": "de ochtend",
+              "it": "la mattina",
+              "en": "morning",
+              "emoji": "🌅",
+              "pos": "n",
+              "exampleNl": "In de ochtend drink ik koffie.",
+              "exampleIt": "La mattina bevo il caffè."
+            },
+            {
+              "nl": "de middag",
+              "it": "il pomeriggio",
+              "en": "afternoon",
+              "emoji": "🏙️",
+              "pos": "n",
+              "exampleNl": "In de middag werk ik.",
+              "exampleIt": "Il pomeriggio lavoro."
+            },
+            {
+              "nl": "de avond",
+              "it": "la sera",
+              "en": "evening",
+              "emoji": "🌆",
+              "pos": "n",
+              "exampleNl": "In de avond kijk ik tv.",
+              "exampleIt": "La sera guardo la TV."
+            },
+            {
+              "nl": "de nacht",
+              "it": "la notte",
+              "en": "night",
+              "emoji": "🌙",
+              "pos": "n",
+              "exampleNl": "In de nacht slaap ik.",
+              "exampleIt": "La notte dormo."
+            }
           ]
         }
       ]
@@ -460,18 +2250,109 @@
           "id": "a1u11l1",
           "title": "Contrari utili",
           "items": [
-            {"nl": "groot", "it": "grande", "en": "big", "emoji": "🐘", "pos": "adj"},
-            {"nl": "klein", "it": "piccolo", "en": "small", "emoji": "🐭", "pos": "adj"},
-            {"nl": "mooi", "it": "bello", "en": "beautiful", "emoji": "✨", "pos": "adj"},
-            {"nl": "lelijk", "it": "brutto", "en": "ugly", "pos": "adj"},
-            {"nl": "nieuw", "it": "nuovo", "en": "new", "emoji": "🆕", "pos": "adj"},
-            {"nl": "oud", "it": "vecchio", "en": "old", "emoji": "👴", "pos": "adj"},
-            {"nl": "lang", "it": "lungo / alto", "en": "long / tall", "pos": "adj"},
-            {"nl": "kort", "it": "corto / breve", "en": "short", "pos": "adj"},
-            {"nl": "makkelijk", "it": "facile", "en": "easy", "emoji": "✅", "pos": "adj"},
-            {"nl": "moeilijk", "it": "difficile", "en": "difficult", "pos": "adj"},
-            {"nl": "duur", "it": "caro / costoso", "en": "expensive", "emoji": "💰", "pos": "adj"},
-            {"nl": "goedkoop", "it": "economico", "en": "cheap", "pos": "adj"}
+            {
+              "nl": "groot",
+              "it": "grande",
+              "en": "big",
+              "emoji": "🐘",
+              "pos": "adj",
+              "exampleNl": "Het huis is groot.",
+              "exampleIt": "La casa è grande."
+            },
+            {
+              "nl": "klein",
+              "it": "piccolo",
+              "en": "small",
+              "emoji": "🐭",
+              "pos": "adj",
+              "exampleNl": "De kat is klein.",
+              "exampleIt": "Il gatto è piccolo."
+            },
+            {
+              "nl": "mooi",
+              "it": "bello",
+              "en": "beautiful",
+              "emoji": "✨",
+              "pos": "adj",
+              "exampleNl": "Wat een mooie dag!",
+              "exampleIt": "Che bella giornata!"
+            },
+            {
+              "nl": "lelijk",
+              "it": "brutto",
+              "en": "ugly",
+              "pos": "adj",
+              "exampleNl": "De jas is lelijk.",
+              "exampleIt": "La giacca è brutta."
+            },
+            {
+              "nl": "nieuw",
+              "it": "nuovo",
+              "en": "new",
+              "emoji": "🆕",
+              "pos": "adj",
+              "exampleNl": "Ik heb een nieuwe fiets.",
+              "exampleIt": "Ho una bici nuova."
+            },
+            {
+              "nl": "oud",
+              "it": "vecchio",
+              "en": "old",
+              "emoji": "👴",
+              "pos": "adj",
+              "exampleNl": "Het boek is oud.",
+              "exampleIt": "Il libro è vecchio."
+            },
+            {
+              "nl": "lang",
+              "it": "lungo / alto",
+              "en": "long / tall",
+              "pos": "adj",
+              "exampleNl": "Hij is erg lang.",
+              "exampleIt": "Lui è molto alto."
+            },
+            {
+              "nl": "kort",
+              "it": "corto / breve",
+              "en": "short",
+              "pos": "adj",
+              "exampleNl": "Het is een korte film.",
+              "exampleIt": "È un film corto."
+            },
+            {
+              "nl": "makkelijk",
+              "it": "facile",
+              "en": "easy",
+              "emoji": "✅",
+              "pos": "adj",
+              "exampleNl": "De test is makkelijk.",
+              "exampleIt": "Il test è facile."
+            },
+            {
+              "nl": "moeilijk",
+              "it": "difficile",
+              "en": "difficult",
+              "pos": "adj",
+              "exampleNl": "Nederlands is niet moeilijk.",
+              "exampleIt": "L'olandese non è difficile."
+            },
+            {
+              "nl": "duur",
+              "it": "caro / costoso",
+              "en": "expensive",
+              "emoji": "💰",
+              "pos": "adj",
+              "exampleNl": "De auto is duur.",
+              "exampleIt": "L'auto è cara."
+            },
+            {
+              "nl": "goedkoop",
+              "it": "economico",
+              "en": "cheap",
+              "pos": "adj",
+              "exampleNl": "De trein is goedkoop.",
+              "exampleIt": "Il treno è economico."
+            }
           ]
         }
       ]
