@@ -14,48 +14,277 @@
           "id": "a2u1l1",
           "title": "Azioni di base",
           "items": [
-            {"nl": "zijn", "it": "essere", "en": "to be", "pos": "v", "exampleNl": "Ik ben moe.", "exampleIt": "Sono stanco."},
-            {"nl": "hebben", "it": "avere", "en": "to have", "pos": "v", "exampleNl": "Ik heb een hond.", "exampleIt": "Ho un cane."},
-            {"nl": "gaan", "it": "andare", "en": "to go", "pos": "v"},
-            {"nl": "komen", "it": "venire", "en": "to come", "pos": "v"},
-            {"nl": "doen", "it": "fare", "en": "to do", "pos": "v"},
-            {"nl": "maken", "it": "fare / creare", "en": "to make", "pos": "v"},
-            {"nl": "zeggen", "it": "dire", "en": "to say", "pos": "v"},
-            {"nl": "zien", "it": "vedere", "en": "to see", "pos": "v"},
-            {"nl": "weten", "it": "sapere", "en": "to know", "pos": "v"},
-            {"nl": "willen", "it": "volere", "en": "to want", "pos": "v"}
+            {
+              "nl": "zijn",
+              "it": "essere",
+              "en": "to be",
+              "pos": "v",
+              "exampleNl": "Ik ben moe.",
+              "exampleIt": "Sono stanco."
+            },
+            {
+              "nl": "hebben",
+              "it": "avere",
+              "en": "to have",
+              "pos": "v",
+              "exampleNl": "Ik heb een hond.",
+              "exampleIt": "Ho un cane."
+            },
+            {
+              "nl": "gaan",
+              "it": "andare",
+              "en": "to go",
+              "pos": "v",
+              "exampleNl": "We gaan naar de bioscoop.",
+              "exampleIt": "Andiamo al cinema."
+            },
+            {
+              "nl": "komen",
+              "it": "venire",
+              "en": "to come",
+              "pos": "v",
+              "exampleNl": "Kom je vanavond langs?",
+              "exampleIt": "Passi stasera?"
+            },
+            {
+              "nl": "doen",
+              "it": "fare",
+              "en": "to do",
+              "pos": "v",
+              "exampleNl": "Wat doe je in het weekend?",
+              "exampleIt": "Cosa fai nel weekend?"
+            },
+            {
+              "nl": "maken",
+              "it": "fare / creare",
+              "en": "to make",
+              "pos": "v",
+              "exampleNl": "Ik maak mijn huiswerk.",
+              "exampleIt": "Faccio i compiti."
+            },
+            {
+              "nl": "zeggen",
+              "it": "dire",
+              "en": "to say",
+              "pos": "v",
+              "exampleNl": "Wat wil je zeggen?",
+              "exampleIt": "Cosa vuoi dire?"
+            },
+            {
+              "nl": "zien",
+              "it": "vedere",
+              "en": "to see",
+              "pos": "v",
+              "exampleNl": "Ik kan de zee zien.",
+              "exampleIt": "Riesco a vedere il mare."
+            },
+            {
+              "nl": "weten",
+              "it": "sapere",
+              "en": "to know",
+              "pos": "v",
+              "exampleNl": "Weet jij hoe laat het is?",
+              "exampleIt": "Sai che ore sono?"
+            },
+            {
+              "nl": "willen",
+              "it": "volere",
+              "en": "to want",
+              "pos": "v",
+              "exampleNl": "Ik wil graag naar huis.",
+              "exampleIt": "Voglio andare a casa."
+            }
           ]
         },
         {
           "id": "a2u1l2",
           "title": "Vita quotidiana",
           "items": [
-            {"nl": "eten", "it": "mangiare", "en": "to eat", "emoji": "🍽️", "pos": "v"},
-            {"nl": "drinken", "it": "bere", "en": "to drink", "emoji": "🥤", "pos": "v"},
-            {"nl": "slapen", "it": "dormire", "en": "to sleep", "emoji": "😴", "pos": "v"},
-            {"nl": "werken", "it": "lavorare", "en": "to work", "emoji": "💼", "pos": "v"},
-            {"nl": "wonen", "it": "abitare", "en": "to live", "emoji": "🏠", "pos": "v"},
-            {"nl": "spreken", "it": "parlare", "en": "to speak", "emoji": "💬", "pos": "v"},
-            {"nl": "lezen", "it": "leggere", "en": "to read", "emoji": "📖", "pos": "v"},
-            {"nl": "schrijven", "it": "scrivere", "en": "to write", "emoji": "✍️", "pos": "v"},
-            {"nl": "luisteren", "it": "ascoltare", "en": "to listen", "emoji": "👂", "pos": "v"},
-            {"nl": "kijken", "it": "guardare", "en": "to watch", "emoji": "👀", "pos": "v"}
+            {
+              "nl": "eten",
+              "it": "mangiare",
+              "en": "to eat",
+              "emoji": "🍽️",
+              "pos": "v",
+              "exampleNl": "We eten om zeven uur.",
+              "exampleIt": "Mangiamo alle sette."
+            },
+            {
+              "nl": "drinken",
+              "it": "bere",
+              "en": "to drink",
+              "emoji": "🥤",
+              "pos": "v",
+              "exampleNl": "Wil je iets drinken?",
+              "exampleIt": "Vuoi qualcosa da bere?"
+            },
+            {
+              "nl": "slapen",
+              "it": "dormire",
+              "en": "to sleep",
+              "emoji": "😴",
+              "pos": "v",
+              "exampleNl": "Ik kan niet slapen.",
+              "exampleIt": "Non riesco a dormire."
+            },
+            {
+              "nl": "werken",
+              "it": "lavorare",
+              "en": "to work",
+              "emoji": "💼",
+              "pos": "v",
+              "exampleNl": "Ik werk in een kantoor.",
+              "exampleIt": "Lavoro in un ufficio."
+            },
+            {
+              "nl": "wonen",
+              "it": "abitare",
+              "en": "to live",
+              "emoji": "🏠",
+              "pos": "v",
+              "exampleNl": "Wij wonen in Amsterdam.",
+              "exampleIt": "Abitiamo ad Amsterdam."
+            },
+            {
+              "nl": "spreken",
+              "it": "parlare",
+              "en": "to speak",
+              "emoji": "💬",
+              "pos": "v",
+              "exampleNl": "Spreek je Nederlands?",
+              "exampleIt": "Parli olandese?"
+            },
+            {
+              "nl": "lezen",
+              "it": "leggere",
+              "en": "to read",
+              "emoji": "📖",
+              "pos": "v",
+              "exampleNl": "Ik lees graag boeken.",
+              "exampleIt": "Mi piace leggere libri."
+            },
+            {
+              "nl": "schrijven",
+              "it": "scrivere",
+              "en": "to write",
+              "emoji": "✍️",
+              "pos": "v",
+              "exampleNl": "Ik schrijf een brief.",
+              "exampleIt": "Scrivo una lettera."
+            },
+            {
+              "nl": "luisteren",
+              "it": "ascoltare",
+              "en": "to listen",
+              "emoji": "👂",
+              "pos": "v",
+              "exampleNl": "Ik luister naar muziek.",
+              "exampleIt": "Ascolto musica."
+            },
+            {
+              "nl": "kijken",
+              "it": "guardare",
+              "en": "to watch",
+              "emoji": "👀",
+              "pos": "v",
+              "exampleNl": "We kijken een film.",
+              "exampleIt": "Guardiamo un film."
+            }
           ]
         },
         {
           "id": "a2u1l3",
           "title": "Movimento",
           "items": [
-            {"nl": "lopen", "it": "camminare", "en": "to walk", "emoji": "🚶", "pos": "v"},
-            {"nl": "rennen", "it": "correre", "en": "to run", "emoji": "🏃", "pos": "v"},
-            {"nl": "springen", "it": "saltare", "en": "to jump", "emoji": "🤾", "pos": "v"},
-            {"nl": "zwemmen", "it": "nuotare", "en": "to swim", "emoji": "🏊", "pos": "v"},
-            {"nl": "fietsen", "it": "andare in bici", "en": "to cycle", "emoji": "🚴", "pos": "v"},
-            {"nl": "rijden", "it": "guidare", "en": "to drive", "emoji": "🚗", "pos": "v"},
-            {"nl": "vliegen", "it": "volare", "en": "to fly", "emoji": "✈️", "pos": "v"},
-            {"nl": "dansen", "it": "ballare", "en": "to dance", "emoji": "💃", "pos": "v"},
-            {"nl": "vallen", "it": "cadere", "en": "to fall", "pos": "v"},
-            {"nl": "staan", "it": "stare in piedi", "en": "to stand", "emoji": "🧍", "pos": "v"}
+            {
+              "nl": "lopen",
+              "it": "camminare",
+              "en": "to walk",
+              "emoji": "🚶",
+              "pos": "v",
+              "exampleNl": "Ik loop naar het station.",
+              "exampleIt": "Vado a piedi alla stazione."
+            },
+            {
+              "nl": "rennen",
+              "it": "correre",
+              "en": "to run",
+              "emoji": "🏃",
+              "pos": "v",
+              "exampleNl": "De kinderen rennen in het park.",
+              "exampleIt": "I bambini corrono nel parco."
+            },
+            {
+              "nl": "springen",
+              "it": "saltare",
+              "en": "to jump",
+              "emoji": "🤾",
+              "pos": "v",
+              "exampleNl": "De hond springt over het hek.",
+              "exampleIt": "Il cane salta oltre il recinto."
+            },
+            {
+              "nl": "zwemmen",
+              "it": "nuotare",
+              "en": "to swim",
+              "emoji": "🏊",
+              "pos": "v",
+              "exampleNl": "In de zomer ga ik zwemmen.",
+              "exampleIt": "D'estate vado a nuotare."
+            },
+            {
+              "nl": "fietsen",
+              "it": "andare in bici",
+              "en": "to cycle",
+              "emoji": "🚴",
+              "pos": "v",
+              "exampleNl": "Ik fiets elke dag naar school.",
+              "exampleIt": "Vado in bici a scuola ogni giorno."
+            },
+            {
+              "nl": "rijden",
+              "it": "guidare",
+              "en": "to drive",
+              "emoji": "🚗",
+              "pos": "v",
+              "exampleNl": "Hij rijdt te snel.",
+              "exampleIt": "Lui guida troppo veloce."
+            },
+            {
+              "nl": "vliegen",
+              "it": "volare",
+              "en": "to fly",
+              "emoji": "✈️",
+              "pos": "v",
+              "exampleNl": "We vliegen naar Italië.",
+              "exampleIt": "Voliamo in Italia."
+            },
+            {
+              "nl": "dansen",
+              "it": "ballare",
+              "en": "to dance",
+              "emoji": "💃",
+              "pos": "v",
+              "exampleNl": "Ze dansen de hele nacht.",
+              "exampleIt": "Ballano tutta la notte."
+            },
+            {
+              "nl": "vallen",
+              "it": "cadere",
+              "en": "to fall",
+              "pos": "v",
+              "exampleNl": "Pas op, je kunt vallen!",
+              "exampleIt": "Attento, puoi cadere!"
+            },
+            {
+              "nl": "staan",
+              "it": "stare in piedi",
+              "en": "to stand",
+              "emoji": "🧍",
+              "pos": "v",
+              "exampleNl": "Ik moet lang in de rij staan.",
+              "exampleIt": "Devo stare a lungo in fila."
+            }
           ]
         }
       ]
@@ -69,32 +298,192 @@
           "id": "a2u2l1",
           "title": "Il corpo",
           "items": [
-            {"nl": "het hoofd", "it": "la testa", "en": "head", "emoji": "🗣️", "pos": "n"},
-            {"nl": "het haar", "it": "i capelli", "en": "hair", "emoji": "💇", "pos": "n"},
-            {"nl": "het oog", "it": "l'occhio", "en": "eye", "emoji": "👁️", "pos": "n"},
-            {"nl": "de neus", "it": "il naso", "en": "nose", "emoji": "👃", "pos": "n"},
-            {"nl": "de mond", "it": "la bocca", "en": "mouth", "emoji": "👄", "pos": "n"},
-            {"nl": "het oor", "it": "l'orecchio", "en": "ear", "emoji": "👂", "pos": "n"},
-            {"nl": "de hand", "it": "la mano", "en": "hand", "emoji": "✋", "pos": "n"},
-            {"nl": "de voet", "it": "il piede", "en": "foot", "emoji": "🦶", "pos": "n"},
-            {"nl": "het been", "it": "la gamba", "en": "leg", "emoji": "🦵", "pos": "n"},
-            {"nl": "de arm", "it": "il braccio", "en": "arm", "emoji": "💪", "pos": "n"}
+            {
+              "nl": "het hoofd",
+              "it": "la testa",
+              "en": "head",
+              "emoji": "🗣️",
+              "pos": "n",
+              "exampleNl": "Mijn hoofd doet pijn.",
+              "exampleIt": "Mi fa male la testa."
+            },
+            {
+              "nl": "het haar",
+              "it": "i capelli",
+              "en": "hair",
+              "emoji": "💇",
+              "pos": "n",
+              "exampleNl": "Zij heeft lang haar.",
+              "exampleIt": "Lei ha i capelli lunghi."
+            },
+            {
+              "nl": "het oog",
+              "it": "l'occhio",
+              "en": "eye",
+              "emoji": "👁️",
+              "pos": "n",
+              "exampleNl": "Hij heeft blauwe ogen.",
+              "exampleIt": "Lui ha gli occhi azzurri."
+            },
+            {
+              "nl": "de neus",
+              "it": "il naso",
+              "en": "nose",
+              "emoji": "👃",
+              "pos": "n",
+              "exampleNl": "Ik heb een verstopte neus.",
+              "exampleIt": "Ho il naso chiuso."
+            },
+            {
+              "nl": "de mond",
+              "it": "la bocca",
+              "en": "mouth",
+              "emoji": "👄",
+              "pos": "n",
+              "exampleNl": "Doe je mond open.",
+              "exampleIt": "Apri la bocca."
+            },
+            {
+              "nl": "het oor",
+              "it": "l'orecchio",
+              "en": "ear",
+              "emoji": "👂",
+              "pos": "n",
+              "exampleNl": "Ik heb pijn aan mijn oor.",
+              "exampleIt": "Ho male all'orecchio."
+            },
+            {
+              "nl": "de hand",
+              "it": "la mano",
+              "en": "hand",
+              "emoji": "✋",
+              "pos": "n",
+              "exampleNl": "Geef me een hand.",
+              "exampleIt": "Dammi la mano."
+            },
+            {
+              "nl": "de voet",
+              "it": "il piede",
+              "en": "foot",
+              "emoji": "🦶",
+              "pos": "n",
+              "exampleNl": "Ik heb koude voeten.",
+              "exampleIt": "Ho i piedi freddi."
+            },
+            {
+              "nl": "het been",
+              "it": "la gamba",
+              "en": "leg",
+              "emoji": "🦵",
+              "pos": "n",
+              "exampleNl": "Hij heeft zijn been gebroken.",
+              "exampleIt": "Si è rotto la gamba."
+            },
+            {
+              "nl": "de arm",
+              "it": "il braccio",
+              "en": "arm",
+              "emoji": "💪",
+              "pos": "n",
+              "exampleNl": "Mijn arm doet pijn.",
+              "exampleIt": "Mi fa male il braccio."
+            }
           ]
         },
         {
           "id": "a2u2l2",
           "title": "La salute",
           "items": [
-            {"nl": "ziek", "it": "malato", "en": "sick", "emoji": "🤒", "pos": "adj"},
-            {"nl": "gezond", "it": "sano", "en": "healthy", "emoji": "🥗", "pos": "adj"},
-            {"nl": "de dokter", "it": "il dottore", "en": "doctor", "emoji": "👨‍⚕️", "pos": "n"},
-            {"nl": "het ziekenhuis", "it": "l'ospedale", "en": "hospital", "emoji": "🏥", "pos": "n"},
-            {"nl": "de pijn", "it": "il dolore", "en": "pain", "emoji": "🤕", "pos": "n"},
-            {"nl": "de koorts", "it": "la febbre", "en": "fever", "emoji": "🌡️", "pos": "n"},
-            {"nl": "het medicijn", "it": "la medicina", "en": "medicine", "emoji": "💊", "pos": "n"},
-            {"nl": "moe", "it": "stanco", "en": "tired", "emoji": "😴", "pos": "adj"},
-            {"nl": "de tand", "it": "il dente", "en": "tooth", "emoji": "🦷", "pos": "n"},
-            {"nl": "het hart", "it": "il cuore", "en": "heart", "emoji": "❤️", "pos": "n"}
+            {
+              "nl": "ziek",
+              "it": "malato",
+              "en": "sick",
+              "emoji": "🤒",
+              "pos": "adj",
+              "exampleNl": "Ik ben vandaag ziek.",
+              "exampleIt": "Oggi sono malato."
+            },
+            {
+              "nl": "gezond",
+              "it": "sano",
+              "en": "healthy",
+              "emoji": "🥗",
+              "pos": "adj",
+              "exampleNl": "Fruit is gezond.",
+              "exampleIt": "La frutta fa bene."
+            },
+            {
+              "nl": "de dokter",
+              "it": "il dottore",
+              "en": "doctor",
+              "emoji": "👨‍⚕️",
+              "pos": "n",
+              "exampleNl": "Ik ga naar de dokter.",
+              "exampleIt": "Vado dal dottore."
+            },
+            {
+              "nl": "het ziekenhuis",
+              "it": "l'ospedale",
+              "en": "hospital",
+              "emoji": "🏥",
+              "pos": "n",
+              "exampleNl": "Hij ligt in het ziekenhuis.",
+              "exampleIt": "È ricoverato in ospedale."
+            },
+            {
+              "nl": "de pijn",
+              "it": "il dolore",
+              "en": "pain",
+              "emoji": "🤕",
+              "pos": "n",
+              "exampleNl": "Ik heb veel pijn.",
+              "exampleIt": "Ho molto dolore."
+            },
+            {
+              "nl": "de koorts",
+              "it": "la febbre",
+              "en": "fever",
+              "emoji": "🌡️",
+              "pos": "n",
+              "exampleNl": "Het kind heeft koorts.",
+              "exampleIt": "Il bambino ha la febbre."
+            },
+            {
+              "nl": "het medicijn",
+              "it": "la medicina",
+              "en": "medicine",
+              "emoji": "💊",
+              "pos": "n",
+              "exampleNl": "Neem je medicijn in.",
+              "exampleIt": "Prendi la tua medicina."
+            },
+            {
+              "nl": "moe",
+              "it": "stanco",
+              "en": "tired",
+              "emoji": "😴",
+              "pos": "adj",
+              "exampleNl": "Ik ben heel moe.",
+              "exampleIt": "Sono molto stanco."
+            },
+            {
+              "nl": "de tand",
+              "it": "il dente",
+              "en": "tooth",
+              "emoji": "🦷",
+              "pos": "n",
+              "exampleNl": "Mijn tand doet pijn.",
+              "exampleIt": "Mi fa male il dente."
+            },
+            {
+              "nl": "het hart",
+              "it": "il cuore",
+              "en": "heart",
+              "emoji": "❤️",
+              "pos": "n",
+              "exampleNl": "Mijn hart klopt snel.",
+              "exampleIt": "Il mio cuore batte veloce."
+            }
           ]
         }
       ]
@@ -108,16 +497,96 @@
           "id": "a2u3l1",
           "title": "Cosa indossi",
           "items": [
-            {"nl": "de kleren", "it": "i vestiti", "en": "clothes", "emoji": "🧺", "pos": "n"},
-            {"nl": "het shirt", "it": "la maglietta", "en": "shirt", "emoji": "👕", "pos": "n"},
-            {"nl": "de broek", "it": "i pantaloni", "en": "trousers", "emoji": "👖", "pos": "n"},
-            {"nl": "de jas", "it": "la giacca", "en": "coat", "emoji": "🧥", "pos": "n"},
-            {"nl": "de schoenen", "it": "le scarpe", "en": "shoes", "emoji": "👟", "pos": "n"},
-            {"nl": "de jurk", "it": "il vestito", "en": "dress", "emoji": "👗", "pos": "n"},
-            {"nl": "de hoed", "it": "il cappello", "en": "hat", "emoji": "🎩", "pos": "n"},
-            {"nl": "de sok", "it": "il calzino", "en": "sock", "emoji": "🧦", "pos": "n"},
-            {"nl": "de bril", "it": "gli occhiali", "en": "glasses", "emoji": "👓", "pos": "n"},
-            {"nl": "de tas", "it": "la borsa", "en": "bag", "emoji": "👜", "pos": "n"}
+            {
+              "nl": "de kleren",
+              "it": "i vestiti",
+              "en": "clothes",
+              "emoji": "🧺",
+              "pos": "n",
+              "exampleNl": "Ik koop nieuwe kleren.",
+              "exampleIt": "Compro vestiti nuovi."
+            },
+            {
+              "nl": "het shirt",
+              "it": "la maglietta",
+              "en": "shirt",
+              "emoji": "👕",
+              "pos": "n",
+              "exampleNl": "Dit shirt is te groot.",
+              "exampleIt": "Questa maglietta è troppo grande."
+            },
+            {
+              "nl": "de broek",
+              "it": "i pantaloni",
+              "en": "trousers",
+              "emoji": "👖",
+              "pos": "n",
+              "exampleNl": "De broek past niet.",
+              "exampleIt": "I pantaloni non vanno bene."
+            },
+            {
+              "nl": "de jas",
+              "it": "la giacca",
+              "en": "coat",
+              "emoji": "🧥",
+              "pos": "n",
+              "exampleNl": "Doe je jas aan.",
+              "exampleIt": "Mettiti la giacca."
+            },
+            {
+              "nl": "de schoenen",
+              "it": "le scarpe",
+              "en": "shoes",
+              "emoji": "👟",
+              "pos": "n",
+              "exampleNl": "Mijn schoenen zijn nat.",
+              "exampleIt": "Le mie scarpe sono bagnate."
+            },
+            {
+              "nl": "de jurk",
+              "it": "il vestito",
+              "en": "dress",
+              "emoji": "👗",
+              "pos": "n",
+              "exampleNl": "Ze draagt een mooie jurk.",
+              "exampleIt": "Lei indossa un bel vestito."
+            },
+            {
+              "nl": "de hoed",
+              "it": "il cappello",
+              "en": "hat",
+              "emoji": "🎩",
+              "pos": "n",
+              "exampleNl": "Hij zet zijn hoed op.",
+              "exampleIt": "Si mette il cappello."
+            },
+            {
+              "nl": "de sok",
+              "it": "il calzino",
+              "en": "sock",
+              "emoji": "🧦",
+              "pos": "n",
+              "exampleNl": "Ik kan mijn sok niet vinden.",
+              "exampleIt": "Non trovo il mio calzino."
+            },
+            {
+              "nl": "de bril",
+              "it": "gli occhiali",
+              "en": "glasses",
+              "emoji": "👓",
+              "pos": "n",
+              "exampleNl": "Zonder bril zie ik niets.",
+              "exampleIt": "Senza occhiali non vedo niente."
+            },
+            {
+              "nl": "de tas",
+              "it": "la borsa",
+              "en": "bag",
+              "emoji": "👜",
+              "pos": "n",
+              "exampleNl": "Mijn tas is zwaar.",
+              "exampleIt": "La mia borsa è pesante."
+            }
           ]
         }
       ]
@@ -131,32 +600,192 @@
           "id": "a2u4l1",
           "title": "Luoghi della città",
           "items": [
-            {"nl": "de stad", "it": "la città", "en": "city", "emoji": "🏙️", "pos": "n"},
-            {"nl": "de straat", "it": "la strada", "en": "street", "emoji": "🛣️", "pos": "n"},
-            {"nl": "de winkel", "it": "il negozio", "en": "shop", "emoji": "🏬", "pos": "n"},
-            {"nl": "de markt", "it": "il mercato", "en": "market", "emoji": "🧺", "pos": "n"},
-            {"nl": "het station", "it": "la stazione", "en": "station", "emoji": "🚉", "pos": "n"},
-            {"nl": "het restaurant", "it": "il ristorante", "en": "restaurant", "emoji": "🍴", "pos": "n"},
-            {"nl": "het hotel", "it": "l'hotel", "en": "hotel", "emoji": "🏨", "pos": "n"},
-            {"nl": "de bank", "it": "la banca", "en": "bank", "emoji": "🏦", "pos": "n"},
-            {"nl": "de school", "it": "la scuola", "en": "school", "emoji": "🏫", "pos": "n"},
-            {"nl": "de kerk", "it": "la chiesa", "en": "church", "emoji": "⛪", "pos": "n"}
+            {
+              "nl": "de stad",
+              "it": "la città",
+              "en": "city",
+              "emoji": "🏙️",
+              "pos": "n",
+              "exampleNl": "Amsterdam is een mooie stad.",
+              "exampleIt": "Amsterdam è una bella città."
+            },
+            {
+              "nl": "de straat",
+              "it": "la strada",
+              "en": "street",
+              "emoji": "🛣️",
+              "pos": "n",
+              "exampleNl": "De kinderen spelen op straat.",
+              "exampleIt": "I bambini giocano in strada."
+            },
+            {
+              "nl": "de winkel",
+              "it": "il negozio",
+              "en": "shop",
+              "emoji": "🏬",
+              "pos": "n",
+              "exampleNl": "De winkel is om zes uur dicht.",
+              "exampleIt": "Il negozio chiude alle sei."
+            },
+            {
+              "nl": "de markt",
+              "it": "il mercato",
+              "en": "market",
+              "emoji": "🧺",
+              "pos": "n",
+              "exampleNl": "Op zaterdag is er markt.",
+              "exampleIt": "Il sabato c'è il mercato."
+            },
+            {
+              "nl": "het station",
+              "it": "la stazione",
+              "en": "station",
+              "emoji": "🚉",
+              "pos": "n",
+              "exampleNl": "Ik wacht op het station.",
+              "exampleIt": "Aspetto in stazione."
+            },
+            {
+              "nl": "het restaurant",
+              "it": "il ristorante",
+              "en": "restaurant",
+              "emoji": "🍴",
+              "pos": "n",
+              "exampleNl": "We eten in een restaurant.",
+              "exampleIt": "Mangiamo in un ristorante."
+            },
+            {
+              "nl": "het hotel",
+              "it": "l'hotel",
+              "en": "hotel",
+              "emoji": "🏨",
+              "pos": "n",
+              "exampleNl": "Het hotel is heel comfortabel.",
+              "exampleIt": "L'hotel è molto comodo."
+            },
+            {
+              "nl": "de bank",
+              "it": "la banca",
+              "en": "bank",
+              "emoji": "🏦",
+              "pos": "n",
+              "exampleNl": "Ik moet naar de bank.",
+              "exampleIt": "Devo andare in banca."
+            },
+            {
+              "nl": "de school",
+              "it": "la scuola",
+              "en": "school",
+              "emoji": "🏫",
+              "pos": "n",
+              "exampleNl": "De school begint om half negen.",
+              "exampleIt": "La scuola inizia alle otto e mezza."
+            },
+            {
+              "nl": "de kerk",
+              "it": "la chiesa",
+              "en": "church",
+              "emoji": "⛪",
+              "pos": "n",
+              "exampleNl": "De oude kerk is prachtig.",
+              "exampleIt": "La vecchia chiesa è bellissima."
+            }
           ]
         },
         {
           "id": "a2u4l2",
           "title": "Trasporti",
           "items": [
-            {"nl": "de auto", "it": "l'auto", "en": "car", "emoji": "🚗", "pos": "n"},
-            {"nl": "de bus", "it": "l'autobus", "en": "bus", "emoji": "🚌", "pos": "n"},
-            {"nl": "de trein", "it": "il treno", "en": "train", "emoji": "🚆", "pos": "n"},
-            {"nl": "de fiets", "it": "la bicicletta", "en": "bicycle", "emoji": "🚲", "pos": "n"},
-            {"nl": "het vliegtuig", "it": "l'aereo", "en": "airplane", "emoji": "✈️", "pos": "n"},
-            {"nl": "de boot", "it": "la barca", "en": "boat", "emoji": "⛵", "pos": "n"},
-            {"nl": "de taxi", "it": "il taxi", "en": "taxi", "emoji": "🚕", "pos": "n"},
-            {"nl": "de tram", "it": "il tram", "en": "tram", "emoji": "🚊", "pos": "n"},
-            {"nl": "de weg", "it": "la via", "en": "road", "emoji": "🛤️", "pos": "n"},
-            {"nl": "het kaartje", "it": "il biglietto", "en": "ticket", "emoji": "🎫", "pos": "n"}
+            {
+              "nl": "de auto",
+              "it": "l'auto",
+              "en": "car",
+              "emoji": "🚗",
+              "pos": "n",
+              "exampleNl": "We gaan met de auto.",
+              "exampleIt": "Andiamo in macchina."
+            },
+            {
+              "nl": "de bus",
+              "it": "l'autobus",
+              "en": "bus",
+              "emoji": "🚌",
+              "pos": "n",
+              "exampleNl": "De bus is te laat.",
+              "exampleIt": "L'autobus è in ritardo."
+            },
+            {
+              "nl": "de trein",
+              "it": "il treno",
+              "en": "train",
+              "emoji": "🚆",
+              "pos": "n",
+              "exampleNl": "Ik mis de trein!",
+              "exampleIt": "Perdo il treno!"
+            },
+            {
+              "nl": "de fiets",
+              "it": "la bicicletta",
+              "en": "bicycle",
+              "emoji": "🚲",
+              "pos": "n",
+              "exampleNl": "Mijn fiets is kapot.",
+              "exampleIt": "La mia bici è rotta."
+            },
+            {
+              "nl": "het vliegtuig",
+              "it": "l'aereo",
+              "en": "airplane",
+              "emoji": "✈️",
+              "pos": "n",
+              "exampleNl": "Het vliegtuig vertrekt om tien uur.",
+              "exampleIt": "L'aereo parte alle dieci."
+            },
+            {
+              "nl": "de boot",
+              "it": "la barca",
+              "en": "boat",
+              "emoji": "⛵",
+              "pos": "n",
+              "exampleNl": "We nemen de boot naar het eiland.",
+              "exampleIt": "Prendiamo il traghetto per l'isola."
+            },
+            {
+              "nl": "de taxi",
+              "it": "il taxi",
+              "en": "taxi",
+              "emoji": "🚕",
+              "pos": "n",
+              "exampleNl": "We nemen een taxi naar huis.",
+              "exampleIt": "Prendiamo un taxi per casa."
+            },
+            {
+              "nl": "de tram",
+              "it": "il tram",
+              "en": "tram",
+              "emoji": "🚊",
+              "pos": "n",
+              "exampleNl": "De tram stopt hier.",
+              "exampleIt": "Il tram si ferma qui."
+            },
+            {
+              "nl": "de weg",
+              "it": "la via",
+              "en": "road",
+              "emoji": "🛤️",
+              "pos": "n",
+              "exampleNl": "De weg is erg druk.",
+              "exampleIt": "La strada è molto trafficata."
+            },
+            {
+              "nl": "het kaartje",
+              "it": "il biglietto",
+              "en": "ticket",
+              "emoji": "🎫",
+              "pos": "n",
+              "exampleNl": "Ik koop een kaartje voor de trein.",
+              "exampleIt": "Compro un biglietto per il treno."
+            }
           ]
         }
       ]
@@ -170,16 +799,93 @@
           "id": "a2u5l1",
           "title": "I mestieri",
           "items": [
-            {"nl": "het werk", "it": "il lavoro", "en": "work", "emoji": "💼", "pos": "n"},
-            {"nl": "de baan", "it": "l'impiego", "en": "job", "pos": "n"},
-            {"nl": "de arts", "it": "il medico", "en": "physician", "emoji": "🩺", "pos": "n"},
-            {"nl": "de politieagent", "it": "il poliziotto", "en": "police officer", "emoji": "👮", "pos": "n"},
-            {"nl": "de kok", "it": "il cuoco", "en": "cook", "emoji": "👨‍🍳", "pos": "n"},
-            {"nl": "de boer", "it": "il contadino", "en": "farmer", "emoji": "👨‍🌾", "pos": "n"},
-            {"nl": "de ingenieur", "it": "l'ingegnere", "en": "engineer", "emoji": "👷", "pos": "n"},
-            {"nl": "de verkoper", "it": "il commesso", "en": "salesperson", "pos": "n"},
-            {"nl": "het kantoor", "it": "l'ufficio", "en": "office", "emoji": "🏢", "pos": "n"},
-            {"nl": "de collega", "it": "il collega", "en": "colleague", "pos": "n"}
+            {
+              "nl": "het werk",
+              "it": "il lavoro",
+              "en": "work",
+              "emoji": "💼",
+              "pos": "n",
+              "exampleNl": "Ik ga met de fiets naar mijn werk.",
+              "exampleIt": "Vado al lavoro in bici."
+            },
+            {
+              "nl": "de baan",
+              "it": "l'impiego",
+              "en": "job",
+              "pos": "n",
+              "exampleNl": "Ze zoekt een nieuwe baan.",
+              "exampleIt": "Lei cerca un nuovo lavoro."
+            },
+            {
+              "nl": "de arts",
+              "it": "il medico",
+              "en": "physician",
+              "emoji": "🩺",
+              "pos": "n",
+              "exampleNl": "De arts onderzoekt de patiënt.",
+              "exampleIt": "Il medico visita il paziente."
+            },
+            {
+              "nl": "de politieagent",
+              "it": "il poliziotto",
+              "en": "police officer",
+              "emoji": "👮",
+              "pos": "n",
+              "exampleNl": "De politieagent regelt het verkeer.",
+              "exampleIt": "Il poliziotto dirige il traffico."
+            },
+            {
+              "nl": "de kok",
+              "it": "il cuoco",
+              "en": "cook",
+              "emoji": "👨‍🍳",
+              "pos": "n",
+              "exampleNl": "De kok maakt een lekkere soep.",
+              "exampleIt": "Il cuoco prepara una buona zuppa."
+            },
+            {
+              "nl": "de boer",
+              "it": "il contadino",
+              "en": "farmer",
+              "emoji": "👨‍🌾",
+              "pos": "n",
+              "exampleNl": "De boer werkt op het land.",
+              "exampleIt": "Il contadino lavora nei campi."
+            },
+            {
+              "nl": "de ingenieur",
+              "it": "l'ingegnere",
+              "en": "engineer",
+              "emoji": "👷",
+              "pos": "n",
+              "exampleNl": "De ingenieur bouwt een brug.",
+              "exampleIt": "L'ingegnere costruisce un ponte."
+            },
+            {
+              "nl": "de verkoper",
+              "it": "il commesso",
+              "en": "salesperson",
+              "pos": "n",
+              "exampleNl": "De verkoper helpt de klant.",
+              "exampleIt": "Il commesso aiuta il cliente."
+            },
+            {
+              "nl": "het kantoor",
+              "it": "l'ufficio",
+              "en": "office",
+              "emoji": "🏢",
+              "pos": "n",
+              "exampleNl": "Ik werk de hele dag op kantoor.",
+              "exampleIt": "Lavoro tutto il giorno in ufficio."
+            },
+            {
+              "nl": "de collega",
+              "it": "il collega",
+              "en": "colleague",
+              "pos": "n",
+              "exampleNl": "Mijn collega is erg aardig.",
+              "exampleIt": "Il mio collega è molto gentile."
+            }
           ]
         }
       ]
@@ -193,16 +899,96 @@
           "id": "a2u6l1",
           "title": "Hobby e svago",
           "items": [
-            {"nl": "de sport", "it": "lo sport", "en": "sport", "emoji": "⚽", "pos": "n"},
-            {"nl": "het voetbal", "it": "il calcio", "en": "football", "emoji": "⚽", "pos": "n"},
-            {"nl": "de muziek", "it": "la musica", "en": "music", "emoji": "🎵", "pos": "n"},
-            {"nl": "de film", "it": "il film", "en": "movie", "emoji": "🎬", "pos": "n"},
-            {"nl": "het feest", "it": "la festa", "en": "party", "emoji": "🎉", "pos": "n"},
-            {"nl": "de vakantie", "it": "la vacanza", "en": "holiday", "emoji": "🏖️", "pos": "n"},
-            {"nl": "het strand", "it": "la spiaggia", "en": "beach", "emoji": "🏖️", "pos": "n"},
-            {"nl": "de reis", "it": "il viaggio", "en": "trip", "emoji": "🧳", "pos": "n"},
-            {"nl": "het spel", "it": "il gioco", "en": "game", "emoji": "🎮", "pos": "n"},
-            {"nl": "de hobby", "it": "l'hobby", "en": "hobby", "emoji": "🎨", "pos": "n"}
+            {
+              "nl": "de sport",
+              "it": "lo sport",
+              "en": "sport",
+              "emoji": "⚽",
+              "pos": "n",
+              "exampleNl": "Voetbal is mijn favoriete sport.",
+              "exampleIt": "Il calcio è il mio sport preferito."
+            },
+            {
+              "nl": "het voetbal",
+              "it": "il calcio",
+              "en": "football",
+              "emoji": "⚽",
+              "pos": "n",
+              "exampleNl": "We kijken naar het voetbal.",
+              "exampleIt": "Guardiamo il calcio."
+            },
+            {
+              "nl": "de muziek",
+              "it": "la musica",
+              "en": "music",
+              "emoji": "🎵",
+              "pos": "n",
+              "exampleNl": "Ik luister graag naar muziek.",
+              "exampleIt": "Mi piace ascoltare musica."
+            },
+            {
+              "nl": "de film",
+              "it": "il film",
+              "en": "movie",
+              "emoji": "🎬",
+              "pos": "n",
+              "exampleNl": "De film begint om acht uur.",
+              "exampleIt": "Il film inizia alle otto."
+            },
+            {
+              "nl": "het feest",
+              "it": "la festa",
+              "en": "party",
+              "emoji": "🎉",
+              "pos": "n",
+              "exampleNl": "Het feest was heel leuk.",
+              "exampleIt": "La festa è stata molto bella."
+            },
+            {
+              "nl": "de vakantie",
+              "it": "la vacanza",
+              "en": "holiday",
+              "emoji": "🏖️",
+              "pos": "n",
+              "exampleNl": "We gaan op vakantie naar Spanje.",
+              "exampleIt": "Andiamo in vacanza in Spagna."
+            },
+            {
+              "nl": "het strand",
+              "it": "la spiaggia",
+              "en": "beach",
+              "emoji": "🏖️",
+              "pos": "n",
+              "exampleNl": "We liggen de hele dag op het strand.",
+              "exampleIt": "Stiamo tutto il giorno in spiaggia."
+            },
+            {
+              "nl": "de reis",
+              "it": "il viaggio",
+              "en": "trip",
+              "emoji": "🧳",
+              "pos": "n",
+              "exampleNl": "De reis duurt drie uur.",
+              "exampleIt": "Il viaggio dura tre ore."
+            },
+            {
+              "nl": "het spel",
+              "it": "il gioco",
+              "en": "game",
+              "emoji": "🎮",
+              "pos": "n",
+              "exampleNl": "Zullen we een spel spelen?",
+              "exampleIt": "Giochiamo a un gioco?"
+            },
+            {
+              "nl": "de hobby",
+              "it": "l'hobby",
+              "en": "hobby",
+              "emoji": "🎨",
+              "pos": "n",
+              "exampleNl": "Mijn hobby is fotograferen.",
+              "exampleIt": "Il mio hobby è fotografare."
+            }
           ]
         }
       ]
@@ -217,19 +1003,115 @@
           "id": "a2u7l1",
           "title": "Dove si trova",
           "items": [
-            {"nl": "op", "it": "su / sopra", "en": "on", "emoji": "⬆️", "pos": "prep"},
-            {"nl": "onder", "it": "sotto", "en": "under", "emoji": "⬇️", "pos": "prep"},
-            {"nl": "in", "it": "in / dentro", "en": "in", "pos": "prep"},
-            {"nl": "naast", "it": "accanto a", "en": "next to", "pos": "prep"},
-            {"nl": "voor", "it": "davanti a", "en": "in front of", "pos": "prep"},
-            {"nl": "achter", "it": "dietro", "en": "behind", "pos": "prep"},
-            {"nl": "tussen", "it": "tra", "en": "between", "pos": "prep"},
-            {"nl": "boven", "it": "sopra", "en": "above", "pos": "prep"},
-            {"nl": "links", "it": "a sinistra", "en": "left", "emoji": "⬅️", "pos": "adv"},
-            {"nl": "rechts", "it": "a destra", "en": "right", "emoji": "➡️", "pos": "adv"},
-            {"nl": "rechtdoor", "it": "dritto", "en": "straight ahead", "emoji": "⬆️", "pos": "adv"},
-            {"nl": "hier", "it": "qui", "en": "here", "pos": "adv"},
-            {"nl": "daar", "it": "là", "en": "there", "pos": "adv"}
+            {
+              "nl": "op",
+              "it": "su / sopra",
+              "en": "on",
+              "emoji": "⬆️",
+              "pos": "prep",
+              "exampleNl": "Het boek ligt op de tafel.",
+              "exampleIt": "Il libro è sul tavolo."
+            },
+            {
+              "nl": "onder",
+              "it": "sotto",
+              "en": "under",
+              "emoji": "⬇️",
+              "pos": "prep",
+              "exampleNl": "De kat zit onder de stoel.",
+              "exampleIt": "Il gatto è sotto la sedia."
+            },
+            {
+              "nl": "in",
+              "it": "in / dentro",
+              "en": "in",
+              "pos": "prep",
+              "exampleNl": "De sleutels zitten in mijn tas.",
+              "exampleIt": "Le chiavi sono nella mia borsa."
+            },
+            {
+              "nl": "naast",
+              "it": "accanto a",
+              "en": "next to",
+              "pos": "prep",
+              "exampleNl": "De bank staat naast het raam.",
+              "exampleIt": "Il divano è accanto alla finestra."
+            },
+            {
+              "nl": "voor",
+              "it": "davanti a",
+              "en": "in front of",
+              "pos": "prep",
+              "exampleNl": "De auto staat voor het huis.",
+              "exampleIt": "L'auto è davanti alla casa."
+            },
+            {
+              "nl": "achter",
+              "it": "dietro",
+              "en": "behind",
+              "pos": "prep",
+              "exampleNl": "De tuin ligt achter het huis.",
+              "exampleIt": "Il giardino è dietro la casa."
+            },
+            {
+              "nl": "tussen",
+              "it": "tra",
+              "en": "between",
+              "pos": "prep",
+              "exampleNl": "De winkel is tussen de bank en de kerk.",
+              "exampleIt": "Il negozio è tra la banca e la chiesa."
+            },
+            {
+              "nl": "boven",
+              "it": "sopra",
+              "en": "above",
+              "pos": "prep",
+              "exampleNl": "Wij wonen boven een winkel.",
+              "exampleIt": "Abitiamo sopra un negozio."
+            },
+            {
+              "nl": "links",
+              "it": "a sinistra",
+              "en": "left",
+              "emoji": "⬅️",
+              "pos": "adv",
+              "exampleNl": "Ga bij de hoek naar links.",
+              "exampleIt": "Gira a sinistra all'angolo."
+            },
+            {
+              "nl": "rechts",
+              "it": "a destra",
+              "en": "right",
+              "emoji": "➡️",
+              "pos": "adv",
+              "exampleNl": "De school is rechts van de kerk.",
+              "exampleIt": "La scuola è a destra della chiesa."
+            },
+            {
+              "nl": "rechtdoor",
+              "it": "dritto",
+              "en": "straight ahead",
+              "emoji": "⬆️",
+              "pos": "adv",
+              "exampleNl": "Ga rechtdoor tot het einde.",
+              "exampleIt": "Vai dritto fino in fondo."
+            },
+            {
+              "nl": "hier",
+              "it": "qui",
+              "en": "here",
+              "pos": "adv",
+              "exampleNl": "Hier is je koffie.",
+              "exampleIt": "Ecco il tuo caffè."
+            },
+            {
+              "nl": "daar",
+              "it": "là",
+              "en": "there",
+              "pos": "adv",
+              "exampleNl": "Daar is het station.",
+              "exampleIt": "Là c'è la stazione."
+            }
           ]
         }
       ]
@@ -244,18 +1126,114 @@
           "id": "a2u8l1",
           "title": "A tavola",
           "items": [
-            {"nl": "de ober", "it": "il cameriere", "en": "waiter", "emoji": "🧑‍🍳", "pos": "n"},
-            {"nl": "het menu", "it": "il menù", "en": "menu", "emoji": "📋", "pos": "n"},
-            {"nl": "de vork", "it": "la forchetta", "en": "fork", "emoji": "🍴", "pos": "n"},
-            {"nl": "het mes", "it": "il coltello", "en": "knife", "emoji": "🔪", "pos": "n"},
-            {"nl": "de lepel", "it": "il cucchiaio", "en": "spoon", "emoji": "🥄", "pos": "n"},
-            {"nl": "het bord", "it": "il piatto", "en": "plate", "emoji": "🍽️", "pos": "n"},
-            {"nl": "het glas", "it": "il bicchiere", "en": "glass", "emoji": "🥛", "pos": "n"},
-            {"nl": "de fles", "it": "la bottiglia", "en": "bottle", "emoji": "🍾", "pos": "n"},
-            {"nl": "de rekening", "it": "il conto", "en": "the bill", "emoji": "🧾", "pos": "n"},
-            {"nl": "lekker", "it": "buono / gustoso", "en": "tasty", "emoji": "😋", "pos": "adj"},
-            {"nl": "de honger", "it": "la fame", "en": "hunger", "emoji": "🍽️", "pos": "n"},
-            {"nl": "de dorst", "it": "la sete", "en": "thirst", "emoji": "💧", "pos": "n"}
+            {
+              "nl": "de ober",
+              "it": "il cameriere",
+              "en": "waiter",
+              "emoji": "🧑‍🍳",
+              "pos": "n",
+              "exampleNl": "De ober brengt het menu.",
+              "exampleIt": "Il cameriere porta il menù."
+            },
+            {
+              "nl": "het menu",
+              "it": "il menù",
+              "en": "menu",
+              "emoji": "📋",
+              "pos": "n",
+              "exampleNl": "Mag ik het menu, alstublieft?",
+              "exampleIt": "Posso avere il menù, per favore?"
+            },
+            {
+              "nl": "de vork",
+              "it": "la forchetta",
+              "en": "fork",
+              "emoji": "🍴",
+              "pos": "n",
+              "exampleNl": "De vork ligt naast het bord.",
+              "exampleIt": "La forchetta è accanto al piatto."
+            },
+            {
+              "nl": "het mes",
+              "it": "il coltello",
+              "en": "knife",
+              "emoji": "🔪",
+              "pos": "n",
+              "exampleNl": "Het mes is heel scherp.",
+              "exampleIt": "Il coltello è molto affilato."
+            },
+            {
+              "nl": "de lepel",
+              "it": "il cucchiaio",
+              "en": "spoon",
+              "emoji": "🥄",
+              "pos": "n",
+              "exampleNl": "Ik eet de soep met een lepel.",
+              "exampleIt": "Mangio la zuppa col cucchiaio."
+            },
+            {
+              "nl": "het bord",
+              "it": "il piatto",
+              "en": "plate",
+              "emoji": "🍽️",
+              "pos": "n",
+              "exampleNl": "Mijn bord is leeg.",
+              "exampleIt": "Il mio piatto è vuoto."
+            },
+            {
+              "nl": "het glas",
+              "it": "il bicchiere",
+              "en": "glass",
+              "emoji": "🥛",
+              "pos": "n",
+              "exampleNl": "Mag ik een glas water?",
+              "exampleIt": "Posso avere un bicchiere d'acqua?"
+            },
+            {
+              "nl": "de fles",
+              "it": "la bottiglia",
+              "en": "bottle",
+              "emoji": "🍾",
+              "pos": "n",
+              "exampleNl": "We bestellen een fles wijn.",
+              "exampleIt": "Ordiniamo una bottiglia di vino."
+            },
+            {
+              "nl": "de rekening",
+              "it": "il conto",
+              "en": "the bill",
+              "emoji": "🧾",
+              "pos": "n",
+              "exampleNl": "Mag ik de rekening, alstublieft?",
+              "exampleIt": "Posso avere il conto, per favore?"
+            },
+            {
+              "nl": "lekker",
+              "it": "buono / gustoso",
+              "en": "tasty",
+              "emoji": "😋",
+              "pos": "adj",
+              "exampleNl": "Het eten is erg lekker.",
+              "exampleIt": "Il cibo è molto buono."
+            },
+            {
+              "nl": "de honger",
+              "it": "la fame",
+              "en": "hunger",
+              "emoji": "🍽️",
+              "pos": "n",
+              "exampleNl": "Ik heb honger.",
+              "exampleIt": "Ho fame."
+            },
+            {
+              "nl": "de dorst",
+              "it": "la sete",
+              "en": "thirst",
+              "emoji": "💧",
+              "pos": "n",
+              "exampleNl": "Ik heb dorst.",
+              "exampleIt": "Ho sete."
+            }
           ]
         }
       ]
