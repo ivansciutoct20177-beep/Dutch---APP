@@ -116,13 +116,25 @@ def _stem(v: str):
     return s
 
 
+def _lengthen(s: str):
+    """Open-syllable vowel lengthening: hop -> hoop, verget -> vergeet."""
+    out = {s}
+    m = re.search(r"([aeiou])([bcdfghjklmnpqrstvwxz])$", s)
+    if m and len(s) >= 3 and s[m.start(1) - 1] not in "aeiou":
+        i = m.start(1)
+        out.add(s[:i] + s[i] + s[i:])
+    return out
+
+
 def verb_fragments(inf: str):
     base = inf
     for p in SEP_PREFIXES:
         if inf.startswith(p) and len(inf) - len(p) >= 3:
             base = inf[len(p):]
             break
-    frags = {inf, base, _stem(inf), _stem(base)}
+    frags = {inf, base}
+    for s in (_stem(inf), _stem(base)):
+        frags |= _lengthen(s)
     return {f.lower() for f in frags if len(f) >= 3}
 
 

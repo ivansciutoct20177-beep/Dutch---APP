@@ -309,6 +309,129 @@
               "exampleIt": "Puoi darmi un buon consiglio?"
             }
           ]
+        },
+        {
+          "id": "b1u3l2",
+          "title": "Altri verbi frequenti",
+          "items": [
+            {
+              "nl": "vergeten",
+              "it": "dimenticare",
+              "en": "to forget",
+              "emoji": "🤔",
+              "pos": "v",
+              "exampleNl": "Ik vergeet altijd waar ik mijn sleutels leg.",
+              "exampleIt": "Dimentico sempre dove metto le chiavi."
+            },
+            {
+              "nl": "herinneren",
+              "it": "ricordare",
+              "en": "to remember",
+              "emoji": "💭",
+              "pos": "v",
+              "exampleNl": "Ik kan me niet herinneren waar we elkaar ontmoet hebben.",
+              "exampleIt": "Non riesco a ricordare dove ci siamo incontrati."
+            },
+            {
+              "nl": "veranderen",
+              "it": "cambiare",
+              "en": "to change",
+              "emoji": "🔄",
+              "pos": "v",
+              "exampleNl": "Mensen veranderen vaak van mening na een goed gesprek.",
+              "exampleIt": "Le persone cambiano spesso idea dopo una bella conversazione."
+            },
+            {
+              "nl": "gebeuren",
+              "it": "succedere / accadere",
+              "en": "to happen",
+              "emoji": "⚡",
+              "pos": "v",
+              "exampleNl": "Niemand weet wat er morgen zal gebeuren.",
+              "exampleIt": "Nessuno sa cosa succederà domani."
+            },
+            {
+              "nl": "ontmoeten",
+              "it": "incontrare",
+              "en": "to meet",
+              "emoji": "🤝",
+              "pos": "v",
+              "exampleNl": "We ontmoeten elkaar morgen voor het station.",
+              "exampleIt": "Ci incontriamo domani davanti alla stazione."
+            },
+            {
+              "nl": "hopen",
+              "it": "sperare",
+              "en": "to hope",
+              "emoji": "🙏",
+              "pos": "v",
+              "exampleNl": "Ik hoop dat het morgen mooi weer wordt.",
+              "exampleIt": "Spero che domani faccia bel tempo."
+            },
+            {
+              "nl": "verwachten",
+              "it": "aspettarsi",
+              "en": "to expect",
+              "emoji": "⏳",
+              "pos": "v",
+              "exampleNl": "We verwachten veel gasten op het feest.",
+              "exampleIt": "Ci aspettiamo molti ospiti alla festa."
+            },
+            {
+              "nl": "herhalen",
+              "it": "ripetere",
+              "en": "to repeat",
+              "emoji": "🔁",
+              "pos": "v",
+              "exampleNl": "Kun je de vraag nog een keer herhalen?",
+              "exampleIt": "Puoi ripetere la domanda ancora una volta?"
+            },
+            {
+              "nl": "kiezen",
+              "it": "scegliere",
+              "en": "to choose",
+              "emoji": "🔀",
+              "pos": "v",
+              "exampleNl": "Het is moeilijk om tussen deze twee te kiezen.",
+              "exampleIt": "È difficile scegliere tra questi due."
+            },
+            {
+              "nl": "vergelijken",
+              "it": "confrontare / paragonare",
+              "en": "to compare",
+              "emoji": "⚖️",
+              "pos": "v",
+              "exampleNl": "Je moet de prijzen goed vergelijken voordat je iets koopt.",
+              "exampleIt": "Devi confrontare bene i prezzi prima di comprare qualcosa."
+            },
+            {
+              "nl": "voelen",
+              "it": "sentire (una sensazione)",
+              "en": "to feel",
+              "emoji": "🫶",
+              "pos": "v",
+              "exampleNl": "Na de wandeling voelde ik me veel beter.",
+              "exampleIt": "Dopo la passeggiata mi sentivo molto meglio."
+            },
+            {
+              "nl": "gebruiken",
+              "it": "usare",
+              "en": "to use",
+              "emoji": "🛠️",
+              "pos": "v",
+              "exampleNl": "Veel mensen gebruiken hun telefoon de hele dag.",
+              "exampleIt": "Molte persone usano il telefono tutto il giorno."
+            },
+            {
+              "nl": "weigeren",
+              "it": "rifiutare",
+              "en": "to refuse",
+              "emoji": "🚫",
+              "pos": "v",
+              "exampleNl": "Hij weigerde om mee te gaan naar het feest.",
+              "exampleIt": "Si è rifiutato di andare alla festa."
+            }
+          ]
         }
       ]
     },
@@ -1080,6 +1203,146 @@
               "pos": "v",
               "exampleNl": "Ik moet mijn telefoon opladen voordat we weggaan.",
               "exampleIt": "Devo caricare il telefono prima di uscire."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1u10",
+      "title": "Studio e scuola",
+      "icon": "🎓",
+      "tip": "A scuola 'het examen' e 'het diploma' sono neutri. Coppia utile: 'slagen' = superare (un esame), 'zakken' = essere bocciati.",
+      "lessons": [
+        {
+          "id": "b1u10l1",
+          "title": "Scuola e università",
+          "items": [
+            {
+              "nl": "de cursus",
+              "it": "il corso",
+              "en": "course",
+              "emoji": "📚",
+              "pos": "n",
+              "exampleNl": "Ik volg een cursus Nederlands op dinsdagavond.",
+              "exampleIt": "Seguo un corso di olandese il martedì sera."
+            },
+            {
+              "nl": "het examen",
+              "it": "l'esame",
+              "en": "exam",
+              "emoji": "📝",
+              "pos": "n",
+              "exampleNl": "Morgen heb ik een belangrijk examen op school.",
+              "exampleIt": "Domani ho un esame importante a scuola."
+            },
+            {
+              "nl": "het cijfer",
+              "it": "il voto",
+              "en": "grade",
+              "emoji": "🔢",
+              "pos": "n",
+              "exampleNl": "Ze kreeg een hoog cijfer voor haar opdracht.",
+              "exampleIt": "Ha preso un voto alto per il suo compito."
+            },
+            {
+              "nl": "de opleiding",
+              "it": "la formazione / il percorso di studi",
+              "en": "education",
+              "emoji": "🎓",
+              "pos": "n",
+              "exampleNl": "Na de middelbare school begint hij een nieuwe opleiding.",
+              "exampleIt": "Dopo le superiori inizia un nuovo percorso di studi."
+            },
+            {
+              "nl": "het diploma",
+              "it": "il diploma",
+              "en": "diploma",
+              "emoji": "📜",
+              "pos": "n",
+              "exampleNl": "Met dit diploma kun je aan de universiteit studeren.",
+              "exampleIt": "Con questo diploma puoi studiare all'università."
+            },
+            {
+              "nl": "het vak",
+              "it": "la materia",
+              "en": "subject",
+              "emoji": "📖",
+              "pos": "n",
+              "exampleNl": "Wiskunde is mijn favoriete vak op school.",
+              "exampleIt": "Matematica è la mia materia preferita a scuola."
+            },
+            {
+              "nl": "de docent",
+              "it": "il docente",
+              "en": "lecturer",
+              "emoji": "👨‍🏫",
+              "pos": "n",
+              "exampleNl": "De docent legt de nieuwe stof rustig uit.",
+              "exampleIt": "Il docente spiega la nuova materia con calma."
+            },
+            {
+              "nl": "de toets",
+              "it": "la verifica / il test",
+              "en": "test",
+              "emoji": "✍️",
+              "pos": "n",
+              "exampleNl": "Volgende week hebben we een toets over geschiedenis.",
+              "exampleIt": "La prossima settimana abbiamo una verifica di storia."
+            },
+            {
+              "nl": "de bibliotheek",
+              "it": "la biblioteca",
+              "en": "library",
+              "emoji": "📚",
+              "pos": "n",
+              "exampleNl": "In de bibliotheek moet je stil zijn.",
+              "exampleIt": "In biblioteca devi stare in silenzio."
+            },
+            {
+              "nl": "de kennis",
+              "it": "la conoscenza / il sapere",
+              "en": "knowledge",
+              "emoji": "🧠",
+              "pos": "n",
+              "exampleNl": "Door te lezen vergroot je je kennis.",
+              "exampleIt": "Leggendo aumenti la tua conoscenza."
+            },
+            {
+              "nl": "studeren",
+              "it": "studiare",
+              "en": "to study",
+              "emoji": "📖",
+              "pos": "v",
+              "exampleNl": "Ik moet vanavond voor mijn examen studeren.",
+              "exampleIt": "Stasera devo studiare per l'esame."
+            },
+            {
+              "nl": "leren",
+              "it": "imparare",
+              "en": "to learn",
+              "emoji": "🧑‍🎓",
+              "pos": "v",
+              "exampleNl": "Kinderen leren snel een nieuwe taal.",
+              "exampleIt": "I bambini imparano in fretta una nuova lingua."
+            },
+            {
+              "nl": "slagen",
+              "it": "superare (un esame) / riuscire",
+              "en": "to pass",
+              "emoji": "✅",
+              "pos": "v",
+              "exampleNl": "Als je hard werkt, zul je voor het examen slagen.",
+              "exampleIt": "Se lavori sodo, supererai l'esame."
+            },
+            {
+              "nl": "zakken",
+              "it": "essere bocciati / non superare",
+              "en": "to fail",
+              "emoji": "❌",
+              "pos": "v",
+              "exampleNl": "Hij was bang dat hij voor het examen zou zakken.",
+              "exampleIt": "Aveva paura di non superare l'esame."
             }
           ]
         }
