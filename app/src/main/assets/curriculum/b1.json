@@ -804,6 +804,286 @@
           ]
         }
       ]
+    },
+    {
+      "id": "b1u8",
+      "title": "Salute e benessere",
+      "icon": "🩺",
+      "tip": "All'ospedale e in farmacia servono nomi e verbi della salute. Nota: 'het recept' (la ricetta/prescrizione) è neutro.",
+      "lessons": [
+        {
+          "id": "b1u8l1",
+          "title": "Salute e cura",
+          "items": [
+            {
+              "nl": "de gezondheid",
+              "it": "la salute",
+              "en": "health",
+              "emoji": "💪",
+              "pos": "n",
+              "exampleNl": "Een goede gezondheid is belangrijker dan geld.",
+              "exampleIt": "Una buona salute è più importante del denaro."
+            },
+            {
+              "nl": "de griep",
+              "it": "l'influenza",
+              "en": "flu",
+              "emoji": "🤧",
+              "pos": "n",
+              "exampleNl": "Ik blijf thuis omdat ik griep heb.",
+              "exampleIt": "Resto a casa perché ho l'influenza."
+            },
+            {
+              "nl": "de allergie",
+              "it": "l'allergia",
+              "en": "allergy",
+              "emoji": "🤧",
+              "pos": "n",
+              "exampleNl": "Hij heeft een allergie voor noten en stof.",
+              "exampleIt": "Ha un'allergia alle noci e alla polvere."
+            },
+            {
+              "nl": "de apotheek",
+              "it": "la farmacia",
+              "en": "pharmacy",
+              "emoji": "💊",
+              "pos": "n",
+              "exampleNl": "Je kunt dit medicijn alleen bij de apotheek halen.",
+              "exampleIt": "Puoi prendere questa medicina solo in farmacia."
+            },
+            {
+              "nl": "het recept",
+              "it": "la ricetta (medica)",
+              "en": "prescription",
+              "emoji": "📝",
+              "pos": "n",
+              "exampleNl": "Voor dit medicijn heb je een recept van de dokter nodig.",
+              "exampleIt": "Per questa medicina ti serve una ricetta del medico."
+            },
+            {
+              "nl": "de behandeling",
+              "it": "la cura / il trattamento",
+              "en": "treatment",
+              "emoji": "🩺",
+              "pos": "n",
+              "exampleNl": "De behandeling duurt enkele weken, maar werkt goed.",
+              "exampleIt": "Il trattamento dura alcune settimane, ma funziona bene."
+            },
+            {
+              "nl": "de gewoonte",
+              "it": "l'abitudine",
+              "en": "habit",
+              "emoji": "🔁",
+              "pos": "n",
+              "exampleNl": "Het is een gezonde gewoonte om elke dag te wandelen.",
+              "exampleIt": "È una sana abitudine camminare ogni giorno."
+            },
+            {
+              "nl": "de bloeddruk",
+              "it": "la pressione (sanguigna)",
+              "en": "blood pressure",
+              "emoji": "🩸",
+              "pos": "n",
+              "exampleNl": "De dokter wil mijn bloeddruk meten.",
+              "exampleIt": "Il dottore vuole misurare la mia pressione."
+            },
+            {
+              "nl": "de spier",
+              "it": "il muscolo",
+              "en": "muscle",
+              "emoji": "💪",
+              "pos": "n",
+              "exampleNl": "Na het sporten doen al mijn spieren pijn.",
+              "exampleIt": "Dopo aver fatto sport mi fanno male tutti i muscoli."
+            },
+            {
+              "nl": "de adem",
+              "it": "il respiro / il fiato",
+              "en": "breath",
+              "emoji": "😮‍💨",
+              "pos": "n",
+              "exampleNl": "Haal diep adem en blijf rustig.",
+              "exampleIt": "Fai un respiro profondo e resta calmo."
+            },
+            {
+              "nl": "genezen",
+              "it": "guarire",
+              "en": "to heal",
+              "emoji": "🩹",
+              "pos": "v",
+              "exampleNl": "De wond zal binnen een week genezen.",
+              "exampleIt": "La ferita guarirà entro una settimana."
+            },
+            {
+              "nl": "rusten",
+              "it": "riposare",
+              "en": "to rest",
+              "emoji": "🛌",
+              "pos": "v",
+              "exampleNl": "De dokter zegt dat ik veel moet rusten.",
+              "exampleIt": "Il dottore dice che devo riposare molto."
+            },
+            {
+              "nl": "niezen",
+              "it": "starnutire",
+              "en": "to sneeze",
+              "emoji": "🤧",
+              "pos": "v",
+              "exampleNl": "Door het stof moest ik de hele tijd niezen.",
+              "exampleIt": "Per via della polvere starnutivo in continuazione."
+            },
+            {
+              "nl": "hoesten",
+              "it": "tossire",
+              "en": "to cough",
+              "emoji": "😷",
+              "pos": "v",
+              "exampleNl": "Hij hoest al een week en voelt zich slecht.",
+              "exampleIt": "Tossisce da una settimana e si sente male."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1u9",
+      "title": "Tecnologia e media",
+      "icon": "💻",
+      "tip": "Molti termini digitali sono prestiti (de app, de website) o composti neutri il cui genere segue l'ultima parte: toetsen+bord → het toetsenbord, net+werk → het netwerk.",
+      "lessons": [
+        {
+          "id": "b1u9l1",
+          "title": "Digitale e internet",
+          "items": [
+            {
+              "nl": "het scherm",
+              "it": "lo schermo",
+              "en": "screen",
+              "emoji": "🖥️",
+              "pos": "n",
+              "exampleNl": "Het scherm van mijn telefoon is gebarsten.",
+              "exampleIt": "Lo schermo del mio telefono è crepato."
+            },
+            {
+              "nl": "het toetsenbord",
+              "it": "la tastiera",
+              "en": "keyboard",
+              "emoji": "⌨️",
+              "pos": "n",
+              "exampleNl": "Ik typ snel op mijn nieuwe toetsenbord.",
+              "exampleIt": "Scrivo veloce sulla mia nuova tastiera."
+            },
+            {
+              "nl": "de app",
+              "it": "l'app",
+              "en": "app",
+              "emoji": "📱",
+              "pos": "n",
+              "exampleNl": "Met deze app kun je makkelijk treinkaartjes kopen.",
+              "exampleIt": "Con questa app puoi comprare facilmente i biglietti del treno."
+            },
+            {
+              "nl": "het bestand",
+              "it": "il file",
+              "en": "file",
+              "emoji": "📁",
+              "pos": "n",
+              "exampleNl": "Kun je het bestand naar mijn e-mail sturen?",
+              "exampleIt": "Puoi mandare il file alla mia email?"
+            },
+            {
+              "nl": "de website",
+              "it": "il sito web",
+              "en": "website",
+              "emoji": "🌐",
+              "pos": "n",
+              "exampleNl": "Op deze website vind je alle informatie.",
+              "exampleIt": "Su questo sito trovi tutte le informazioni."
+            },
+            {
+              "nl": "het wachtwoord",
+              "it": "la password",
+              "en": "password",
+              "emoji": "🔑",
+              "pos": "n",
+              "exampleNl": "Vergeet je wachtwoord niet, anders kun je niet inloggen.",
+              "exampleIt": "Non dimenticare la password, altrimenti non puoi accedere."
+            },
+            {
+              "nl": "de gebruiker",
+              "it": "l'utente",
+              "en": "user",
+              "emoji": "👤",
+              "pos": "n",
+              "exampleNl": "Elke gebruiker moet eerst een account aanmaken.",
+              "exampleIt": "Ogni utente deve prima creare un account."
+            },
+            {
+              "nl": "het netwerk",
+              "it": "la rete",
+              "en": "network",
+              "emoji": "📶",
+              "pos": "n",
+              "exampleNl": "Het netwerk is traag, dus de pagina laadt langzaam.",
+              "exampleIt": "La rete è lenta, quindi la pagina si carica lentamente."
+            },
+            {
+              "nl": "het bericht",
+              "it": "il messaggio",
+              "en": "message",
+              "emoji": "💬",
+              "pos": "n",
+              "exampleNl": "Ik heb je bericht gisteren pas gelezen.",
+              "exampleIt": "Ho letto il tuo messaggio solo ieri."
+            },
+            {
+              "nl": "de batterij",
+              "it": "la batteria",
+              "en": "battery",
+              "emoji": "🔋",
+              "pos": "n",
+              "exampleNl": "De batterij van mijn laptop is bijna leeg.",
+              "exampleIt": "La batteria del mio portatile è quasi scarica."
+            },
+            {
+              "nl": "downloaden",
+              "it": "scaricare",
+              "en": "to download",
+              "emoji": "⬇️",
+              "pos": "v",
+              "exampleNl": "Je kunt het programma gratis van internet downloaden.",
+              "exampleIt": "Puoi scaricare il programma gratis da internet."
+            },
+            {
+              "nl": "opslaan",
+              "it": "salvare",
+              "en": "to save",
+              "emoji": "💾",
+              "pos": "v",
+              "exampleNl": "Vergeet niet je werk op tijd op te slaan.",
+              "exampleIt": "Non dimenticare di salvare il tuo lavoro in tempo."
+            },
+            {
+              "nl": "verwijderen",
+              "it": "eliminare / cancellare",
+              "en": "to delete",
+              "emoji": "🗑️",
+              "pos": "v",
+              "exampleNl": "Je kunt oude bestanden veilig verwijderen.",
+              "exampleIt": "Puoi eliminare i vecchi file in sicurezza."
+            },
+            {
+              "nl": "opladen",
+              "it": "caricare (la batteria)",
+              "en": "to charge",
+              "emoji": "🔌",
+              "pos": "v",
+              "exampleNl": "Ik moet mijn telefoon opladen voordat we weggaan.",
+              "exampleIt": "Devo caricare il telefono prima di uscire."
+            }
+          ]
+        }
+      ]
     }
   ]
 }
