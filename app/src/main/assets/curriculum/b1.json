@@ -104,6 +104,129 @@
               "exampleIt": "A volte si sente solo nella grande città."
             }
           ]
+        },
+        {
+          "id": "b1u1l2",
+          "title": "Reazioni e stati d'animo",
+          "items": [
+            {
+              "nl": "teleurgesteld",
+              "it": "deluso",
+              "en": "disappointed",
+              "emoji": "😞",
+              "pos": "adj",
+              "exampleNl": "Ik ben teleurgesteld omdat we niet gewonnen hebben.",
+              "exampleIt": "Sono deluso perché non abbiamo vinto."
+            },
+            {
+              "nl": "opgelucht",
+              "it": "sollevato",
+              "en": "relieved",
+              "emoji": "😌",
+              "pos": "adj",
+              "exampleNl": "Ik was opgelucht toen de examens voorbij waren.",
+              "exampleIt": "Ero sollevato quando gli esami erano finiti."
+            },
+            {
+              "nl": "jaloers",
+              "it": "geloso",
+              "en": "jealous",
+              "emoji": "😒",
+              "pos": "adj",
+              "exampleNl": "Hij is jaloers op de nieuwe auto van zijn buurman.",
+              "exampleIt": "È geloso della macchina nuova del suo vicino."
+            },
+            {
+              "nl": "enthousiast",
+              "it": "entusiasta",
+              "en": "enthusiastic",
+              "emoji": "🤩",
+              "pos": "adj",
+              "exampleNl": "De kinderen zijn enthousiast over het uitstapje.",
+              "exampleIt": "I bambini sono entusiasti della gita."
+            },
+            {
+              "nl": "dankbaar",
+              "it": "grato / riconoscente",
+              "en": "grateful",
+              "emoji": "🙏",
+              "pos": "adj",
+              "exampleNl": "Ik ben je heel dankbaar voor al je hulp.",
+              "exampleIt": "Ti sono molto grato per tutto il tuo aiuto."
+            },
+            {
+              "nl": "ongerust",
+              "it": "preoccupato / in ansia",
+              "en": "worried",
+              "emoji": "😟",
+              "pos": "adj",
+              "exampleNl": "Mijn ouders waren ongerust omdat ik te laat was.",
+              "exampleIt": "I miei genitori erano preoccupati perché ero in ritardo."
+            },
+            {
+              "nl": "verbaasd",
+              "it": "stupito / meravigliato",
+              "en": "astonished",
+              "emoji": "😮",
+              "pos": "adj",
+              "exampleNl": "Ze keek me verbaasd aan toen ik dat zei.",
+              "exampleIt": "Mi guardò stupita quando lo dissi."
+            },
+            {
+              "nl": "geïrriteerd",
+              "it": "irritato / infastidito",
+              "en": "irritated",
+              "emoji": "😤",
+              "pos": "adj",
+              "exampleNl": "Hij raakte geïrriteerd door het harde lawaai.",
+              "exampleIt": "Si irritò per il forte rumore."
+            },
+            {
+              "nl": "tevreden",
+              "it": "soddisfatto / contento",
+              "en": "satisfied",
+              "emoji": "😊",
+              "pos": "adj",
+              "exampleNl": "De klant was heel tevreden over de service.",
+              "exampleIt": "Il cliente era molto soddisfatto del servizio."
+            },
+            {
+              "nl": "vrolijk",
+              "it": "allegro",
+              "en": "cheerful",
+              "emoji": "😄",
+              "pos": "adj",
+              "exampleNl": "Op haar verjaardag was iedereen vrolijk.",
+              "exampleIt": "Al suo compleanno erano tutti allegri."
+            },
+            {
+              "nl": "verliefd",
+              "it": "innamorato",
+              "en": "in love",
+              "emoji": "😍",
+              "pos": "adj",
+              "exampleNl": "Hij is verliefd op een meisje uit zijn klas.",
+              "exampleIt": "È innamorato di una ragazza della sua classe."
+            },
+            {
+              "nl": "het gevoel",
+              "it": "il sentimento / la sensazione",
+              "en": "feeling",
+              "emoji": "❤️",
+              "pos": "n",
+              "exampleNl": "Ik had het gevoel dat er iets mis was.",
+              "exampleIt": "Avevo la sensazione che ci fosse qualcosa che non andava."
+            },
+            {
+              "nl": "de angst",
+              "it": "la paura / l'angoscia",
+              "en": "fear",
+              "emoji": "😨",
+              "pos": "n",
+              "exampleNl": "Veel mensen hebben angst om te falen.",
+              "exampleIt": "Molte persone hanno paura di fallire."
+            }
+          ]
         }
       ]
     },
