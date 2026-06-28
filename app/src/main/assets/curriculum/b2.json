@@ -321,6 +321,156 @@
               "exampleIt": "Sempre più aziende scelgono energia sostenibile e meno rifiuti."
             }
           ]
+        },
+        {
+          "id": "b2u3l2",
+          "title": "Clima e sostenibilità",
+          "items": [
+            {
+              "nl": "de opwarming",
+              "it": "il riscaldamento (globale)",
+              "en": "warming",
+              "emoji": "🌡️",
+              "pos": "n",
+              "exampleNl": "De opwarming van de aarde wordt veroorzaakt door broeikasgassen.",
+              "exampleIt": "Il riscaldamento globale è causato dai gas serra."
+            },
+            {
+              "nl": "de uitstoot",
+              "it": "l'emissione",
+              "en": "emission",
+              "emoji": "🏭",
+              "pos": "n",
+              "exampleNl": "De uitstoot van CO2 moet de komende jaren drastisch dalen.",
+              "exampleIt": "Le emissioni di CO2 devono calare drasticamente nei prossimi anni."
+            },
+            {
+              "nl": "het broeikasgas",
+              "it": "il gas serra",
+              "en": "greenhouse gas",
+              "emoji": "💨",
+              "pos": "n",
+              "exampleNl": "CO2 is het bekendste broeikasgas in onze atmosfeer.",
+              "exampleIt": "La CO2 è il gas serra più noto nella nostra atmosfera."
+            },
+            {
+              "nl": "het zonnepaneel",
+              "it": "il pannello solare",
+              "en": "solar panel",
+              "emoji": "☀️",
+              "pos": "n",
+              "exampleNl": "Steeds meer huizen worden met zonnepanelen uitgerust.",
+              "exampleIt": "Sempre più case vengono dotate di pannelli solari."
+            },
+            {
+              "nl": "de windmolen",
+              "it": "la pala eolica",
+              "en": "wind turbine",
+              "emoji": "🌬️",
+              "pos": "n",
+              "exampleNl": "Langs de kust staan honderden windmolens die stroom opwekken.",
+              "exampleIt": "Lungo la costa ci sono centinaia di pale eoliche che producono elettricità."
+            },
+            {
+              "nl": "de droogte",
+              "it": "la siccità",
+              "en": "drought",
+              "emoji": "🏜️",
+              "pos": "n",
+              "exampleNl": "Door de lange droogte mislukte een groot deel van de oogst.",
+              "exampleIt": "A causa della lunga siccità è andata persa gran parte del raccolto."
+            },
+            {
+              "nl": "de overstroming",
+              "it": "l'alluvione / l'inondazione",
+              "en": "flood",
+              "emoji": "🌊",
+              "pos": "n",
+              "exampleNl": "Na de zware regen werd het dorp door een overstroming getroffen.",
+              "exampleIt": "Dopo le forti piogge il paese è stato colpito da un'alluvione."
+            },
+            {
+              "nl": "de natuurramp",
+              "it": "la catastrofe naturale",
+              "en": "natural disaster",
+              "emoji": "🌪️",
+              "pos": "n",
+              "exampleNl": "Een natuurramp kan in enkele uren hele steden verwoesten.",
+              "exampleIt": "Una catastrofe naturale può distruggere intere città in poche ore."
+            },
+            {
+              "nl": "de brandstof",
+              "it": "il carburante / il combustibile",
+              "en": "fuel",
+              "emoji": "⛽",
+              "pos": "n",
+              "exampleNl": "Fossiele brandstoffen worden langzaam vervangen door schone energie.",
+              "exampleIt": "I combustibili fossili vengono lentamente sostituiti da energia pulita."
+            },
+            {
+              "nl": "het ecosysteem",
+              "it": "l'ecosistema",
+              "en": "ecosystem",
+              "emoji": "🌿",
+              "pos": "n",
+              "exampleNl": "Vervuiling brengt het fragiele ecosysteem ernstig in gevaar.",
+              "exampleIt": "L'inquinamento mette gravemente in pericolo il fragile ecosistema."
+            },
+            {
+              "nl": "het broeikaseffect",
+              "it": "l'effetto serra",
+              "en": "greenhouse effect",
+              "emoji": "🌡️",
+              "pos": "n",
+              "exampleNl": "Het broeikaseffect zorgt ervoor dat de aarde langzaam opwarmt.",
+              "exampleIt": "L'effetto serra fa sì che la Terra si riscaldi lentamente."
+            },
+            {
+              "nl": "de energiebron",
+              "it": "la fonte di energia",
+              "en": "energy source",
+              "emoji": "🔋",
+              "pos": "n",
+              "exampleNl": "De zon is een onuitputtelijke energiebron voor de toekomst.",
+              "exampleIt": "Il sole è una fonte di energia inesauribile per il futuro."
+            },
+            {
+              "nl": "recyclen",
+              "it": "riciclare",
+              "en": "to recycle",
+              "emoji": "♻️",
+              "pos": "v",
+              "exampleNl": "In veel steden wordt plastic gescheiden en gerecycled.",
+              "exampleIt": "In molte città la plastica viene separata e riciclata."
+            },
+            {
+              "nl": "uitsterven",
+              "it": "estinguersi",
+              "en": "to go extinct",
+              "emoji": "🦤",
+              "pos": "v",
+              "exampleNl": "Zonder bescherming zullen veel diersoorten snel uitsterven.",
+              "exampleIt": "Senza protezione molte specie animali si estingueranno presto."
+            },
+            {
+              "nl": "vervuilen",
+              "it": "inquinare",
+              "en": "to pollute",
+              "emoji": "🛢️",
+              "pos": "v",
+              "exampleNl": "Fabrieken vervuilen al jaren de lucht en het water.",
+              "exampleIt": "Le fabbriche inquinano da anni l'aria e l'acqua."
+            },
+            {
+              "nl": "de duurzaamheid",
+              "it": "la sostenibilità",
+              "en": "sustainability",
+              "emoji": "♻️",
+              "pos": "n",
+              "exampleNl": "Bedrijven letten steeds meer op duurzaamheid en milieu.",
+              "exampleIt": "Le aziende prestano sempre più attenzione alla sostenibilità e all'ambiente."
+            }
+          ]
         }
       ]
     },
@@ -422,6 +572,697 @@
               "pos": "n",
               "exampleNl": "Ze hebben ruzie gemaakt omdat ze het niet eens waren.",
               "exampleIt": "Hanno litigato perché non erano d'accordo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2u5",
+      "title": "Economia e finanza",
+      "icon": "💶",
+      "tip": "Vocabolario economico: spesso passivo ('worden verhoogd') e condizionale ('zou kunnen opleveren'). Articoli: het budget, het aandeel sono neutri.",
+      "lessons": [
+        {
+          "id": "b2u5l1",
+          "title": "Denaro e mercati",
+          "items": [
+            {
+              "nl": "de economie",
+              "it": "l'economia",
+              "en": "economy",
+              "emoji": "📊",
+              "pos": "n",
+              "exampleNl": "De economie groeit dit jaar sneller dan verwacht werd.",
+              "exampleIt": "L'economia cresce quest'anno più velocemente del previsto."
+            },
+            {
+              "nl": "de beurs",
+              "it": "la borsa (valori)",
+              "en": "stock exchange",
+              "emoji": "📈",
+              "pos": "n",
+              "exampleNl": "Op de beurs worden elke dag miljoenen aandelen verhandeld.",
+              "exampleIt": "In borsa ogni giorno vengono scambiati milioni di azioni."
+            },
+            {
+              "nl": "de investering",
+              "it": "l'investimento",
+              "en": "investment",
+              "emoji": "💰",
+              "pos": "n",
+              "exampleNl": "Deze investering zou op lange termijn veel kunnen opleveren.",
+              "exampleIt": "Questo investimento potrebbe rendere molto a lungo termine."
+            },
+            {
+              "nl": "de lening",
+              "it": "il prestito",
+              "en": "loan",
+              "emoji": "🏦",
+              "pos": "n",
+              "exampleNl": "De bank heeft hem een lening geweigerd vanwege zijn schulden.",
+              "exampleIt": "La banca gli ha rifiutato un prestito a causa dei suoi debiti."
+            },
+            {
+              "nl": "de schuld",
+              "it": "il debito / la colpa",
+              "en": "debt",
+              "emoji": "💸",
+              "pos": "n",
+              "exampleNl": "Door de crisis raakten veel gezinnen in de schulden.",
+              "exampleIt": "A causa della crisi molte famiglie si sono indebitate."
+            },
+            {
+              "nl": "de rente",
+              "it": "l'interesse (bancario)",
+              "en": "interest",
+              "emoji": "📉",
+              "pos": "n",
+              "exampleNl": "De rente op spaarrekeningen is de laatste jaren sterk gedaald.",
+              "exampleIt": "Il tasso d'interesse sui conti di risparmio è molto calato negli ultimi anni."
+            },
+            {
+              "nl": "het budget",
+              "it": "il budget / il bilancio",
+              "en": "budget",
+              "emoji": "🧾",
+              "pos": "n",
+              "exampleNl": "Het budget voor onderwijs wordt volgend jaar verhoogd.",
+              "exampleIt": "Il budget per l'istruzione verrà aumentato l'anno prossimo."
+            },
+            {
+              "nl": "de inflatie",
+              "it": "l'inflazione",
+              "en": "inflation",
+              "emoji": "📈",
+              "pos": "n",
+              "exampleNl": "Door de hoge inflatie worden de boodschappen steeds duurder.",
+              "exampleIt": "A causa dell'alta inflazione la spesa diventa sempre più cara."
+            },
+            {
+              "nl": "de munt",
+              "it": "la moneta / la valuta",
+              "en": "currency",
+              "emoji": "🪙",
+              "pos": "n",
+              "exampleNl": "De euro is de gemeenschappelijke munt van veel Europese landen.",
+              "exampleIt": "L'euro è la moneta comune di molti paesi europei."
+            },
+            {
+              "nl": "het aandeel",
+              "it": "l'azione / la quota",
+              "en": "share",
+              "emoji": "📊",
+              "pos": "n",
+              "exampleNl": "De aandelen van het bedrijf zijn gisteren in waarde gestegen.",
+              "exampleIt": "Le azioni dell'azienda ieri sono salite di valore."
+            },
+            {
+              "nl": "de koers",
+              "it": "il cambio / la quotazione",
+              "en": "exchange rate",
+              "emoji": "💱",
+              "pos": "n",
+              "exampleNl": "De koers van de dollar is vandaag licht gestegen.",
+              "exampleIt": "Il cambio del dollaro è salito leggermente oggi."
+            },
+            {
+              "nl": "de uitgave",
+              "it": "la spesa / l'uscita",
+              "en": "expense",
+              "emoji": "🧾",
+              "pos": "n",
+              "exampleNl": "De uitgaven van de gemeente zijn dit jaar flink gestegen.",
+              "exampleIt": "Le spese del comune sono aumentate parecchio quest'anno."
+            },
+            {
+              "nl": "besparen",
+              "it": "risparmiare",
+              "en": "to save money",
+              "emoji": "🐖",
+              "pos": "v",
+              "exampleNl": "Door zuinig te leven kun je elke maand wat geld besparen.",
+              "exampleIt": "Vivendo con parsimonia puoi risparmiare un po' di soldi ogni mese."
+            },
+            {
+              "nl": "lenen",
+              "it": "prestare / prendere in prestito",
+              "en": "to borrow",
+              "emoji": "🤝",
+              "pos": "v",
+              "exampleNl": "Mag ik wat geld van je lenen tot volgende week?",
+              "exampleIt": "Posso prendere in prestito un po' di soldi fino alla prossima settimana?"
+            },
+            {
+              "nl": "investeren",
+              "it": "investire",
+              "en": "to invest",
+              "emoji": "📈",
+              "pos": "v",
+              "exampleNl": "Veel mensen investeren hun spaargeld liever in vastgoed.",
+              "exampleIt": "Molti preferiscono investire i loro risparmi in immobili."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2u6",
+      "title": "Salute e sanità",
+      "icon": "🏥",
+      "tip": "Sistema sanitario: molti passivi ('de operatie werd uitgevoerd'). Neutri: het virus, het symptoom.",
+      "lessons": [
+        {
+          "id": "b2u6l1",
+          "title": "Diagnosi e cure",
+          "items": [
+            {
+              "nl": "de diagnose",
+              "it": "la diagnosi",
+              "en": "diagnosis",
+              "emoji": "🩺",
+              "pos": "n",
+              "exampleNl": "De arts stelde een duidelijke diagnose na enkele onderzoeken.",
+              "exampleIt": "Il medico fece una diagnosi chiara dopo alcuni esami."
+            },
+            {
+              "nl": "de operatie",
+              "it": "l'operazione / l'intervento",
+              "en": "operation",
+              "emoji": "🏥",
+              "pos": "n",
+              "exampleNl": "De operatie werd uitgevoerd door een ervaren chirurg.",
+              "exampleIt": "L'operazione fu eseguita da un chirurgo esperto."
+            },
+            {
+              "nl": "de ingreep",
+              "it": "l'intervento",
+              "en": "procedure",
+              "emoji": "🔪",
+              "pos": "n",
+              "exampleNl": "Het is een kleine ingreep waarvoor je niet hoeft te blijven.",
+              "exampleIt": "È un piccolo intervento per cui non devi restare ricoverato."
+            },
+            {
+              "nl": "het virus",
+              "it": "il virus",
+              "en": "virus",
+              "emoji": "🦠",
+              "pos": "n",
+              "exampleNl": "Het virus verspreidt zich snel in de wintermaanden.",
+              "exampleIt": "Il virus si diffonde rapidamente nei mesi invernali."
+            },
+            {
+              "nl": "de besmetting",
+              "it": "il contagio / l'infezione",
+              "en": "infection",
+              "emoji": "🦠",
+              "pos": "n",
+              "exampleNl": "Om besmetting te voorkomen, moet je je handen vaak wassen.",
+              "exampleIt": "Per prevenire il contagio, devi lavarti spesso le mani."
+            },
+            {
+              "nl": "de verzekering",
+              "it": "l'assicurazione",
+              "en": "insurance",
+              "emoji": "📄",
+              "pos": "n",
+              "exampleNl": "De kosten van de behandeling worden door de verzekering gedekt.",
+              "exampleIt": "I costi della cura sono coperti dall'assicurazione."
+            },
+            {
+              "nl": "de zorg",
+              "it": "la cura / l'assistenza",
+              "en": "care",
+              "emoji": "🤲",
+              "pos": "n",
+              "exampleNl": "De zorg voor ouderen wordt steeds duurder in dit land.",
+              "exampleIt": "L'assistenza agli anziani diventa sempre più cara in questo paese."
+            },
+            {
+              "nl": "het symptoom",
+              "it": "il sintomo",
+              "en": "symptom",
+              "emoji": "🤒",
+              "pos": "n",
+              "exampleNl": "Koorts is vaak het eerste symptoom van een infectie.",
+              "exampleIt": "La febbre è spesso il primo sintomo di un'infezione."
+            },
+            {
+              "nl": "de hersenen",
+              "it": "il cervello",
+              "en": "brain",
+              "emoji": "🧠",
+              "pos": "n",
+              "exampleNl": "De hersenen verbruiken veel energie, ook tijdens het slapen.",
+              "exampleIt": "Il cervello consuma molta energia, anche durante il sonno."
+            },
+            {
+              "nl": "de wond",
+              "it": "la ferita",
+              "en": "wound",
+              "emoji": "🩹",
+              "pos": "n",
+              "exampleNl": "De wond moet goed schoongemaakt worden om infectie te voorkomen.",
+              "exampleIt": "La ferita deve essere pulita bene per prevenire un'infezione."
+            },
+            {
+              "nl": "gewond",
+              "it": "ferito",
+              "en": "injured",
+              "emoji": "🤕",
+              "pos": "adj",
+              "exampleNl": "Bij het ongeluk raakten twee mensen zwaar gewond.",
+              "exampleIt": "Nell'incidente due persone sono rimaste gravemente ferite."
+            },
+            {
+              "nl": "voorkomen",
+              "it": "prevenire",
+              "en": "to prevent",
+              "emoji": "🛡️",
+              "pos": "v",
+              "exampleNl": "Veel ziektes kunnen met een gezonde levensstijl voorkomen worden.",
+              "exampleIt": "Molte malattie possono essere prevenute con uno stile di vita sano."
+            },
+            {
+              "nl": "herstellen",
+              "it": "guarire / riprendersi",
+              "en": "to recover",
+              "emoji": "💪",
+              "pos": "v",
+              "exampleNl": "Na de operatie had hij enkele weken nodig om te herstellen.",
+              "exampleIt": "Dopo l'operazione ebbe bisogno di alcune settimane per riprendersi."
+            },
+            {
+              "nl": "de patiënt",
+              "it": "il paziente",
+              "en": "patient",
+              "emoji": "🛏️",
+              "pos": "n",
+              "exampleNl": "De patiënt werd na de behandeling naar huis gestuurd.",
+              "exampleIt": "Il paziente fu mandato a casa dopo la cura."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2u7",
+      "title": "Media e comunicazione",
+      "icon": "📰",
+      "tip": "Stampa e TV: het artikel, het interview, het tijdschrift, het gerucht sono neutri.",
+      "lessons": [
+        {
+          "id": "b2u7l1",
+          "title": "Stampa e televisione",
+          "items": [
+            {
+              "nl": "de pers",
+              "it": "la stampa",
+              "en": "the press",
+              "emoji": "📰",
+              "pos": "n",
+              "exampleNl": "De pers heeft veel aandacht aan het schandaal besteed.",
+              "exampleIt": "La stampa ha dedicato molta attenzione allo scandalo."
+            },
+            {
+              "nl": "het artikel",
+              "it": "l'articolo",
+              "en": "article",
+              "emoji": "📄",
+              "pos": "n",
+              "exampleNl": "Het artikel werd door duizenden mensen online gedeeld.",
+              "exampleIt": "L'articolo è stato condiviso online da migliaia di persone."
+            },
+            {
+              "nl": "het interview",
+              "it": "l'intervista",
+              "en": "interview",
+              "emoji": "🎤",
+              "pos": "n",
+              "exampleNl": "In het interview sprak de minister over de nieuwe plannen.",
+              "exampleIt": "Nell'intervista il ministro ha parlato dei nuovi piani."
+            },
+            {
+              "nl": "de reclame",
+              "it": "la pubblicità",
+              "en": "advertising",
+              "emoji": "📢",
+              "pos": "n",
+              "exampleNl": "Tijdens de film werd de reclame steeds vervelender.",
+              "exampleIt": "Durante il film la pubblicità diventava sempre più fastidiosa."
+            },
+            {
+              "nl": "de reportage",
+              "it": "il reportage / il servizio",
+              "en": "report",
+              "emoji": "🎥",
+              "pos": "n",
+              "exampleNl": "De reportage liet zien hoe mensen in armoede leven.",
+              "exampleIt": "Il reportage mostrava come vivono le persone in povertà."
+            },
+            {
+              "nl": "het publiek",
+              "it": "il pubblico",
+              "en": "audience",
+              "emoji": "👥",
+              "pos": "n",
+              "exampleNl": "Het publiek reageerde enthousiast op de toespraak.",
+              "exampleIt": "Il pubblico ha reagito con entusiasmo al discorso."
+            },
+            {
+              "nl": "de uitzending",
+              "it": "la trasmissione",
+              "en": "broadcast",
+              "emoji": "📺",
+              "pos": "n",
+              "exampleNl": "De uitzending werd door miljoenen kijkers gevolgd.",
+              "exampleIt": "La trasmissione è stata seguita da milioni di telespettatori."
+            },
+            {
+              "nl": "het tijdschrift",
+              "it": "la rivista",
+              "en": "magazine",
+              "emoji": "📔",
+              "pos": "n",
+              "exampleNl": "Dit tijdschrift verschijnt elke maand met nieuwe artikelen.",
+              "exampleIt": "Questa rivista esce ogni mese con nuovi articoli."
+            },
+            {
+              "nl": "de zender",
+              "it": "il canale / l'emittente",
+              "en": "TV channel",
+              "emoji": "📡",
+              "pos": "n",
+              "exampleNl": "Die zender zendt vooral documentaires en nieuws uit.",
+              "exampleIt": "Quel canale trasmette soprattutto documentari e notizie."
+            },
+            {
+              "nl": "de kijker",
+              "it": "il telespettatore",
+              "en": "viewer",
+              "emoji": "📺",
+              "pos": "n",
+              "exampleNl": "De kijkers konden tijdens het programma live stemmen.",
+              "exampleIt": "I telespettatori potevano votare in diretta durante il programma."
+            },
+            {
+              "nl": "de lezer",
+              "it": "il lettore",
+              "en": "reader",
+              "emoji": "📖",
+              "pos": "n",
+              "exampleNl": "De krant vroeg haar lezers om hun mening te geven.",
+              "exampleIt": "Il giornale ha chiesto ai suoi lettori di dare la loro opinione."
+            },
+            {
+              "nl": "publiceren",
+              "it": "pubblicare",
+              "en": "to publish",
+              "emoji": "🖨️",
+              "pos": "v",
+              "exampleNl": "De krant besloot het gevoelige artikel toch te publiceren.",
+              "exampleIt": "Il giornale ha deciso di pubblicare comunque l'articolo delicato."
+            },
+            {
+              "nl": "het gerucht",
+              "it": "la diceria / la voce",
+              "en": "rumour",
+              "emoji": "🗣️",
+              "pos": "n",
+              "exampleNl": "Er gaat een gerucht dat het bedrijf gaat sluiten.",
+              "exampleIt": "Gira voce che l'azienda chiuderà."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2u8",
+      "title": "Diritto e giustizia",
+      "icon": "⚖️",
+      "tip": "In tribunale: 'het slachtoffer werd ondervraagd', 'het vonnis wordt uitgesproken' (passivo). Neutri: het slachtoffer, het vonnis.",
+      "lessons": [
+        {
+          "id": "b2u8l1",
+          "title": "Legge e tribunale",
+          "items": [
+            {
+              "nl": "de advocaat",
+              "it": "l'avvocato",
+              "en": "lawyer",
+              "emoji": "👨‍⚖️",
+              "pos": "n",
+              "exampleNl": "De advocaat verdedigde zijn cliënt met sterke argumenten.",
+              "exampleIt": "L'avvocato ha difeso il suo cliente con argomenti forti."
+            },
+            {
+              "nl": "de rechter",
+              "it": "il giudice",
+              "en": "judge",
+              "emoji": "⚖️",
+              "pos": "n",
+              "exampleNl": "De rechter luisterde aandachtig naar beide partijen.",
+              "exampleIt": "Il giudice ha ascoltato attentamente entrambe le parti."
+            },
+            {
+              "nl": "de rechtbank",
+              "it": "il tribunale",
+              "en": "court",
+              "emoji": "🏛️",
+              "pos": "n",
+              "exampleNl": "De zaak wordt volgende week voor de rechtbank behandeld.",
+              "exampleIt": "Il caso sarà trattato in tribunale la prossima settimana."
+            },
+            {
+              "nl": "de misdaad",
+              "it": "il crimine / il reato",
+              "en": "crime",
+              "emoji": "🚔",
+              "pos": "n",
+              "exampleNl": "De misdaad werd 's nachts gepleegd zonder getuigen.",
+              "exampleIt": "Il crimine fu commesso di notte senza testimoni."
+            },
+            {
+              "nl": "de straf",
+              "it": "la pena / la punizione",
+              "en": "punishment",
+              "emoji": "🚓",
+              "pos": "n",
+              "exampleNl": "De rechter legde hem een zware straf op.",
+              "exampleIt": "Il giudice gli ha inflitto una pena severa."
+            },
+            {
+              "nl": "de boete",
+              "it": "la multa",
+              "en": "fine",
+              "emoji": "💶",
+              "pos": "n",
+              "exampleNl": "Als je te hard rijdt, krijg je een hoge boete.",
+              "exampleIt": "Se vai troppo veloce, prendi una multa salata."
+            },
+            {
+              "nl": "de gevangenis",
+              "it": "il carcere / la prigione",
+              "en": "prison",
+              "emoji": "🔒",
+              "pos": "n",
+              "exampleNl": "Hij zat drie jaar in de gevangenis voor diefstal.",
+              "exampleIt": "È stato tre anni in carcere per furto."
+            },
+            {
+              "nl": "schuldig",
+              "it": "colpevole",
+              "en": "guilty",
+              "emoji": "👎",
+              "pos": "adj",
+              "exampleNl": "De verdachte werd schuldig bevonden aan alle aanklachten.",
+              "exampleIt": "L'imputato è stato giudicato colpevole di tutte le accuse."
+            },
+            {
+              "nl": "onschuldig",
+              "it": "innocente",
+              "en": "innocent",
+              "emoji": "🕊️",
+              "pos": "adj",
+              "exampleNl": "Iedereen is onschuldig totdat het tegendeel bewezen is.",
+              "exampleIt": "Tutti sono innocenti finché non si prova il contrario."
+            },
+            {
+              "nl": "de getuige",
+              "it": "il testimone",
+              "en": "witness",
+              "emoji": "👁️",
+              "pos": "n",
+              "exampleNl": "De getuige verklaarde dat hij niets had gezien.",
+              "exampleIt": "Il testimone ha dichiarato di non aver visto nulla."
+            },
+            {
+              "nl": "het slachtoffer",
+              "it": "la vittima",
+              "en": "victim",
+              "emoji": "🆘",
+              "pos": "n",
+              "exampleNl": "Het slachtoffer werd door de politie ondervraagd.",
+              "exampleIt": "La vittima è stata interrogata dalla polizia."
+            },
+            {
+              "nl": "veroordelen",
+              "it": "condannare",
+              "en": "to convict",
+              "emoji": "⚖️",
+              "pos": "v",
+              "exampleNl": "De rechtbank kan hem tot tien jaar cel veroordelen.",
+              "exampleIt": "Il tribunale può condannarlo a dieci anni di carcere."
+            },
+            {
+              "nl": "het vonnis",
+              "it": "la sentenza / il verdetto",
+              "en": "verdict",
+              "emoji": "📜",
+              "pos": "n",
+              "exampleNl": "Het vonnis wordt volgende week door de rechter uitgesproken.",
+              "exampleIt": "La sentenza sarà pronunciata dal giudice la prossima settimana."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2u9",
+      "title": "Cultura e arte",
+      "icon": "🎨",
+      "tip": "Arte e spettacolo. Attenzione: 'het schilderij' è neutro (eccezione tra i -ij), come het toneel, het beeld, het meesterwerk.",
+      "lessons": [
+        {
+          "id": "b2u9l1",
+          "title": "Arte e spettacolo",
+          "items": [
+            {
+              "nl": "de kunst",
+              "it": "l'arte",
+              "en": "art",
+              "emoji": "🎨",
+              "pos": "n",
+              "exampleNl": "Moderne kunst wordt niet door iedereen begrepen.",
+              "exampleIt": "L'arte moderna non è capita da tutti."
+            },
+            {
+              "nl": "het schilderij",
+              "it": "il dipinto / il quadro",
+              "en": "painting",
+              "emoji": "🖼️",
+              "pos": "n",
+              "exampleNl": "Het schilderij werd voor miljoenen verkocht op de veiling.",
+              "exampleIt": "Il dipinto è stato venduto per milioni all'asta."
+            },
+            {
+              "nl": "de schilder",
+              "it": "il pittore",
+              "en": "painter",
+              "emoji": "👨‍🎨",
+              "pos": "n",
+              "exampleNl": "De schilder werkte jarenlang aan dit ene meesterwerk.",
+              "exampleIt": "Il pittore ha lavorato per anni a questo unico capolavoro."
+            },
+            {
+              "nl": "de roman",
+              "it": "il romanzo",
+              "en": "novel",
+              "emoji": "📕",
+              "pos": "n",
+              "exampleNl": "Deze roman werd in meer dan twintig talen vertaald.",
+              "exampleIt": "Questo romanzo è stato tradotto in più di venti lingue."
+            },
+            {
+              "nl": "de schrijver",
+              "it": "lo scrittore",
+              "en": "writer",
+              "emoji": "✍️",
+              "pos": "n",
+              "exampleNl": "De schrijver signeerde na de lezing zijn nieuwste boek.",
+              "exampleIt": "Lo scrittore ha firmato il suo ultimo libro dopo la conferenza."
+            },
+            {
+              "nl": "het toneel",
+              "it": "il teatro (palcoscenico)",
+              "en": "stage",
+              "emoji": "🎭",
+              "pos": "n",
+              "exampleNl": "Op het toneel stonden tien acteurs tegelijk.",
+              "exampleIt": "Sul palcoscenico c'erano dieci attori contemporaneamente."
+            },
+            {
+              "nl": "de voorstelling",
+              "it": "lo spettacolo",
+              "en": "performance",
+              "emoji": "🎬",
+              "pos": "n",
+              "exampleNl": "De voorstelling werd door het publiek met applaus ontvangen.",
+              "exampleIt": "Lo spettacolo è stato accolto dal pubblico con un applauso."
+            },
+            {
+              "nl": "de tentoonstelling",
+              "it": "la mostra / l'esposizione",
+              "en": "exhibition",
+              "emoji": "🖼️",
+              "pos": "n",
+              "exampleNl": "De tentoonstelling over Van Gogh trok duizenden bezoekers.",
+              "exampleIt": "La mostra su Van Gogh ha attirato migliaia di visitatori."
+            },
+            {
+              "nl": "het beeld",
+              "it": "la statua / l'immagine",
+              "en": "statue",
+              "emoji": "🗿",
+              "pos": "n",
+              "exampleNl": "Midden op het plein staat een groot bronzen beeld.",
+              "exampleIt": "In mezzo alla piazza c'è una grande statua di bronzo."
+            },
+            {
+              "nl": "de regisseur",
+              "it": "il regista",
+              "en": "director",
+              "emoji": "🎬",
+              "pos": "n",
+              "exampleNl": "De regisseur kreeg een prijs voor zijn nieuwste film.",
+              "exampleIt": "Il regista ha ricevuto un premio per il suo ultimo film."
+            },
+            {
+              "nl": "het meesterwerk",
+              "it": "il capolavoro",
+              "en": "masterpiece",
+              "emoji": "🏆",
+              "pos": "n",
+              "exampleNl": "Dit schilderij wordt beschouwd als zijn grootste meesterwerk.",
+              "exampleIt": "Questo dipinto è considerato il suo più grande capolavoro."
+            },
+            {
+              "nl": "de cultuur",
+              "it": "la cultura",
+              "en": "culture",
+              "emoji": "🌍",
+              "pos": "n",
+              "exampleNl": "Elke cultuur heeft haar eigen tradities en gewoontes.",
+              "exampleIt": "Ogni cultura ha le proprie tradizioni e usanze."
+            },
+            {
+              "nl": "optreden",
+              "it": "esibirsi",
+              "en": "to perform",
+              "emoji": "🎤",
+              "pos": "v",
+              "exampleNl": "De band zal volgende maand in Amsterdam optreden.",
+              "exampleIt": "La band si esibirà ad Amsterdam il mese prossimo."
+            },
+            {
+              "nl": "de bezoeker",
+              "it": "il visitatore",
+              "en": "visitor",
+              "emoji": "🚶",
+              "pos": "n",
+              "exampleNl": "De bezoekers mochten geen foto's maken in het museum.",
+              "exampleIt": "I visitatori non potevano fare foto nel museo."
             }
           ]
         }

@@ -37,7 +37,9 @@ import sys
 CURRICULUM_GLOB = os.path.join(os.path.dirname(__file__), "..",
                                "app/src/main/assets/curriculum/*.json")
 REFERENCE = os.path.join(os.path.dirname(__file__), "gender_reference.json")
-REQUIRED_FIELDS = ("nl", "it", "en", "emoji", "pos", "exampleNl", "exampleIt")
+# Hard-required text fields. `emoji` is optional in the app (function words,
+# idioms and many abstract nouns have none) -> flagged as REVIEW, not ERROR.
+REQUIRED_FIELDS = ("nl", "it", "en", "pos", "exampleNl", "exampleIt")
 
 SEP_PREFIXES = ["aan", "af", "bij", "binnen", "buiten", "door", "in", "mee",
                 "na", "neer", "om", "onder", "op", "over", "rond", "samen",
@@ -138,6 +140,15 @@ def verb_fragments(inf: str):
     return {f.lower() for f in frags if len(f) >= 3}
 
 
+def _shorten(w: str):
+    """Open-syllable plural shortening: aandeel->aandel, paneel->panel, muur->mur."""
+    m = re.search(r"(aa|ee|oo|uu)([bcdfghjklmnpqrstvwxz])$", w)
+    if m:
+        i = m.start(1)
+        return w[:i] + w[i] + w[i + 2:]
+    return w
+
+
 def example_ok(item):
     nl = item["nl"]
     ex = item.get("exampleNl", "").lower()
@@ -146,9 +157,10 @@ def example_ok(item):
         return any(f in ex for f in verb_fragments(nl.lower()))
     if pos == "n":
         toks = nl.split()
-        core = " ".join(toks[1:]) if toks and toks[0] in ("de", "het") else nl
-        core = core.lower()
-        return core in ex or core.split()[-1] in ex
+        core = (" ".join(toks[1:]) if toks and toks[0] in ("de", "het") else nl).lower()
+        last = core.split()[-1]
+        cands = {core, last, _shorten(core), _shorten(last)}
+        return any(c in ex for c in cands if c)
     # adj / adv / prep / conj / phr: word or its first 5 chars
     w = nl.lower()
     return w in ex or (len(w) >= 5 and w[:5] in ex)
@@ -220,6 +232,8 @@ def main():
         missing = [k for k in REQUIRED_FIELDS if not str(it.get(k, "")).strip()]
         if missing:
             reports.append(("ERROR", nl, f"campi mancanti/vuoti: {', '.join(missing)}"))
+        if not str(it.get("emoji", "")).strip():
+            reports.append(("REVIEW", nl, "emoji mancante (campo opzionale)"))
 
         # 2. duplicates (vs existing + within block)
         low = nl.lower()
