@@ -227,6 +227,174 @@
               "exampleIt": "Molte persone hanno paura di fallire."
             }
           ]
+        },
+        {
+          "id": "b1u1l3",
+          "title": "Stati d'animo",
+          "items": [
+            {
+              "nl": "de emotie",
+              "it": "l'emozione",
+              "en": "emotion",
+              "emoji": "❤️",
+              "pos": "n",
+              "exampleNl": "Tijdens de film toonde hij weinig emotie.",
+              "exampleIt": "Durante il film mostrò poca emozione."
+            },
+            {
+              "nl": "de stress",
+              "it": "lo stress",
+              "en": "stress",
+              "emoji": "😰",
+              "pos": "n",
+              "exampleNl": "Door de stress kan ik 's nachts niet slapen.",
+              "exampleIt": "Per lo stress non riesco a dormire di notte."
+            },
+            {
+              "nl": "het geluk",
+              "it": "la felicità / la fortuna",
+              "en": "happiness",
+              "emoji": "🍀",
+              "pos": "n",
+              "exampleNl": "Geld brengt niet altijd geluk.",
+              "exampleIt": "Il denaro non porta sempre la felicità."
+            },
+            {
+              "nl": "het verdriet",
+              "it": "il dolore / la tristezza",
+              "en": "sorrow",
+              "emoji": "💔",
+              "pos": "n",
+              "exampleNl": "Het verdriet om haar verlies was groot.",
+              "exampleIt": "Il dolore per la sua perdita era grande."
+            },
+            {
+              "nl": "de woede",
+              "it": "la rabbia",
+              "en": "anger",
+              "emoji": "😡",
+              "pos": "n",
+              "exampleNl": "Hij kon zijn woede nauwelijks verbergen.",
+              "exampleIt": "Riusciva a malapena a nascondere la sua rabbia."
+            },
+            {
+              "nl": "de vreugde",
+              "it": "la gioia",
+              "en": "joy",
+              "emoji": "😄",
+              "pos": "n",
+              "exampleNl": "Tot grote vreugde van iedereen won ons team.",
+              "exampleIt": "Con grande gioia di tutti la nostra squadra vinse."
+            },
+            {
+              "nl": "de schaamte",
+              "it": "la vergogna",
+              "en": "shame",
+              "emoji": "🙈",
+              "pos": "n",
+              "exampleNl": "Uit schaamte durfde hij niemand aan te kijken.",
+              "exampleIt": "Per la vergogna non osava guardare nessuno."
+            },
+            {
+              "nl": "de twijfel",
+              "it": "il dubbio",
+              "en": "doubt",
+              "emoji": "🤷",
+              "pos": "n",
+              "exampleNl": "Ik heb geen enkele twijfel over jouw keuze.",
+              "exampleIt": "Non ho alcun dubbio sulla tua scelta."
+            },
+            {
+              "nl": "de hoop",
+              "it": "la speranza",
+              "en": "hope",
+              "emoji": "🌟",
+              "pos": "n",
+              "exampleNl": "Ondanks alles geeft hij de hoop niet op.",
+              "exampleIt": "Nonostante tutto non perde la speranza."
+            },
+            {
+              "nl": "de moed",
+              "it": "il coraggio",
+              "en": "courage",
+              "emoji": "🦁",
+              "pos": "n",
+              "exampleNl": "Ze had de moed om de waarheid te vertellen.",
+              "exampleIt": "Ha avuto il coraggio di dire la verità."
+            },
+            {
+              "nl": "de spanning",
+              "it": "la tensione / la suspense",
+              "en": "tension",
+              "emoji": "😬",
+              "pos": "n",
+              "exampleNl": "Tijdens de wedstrijd was de spanning voelbaar.",
+              "exampleIt": "Durante la partita la tensione era palpabile."
+            },
+            {
+              "nl": "de teleurstelling",
+              "it": "la delusione",
+              "en": "disappointment",
+              "emoji": "😞",
+              "pos": "n",
+              "exampleNl": "De nederlaag was een grote teleurstelling.",
+              "exampleIt": "La sconfitta è stata una grande delusione."
+            },
+            {
+              "nl": "de eenzaamheid",
+              "it": "la solitudine",
+              "en": "loneliness",
+              "emoji": "🌑",
+              "pos": "n",
+              "exampleNl": "Veel ouderen lijden onder de eenzaamheid.",
+              "exampleIt": "Molti anziani soffrono di solitudine."
+            },
+            {
+              "nl": "gefrustreerd",
+              "it": "frustrato",
+              "en": "frustrated",
+              "emoji": "😤",
+              "pos": "adj",
+              "exampleNl": "Hij was gefrustreerd omdat niets lukte.",
+              "exampleIt": "Era frustrato perché non riusciva niente."
+            },
+            {
+              "nl": "ontroerd",
+              "it": "commosso",
+              "en": "moved",
+              "emoji": "🥹",
+              "pos": "adj",
+              "exampleNl": "Ze was diep ontroerd door zijn woorden.",
+              "exampleIt": "Era profondamente commossa dalle sue parole."
+            },
+            {
+              "nl": "uitgeput",
+              "it": "esausto",
+              "en": "exhausted",
+              "emoji": "🥵",
+              "pos": "adj",
+              "exampleNl": "Na de marathon was ik volledig uitgeput.",
+              "exampleIt": "Dopo la maratona ero completamente esausto."
+            },
+            {
+              "nl": "wanhopig",
+              "it": "disperato",
+              "en": "desperate",
+              "emoji": "😩",
+              "pos": "adj",
+              "exampleNl": "Hij zocht wanhopig naar een uitweg.",
+              "exampleIt": "Cercava disperatamente una via d'uscita."
+            },
+            {
+              "nl": "ongelukkig",
+              "it": "infelice",
+              "en": "unhappy",
+              "emoji": "☹️",
+              "pos": "adj",
+              "exampleNl": "Ze voelde zich ongelukkig op haar werk.",
+              "exampleIt": "Si sentiva infelice al lavoro."
+            }
+          ]
         }
       ]
     },
@@ -332,6 +500,156 @@
               "pos": "n",
               "exampleNl": "Ik denk dat er een betere oplossing bestaat.",
               "exampleIt": "Penso che esista una soluzione migliore."
+            }
+          ]
+        },
+        {
+          "id": "b1u2l2",
+          "title": "Discutere e opinare",
+          "items": [
+            {
+              "nl": "de discussie",
+              "it": "la discussione",
+              "en": "discussion",
+              "emoji": "💬",
+              "pos": "n",
+              "exampleNl": "De discussie over het plan duurde uren.",
+              "exampleIt": "La discussione sul piano durò ore."
+            },
+            {
+              "nl": "het overleg",
+              "it": "la consultazione / la riunione",
+              "en": "consultation",
+              "emoji": "🗣️",
+              "pos": "n",
+              "exampleNl": "Na lang overleg namen ze een besluit.",
+              "exampleIt": "Dopo una lunga consultazione presero una decisione."
+            },
+            {
+              "nl": "de reden",
+              "it": "il motivo / la ragione",
+              "en": "reason",
+              "emoji": "❓",
+              "pos": "n",
+              "exampleNl": "Wat is de reden dat je te laat bent?",
+              "exampleIt": "Qual è il motivo per cui sei in ritardo?"
+            },
+            {
+              "nl": "het standpunt",
+              "it": "il punto di vista",
+              "en": "standpoint",
+              "emoji": "📍",
+              "pos": "n",
+              "exampleNl": "Ik begrijp jouw standpunt, maar ik ben het er niet mee eens.",
+              "exampleIt": "Capisco il tuo punto di vista, ma non sono d'accordo."
+            },
+            {
+              "nl": "het advies",
+              "it": "il consiglio",
+              "en": "advice",
+              "emoji": "💡",
+              "pos": "n",
+              "exampleNl": "Hij gaf me een goed advies.",
+              "exampleIt": "Mi ha dato un buon consiglio."
+            },
+            {
+              "nl": "adviseren",
+              "it": "consigliare",
+              "en": "to advise",
+              "emoji": "🗣️",
+              "pos": "v",
+              "exampleNl": "Ik zou je adviseren om voorzichtig te zijn.",
+              "exampleIt": "Ti consiglierei di essere prudente."
+            },
+            {
+              "nl": "de toelichting",
+              "it": "la spiegazione / il chiarimento",
+              "en": "clarification",
+              "emoji": "💡",
+              "pos": "n",
+              "exampleNl": "Hij gaf een korte toelichting bij de cijfers.",
+              "exampleIt": "Ha dato una breve spiegazione sui dati."
+            },
+            {
+              "nl": "de opmerking",
+              "it": "l'osservazione",
+              "en": "remark",
+              "emoji": "✏️",
+              "pos": "n",
+              "exampleNl": "Haar opmerking was niet erg vriendelijk.",
+              "exampleIt": "La sua osservazione non era molto gentile."
+            },
+            {
+              "nl": "het misverstand",
+              "it": "il malinteso",
+              "en": "misunderstanding",
+              "emoji": "🤷",
+              "pos": "n",
+              "exampleNl": "Het was gewoon een klein misverstand.",
+              "exampleIt": "Era solo un piccolo malinteso."
+            },
+            {
+              "nl": "de kritiek",
+              "it": "la critica",
+              "en": "criticism",
+              "emoji": "👎",
+              "pos": "n",
+              "exampleNl": "Hij kon niet goed tegen kritiek.",
+              "exampleIt": "Non sopportava bene le critiche."
+            },
+            {
+              "nl": "de uitspraak",
+              "it": "l'affermazione / la pronuncia",
+              "en": "statement",
+              "emoji": "🗨️",
+              "pos": "n",
+              "exampleNl": "Zijn uitspraak zorgde voor veel ophef.",
+              "exampleIt": "La sua affermazione causò molto scalpore."
+            },
+            {
+              "nl": "de bewering",
+              "it": "l'asserzione",
+              "en": "assertion",
+              "emoji": "💭",
+              "pos": "n",
+              "exampleNl": "Die bewering is volgens mij niet waar.",
+              "exampleIt": "Quell'affermazione secondo me non è vera."
+            },
+            {
+              "nl": "de toespraak",
+              "it": "il discorso",
+              "en": "speech",
+              "emoji": "🎤",
+              "pos": "n",
+              "exampleNl": "De president hield een lange toespraak.",
+              "exampleIt": "Il presidente tenne un lungo discorso."
+            },
+            {
+              "nl": "instemmen",
+              "it": "essere d'accordo / acconsentire",
+              "en": "to agree",
+              "emoji": "👍",
+              "pos": "v",
+              "exampleNl": "De meeste leden wilden met het plan instemmen.",
+              "exampleIt": "La maggior parte dei membri voleva acconsentire al piano."
+            },
+            {
+              "nl": "de reactie",
+              "it": "la reazione",
+              "en": "reaction",
+              "emoji": "💬",
+              "pos": "n",
+              "exampleNl": "Zijn reactie op het nieuws verraste iedereen.",
+              "exampleIt": "La sua reazione alla notizia sorprese tutti."
+            },
+            {
+              "nl": "de indruk",
+              "it": "l'impressione",
+              "en": "impression",
+              "emoji": "🌟",
+              "pos": "n",
+              "exampleNl": "Zij maakte meteen een goede indruk.",
+              "exampleIt": "Fece subito una buona impressione."
             }
           ]
         }
@@ -555,6 +873,282 @@
               "exampleIt": "Si è rifiutato di andare alla festa."
             }
           ]
+        },
+        {
+          "id": "b1u3l3",
+          "title": "Verbi utili (2)",
+          "items": [
+            {
+              "nl": "bereiken",
+              "it": "raggiungere",
+              "en": "to reach",
+              "emoji": "🎯",
+              "pos": "v",
+              "exampleNl": "Ik hoop dat ik mijn doel dit jaar kan bereiken.",
+              "exampleIt": "Spero di poter raggiungere il mio obiettivo quest'anno."
+            },
+            {
+              "nl": "voorstellen",
+              "it": "proporre / presentare",
+              "en": "to propose",
+              "emoji": "🤝",
+              "pos": "v",
+              "exampleNl": "Ik wil je aan mijn collega voorstellen.",
+              "exampleIt": "Voglio presentarti al mio collega."
+            },
+            {
+              "nl": "bespreken",
+              "it": "discutere",
+              "en": "to discuss",
+              "emoji": "🗣️",
+              "pos": "v",
+              "exampleNl": "We moeten dit probleem samen bespreken.",
+              "exampleIt": "Dobbiamo discutere questo problema insieme."
+            },
+            {
+              "nl": "beschrijven",
+              "it": "descrivere",
+              "en": "to describe",
+              "emoji": "📝",
+              "pos": "v",
+              "exampleNl": "Kun je beschrijven wat er is gebeurd?",
+              "exampleIt": "Puoi descrivere cos'è successo?"
+            },
+            {
+              "nl": "bewijzen",
+              "it": "dimostrare",
+              "en": "to prove",
+              "emoji": "✅",
+              "pos": "v",
+              "exampleNl": "Hij kan niet bewijzen dat hij gelijk heeft.",
+              "exampleIt": "Non può dimostrare di avere ragione."
+            },
+            {
+              "nl": "eisen",
+              "it": "esigere / pretendere",
+              "en": "to demand",
+              "emoji": "✊",
+              "pos": "v",
+              "exampleNl": "De werknemers eisen een hoger loon.",
+              "exampleIt": "I dipendenti pretendono uno stipendio più alto."
+            },
+            {
+              "nl": "erkennen",
+              "it": "riconoscere / ammettere",
+              "en": "to acknowledge",
+              "emoji": "🤲",
+              "pos": "v",
+              "exampleNl": "Hij wil niet erkennen dat hij een fout heeft gemaakt.",
+              "exampleIt": "Non vuole ammettere di aver fatto un errore."
+            },
+            {
+              "nl": "ontwikkelen",
+              "it": "sviluppare",
+              "en": "to develop",
+              "emoji": "🌱",
+              "pos": "v",
+              "exampleNl": "Het bedrijf wil een nieuw product ontwikkelen.",
+              "exampleIt": "L'azienda vuole sviluppare un nuovo prodotto."
+            },
+            {
+              "nl": "onderzoeken",
+              "it": "esaminare / indagare",
+              "en": "to investigate",
+              "emoji": "🔬",
+              "pos": "v",
+              "exampleNl": "De politie gaat de zaak grondig onderzoeken.",
+              "exampleIt": "La polizia indagherà a fondo sul caso."
+            },
+            {
+              "nl": "oplossen",
+              "it": "risolvere",
+              "en": "to solve",
+              "emoji": "🧩",
+              "pos": "v",
+              "exampleNl": "Samen kunnen we dit probleem oplossen.",
+              "exampleIt": "Insieme possiamo risolvere questo problema."
+            },
+            {
+              "nl": "overtuigen",
+              "it": "convincere",
+              "en": "to convince",
+              "emoji": "💬",
+              "pos": "v",
+              "exampleNl": "Het lukte hem niet om mij te overtuigen.",
+              "exampleIt": "Non è riuscito a convincermi."
+            },
+            {
+              "nl": "schatten",
+              "it": "stimare",
+              "en": "to estimate",
+              "emoji": "🔢",
+              "pos": "v",
+              "exampleNl": "Ik schat dat er duizend mensen waren.",
+              "exampleIt": "Stimo che ci fossero mille persone."
+            },
+            {
+              "nl": "toestaan",
+              "it": "permettere / consentire",
+              "en": "to allow",
+              "emoji": "🟢",
+              "pos": "v",
+              "exampleNl": "De ouders willen dat niet toestaan.",
+              "exampleIt": "I genitori non vogliono permetterlo."
+            },
+            {
+              "nl": "vermijden",
+              "it": "evitare",
+              "en": "to avoid",
+              "emoji": "🚫",
+              "pos": "v",
+              "exampleNl": "Probeer stress zoveel mogelijk te vermijden.",
+              "exampleIt": "Cerca di evitare lo stress il più possibile."
+            },
+            {
+              "nl": "verminderen",
+              "it": "ridurre / diminuire",
+              "en": "to reduce",
+              "emoji": "📉",
+              "pos": "v",
+              "exampleNl": "We moeten de kosten verminderen.",
+              "exampleIt": "Dobbiamo ridurre i costi."
+            },
+            {
+              "nl": "vertrouwen",
+              "it": "fidarsi",
+              "en": "to trust",
+              "emoji": "🤝",
+              "pos": "v",
+              "exampleNl": "Ik weet dat ik je kan vertrouwen.",
+              "exampleIt": "So che posso fidarmi di te."
+            },
+            {
+              "nl": "waarschuwen",
+              "it": "avvertire",
+              "en": "to warn",
+              "emoji": "⚠️",
+              "pos": "v",
+              "exampleNl": "De buren wilden ons voor het gevaar waarschuwen.",
+              "exampleIt": "I vicini volevano avvertirci del pericolo."
+            },
+            {
+              "nl": "wennen",
+              "it": "abituarsi",
+              "en": "to get used to",
+              "emoji": "🔄",
+              "pos": "v",
+              "exampleNl": "Het duurt even om aan een nieuwe stad te wennen.",
+              "exampleIt": "Ci vuole un po' per abituarsi a una nuova città."
+            },
+            {
+              "nl": "bedoelen",
+              "it": "intendere / voler dire",
+              "en": "to mean",
+              "emoji": "💭",
+              "pos": "v",
+              "exampleNl": "Ik begrijp niet wat je bedoelt.",
+              "exampleIt": "Non capisco cosa intendi."
+            },
+            {
+              "nl": "beweren",
+              "it": "sostenere / affermare",
+              "en": "to claim",
+              "emoji": "🗯️",
+              "pos": "v",
+              "exampleNl": "Hij beweert dat hij niets wist.",
+              "exampleIt": "Sostiene di non sapere niente."
+            },
+            {
+              "nl": "durven",
+              "it": "osare",
+              "en": "to dare",
+              "emoji": "😨",
+              "pos": "v",
+              "exampleNl": "Zoiets zou ik echt nooit durven.",
+              "exampleIt": "Una cosa simile non oserei mai farla."
+            },
+            {
+              "nl": "ontdekken",
+              "it": "scoprire",
+              "en": "to discover",
+              "emoji": "🔎",
+              "pos": "v",
+              "exampleNl": "Wetenschappers hopen een nieuw medicijn te ontdekken.",
+              "exampleIt": "Gli scienziati sperano di scoprire un nuovo farmaco."
+            },
+            {
+              "nl": "redden",
+              "it": "salvare",
+              "en": "to rescue",
+              "emoji": "🆘",
+              "pos": "v",
+              "exampleNl": "De brandweer kon iedereen op tijd redden.",
+              "exampleIt": "I pompieri sono riusciti a salvare tutti in tempo."
+            },
+            {
+              "nl": "vermoeden",
+              "it": "sospettare",
+              "en": "to suspect",
+              "emoji": "🕵️",
+              "pos": "v",
+              "exampleNl": "De agent vermoedt dat de man liegt.",
+              "exampleIt": "L'agente sospetta che l'uomo menta."
+            },
+            {
+              "nl": "benadrukken",
+              "it": "sottolineare",
+              "en": "to emphasize",
+              "emoji": "❗",
+              "pos": "v",
+              "exampleNl": "De docent wil het belang van oefenen benadrukken.",
+              "exampleIt": "Il docente vuole sottolineare l'importanza dell'esercizio."
+            },
+            {
+              "nl": "aanbieden",
+              "it": "offrire",
+              "en": "to offer",
+              "emoji": "🎁",
+              "pos": "v",
+              "exampleNl": "Het bedrijf wil hem een nieuwe baan aanbieden.",
+              "exampleIt": "L'azienda vuole offrirgli un nuovo lavoro."
+            },
+            {
+              "nl": "toenemen",
+              "it": "aumentare",
+              "en": "to increase",
+              "emoji": "📈",
+              "pos": "v",
+              "exampleNl": "Het aantal toeristen blijft elk jaar toenemen.",
+              "exampleIt": "Il numero di turisti continua ad aumentare ogni anno."
+            },
+            {
+              "nl": "deelnemen",
+              "it": "partecipare",
+              "en": "to participate",
+              "emoji": "🙋",
+              "pos": "v",
+              "exampleNl": "Veel studenten willen aan het project deelnemen.",
+              "exampleIt": "Molti studenti vogliono partecipare al progetto."
+            },
+            {
+              "nl": "samenwerken",
+              "it": "collaborare",
+              "en": "to cooperate",
+              "emoji": "🤝",
+              "pos": "v",
+              "exampleNl": "De twee landen willen beter samenwerken.",
+              "exampleIt": "I due paesi vogliono collaborare meglio."
+            },
+            {
+              "nl": "nadenken",
+              "it": "riflettere",
+              "en": "to reflect",
+              "emoji": "🤔",
+              "pos": "v",
+              "exampleNl": "Ik moet nog even over je voorstel nadenken.",
+              "exampleIt": "Devo ancora riflettere sulla tua proposta."
+            }
+          ]
         }
       ]
     },
@@ -768,6 +1362,102 @@
               "exampleIt": "Viene anche lui alla festa."
             }
           ]
+        },
+        {
+          "id": "b1u5l2",
+          "title": "Altri connettivi",
+          "items": [
+            {
+              "nl": "toen",
+              "it": "quando (passato)",
+              "en": "when (past)",
+              "emoji": "⏮️",
+              "pos": "conj",
+              "exampleNl": "Toen ik klein was, woonde ik in een dorp.",
+              "exampleIt": "Quando ero piccolo, abitavo in un paese."
+            },
+            {
+              "nl": "zodat",
+              "it": "così che / affinché",
+              "en": "so that",
+              "emoji": "➡️",
+              "pos": "conj",
+              "exampleNl": "Ik schrijf het op, zodat ik het niet vergeet.",
+              "exampleIt": "Lo scrivo, così che non lo dimentichi."
+            },
+            {
+              "nl": "voordat",
+              "it": "prima che",
+              "en": "before",
+              "emoji": "⏪",
+              "pos": "conj",
+              "exampleNl": "Was je handen voordat je gaat eten.",
+              "exampleIt": "Lavati le mani prima di mangiare."
+            },
+            {
+              "nl": "nadat",
+              "it": "dopo che",
+              "en": "after",
+              "emoji": "⏩",
+              "pos": "conj",
+              "exampleNl": "Nadat hij had gegeten, ging hij slapen.",
+              "exampleIt": "Dopo che ebbe mangiato, andò a dormire."
+            },
+            {
+              "nl": "zodra",
+              "it": "appena",
+              "en": "as soon as",
+              "emoji": "⚡",
+              "pos": "conj",
+              "exampleNl": "Ik bel je zodra ik thuis ben.",
+              "exampleIt": "Ti chiamo appena sono a casa."
+            },
+            {
+              "nl": "zowel",
+              "it": "sia (zowel...als)",
+              "en": "both",
+              "emoji": "➕",
+              "pos": "conj",
+              "exampleNl": "Zowel mijn broer als mijn zus komt vanavond.",
+              "exampleIt": "Sia mio fratello sia mia sorella vengono stasera."
+            },
+            {
+              "nl": "integendeel",
+              "it": "al contrario",
+              "en": "on the contrary",
+              "emoji": "🔄",
+              "pos": "adv",
+              "exampleNl": "Hij was niet boos; integendeel, hij moest erom lachen.",
+              "exampleIt": "Non era arrabbiato; al contrario, ne rideva."
+            },
+            {
+              "nl": "vervolgens",
+              "it": "poi / successivamente",
+              "en": "then",
+              "emoji": "➡️",
+              "pos": "adv",
+              "exampleNl": "Eerst aten we, vervolgens gingen we naar de film.",
+              "exampleIt": "Prima mangiammo, poi andammo al cinema."
+            },
+            {
+              "nl": "toch",
+              "it": "eppure / comunque",
+              "en": "yet/still",
+              "emoji": "🔁",
+              "pos": "adv",
+              "exampleNl": "Hij was moe, maar hij ging toch nog werken.",
+              "exampleIt": "Era stanco, eppure andò comunque a lavorare."
+            },
+            {
+              "nl": "echter",
+              "it": "tuttavia",
+              "en": "however",
+              "emoji": "↔️",
+              "pos": "adv",
+              "exampleNl": "Het plan is goed; er is echter weinig geld.",
+              "exampleIt": "Il piano è buono; tuttavia ci sono pochi soldi."
+            }
+          ]
         }
       ]
     },
@@ -906,6 +1596,156 @@
               "pos": "v",
               "exampleNl": "Heb je je koffer al ingepakt voor de reis?",
               "exampleIt": "Hai già fatto la valigia per il viaggio?"
+            }
+          ]
+        },
+        {
+          "id": "b1u6l2",
+          "title": "In viaggio (2)",
+          "items": [
+            {
+              "nl": "de excursie",
+              "it": "l'escursione / la gita",
+              "en": "excursion",
+              "emoji": "🚌",
+              "pos": "n",
+              "exampleNl": "De excursie naar de bergen duurt een hele dag.",
+              "exampleIt": "L'escursione in montagna dura tutto il giorno."
+            },
+            {
+              "nl": "de bezienswaardigheid",
+              "it": "l'attrazione turistica",
+              "en": "sight",
+              "emoji": "🏛️",
+              "pos": "n",
+              "exampleNl": "Het Rijksmuseum is een bekende bezienswaardigheid.",
+              "exampleIt": "Il Rijksmuseum è un'attrazione turistica famosa."
+            },
+            {
+              "nl": "de overnachting",
+              "it": "il pernottamento",
+              "en": "overnight stay",
+              "emoji": "🏨",
+              "pos": "n",
+              "exampleNl": "De prijs is inclusief het ontbijt en de overnachting.",
+              "exampleIt": "Il prezzo include la colazione e il pernottamento."
+            },
+            {
+              "nl": "de reisleider",
+              "it": "l'accompagnatore / la guida turistica",
+              "en": "tour leader",
+              "emoji": "🧑‍✈️",
+              "pos": "n",
+              "exampleNl": "De reisleider vertelde over de geschiedenis van de stad.",
+              "exampleIt": "L'accompagnatore raccontava la storia della città."
+            },
+            {
+              "nl": "de aankomsthal",
+              "it": "la sala arrivi",
+              "en": "arrivals hall",
+              "emoji": "🛬",
+              "pos": "n",
+              "exampleNl": "We wachten op je in de aankomsthal.",
+              "exampleIt": "Ti aspettiamo nella sala arrivi."
+            },
+            {
+              "nl": "de route",
+              "it": "il percorso / l'itinerario",
+              "en": "route",
+              "emoji": "🗺️",
+              "pos": "n",
+              "exampleNl": "We kozen de snelste route naar de kust.",
+              "exampleIt": "Abbiamo scelto il percorso più veloce verso la costa."
+            },
+            {
+              "nl": "het verblijf",
+              "it": "il soggiorno",
+              "en": "stay",
+              "emoji": "🏨",
+              "pos": "n",
+              "exampleNl": "Ons verblijf in het hotel was aangenaam.",
+              "exampleIt": "Il nostro soggiorno in hotel è stato piacevole."
+            },
+            {
+              "nl": "de vakantieganger",
+              "it": "il vacanziere",
+              "en": "holidaymaker",
+              "emoji": "🏖️",
+              "pos": "n",
+              "exampleNl": "In augustus is het strand vol vakantiegangers.",
+              "exampleIt": "Ad agosto la spiaggia è piena di vacanzieri."
+            },
+            {
+              "nl": "het souvenir",
+              "it": "il souvenir",
+              "en": "souvenir",
+              "emoji": "🎁",
+              "pos": "n",
+              "exampleNl": "Ze kocht een souvenir voor haar moeder.",
+              "exampleIt": "Ha comprato un souvenir per sua madre."
+            },
+            {
+              "nl": "de zonnebrand",
+              "it": "la crema solare",
+              "en": "sunscreen",
+              "emoji": "🧴",
+              "pos": "n",
+              "exampleNl": "Vergeet je zonnebrand niet mee te nemen.",
+              "exampleIt": "Non dimenticare di portare la crema solare."
+            },
+            {
+              "nl": "inchecken",
+              "it": "fare il check-in",
+              "en": "to check in",
+              "emoji": "🛂",
+              "pos": "v",
+              "exampleNl": "We moeten twee uur voor de vlucht inchecken.",
+              "exampleIt": "Dobbiamo fare il check-in due ore prima del volo."
+            },
+            {
+              "nl": "rondreizen",
+              "it": "girare / viaggiare in giro",
+              "en": "to travel around",
+              "emoji": "🌍",
+              "pos": "v",
+              "exampleNl": "We willen een maand door Azië rondreizen.",
+              "exampleIt": "Vogliamo girare l'Asia per un mese."
+            },
+            {
+              "nl": "bezichtigen",
+              "it": "visitare (un luogo)",
+              "en": "to visit/view",
+              "emoji": "🏛️",
+              "pos": "v",
+              "exampleNl": "We willen morgen het kasteel bezichtigen.",
+              "exampleIt": "Domani vogliamo visitare il castello."
+            },
+            {
+              "nl": "buitenlands",
+              "it": "straniero / estero",
+              "en": "foreign",
+              "emoji": "🌐",
+              "pos": "adj",
+              "exampleNl": "Hij spreekt drie buitenlandse talen.",
+              "exampleIt": "Parla tre lingue straniere."
+            },
+            {
+              "nl": "de luchtvaartmaatschappij",
+              "it": "la compagnia aerea",
+              "en": "airline",
+              "emoji": "✈️",
+              "pos": "n",
+              "exampleNl": "De luchtvaartmaatschappij annuleerde de vlucht.",
+              "exampleIt": "La compagnia aerea ha annullato il volo."
+            },
+            {
+              "nl": "de receptie",
+              "it": "la reception",
+              "en": "reception",
+              "emoji": "🛎️",
+              "pos": "n",
+              "exampleNl": "Vraag het bij de receptie van het hotel.",
+              "exampleIt": "Chiedi alla reception dell'hotel."
             }
           ]
         }
@@ -1188,6 +2028,156 @@
               "exampleIt": "Tossisce da una settimana e si sente male."
             }
           ]
+        },
+        {
+          "id": "b1u8l2",
+          "title": "Salute (2)",
+          "items": [
+            {
+              "nl": "de klacht",
+              "it": "il disturbo / il reclamo",
+              "en": "complaint",
+              "emoji": "🤕",
+              "pos": "n",
+              "exampleNl": "De arts vroeg naar mijn klachten.",
+              "exampleIt": "Il medico mi ha chiesto dei miei disturbi."
+            },
+            {
+              "nl": "de revalidatie",
+              "it": "la riabilitazione",
+              "en": "rehabilitation",
+              "emoji": "🦽",
+              "pos": "n",
+              "exampleNl": "Na het ongeluk volgde een lange revalidatie.",
+              "exampleIt": "Dopo l'incidente seguì una lunga riabilitazione."
+            },
+            {
+              "nl": "de zorgverzekering",
+              "it": "l'assicurazione sanitaria",
+              "en": "health insurance",
+              "emoji": "📄",
+              "pos": "n",
+              "exampleNl": "Iedereen moet een zorgverzekering hebben.",
+              "exampleIt": "Tutti devono avere un'assicurazione sanitaria."
+            },
+            {
+              "nl": "de pijnstiller",
+              "it": "l'antidolorifico",
+              "en": "painkiller",
+              "emoji": "💊",
+              "pos": "n",
+              "exampleNl": "Tegen de hoofdpijn nam ze een pijnstiller.",
+              "exampleIt": "Per il mal di testa ha preso un antidolorifico."
+            },
+            {
+              "nl": "het dieet",
+              "it": "la dieta",
+              "en": "diet",
+              "emoji": "🥗",
+              "pos": "n",
+              "exampleNl": "De dokter raadde hem een streng dieet aan.",
+              "exampleIt": "Il medico gli ha consigliato una dieta rigida."
+            },
+            {
+              "nl": "de voeding",
+              "it": "l'alimentazione",
+              "en": "nutrition",
+              "emoji": "🍎",
+              "pos": "n",
+              "exampleNl": "Gezonde voeding is goed voor je lichaam.",
+              "exampleIt": "Un'alimentazione sana fa bene al corpo."
+            },
+            {
+              "nl": "de conditie",
+              "it": "la forma fisica",
+              "en": "fitness",
+              "emoji": "🏃",
+              "pos": "n",
+              "exampleNl": "Door te sporten verbetert je conditie.",
+              "exampleIt": "Facendo sport migliora la tua forma fisica."
+            },
+            {
+              "nl": "de slaap",
+              "it": "il sonno",
+              "en": "sleep",
+              "emoji": "😴",
+              "pos": "n",
+              "exampleNl": "Een tekort aan slaap maakt je moe.",
+              "exampleIt": "La mancanza di sonno ti rende stanco."
+            },
+            {
+              "nl": "de kwaal",
+              "it": "il disturbo / l'acciacco",
+              "en": "ailment",
+              "emoji": "🤒",
+              "pos": "n",
+              "exampleNl": "Op zijn leeftijd heeft hij veel kleine kwalen.",
+              "exampleIt": "Alla sua età ha molti piccoli acciacchi."
+            },
+            {
+              "nl": "het herstel",
+              "it": "la guarigione / il recupero",
+              "en": "recovery",
+              "emoji": "💪",
+              "pos": "n",
+              "exampleNl": "Het herstel na de griep duurde een week.",
+              "exampleIt": "Il recupero dopo l'influenza è durato una settimana."
+            },
+            {
+              "nl": "aansterken",
+              "it": "rimettersi in forze",
+              "en": "to regain strength",
+              "emoji": "🍲",
+              "pos": "v",
+              "exampleNl": "Na de operatie moet hij rustig aansterken.",
+              "exampleIt": "Dopo l'operazione deve rimettersi in forze con calma."
+            },
+            {
+              "nl": "vermageren",
+              "it": "dimagrire",
+              "en": "to lose weight",
+              "emoji": "⚖️",
+              "pos": "v",
+              "exampleNl": "Hij wil voor de zomer wat vermageren.",
+              "exampleIt": "Vuole dimagrire un po' per l'estate."
+            },
+            {
+              "nl": "misselijk",
+              "it": "nauseato",
+              "en": "nauseous",
+              "emoji": "🤢",
+              "pos": "adj",
+              "exampleNl": "Na de boottocht voelde ik me misselijk.",
+              "exampleIt": "Dopo la gita in barca mi sentivo nauseato."
+            },
+            {
+              "nl": "chronisch",
+              "it": "cronico",
+              "en": "chronic",
+              "emoji": "🩹",
+              "pos": "adj",
+              "exampleNl": "Hij heeft een chronische ziekte aan zijn longen.",
+              "exampleIt": "Ha una malattia cronica ai polmoni."
+            },
+            {
+              "nl": "inademen",
+              "it": "inspirare",
+              "en": "to inhale",
+              "emoji": "🌬️",
+              "pos": "v",
+              "exampleNl": "Adem diep in en blaas dan langzaam uit.",
+              "exampleIt": "Inspira profondamente e poi espira lentamente."
+            },
+            {
+              "nl": "de spoedeisende hulp",
+              "it": "il pronto soccorso",
+              "en": "emergency room",
+              "emoji": "🚑",
+              "pos": "n",
+              "exampleNl": "Met die wond moet je naar de spoedeisende hulp.",
+              "exampleIt": "Con quella ferita devi andare al pronto soccorso."
+            }
+          ]
         }
       ]
     },
@@ -1328,6 +2318,156 @@
               "exampleIt": "Devo caricare il telefono prima di uscire."
             }
           ]
+        },
+        {
+          "id": "b1u9l2",
+          "title": "Tecnologia (2)",
+          "items": [
+            {
+              "nl": "het apparaat",
+              "it": "il dispositivo / l'apparecchio",
+              "en": "device",
+              "emoji": "📱",
+              "pos": "n",
+              "exampleNl": "Dit apparaat werkt op zonne-energie.",
+              "exampleIt": "Questo dispositivo funziona a energia solare."
+            },
+            {
+              "nl": "de software",
+              "it": "il software",
+              "en": "software",
+              "emoji": "💻",
+              "pos": "n",
+              "exampleNl": "De nieuwe software is veel sneller.",
+              "exampleIt": "Il nuovo software è molto più veloce."
+            },
+            {
+              "nl": "de update",
+              "it": "l'aggiornamento",
+              "en": "update",
+              "emoji": "🔄",
+              "pos": "n",
+              "exampleNl": "Na de update werkt de app weer goed.",
+              "exampleIt": "Dopo l'aggiornamento l'app funziona di nuovo bene."
+            },
+            {
+              "nl": "het geheugen",
+              "it": "la memoria",
+              "en": "memory",
+              "emoji": "🧠",
+              "pos": "n",
+              "exampleNl": "Mijn telefoon heeft te weinig geheugen.",
+              "exampleIt": "Il mio telefono ha troppo poca memoria."
+            },
+            {
+              "nl": "het beeldscherm",
+              "it": "lo schermo",
+              "en": "monitor",
+              "emoji": "🖥️",
+              "pos": "n",
+              "exampleNl": "Ik zit de hele dag voor een beeldscherm.",
+              "exampleIt": "Sto tutto il giorno davanti a uno schermo."
+            },
+            {
+              "nl": "de printer",
+              "it": "la stampante",
+              "en": "printer",
+              "emoji": "🖨️",
+              "pos": "n",
+              "exampleNl": "De printer is alweer kapot.",
+              "exampleIt": "La stampante si è rotta di nuovo."
+            },
+            {
+              "nl": "de gegevens",
+              "it": "i dati",
+              "en": "data",
+              "emoji": "🗂️",
+              "pos": "n",
+              "exampleNl": "Al je gegevens worden veilig opgeslagen.",
+              "exampleIt": "Tutti i tuoi dati vengono salvati in modo sicuro."
+            },
+            {
+              "nl": "de toepassing",
+              "it": "l'applicazione",
+              "en": "application",
+              "emoji": "⚙️",
+              "pos": "n",
+              "exampleNl": "Deze toepassing maakt het werk makkelijker.",
+              "exampleIt": "Questa applicazione rende il lavoro più facile."
+            },
+            {
+              "nl": "de zoekmachine",
+              "it": "il motore di ricerca",
+              "en": "search engine",
+              "emoji": "🔍",
+              "pos": "n",
+              "exampleNl": "Ik zoek het antwoord met een zoekmachine.",
+              "exampleIt": "Cerco la risposta con un motore di ricerca."
+            },
+            {
+              "nl": "de browser",
+              "it": "il browser",
+              "en": "browser",
+              "emoji": "🌐",
+              "pos": "n",
+              "exampleNl": "Open de website in een andere browser.",
+              "exampleIt": "Apri il sito in un altro browser."
+            },
+            {
+              "nl": "de instelling",
+              "it": "l'impostazione",
+              "en": "setting",
+              "emoji": "🔧",
+              "pos": "n",
+              "exampleNl": "Je kunt de instellingen zelf aanpassen.",
+              "exampleIt": "Puoi modificare tu stesso le impostazioni."
+            },
+            {
+              "nl": "de smartphone",
+              "it": "lo smartphone",
+              "en": "smartphone",
+              "emoji": "📲",
+              "pos": "n",
+              "exampleNl": "Bijna iedereen heeft tegenwoordig een smartphone.",
+              "exampleIt": "Quasi tutti oggi hanno uno smartphone."
+            },
+            {
+              "nl": "aansluiten",
+              "it": "collegare",
+              "en": "to connect",
+              "emoji": "🔌",
+              "pos": "v",
+              "exampleNl": "Je moet de kabel op de tv aansluiten.",
+              "exampleIt": "Devi collegare il cavo alla TV."
+            },
+            {
+              "nl": "installeren",
+              "it": "installare",
+              "en": "to install",
+              "emoji": "💿",
+              "pos": "v",
+              "exampleNl": "Ik moet het programma nog installeren.",
+              "exampleIt": "Devo ancora installare il programma."
+            },
+            {
+              "nl": "delen",
+              "it": "condividere",
+              "en": "to share",
+              "emoji": "🔗",
+              "pos": "v",
+              "exampleNl": "Hij wil de foto's met iedereen delen.",
+              "exampleIt": "Vuole condividere le foto con tutti."
+            },
+            {
+              "nl": "typen",
+              "it": "digitare",
+              "en": "to type",
+              "emoji": "⌨️",
+              "pos": "v",
+              "exampleNl": "Ze kan heel snel typen.",
+              "exampleIt": "Sa digitare molto velocemente."
+            }
+          ]
         }
       ]
     },
@@ -1466,6 +2606,1934 @@
               "pos": "v",
               "exampleNl": "Hij was bang dat hij voor het examen zou zakken.",
               "exampleIt": "Aveva paura di non superare l'esame."
+            }
+          ]
+        },
+        {
+          "id": "b1u10l2",
+          "title": "Studio (2)",
+          "items": [
+            {
+              "nl": "het onderwerp",
+              "it": "l'argomento / il tema",
+              "en": "topic",
+              "emoji": "📌",
+              "pos": "n",
+              "exampleNl": "Het onderwerp van het college was de economie.",
+              "exampleIt": "L'argomento della lezione era l'economia."
+            },
+            {
+              "nl": "het werkstuk",
+              "it": "la relazione / il saggio",
+              "en": "paper",
+              "emoji": "📄",
+              "pos": "n",
+              "exampleNl": "Voor geschiedenis maak ik een werkstuk over Rome.",
+              "exampleIt": "Per storia faccio un saggio su Roma."
+            },
+            {
+              "nl": "het verslag",
+              "it": "la relazione / il resoconto",
+              "en": "report",
+              "emoji": "📋",
+              "pos": "n",
+              "exampleNl": "Voor maandag moet ik een verslag inleveren.",
+              "exampleIt": "Per lunedì devo consegnare una relazione."
+            },
+            {
+              "nl": "de spreekbeurt",
+              "it": "la presentazione orale",
+              "en": "oral presentation",
+              "emoji": "🎤",
+              "pos": "n",
+              "exampleNl": "Morgen houd ik een spreekbeurt over Italië.",
+              "exampleIt": "Domani faccio una presentazione sull'Italia."
+            },
+            {
+              "nl": "de aandacht",
+              "it": "l'attenzione",
+              "en": "attention",
+              "emoji": "👀",
+              "pos": "n",
+              "exampleNl": "Tijdens de les moet je goed je aandacht erbij houden.",
+              "exampleIt": "Durante la lezione devi mantenere bene l'attenzione."
+            },
+            {
+              "nl": "het inzicht",
+              "it": "la comprensione / l'intuizione",
+              "en": "insight",
+              "emoji": "💡",
+              "pos": "n",
+              "exampleNl": "De cursus gaf me veel nieuw inzicht.",
+              "exampleIt": "Il corso mi ha dato molta nuova comprensione."
+            },
+            {
+              "nl": "de vaardigheid",
+              "it": "la competenza / l'abilità",
+              "en": "skill",
+              "emoji": "🛠️",
+              "pos": "n",
+              "exampleNl": "Talen leren is een nuttige vaardigheid.",
+              "exampleIt": "Imparare le lingue è un'abilità utile."
+            },
+            {
+              "nl": "de deadline",
+              "it": "la scadenza",
+              "en": "deadline",
+              "emoji": "⏰",
+              "pos": "n",
+              "exampleNl": "De deadline voor het verslag is vrijdag.",
+              "exampleIt": "La scadenza per la relazione è venerdì."
+            },
+            {
+              "nl": "de aantekening",
+              "it": "l'appunto",
+              "en": "note",
+              "emoji": "🗒️",
+              "pos": "n",
+              "exampleNl": "Ik maak tijdens het college veel aantekeningen.",
+              "exampleIt": "Durante la lezione prendo molti appunti."
+            },
+            {
+              "nl": "de motivatie",
+              "it": "la motivazione",
+              "en": "motivation",
+              "emoji": "🔥",
+              "pos": "n",
+              "exampleNl": "Zonder motivatie is studeren moeilijk.",
+              "exampleIt": "Senza motivazione studiare è difficile."
+            },
+            {
+              "nl": "instuderen",
+              "it": "studiare a fondo / memorizzare",
+              "en": "to study up",
+              "emoji": "📚",
+              "pos": "v",
+              "exampleNl": "Ik moet de hele stof voor morgen instuderen.",
+              "exampleIt": "Devo memorizzare tutto il materiale per domani."
+            },
+            {
+              "nl": "samenvatten",
+              "it": "riassumere",
+              "en": "to summarize",
+              "emoji": "✂️",
+              "pos": "v",
+              "exampleNl": "Kun je de tekst in drie zinnen samenvatten?",
+              "exampleIt": "Puoi riassumere il testo in tre frasi?"
+            },
+            {
+              "nl": "concentreren",
+              "it": "concentrarsi",
+              "en": "to concentrate",
+              "emoji": "🧠",
+              "pos": "v",
+              "exampleNl": "In een rustige kamer kan ik me beter concentreren.",
+              "exampleIt": "In una stanza tranquilla mi concentro meglio."
+            },
+            {
+              "nl": "inleveren",
+              "it": "consegnare",
+              "en": "to hand in",
+              "emoji": "📥",
+              "pos": "v",
+              "exampleNl": "Je moet je opdracht voor vrijdag inleveren.",
+              "exampleIt": "Devi consegnare il compito entro venerdì."
+            },
+            {
+              "nl": "ingewikkeld",
+              "it": "complicato",
+              "en": "complicated",
+              "emoji": "🌀",
+              "pos": "adj",
+              "exampleNl": "De opdracht was te ingewikkeld voor de studenten.",
+              "exampleIt": "Il compito era troppo complicato per gli studenti."
+            },
+            {
+              "nl": "verplicht",
+              "it": "obbligatorio",
+              "en": "compulsory",
+              "emoji": "📋",
+              "pos": "adj",
+              "exampleNl": "Dit vak is verplicht voor alle studenten.",
+              "exampleIt": "Questa materia è obbligatoria per tutti gli studenti."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1u11",
+      "title": "Lavoro e ufficio",
+      "icon": "🏢",
+      "tip": "Mondo del lavoro. Neutri: het cv, het overuur, het personeel. Subordinate con verbo in fondo: 'Ik hoop dat ik de baan krijg'.",
+      "lessons": [
+        {
+          "id": "b1u11l1",
+          "title": "Cercare e svolgere un lavoro",
+          "items": [
+            {
+              "nl": "de werkervaring",
+              "it": "l'esperienza lavorativa",
+              "en": "work experience",
+              "emoji": "💼",
+              "pos": "n",
+              "exampleNl": "Voor deze baan heb je veel werkervaring nodig.",
+              "exampleIt": "Per questo lavoro serve molta esperienza."
+            },
+            {
+              "nl": "het sollicitatiegesprek",
+              "it": "il colloquio di lavoro",
+              "en": "job interview",
+              "emoji": "🗣️",
+              "pos": "n",
+              "exampleNl": "Morgen heb ik een belangrijk sollicitatiegesprek.",
+              "exampleIt": "Domani ho un colloquio di lavoro importante."
+            },
+            {
+              "nl": "de proeftijd",
+              "it": "il periodo di prova",
+              "en": "probation",
+              "emoji": "📋",
+              "pos": "n",
+              "exampleNl": "De eerste twee maanden zijn een proeftijd.",
+              "exampleIt": "I primi due mesi sono un periodo di prova."
+            },
+            {
+              "nl": "het personeel",
+              "it": "il personale",
+              "en": "staff",
+              "emoji": "👥",
+              "pos": "n",
+              "exampleNl": "Het personeel staakt voor een hoger loon.",
+              "exampleIt": "Il personale sciopera per uno stipendio più alto."
+            },
+            {
+              "nl": "de carrière",
+              "it": "la carriera",
+              "en": "career",
+              "emoji": "📈",
+              "pos": "n",
+              "exampleNl": "Ze wil carrière maken in de techniek.",
+              "exampleIt": "Vuole fare carriera nel settore tecnico."
+            },
+            {
+              "nl": "het cv",
+              "it": "il curriculum",
+              "en": "résumé",
+              "emoji": "📄",
+              "pos": "n",
+              "exampleNl": "Vergeet niet je cv mee te sturen.",
+              "exampleIt": "Non dimenticare di allegare il curriculum."
+            },
+            {
+              "nl": "de werkdruk",
+              "it": "il carico di lavoro",
+              "en": "workload",
+              "emoji": "😓",
+              "pos": "n",
+              "exampleNl": "De hoge werkdruk maakt veel mensen ziek.",
+              "exampleIt": "L'alto carico di lavoro fa ammalare molte persone."
+            },
+            {
+              "nl": "de deeltijd",
+              "it": "il part-time",
+              "en": "part-time",
+              "emoji": "🕐",
+              "pos": "n",
+              "exampleNl": "Na haar zwangerschap werkt ze in deeltijd.",
+              "exampleIt": "Dopo la gravidanza lavora part-time."
+            },
+            {
+              "nl": "het overuur",
+              "it": "lo straordinario",
+              "en": "overtime",
+              "emoji": "⏱️",
+              "pos": "n",
+              "exampleNl": "Deze week maak ik veel overuren.",
+              "exampleIt": "Questa settimana faccio molti straordinari."
+            },
+            {
+              "nl": "de vergoeding",
+              "it": "il rimborso / l'indennità",
+              "en": "compensation",
+              "emoji": "💶",
+              "pos": "n",
+              "exampleNl": "Je krijgt een vergoeding voor je reiskosten.",
+              "exampleIt": "Ricevi un rimborso per le spese di viaggio."
+            },
+            {
+              "nl": "de leidinggevende",
+              "it": "il responsabile / il capo",
+              "en": "manager",
+              "emoji": "🧑‍💼",
+              "pos": "n",
+              "exampleNl": "De leidinggevende verdeelt het werk over het team.",
+              "exampleIt": "Il responsabile distribuisce il lavoro nel team."
+            },
+            {
+              "nl": "de taak",
+              "it": "il compito / la mansione",
+              "en": "task",
+              "emoji": "✅",
+              "pos": "n",
+              "exampleNl": "Het opruimen van de mail is mijn eerste taak.",
+              "exampleIt": "Sistemare la posta è il mio primo compito."
+            },
+            {
+              "nl": "de verantwoordelijkheid",
+              "it": "la responsabilità",
+              "en": "responsibility",
+              "emoji": "🎯",
+              "pos": "n",
+              "exampleNl": "Met deze functie krijg je veel verantwoordelijkheid.",
+              "exampleIt": "Con questo ruolo hai molta responsabilità."
+            },
+            {
+              "nl": "de samenwerking",
+              "it": "la collaborazione",
+              "en": "cooperation",
+              "emoji": "🤝",
+              "pos": "n",
+              "exampleNl": "De samenwerking tussen de teams verliep goed.",
+              "exampleIt": "La collaborazione tra i team è andata bene."
+            },
+            {
+              "nl": "ontslaan",
+              "it": "licenziare",
+              "en": "to fire",
+              "emoji": "📉",
+              "pos": "v",
+              "exampleNl": "Het bedrijf moest honderd mensen ontslaan.",
+              "exampleIt": "L'azienda ha dovuto licenziare cento persone."
+            },
+            {
+              "nl": "aannemen",
+              "it": "assumere",
+              "en": "to hire",
+              "emoji": "🤝",
+              "pos": "v",
+              "exampleNl": "Het bedrijf wil dit jaar meer mensen aannemen.",
+              "exampleIt": "L'azienda vuole assumere più persone quest'anno."
+            },
+            {
+              "nl": "leidinggeven",
+              "it": "dirigere / gestire",
+              "en": "to manage",
+              "emoji": "🧑‍💼",
+              "pos": "v",
+              "exampleNl": "Zij kan goed leidinggeven aan een groot team.",
+              "exampleIt": "Sa dirigere bene una grande squadra."
+            },
+            {
+              "nl": "ambitieus",
+              "it": "ambizioso",
+              "en": "ambitious",
+              "emoji": "🚀",
+              "pos": "adj",
+              "exampleNl": "Hij is een ambitieuze jonge manager.",
+              "exampleIt": "È un giovane manager ambizioso."
+            },
+            {
+              "nl": "de vakbond",
+              "it": "il sindacato",
+              "en": "trade union",
+              "emoji": "✊",
+              "pos": "n",
+              "exampleNl": "De vakbond komt op voor de rechten van werknemers.",
+              "exampleIt": "Il sindacato difende i diritti dei lavoratori."
+            },
+            {
+              "nl": "de werkplek",
+              "it": "il posto di lavoro",
+              "en": "workplace",
+              "emoji": "🪑",
+              "pos": "n",
+              "exampleNl": "Een opgeruimde werkplek helpt bij het werken.",
+              "exampleIt": "Un posto di lavoro ordinato aiuta a lavorare."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1u12",
+      "title": "Denaro e consumi",
+      "icon": "💳",
+      "tip": "Soldi e spese. Neutri: het bedrag, het kapitaal, het zakgeld, het inkomen. Verbi: sparen, uitgeven, afrekenen.",
+      "lessons": [
+        {
+          "id": "b1u12l1",
+          "title": "Conti e spese",
+          "items": [
+            {
+              "nl": "de spaarrekening",
+              "it": "il conto di risparmio",
+              "en": "savings account",
+              "emoji": "🏦",
+              "pos": "n",
+              "exampleNl": "Ik zet elke maand wat geld op mijn spaarrekening.",
+              "exampleIt": "Ogni mese metto un po' di soldi sul conto di risparmio."
+            },
+            {
+              "nl": "de bankrekening",
+              "it": "il conto bancario",
+              "en": "bank account",
+              "emoji": "🏦",
+              "pos": "n",
+              "exampleNl": "Mijn salaris komt op mijn bankrekening.",
+              "exampleIt": "Il mio stipendio arriva sul conto bancario."
+            },
+            {
+              "nl": "de hypotheek",
+              "it": "il mutuo",
+              "en": "mortgage",
+              "emoji": "🏠",
+              "pos": "n",
+              "exampleNl": "Voor het huis sloten ze een hypotheek af.",
+              "exampleIt": "Per la casa hanno acceso un mutuo."
+            },
+            {
+              "nl": "het bedrag",
+              "it": "l'importo / la somma",
+              "en": "amount",
+              "emoji": "🔢",
+              "pos": "n",
+              "exampleNl": "Het totale bedrag staat onderaan de rekening.",
+              "exampleIt": "L'importo totale è in fondo al conto."
+            },
+            {
+              "nl": "de premie",
+              "it": "il premio (assicurativo)",
+              "en": "premium",
+              "emoji": "📄",
+              "pos": "n",
+              "exampleNl": "De premie van de verzekering stijgt elk jaar.",
+              "exampleIt": "Il premio dell'assicurazione aumenta ogni anno."
+            },
+            {
+              "nl": "de toeslag",
+              "it": "il supplemento / l'indennità",
+              "en": "surcharge",
+              "emoji": "➕",
+              "pos": "n",
+              "exampleNl": "Voor het weekend betaal je een kleine toeslag.",
+              "exampleIt": "Per il weekend paghi un piccolo supplemento."
+            },
+            {
+              "nl": "het kapitaal",
+              "it": "il capitale",
+              "en": "capital",
+              "emoji": "💼",
+              "pos": "n",
+              "exampleNl": "Voor een eigen bedrijf heb je kapitaal nodig.",
+              "exampleIt": "Per un'azienda propria serve del capitale."
+            },
+            {
+              "nl": "de erfenis",
+              "it": "l'eredità",
+              "en": "inheritance",
+              "emoji": "📜",
+              "pos": "n",
+              "exampleNl": "Met de erfenis kocht hij een nieuw huis.",
+              "exampleIt": "Con l'eredità comprò una nuova casa."
+            },
+            {
+              "nl": "het zakgeld",
+              "it": "la paghetta",
+              "en": "pocket money",
+              "emoji": "🪙",
+              "pos": "n",
+              "exampleNl": "Het kind krijgt elke week wat zakgeld.",
+              "exampleIt": "Il bambino riceve ogni settimana un po' di paghetta."
+            },
+            {
+              "nl": "het inkomen",
+              "it": "il reddito",
+              "en": "income",
+              "emoji": "💰",
+              "pos": "n",
+              "exampleNl": "Hun inkomen is dit jaar gestegen.",
+              "exampleIt": "Il loro reddito è aumentato quest'anno."
+            },
+            {
+              "nl": "de waarde",
+              "it": "il valore",
+              "en": "value",
+              "emoji": "💎",
+              "pos": "n",
+              "exampleNl": "De waarde van het huis is gestegen.",
+              "exampleIt": "Il valore della casa è aumentato."
+            },
+            {
+              "nl": "de bonus",
+              "it": "il bonus / la gratifica",
+              "en": "bonus",
+              "emoji": "🎉",
+              "pos": "n",
+              "exampleNl": "Aan het eind van het jaar krijgt ze een bonus.",
+              "exampleIt": "A fine anno riceve una gratifica."
+            },
+            {
+              "nl": "sparen",
+              "it": "risparmiare / mettere da parte",
+              "en": "to save",
+              "emoji": "🐷",
+              "pos": "v",
+              "exampleNl": "Ik spaar voor een nieuwe auto.",
+              "exampleIt": "Sto risparmiando per una macchina nuova."
+            },
+            {
+              "nl": "uitgeven",
+              "it": "spendere",
+              "en": "to spend",
+              "emoji": "💳",
+              "pos": "v",
+              "exampleNl": "Hij wil niet te veel geld uitgeven aan kleren.",
+              "exampleIt": "Non vuole spendere troppi soldi in vestiti."
+            },
+            {
+              "nl": "afrekenen",
+              "it": "saldare / pagare alla cassa",
+              "en": "to settle up",
+              "emoji": "🧾",
+              "pos": "v",
+              "exampleNl": "Mag ik bij u afrekenen?",
+              "exampleIt": "Posso pagare da lei?"
+            },
+            {
+              "nl": "de aankoop",
+              "it": "l'acquisto",
+              "en": "purchase",
+              "emoji": "🛍️",
+              "pos": "n",
+              "exampleNl": "Deze aankoop was een goede investering.",
+              "exampleIt": "Questo acquisto è stato un buon investimento."
+            },
+            {
+              "nl": "prijzig",
+              "it": "costoso / caro",
+              "en": "pricey",
+              "emoji": "💸",
+              "pos": "adj",
+              "exampleNl": "Dat restaurant is lekker maar nogal prijzig.",
+              "exampleIt": "Quel ristorante è buono ma piuttosto caro."
+            },
+            {
+              "nl": "voordelig",
+              "it": "conveniente / vantaggioso",
+              "en": "good value",
+              "emoji": "✅",
+              "pos": "adj",
+              "exampleNl": "Dit abonnement is heel voordelig.",
+              "exampleIt": "Questo abbonamento è molto conveniente."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1u13",
+      "title": "Ambiente e sostenibilità",
+      "icon": "♻️",
+      "tip": "Ecologia. Quasi tutto 'de'. Spesso al passivo: 'De rivieren worden vervuild'. Verbi: verspillen, beschermen, hergebruiken.",
+      "lessons": [
+        {
+          "id": "b1u13l1",
+          "title": "Clima e natura",
+          "items": [
+            {
+              "nl": "de hittegolf",
+              "it": "l'ondata di calore",
+              "en": "heat wave",
+              "emoji": "🥵",
+              "pos": "n",
+              "exampleNl": "Tijdens de hittegolf bleef iedereen binnen.",
+              "exampleIt": "Durante l'ondata di calore tutti restarono in casa."
+            },
+            {
+              "nl": "de luchtkwaliteit",
+              "it": "la qualità dell'aria",
+              "en": "air quality",
+              "emoji": "🌫️",
+              "pos": "n",
+              "exampleNl": "In grote steden is de luchtkwaliteit vaak slecht.",
+              "exampleIt": "Nelle grandi città la qualità dell'aria è spesso scarsa."
+            },
+            {
+              "nl": "de zeespiegel",
+              "it": "il livello del mare",
+              "en": "sea level",
+              "emoji": "🌊",
+              "pos": "n",
+              "exampleNl": "Door het smelten van het ijs stijgt de zeespiegel.",
+              "exampleIt": "Con lo scioglimento dei ghiacci sale il livello del mare."
+            },
+            {
+              "nl": "de biodiversiteit",
+              "it": "la biodiversità",
+              "en": "biodiversity",
+              "emoji": "🦋",
+              "pos": "n",
+              "exampleNl": "De biodiversiteit neemt wereldwijd af.",
+              "exampleIt": "La biodiversità diminuisce in tutto il mondo."
+            },
+            {
+              "nl": "de afvalscheiding",
+              "it": "la raccolta differenziata",
+              "en": "waste separation",
+              "emoji": "♻️",
+              "pos": "n",
+              "exampleNl": "In Nederland is afvalscheiding heel gewoon.",
+              "exampleIt": "In Olanda la raccolta differenziata è normale."
+            },
+            {
+              "nl": "de fijnstof",
+              "it": "il particolato fine",
+              "en": "particulate matter",
+              "emoji": "💨",
+              "pos": "n",
+              "exampleNl": "Het verkeer veroorzaakt veel fijnstof.",
+              "exampleIt": "Il traffico produce molto particolato."
+            },
+            {
+              "nl": "de zonne-energie",
+              "it": "l'energia solare",
+              "en": "solar energy",
+              "emoji": "☀️",
+              "pos": "n",
+              "exampleNl": "Steeds meer huizen gebruiken zonne-energie.",
+              "exampleIt": "Sempre più case usano l'energia solare."
+            },
+            {
+              "nl": "de windenergie",
+              "it": "l'energia eolica",
+              "en": "wind energy",
+              "emoji": "🌬️",
+              "pos": "n",
+              "exampleNl": "Windenergie is schoner dan steenkool.",
+              "exampleIt": "L'energia eolica è più pulita del carbone."
+            },
+            {
+              "nl": "de energie",
+              "it": "l'energia",
+              "en": "energy",
+              "emoji": "⚡",
+              "pos": "n",
+              "exampleNl": "We moeten zuinig met energie omgaan.",
+              "exampleIt": "Dobbiamo usare l'energia con parsimonia."
+            },
+            {
+              "nl": "de maatregel",
+              "it": "la misura / il provvedimento",
+              "en": "measure",
+              "emoji": "📋",
+              "pos": "n",
+              "exampleNl": "De regering nam strenge maatregelen tegen vervuiling.",
+              "exampleIt": "Il governo prese misure severe contro l'inquinamento."
+            },
+            {
+              "nl": "de soort",
+              "it": "la specie",
+              "en": "species",
+              "emoji": "🐾",
+              "pos": "n",
+              "exampleNl": "Door de jacht verdwijnen veel soorten.",
+              "exampleIt": "A causa della caccia spariscono molte specie."
+            },
+            {
+              "nl": "de natuurbescherming",
+              "it": "la protezione della natura",
+              "en": "nature conservation",
+              "emoji": "🌳",
+              "pos": "n",
+              "exampleNl": "Natuurbescherming is voor de toekomst belangrijk.",
+              "exampleIt": "La protezione della natura è importante per il futuro."
+            },
+            {
+              "nl": "verspillen",
+              "it": "sprecare",
+              "en": "to waste",
+              "emoji": "🚱",
+              "pos": "v",
+              "exampleNl": "We mogen geen water verspillen.",
+              "exampleIt": "Non dobbiamo sprecare l'acqua."
+            },
+            {
+              "nl": "beschermen",
+              "it": "proteggere",
+              "en": "to protect",
+              "emoji": "🛡️",
+              "pos": "v",
+              "exampleNl": "We moeten de bossen beschermen.",
+              "exampleIt": "Dobbiamo proteggere le foreste."
+            },
+            {
+              "nl": "scheiden",
+              "it": "separare / differenziare",
+              "en": "to separate",
+              "emoji": "♻️",
+              "pos": "v",
+              "exampleNl": "Thuis scheiden wij het afval netjes.",
+              "exampleIt": "A casa differenziamo bene i rifiuti."
+            },
+            {
+              "nl": "hergebruiken",
+              "it": "riutilizzare",
+              "en": "to reuse",
+              "emoji": "🔄",
+              "pos": "v",
+              "exampleNl": "Veel materialen kun je hergebruiken.",
+              "exampleIt": "Molti materiali si possono riutilizzare."
+            },
+            {
+              "nl": "milieuvriendelijk",
+              "it": "ecologico / ecocompatibile",
+              "en": "eco-friendly",
+              "emoji": "🌱",
+              "pos": "adj",
+              "exampleNl": "Ze kiezen voor milieuvriendelijke producten.",
+              "exampleIt": "Scelgono prodotti ecocompatibili."
+            },
+            {
+              "nl": "ecologisch",
+              "it": "ecologico",
+              "en": "ecological",
+              "emoji": "🍃",
+              "pos": "adj",
+              "exampleNl": "Een ecologische tuin trekt veel insecten aan.",
+              "exampleIt": "Un giardino ecologico attira molti insetti."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1u14",
+      "title": "Relazioni sociali",
+      "icon": "👥",
+      "tip": "Rapporti tra persone. Neutri: het respect, het conflict, het contact. Verbo separabile: afspreken, ruziemaken.",
+      "lessons": [
+        {
+          "id": "b1u14l1",
+          "title": "Amici e rapporti",
+          "items": [
+            {
+              "nl": "de band",
+              "it": "il legame",
+              "en": "bond",
+              "emoji": "🔗",
+              "pos": "n",
+              "exampleNl": "De band tussen de twee zussen is heel sterk.",
+              "exampleIt": "Il legame tra le due sorelle è molto forte."
+            },
+            {
+              "nl": "de vriendschap",
+              "it": "l'amicizia",
+              "en": "friendship",
+              "emoji": "🤝",
+              "pos": "n",
+              "exampleNl": "Hun vriendschap duurt al twintig jaar.",
+              "exampleIt": "La loro amicizia dura da vent'anni."
+            },
+            {
+              "nl": "het respect",
+              "it": "il rispetto",
+              "en": "respect",
+              "emoji": "🙇",
+              "pos": "n",
+              "exampleNl": "In een goede relatie is er wederzijds respect.",
+              "exampleIt": "In una buona relazione c'è rispetto reciproco."
+            },
+            {
+              "nl": "het conflict",
+              "it": "il conflitto",
+              "en": "conflict",
+              "emoji": "💢",
+              "pos": "n",
+              "exampleNl": "Na het conflict spraken ze een week niet.",
+              "exampleIt": "Dopo il conflitto non si parlarono per una settimana."
+            },
+            {
+              "nl": "de genegenheid",
+              "it": "l'affetto",
+              "en": "affection",
+              "emoji": "🥰",
+              "pos": "n",
+              "exampleNl": "Ze toonde haar genegenheid met een knuffel.",
+              "exampleIt": "Mostrò il suo affetto con un abbraccio."
+            },
+            {
+              "nl": "de kameraad",
+              "it": "il compagno",
+              "en": "comrade",
+              "emoji": "🧑‍🤝‍🧑",
+              "pos": "n",
+              "exampleNl": "Hij was tijdens de reis een goede kameraad.",
+              "exampleIt": "Durante il viaggio è stato un buon compagno."
+            },
+            {
+              "nl": "de bekende",
+              "it": "il conoscente",
+              "en": "acquaintance",
+              "emoji": "👥",
+              "pos": "n",
+              "exampleNl": "Op het feest zag ik veel bekenden.",
+              "exampleIt": "Alla festa ho visto molti conoscenti."
+            },
+            {
+              "nl": "het contact",
+              "it": "il contatto",
+              "en": "contact",
+              "emoji": "📇",
+              "pos": "n",
+              "exampleNl": "We houden nog steeds contact met elkaar.",
+              "exampleIt": "Manteniamo ancora i contatti tra noi."
+            },
+            {
+              "nl": "de verstandhouding",
+              "it": "l'intesa / i rapporti",
+              "en": "rapport",
+              "emoji": "🤲",
+              "pos": "n",
+              "exampleNl": "De verstandhouding tussen de buren is goed.",
+              "exampleIt": "L'intesa tra i vicini è buona."
+            },
+            {
+              "nl": "de partner",
+              "it": "il/la partner",
+              "en": "partner",
+              "emoji": "💑",
+              "pos": "n",
+              "exampleNl": "Zij stelde haar nieuwe partner aan ons voor.",
+              "exampleIt": "Ci ha presentato il suo nuovo partner."
+            },
+            {
+              "nl": "waarderen",
+              "it": "apprezzare",
+              "en": "to appreciate",
+              "emoji": "🌟",
+              "pos": "v",
+              "exampleNl": "Ik waardeer het echt dat je me hebt geholpen.",
+              "exampleIt": "Apprezzo davvero che tu mi abbia aiutato."
+            },
+            {
+              "nl": "steunen",
+              "it": "sostenere / supportare",
+              "en": "to support",
+              "emoji": "🫂",
+              "pos": "v",
+              "exampleNl": "Mijn familie steunt me in alles.",
+              "exampleIt": "La mia famiglia mi sostiene in tutto."
+            },
+            {
+              "nl": "ruziemaken",
+              "it": "litigare",
+              "en": "to quarrel",
+              "emoji": "💢",
+              "pos": "v",
+              "exampleNl": "Ze konden de hele dag ruziemaken om niets.",
+              "exampleIt": "Riuscivano a litigare tutto il giorno per niente."
+            },
+            {
+              "nl": "vergeven",
+              "it": "perdonare",
+              "en": "to forgive",
+              "emoji": "🙏",
+              "pos": "v",
+              "exampleNl": "Hij kon haar de fout niet vergeven.",
+              "exampleIt": "Non riusciva a perdonarle l'errore."
+            },
+            {
+              "nl": "afspreken",
+              "it": "mettersi d'accordo / darsi appuntamento",
+              "en": "to arrange to meet",
+              "emoji": "📆",
+              "pos": "v",
+              "exampleNl": "Zullen we voor zaterdag iets afspreken?",
+              "exampleIt": "Ci diamo appuntamento per sabato?"
+            },
+            {
+              "nl": "loyaal",
+              "it": "leale",
+              "en": "loyal",
+              "emoji": "🤞",
+              "pos": "adj",
+              "exampleNl": "Hij is altijd loyaal aan zijn vrienden.",
+              "exampleIt": "È sempre leale con i suoi amici."
+            },
+            {
+              "nl": "gezellig",
+              "it": "piacevole / accogliente",
+              "en": "cosy/sociable",
+              "emoji": "🎉",
+              "pos": "adj",
+              "exampleNl": "Het was een gezellige avond met vrienden.",
+              "exampleIt": "È stata una piacevole serata con gli amici."
+            },
+            {
+              "nl": "trouw",
+              "it": "fedele",
+              "en": "loyal",
+              "emoji": "🐕",
+              "pos": "adj",
+              "exampleNl": "Een hond is een trouwe vriend.",
+              "exampleIt": "Un cane è un amico fedele."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1u15",
+      "title": "Sport e attività fisica",
+      "icon": "🏅",
+      "tip": "Sport e gare. Neutri: het toernooi, het stadion, het record. Spesso al passato: 'De wedstrijd eindigde...'",
+      "lessons": [
+        {
+          "id": "b1u15l1",
+          "title": "Gare e allenamento",
+          "items": [
+            {
+              "nl": "de finale",
+              "it": "la finale",
+              "en": "final",
+              "emoji": "🏆",
+              "pos": "n",
+              "exampleNl": "Ons team staat in de finale van het toernooi.",
+              "exampleIt": "La nostra squadra è in finale del torneo."
+            },
+            {
+              "nl": "het toernooi",
+              "it": "il torneo",
+              "en": "tournament",
+              "emoji": "🏅",
+              "pos": "n",
+              "exampleNl": "Ons team doet mee aan het toernooi.",
+              "exampleIt": "La nostra squadra partecipa al torneo."
+            },
+            {
+              "nl": "de overwinning",
+              "it": "la vittoria",
+              "en": "victory",
+              "emoji": "🥇",
+              "pos": "n",
+              "exampleNl": "De overwinning werd groots gevierd.",
+              "exampleIt": "La vittoria è stata festeggiata in grande."
+            },
+            {
+              "nl": "de nederlaag",
+              "it": "la sconfitta",
+              "en": "defeat",
+              "emoji": "😞",
+              "pos": "n",
+              "exampleNl": "Na de nederlaag was het team teleurgesteld.",
+              "exampleIt": "Dopo la sconfitta la squadra era delusa."
+            },
+            {
+              "nl": "de scheidsrechter",
+              "it": "l'arbitro",
+              "en": "referee",
+              "emoji": "🟨",
+              "pos": "n",
+              "exampleNl": "De scheidsrechter gaf een gele kaart.",
+              "exampleIt": "L'arbitro ha dato un cartellino giallo."
+            },
+            {
+              "nl": "de supporter",
+              "it": "il tifoso",
+              "en": "supporter",
+              "emoji": "📣",
+              "pos": "n",
+              "exampleNl": "De supporters juichten voor hun team.",
+              "exampleIt": "I tifosi esultavano per la loro squadra."
+            },
+            {
+              "nl": "het stadion",
+              "it": "lo stadio",
+              "en": "stadium",
+              "emoji": "🏟️",
+              "pos": "n",
+              "exampleNl": "Het stadion zat helemaal vol.",
+              "exampleIt": "Lo stadio era completamente pieno."
+            },
+            {
+              "nl": "de prestatie",
+              "it": "la prestazione",
+              "en": "performance",
+              "emoji": "💪",
+              "pos": "n",
+              "exampleNl": "Zijn prestatie was dit seizoen indrukwekkend.",
+              "exampleIt": "La sua prestazione è stata notevole questa stagione."
+            },
+            {
+              "nl": "het record",
+              "it": "il record",
+              "en": "record",
+              "emoji": "⏱️",
+              "pos": "n",
+              "exampleNl": "Ze verbeterde het wereldrecord.",
+              "exampleIt": "Ha migliorato il record mondiale."
+            },
+            {
+              "nl": "de teamgenoot",
+              "it": "il compagno di squadra",
+              "en": "teammate",
+              "emoji": "🤝",
+              "pos": "n",
+              "exampleNl": "Hij gaf de bal aan zijn teamgenoot.",
+              "exampleIt": "Ha passato la palla al compagno di squadra."
+            },
+            {
+              "nl": "de blessure",
+              "it": "l'infortunio",
+              "en": "injury",
+              "emoji": "🤕",
+              "pos": "n",
+              "exampleNl": "Door een blessure kon hij niet spelen.",
+              "exampleIt": "Per un infortunio non poté giocare."
+            },
+            {
+              "nl": "trainen",
+              "it": "allenarsi",
+              "en": "to train",
+              "emoji": "🏃",
+              "pos": "v",
+              "exampleNl": "Hij traint elke dag in de sportschool.",
+              "exampleIt": "Si allena ogni giorno in palestra."
+            },
+            {
+              "nl": "scoren",
+              "it": "segnare",
+              "en": "to score",
+              "emoji": "⚽",
+              "pos": "v",
+              "exampleNl": "In de laatste minuut wist hij te scoren.",
+              "exampleIt": "All'ultimo minuto è riuscito a segnare."
+            },
+            {
+              "nl": "verslaan",
+              "it": "sconfiggere / battere",
+              "en": "to defeat",
+              "emoji": "🥊",
+              "pos": "v",
+              "exampleNl": "Ons team wist de kampioen te verslaan.",
+              "exampleIt": "La nostra squadra è riuscita a battere il campione."
+            },
+            {
+              "nl": "de sportschool",
+              "it": "la palestra",
+              "en": "gym",
+              "emoji": "🏋️",
+              "pos": "n",
+              "exampleNl": "Ik ga drie keer per week naar de sportschool.",
+              "exampleIt": "Vado in palestra tre volte a settimana."
+            },
+            {
+              "nl": "sportief",
+              "it": "sportivo",
+              "en": "sporty/fair",
+              "emoji": "🤸",
+              "pos": "adj",
+              "exampleNl": "Hij is heel sportief en beweegt veel.",
+              "exampleIt": "È molto sportivo e si muove molto."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1u16",
+      "title": "Cucina e alimentazione",
+      "icon": "🍳",
+      "tip": "In cucina. Neutri: het ingrediënt, het kruid, het bijgerecht. Verbi: bereiden, snijden, braden, serveren.",
+      "lessons": [
+        {
+          "id": "b1u16l1",
+          "title": "Preparare i piatti",
+          "items": [
+            {
+              "nl": "het ingrediënt",
+              "it": "l'ingrediente",
+              "en": "ingredient",
+              "emoji": "🧂",
+              "pos": "n",
+              "exampleNl": "Het recept heeft maar vijf ingrediënten.",
+              "exampleIt": "La ricetta ha solo cinque ingredienti."
+            },
+            {
+              "nl": "de specerij",
+              "it": "la spezia",
+              "en": "spice",
+              "emoji": "🌶️",
+              "pos": "n",
+              "exampleNl": "In dit gerecht zitten veel oosterse specerijen.",
+              "exampleIt": "In questo piatto ci sono molte spezie orientali."
+            },
+            {
+              "nl": "de geur",
+              "it": "l'odore / il profumo",
+              "en": "smell",
+              "emoji": "👃",
+              "pos": "n",
+              "exampleNl": "De geur van vers brood vult de keuken.",
+              "exampleIt": "Il profumo del pane fresco riempie la cucina."
+            },
+            {
+              "nl": "de keukenmachine",
+              "it": "il robot da cucina",
+              "en": "food processor",
+              "emoji": "🍳",
+              "pos": "n",
+              "exampleNl": "Met de keukenmachine snijd je alles snel.",
+              "exampleIt": "Con il robot da cucina tagli tutto velocemente."
+            },
+            {
+              "nl": "het deksel",
+              "it": "il coperchio",
+              "en": "lid",
+              "emoji": "🥘",
+              "pos": "n",
+              "exampleNl": "Doe het deksel op de pan.",
+              "exampleIt": "Metti il coperchio sulla pentola."
+            },
+            {
+              "nl": "de olie",
+              "it": "l'olio",
+              "en": "oil",
+              "emoji": "🫒",
+              "pos": "n",
+              "exampleNl": "Ik bak de groenten in olijfolie.",
+              "exampleIt": "Friggo le verdure nell'olio d'oliva."
+            },
+            {
+              "nl": "het kruid",
+              "it": "la spezia / l'erba aromatica",
+              "en": "herb",
+              "emoji": "🌿",
+              "pos": "n",
+              "exampleNl": "Verse kruiden geven veel smaak.",
+              "exampleIt": "Le erbe fresche danno molto sapore."
+            },
+            {
+              "nl": "de hap",
+              "it": "il boccone",
+              "en": "bite",
+              "emoji": "😋",
+              "pos": "n",
+              "exampleNl": "Hij nam een grote hap van de appel.",
+              "exampleIt": "Diede un grosso morso alla mela."
+            },
+            {
+              "nl": "het bijgerecht",
+              "it": "il contorno",
+              "en": "side dish",
+              "emoji": "🥗",
+              "pos": "n",
+              "exampleNl": "Als bijgerecht serveren we rijst.",
+              "exampleIt": "Come contorno serviamo del riso."
+            },
+            {
+              "nl": "de bereiding",
+              "it": "la preparazione",
+              "en": "preparation",
+              "emoji": "👨‍🍳",
+              "pos": "n",
+              "exampleNl": "De bereiding van het gerecht duurt een uur.",
+              "exampleIt": "La preparazione del piatto dura un'ora."
+            },
+            {
+              "nl": "bereiden",
+              "it": "preparare",
+              "en": "to prepare",
+              "emoji": "🍳",
+              "pos": "v",
+              "exampleNl": "Mijn moeder kan heerlijke gerechten bereiden.",
+              "exampleIt": "Mia madre sa preparare piatti deliziosi."
+            },
+            {
+              "nl": "snijden",
+              "it": "tagliare",
+              "en": "to cut",
+              "emoji": "🔪",
+              "pos": "v",
+              "exampleNl": "Snijd de ui in kleine stukjes.",
+              "exampleIt": "Taglia la cipolla a pezzettini."
+            },
+            {
+              "nl": "braden",
+              "it": "arrostire",
+              "en": "to roast",
+              "emoji": "🍗",
+              "pos": "v",
+              "exampleNl": "We braden de kip in de oven.",
+              "exampleIt": "Arrostiamo il pollo nel forno."
+            },
+            {
+              "nl": "serveren",
+              "it": "servire",
+              "en": "to serve",
+              "emoji": "🍽️",
+              "pos": "v",
+              "exampleNl": "De ober komt het eten serveren.",
+              "exampleIt": "Il cameriere viene a servire il cibo."
+            },
+            {
+              "nl": "kruiden",
+              "it": "condire / insaporire",
+              "en": "to season",
+              "emoji": "🧂",
+              "pos": "v",
+              "exampleNl": "Vergeet niet de soep goed te kruiden.",
+              "exampleIt": "Non dimenticare di insaporire bene la zuppa."
+            },
+            {
+              "nl": "roeren",
+              "it": "mescolare",
+              "en": "to stir",
+              "emoji": "🥄",
+              "pos": "v",
+              "exampleNl": "Blijf roeren zodat het niet aanbrandt.",
+              "exampleIt": "Continua a mescolare così non si attacca."
+            },
+            {
+              "nl": "heerlijk",
+              "it": "delizioso",
+              "en": "delicious",
+              "emoji": "😋",
+              "pos": "adj",
+              "exampleNl": "Het diner was echt heerlijk.",
+              "exampleIt": "La cena era davvero deliziosa."
+            },
+            {
+              "nl": "rauw",
+              "it": "crudo",
+              "en": "raw",
+              "emoji": "🥩",
+              "pos": "adj",
+              "exampleNl": "Sommige mensen eten graag rauwe vis.",
+              "exampleIt": "Ad alcuni piace mangiare il pesce crudo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1u17",
+      "title": "Casa, città e servizi",
+      "icon": "🏙️",
+      "tip": "In città. Neutri: het centrum, het lawaai, het openbaar vervoer. Separabili: oversteken, parkeren.",
+      "lessons": [
+        {
+          "id": "b1u17l1",
+          "title": "Vita urbana",
+          "items": [
+            {
+              "nl": "de gemeente",
+              "it": "il comune",
+              "en": "municipality",
+              "emoji": "🏛️",
+              "pos": "n",
+              "exampleNl": "De gemeente bouwt een nieuw zwembad.",
+              "exampleIt": "Il comune costruisce una nuova piscina."
+            },
+            {
+              "nl": "de inwoner",
+              "it": "l'abitante",
+              "en": "inhabitant",
+              "emoji": "👥",
+              "pos": "n",
+              "exampleNl": "De stad heeft een miljoen inwoners.",
+              "exampleIt": "La città ha un milione di abitanti."
+            },
+            {
+              "nl": "de rotonde",
+              "it": "la rotatoria",
+              "en": "roundabout",
+              "emoji": "🔄",
+              "pos": "n",
+              "exampleNl": "Bij de rotonde moet je rechts aanhouden.",
+              "exampleIt": "Alla rotatoria devi tenere la destra."
+            },
+            {
+              "nl": "de file",
+              "it": "l'ingorgo / la coda",
+              "en": "traffic jam",
+              "emoji": "🚗",
+              "pos": "n",
+              "exampleNl": "Door de file kwam ik te laat.",
+              "exampleIt": "A causa della coda sono arrivato tardi."
+            },
+            {
+              "nl": "het openbaar vervoer",
+              "it": "il trasporto pubblico",
+              "en": "public transport",
+              "emoji": "🚌",
+              "pos": "n",
+              "exampleNl": "Met openbaar vervoer ben je er sneller.",
+              "exampleIt": "Con i mezzi pubblici arrivi prima."
+            },
+            {
+              "nl": "de voetganger",
+              "it": "il pedone",
+              "en": "pedestrian",
+              "emoji": "🚶",
+              "pos": "n",
+              "exampleNl": "De voetganger steekt over bij het zebrapad.",
+              "exampleIt": "Il pedone attraversa sulle strisce."
+            },
+            {
+              "nl": "de buitenwijk",
+              "it": "il sobborgo / la periferia",
+              "en": "suburb",
+              "emoji": "🏘️",
+              "pos": "n",
+              "exampleNl": "Zij wonen in een rustige buitenwijk.",
+              "exampleIt": "Abitano in una tranquilla periferia."
+            },
+            {
+              "nl": "de voorziening",
+              "it": "il servizio / la struttura",
+              "en": "facility",
+              "emoji": "🏬",
+              "pos": "n",
+              "exampleNl": "De wijk heeft veel goede voorzieningen.",
+              "exampleIt": "Il quartiere ha molte buone strutture."
+            },
+            {
+              "nl": "de bewoner",
+              "it": "il residente",
+              "en": "resident",
+              "emoji": "🏠",
+              "pos": "n",
+              "exampleNl": "De bewoners klaagden over het lawaai.",
+              "exampleIt": "I residenti si lamentavano del rumore."
+            },
+            {
+              "nl": "het centrum",
+              "it": "il centro",
+              "en": "centre",
+              "emoji": "🏙️",
+              "pos": "n",
+              "exampleNl": "In het centrum zijn veel winkels.",
+              "exampleIt": "In centro ci sono molti negozi."
+            },
+            {
+              "nl": "de omgeving",
+              "it": "i dintorni / la zona",
+              "en": "surroundings",
+              "emoji": "🗺️",
+              "pos": "n",
+              "exampleNl": "De omgeving van het dorp is heel groen.",
+              "exampleIt": "I dintorni del paese sono molto verdi."
+            },
+            {
+              "nl": "de drukte",
+              "it": "la confusione / la folla",
+              "en": "crowdedness",
+              "emoji": "😵",
+              "pos": "n",
+              "exampleNl": "In het weekend is er veel drukte in de stad.",
+              "exampleIt": "Nel weekend c'è molta folla in città."
+            },
+            {
+              "nl": "het lawaai",
+              "it": "il rumore",
+              "en": "noise",
+              "emoji": "🔊",
+              "pos": "n",
+              "exampleNl": "Het lawaai van het verkeer houdt me wakker.",
+              "exampleIt": "Il rumore del traffico mi tiene sveglio."
+            },
+            {
+              "nl": "de veiligheid",
+              "it": "la sicurezza",
+              "en": "safety",
+              "emoji": "🛡️",
+              "pos": "n",
+              "exampleNl": "De veiligheid in de buurt is verbeterd.",
+              "exampleIt": "La sicurezza nel quartiere è migliorata."
+            },
+            {
+              "nl": "oversteken",
+              "it": "attraversare",
+              "en": "to cross",
+              "emoji": "🚸",
+              "pos": "v",
+              "exampleNl": "Kijk goed uit voordat je gaat oversteken.",
+              "exampleIt": "Guarda bene prima di attraversare."
+            },
+            {
+              "nl": "parkeren",
+              "it": "parcheggiare",
+              "en": "to park",
+              "emoji": "🅿️",
+              "pos": "v",
+              "exampleNl": "Hier mag je niet parkeren.",
+              "exampleIt": "Qui non puoi parcheggiare."
+            },
+            {
+              "nl": "druk",
+              "it": "trafficato / affollato",
+              "en": "busy",
+              "emoji": "🚦",
+              "pos": "adj",
+              "exampleNl": "De winkelstraat is op zaterdag heel druk.",
+              "exampleIt": "La via dei negozi il sabato è molto affollata."
+            },
+            {
+              "nl": "openbaar",
+              "it": "pubblico",
+              "en": "public",
+              "emoji": "🏛️",
+              "pos": "adj",
+              "exampleNl": "Dit is een openbaar gebouw.",
+              "exampleIt": "Questo è un edificio pubblico."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1u18",
+      "title": "Carattere e personalità",
+      "icon": "🧠",
+      "tip": "Tratti del carattere. Quasi tutti aggettivi; nomi: het karakter, de eigenschap, het gedrag.",
+      "lessons": [
+        {
+          "id": "b1u18l1",
+          "title": "Com'è una persona",
+          "items": [
+            {
+              "nl": "behulpzaam",
+              "it": "disponibile / servizievole",
+              "en": "helpful",
+              "emoji": "🤝",
+              "pos": "adj",
+              "exampleNl": "De nieuwe collega is heel behulpzaam.",
+              "exampleIt": "Il nuovo collega è molto disponibile."
+            },
+            {
+              "nl": "aardig",
+              "it": "simpatico / gentile",
+              "en": "kind",
+              "emoji": "🙂",
+              "pos": "adj",
+              "exampleNl": "Ze is altijd aardig tegen iedereen.",
+              "exampleIt": "È sempre gentile con tutti."
+            },
+            {
+              "nl": "introvert",
+              "it": "introverso",
+              "en": "introverted",
+              "emoji": "🤫",
+              "pos": "adj",
+              "exampleNl": "Hij is introvert en praat niet veel.",
+              "exampleIt": "È introverso e parla poco."
+            },
+            {
+              "nl": "zelfverzekerd",
+              "it": "sicuro di sé",
+              "en": "confident",
+              "emoji": "😎",
+              "pos": "adj",
+              "exampleNl": "Voor het publiek bleef ze zelfverzekerd.",
+              "exampleIt": "Davanti al pubblico è rimasta sicura di sé."
+            },
+            {
+              "nl": "optimistisch",
+              "it": "ottimista",
+              "en": "optimistic",
+              "emoji": "😃",
+              "pos": "adj",
+              "exampleNl": "Ondanks alles blijft hij optimistisch.",
+              "exampleIt": "Nonostante tutto resta ottimista."
+            },
+            {
+              "nl": "ijverig",
+              "it": "diligente / operoso",
+              "en": "diligent",
+              "emoji": "🐝",
+              "pos": "adj",
+              "exampleNl": "Ze is een ijverige en serieuze student.",
+              "exampleIt": "È una studentessa diligente e seria."
+            },
+            {
+              "nl": "gevoelig",
+              "it": "sensibile",
+              "en": "sensitive",
+              "emoji": "🥹",
+              "pos": "adj",
+              "exampleNl": "Hij is een gevoelige jongen die snel huilt.",
+              "exampleIt": "È un ragazzo sensibile che piange facilmente."
+            },
+            {
+              "nl": "spontaan",
+              "it": "spontaneo",
+              "en": "spontaneous",
+              "emoji": "✨",
+              "pos": "adj",
+              "exampleNl": "Ze is spontaan en maakt snel vrienden.",
+              "exampleIt": "È spontanea e fa amicizia in fretta."
+            },
+            {
+              "nl": "koppig",
+              "it": "testardo / ostinato",
+              "en": "stubborn",
+              "emoji": "🐐",
+              "pos": "adj",
+              "exampleNl": "Hij is te koppig om zijn fout toe te geven.",
+              "exampleIt": "È troppo testardo per ammettere il suo errore."
+            },
+            {
+              "nl": "serieus",
+              "it": "serio",
+              "en": "serious",
+              "emoji": "🤓",
+              "pos": "adj",
+              "exampleNl": "Hij neemt zijn werk heel serieus.",
+              "exampleIt": "Prende il suo lavoro molto sul serio."
+            },
+            {
+              "nl": "brutaal",
+              "it": "sfacciato / sfrontato",
+              "en": "cheeky",
+              "emoji": "😜",
+              "pos": "adj",
+              "exampleNl": "Dat kind is soms erg brutaal.",
+              "exampleIt": "Quel bambino a volte è molto sfacciato."
+            },
+            {
+              "nl": "grappig",
+              "it": "divertente / spiritoso",
+              "en": "funny",
+              "emoji": "😄",
+              "pos": "adj",
+              "exampleNl": "Mijn oom is een grappige man.",
+              "exampleIt": "Mio zio è un uomo spiritoso."
+            },
+            {
+              "nl": "egoïstisch",
+              "it": "egoista",
+              "en": "selfish",
+              "emoji": "🙄",
+              "pos": "adj",
+              "exampleNl": "Het is egoïstisch om alleen aan jezelf te denken.",
+              "exampleIt": "È egoista pensare solo a sé stessi."
+            },
+            {
+              "nl": "bescheiden",
+              "it": "modesto",
+              "en": "modest",
+              "emoji": "🙇",
+              "pos": "adj",
+              "exampleNl": "Ondanks zijn succes bleef hij bescheiden.",
+              "exampleIt": "Nonostante il successo è rimasto modesto."
+            },
+            {
+              "nl": "streng",
+              "it": "severo",
+              "en": "strict",
+              "emoji": "📏",
+              "pos": "adj",
+              "exampleNl": "Onze leraar is heel streng.",
+              "exampleIt": "Il nostro insegnante è molto severo."
+            },
+            {
+              "nl": "het karakter",
+              "it": "il carattere",
+              "en": "character",
+              "emoji": "🧬",
+              "pos": "n",
+              "exampleNl": "Ze heeft een sterk karakter.",
+              "exampleIt": "Ha un carattere forte."
+            },
+            {
+              "nl": "de eigenschap",
+              "it": "la caratteristica / la qualità",
+              "en": "quality",
+              "emoji": "🔖",
+              "pos": "n",
+              "exampleNl": "Geduld is een belangrijke eigenschap.",
+              "exampleIt": "La pazienza è una qualità importante."
+            },
+            {
+              "nl": "het gedrag",
+              "it": "il comportamento",
+              "en": "behaviour",
+              "emoji": "🚸",
+              "pos": "n",
+              "exampleNl": "Zijn gedrag op school is verbeterd.",
+              "exampleIt": "Il suo comportamento a scuola è migliorato."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1u19",
+      "title": "Aggettivi e descrizioni",
+      "icon": "🔠",
+      "tip": "Aggettivi utili di livello B1, spesso con 'het is ... dat ...' (verbo in fondo nella subordinata).",
+      "lessons": [
+        {
+          "id": "b1u19l1",
+          "title": "Descrivere meglio",
+          "items": [
+            {
+              "nl": "belangrijk",
+              "it": "importante",
+              "en": "important",
+              "emoji": "⭐",
+              "pos": "adj",
+              "exampleNl": "Het is belangrijk dat je op tijd komt.",
+              "exampleIt": "È importante che tu arrivi in tempo."
+            },
+            {
+              "nl": "mogelijk",
+              "it": "possibile",
+              "en": "possible",
+              "emoji": "🔓",
+              "pos": "adj",
+              "exampleNl": "Het is mogelijk om de reis te veranderen.",
+              "exampleIt": "È possibile cambiare il viaggio."
+            },
+            {
+              "nl": "nodig",
+              "it": "necessario",
+              "en": "necessary",
+              "emoji": "❗",
+              "pos": "adj",
+              "exampleNl": "Het is nodig dat we nu een keuze maken.",
+              "exampleIt": "È necessario che facciamo una scelta ora."
+            },
+            {
+              "nl": "duidelijk",
+              "it": "chiaro",
+              "en": "clear",
+              "emoji": "🔍",
+              "pos": "adj",
+              "exampleNl": "Zijn uitleg was heel duidelijk.",
+              "exampleIt": "La sua spiegazione era molto chiara."
+            },
+            {
+              "nl": "normaal",
+              "it": "normale",
+              "en": "normal",
+              "emoji": "📊",
+              "pos": "adj",
+              "exampleNl": "Het is heel normaal om fouten te maken.",
+              "exampleIt": "È del tutto normale fare errori."
+            },
+            {
+              "nl": "bijzonder",
+              "it": "particolare / speciale",
+              "en": "special",
+              "emoji": "✨",
+              "pos": "adj",
+              "exampleNl": "Het was een heel bijzondere dag.",
+              "exampleIt": "È stata una giornata molto speciale."
+            },
+            {
+              "nl": "gemiddeld",
+              "it": "medio",
+              "en": "average",
+              "emoji": "📈",
+              "pos": "adj",
+              "exampleNl": "De gemiddelde temperatuur is gestegen.",
+              "exampleIt": "La temperatura media è aumentata."
+            },
+            {
+              "nl": "nuttig",
+              "it": "utile",
+              "en": "useful",
+              "emoji": "🛠️",
+              "pos": "adj",
+              "exampleNl": "Dit is een nuttig advies.",
+              "exampleIt": "Questo è un consiglio utile."
+            },
+            {
+              "nl": "nutteloos",
+              "it": "inutile",
+              "en": "useless",
+              "emoji": "🚮",
+              "pos": "adj",
+              "exampleNl": "Klagen is meestal nutteloos.",
+              "exampleIt": "Lamentarsi di solito è inutile."
+            },
+            {
+              "nl": "voldoende",
+              "it": "sufficiente",
+              "en": "sufficient",
+              "emoji": "✅",
+              "pos": "adj",
+              "exampleNl": "We hebben voldoende tijd voor de test.",
+              "exampleIt": "Abbiamo tempo sufficiente per il test."
+            },
+            {
+              "nl": "dringend",
+              "it": "urgente",
+              "en": "urgent",
+              "emoji": "🚨",
+              "pos": "adj",
+              "exampleNl": "Dit is een dringend bericht.",
+              "exampleIt": "Questo è un messaggio urgente."
+            },
+            {
+              "nl": "opvallend",
+              "it": "evidente / vistoso",
+              "en": "striking",
+              "emoji": "👀",
+              "pos": "adj",
+              "exampleNl": "Ze droeg een opvallende rode jas.",
+              "exampleIt": "Indossava una vistosa giacca rossa."
+            },
+            {
+              "nl": "onverwacht",
+              "it": "inaspettato",
+              "en": "unexpected",
+              "emoji": "😮",
+              "pos": "adj",
+              "exampleNl": "Zijn bezoek kwam heel onverwacht.",
+              "exampleIt": "La sua visita è arrivata del tutto inaspettata."
+            },
+            {
+              "nl": "voorzichtig",
+              "it": "prudente / attento",
+              "en": "careful",
+              "emoji": "⚠️",
+              "pos": "adj",
+              "exampleNl": "Wees voorzichtig op de gladde weg.",
+              "exampleIt": "Sii prudente sulla strada scivolosa."
+            },
+            {
+              "nl": "verschillend",
+              "it": "diverso / differente",
+              "en": "different",
+              "emoji": "🔀",
+              "pos": "adj",
+              "exampleNl": "De twee broers zijn heel verschillend.",
+              "exampleIt": "I due fratelli sono molto diversi."
+            },
+            {
+              "nl": "vergelijkbaar",
+              "it": "paragonabile / simile",
+              "en": "comparable",
+              "emoji": "⚖️",
+              "pos": "adj",
+              "exampleNl": "De prijzen zijn ongeveer vergelijkbaar.",
+              "exampleIt": "I prezzi sono più o meno simili."
+            },
+            {
+              "nl": "ongelooflijk",
+              "it": "incredibile",
+              "en": "incredible",
+              "emoji": "🤯",
+              "pos": "adj",
+              "exampleNl": "Het uitzicht was ongelooflijk mooi.",
+              "exampleIt": "Il panorama era incredibilmente bello."
+            },
+            {
+              "nl": "zeldzaam",
+              "it": "raro",
+              "en": "rare",
+              "emoji": "💎",
+              "pos": "adj",
+              "exampleNl": "Dit is een zeldzame vogelsoort.",
+              "exampleIt": "Questa è una specie di uccello rara."
+            },
+            {
+              "nl": "geschikt",
+              "it": "adatto",
+              "en": "suitable",
+              "emoji": "🎯",
+              "pos": "adj",
+              "exampleNl": "Deze film is niet geschikt voor kinderen.",
+              "exampleIt": "Questo film non è adatto ai bambini."
+            },
+            {
+              "nl": "gewoon",
+              "it": "comune / normale",
+              "en": "ordinary",
+              "emoji": "🔵",
+              "pos": "adj",
+              "exampleNl": "Zoiets is hier heel gewoon.",
+              "exampleIt": "Una cosa simile qui è del tutto normale."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1u20",
+      "title": "Verbi separabili e frasali",
+      "icon": "↔️",
+      "tip": "Verbi separabili: all'infinito uniti, ma coniugati il prefisso va in fondo: 'Ik zet de tv aan'.",
+      "lessons": [
+        {
+          "id": "b1u20l1",
+          "title": "Verbi con prefisso",
+          "items": [
+            {
+              "nl": "opschieten",
+              "it": "sbrigarsi",
+              "en": "to hurry",
+              "emoji": "🏃",
+              "pos": "v",
+              "exampleNl": "Schiet op, anders missen we de bus.",
+              "exampleIt": "Sbrigati, altrimenti perdiamo l'autobus."
+            },
+            {
+              "nl": "uitgaan",
+              "it": "uscire (la sera)",
+              "en": "to go out",
+              "emoji": "🌃",
+              "pos": "v",
+              "exampleNl": "In het weekend gaan we graag uit.",
+              "exampleIt": "Nel weekend ci piace uscire."
+            },
+            {
+              "nl": "meenemen",
+              "it": "portare con sé",
+              "en": "to bring along",
+              "emoji": "🎒",
+              "pos": "v",
+              "exampleNl": "Vergeet niet je paraplu mee te nemen.",
+              "exampleIt": "Non dimenticare di portare l'ombrello."
+            },
+            {
+              "nl": "afmaken",
+              "it": "finire / completare",
+              "en": "to finish",
+              "emoji": "🏁",
+              "pos": "v",
+              "exampleNl": "Ik wil dit project vandaag nog afmaken.",
+              "exampleIt": "Voglio finire questo progetto ancora oggi."
+            },
+            {
+              "nl": "opbellen",
+              "it": "telefonare",
+              "en": "to call up",
+              "emoji": "📞",
+              "pos": "v",
+              "exampleNl": "Ik zal je morgen even opbellen.",
+              "exampleIt": "Ti telefono domani."
+            },
+            {
+              "nl": "langskomen",
+              "it": "passare (a trovare)",
+              "en": "to drop by",
+              "emoji": "👋",
+              "pos": "v",
+              "exampleNl": "Wil je vanavond nog even langskomen?",
+              "exampleIt": "Vuoi passare a trovarmi stasera?"
+            },
+            {
+              "nl": "doorgaan",
+              "it": "continuare / proseguire",
+              "en": "to continue",
+              "emoji": "➡️",
+              "pos": "v",
+              "exampleNl": "We gaan door tot het werk klaar is.",
+              "exampleIt": "Continuiamo finché il lavoro non è finito."
+            },
+            {
+              "nl": "opletten",
+              "it": "fare attenzione",
+              "en": "to pay attention",
+              "emoji": "👀",
+              "pos": "v",
+              "exampleNl": "Je moet beter opletten in de les.",
+              "exampleIt": "Devi fare più attenzione in classe."
+            },
+            {
+              "nl": "aanzetten",
+              "it": "accendere",
+              "en": "to turn on",
+              "emoji": "🔛",
+              "pos": "v",
+              "exampleNl": "Wil je de televisie even aanzetten?",
+              "exampleIt": "Puoi accendere la televisione?"
+            },
+            {
+              "nl": "uitzetten",
+              "it": "spegnere",
+              "en": "to turn off",
+              "emoji": "🔴",
+              "pos": "v",
+              "exampleNl": "Vergeet niet het licht uit te zetten.",
+              "exampleIt": "Non dimenticare di spegnere la luce."
+            },
+            {
+              "nl": "invullen",
+              "it": "compilare",
+              "en": "to fill in",
+              "emoji": "✍️",
+              "pos": "v",
+              "exampleNl": "Je moet dit formulier helemaal invullen.",
+              "exampleIt": "Devi compilare tutto questo modulo."
+            },
+            {
+              "nl": "opzoeken",
+              "it": "cercare / consultare",
+              "en": "to look up",
+              "emoji": "🔎",
+              "pos": "v",
+              "exampleNl": "Ik zal het woord in het woordenboek opzoeken.",
+              "exampleIt": "Cercherò la parola nel dizionario."
+            },
+            {
+              "nl": "nakijken",
+              "it": "controllare / correggere",
+              "en": "to check",
+              "emoji": "✅",
+              "pos": "v",
+              "exampleNl": "De docent moet de toetsen nog nakijken.",
+              "exampleIt": "Il docente deve ancora correggere i test."
+            },
+            {
+              "nl": "voorbereiden",
+              "it": "preparare",
+              "en": "to prepare",
+              "emoji": "📋",
+              "pos": "v",
+              "exampleNl": "We moeten ons goed op het examen voorbereiden.",
+              "exampleIt": "Dobbiamo prepararci bene per l'esame."
+            },
+            {
+              "nl": "terugbellen",
+              "it": "richiamare",
+              "en": "to call back",
+              "emoji": "📲",
+              "pos": "v",
+              "exampleNl": "Ik kan nu niet praten, ik bel je zo terug.",
+              "exampleIt": "Non posso parlare ora, ti richiamo subito."
+            },
+            {
+              "nl": "wegbrengen",
+              "it": "portare via / accompagnare",
+              "en": "to take away",
+              "emoji": "🚗",
+              "pos": "v",
+              "exampleNl": "Ik moet de kinderen naar school wegbrengen.",
+              "exampleIt": "Devo accompagnare i bambini a scuola."
+            },
+            {
+              "nl": "ophalen",
+              "it": "andare a prendere / ritirare",
+              "en": "to pick up",
+              "emoji": "🚗",
+              "pos": "v",
+              "exampleNl": "Ik ga de kinderen van school ophalen.",
+              "exampleIt": "Vado a prendere i bambini a scuola."
+            },
+            {
+              "nl": "uitstellen",
+              "it": "rinviare / rimandare",
+              "en": "to postpone",
+              "emoji": "⏳",
+              "pos": "v",
+              "exampleNl": "We moeten de vergadering helaas uitstellen.",
+              "exampleIt": "Purtroppo dobbiamo rinviare la riunione."
             }
           ]
         }
