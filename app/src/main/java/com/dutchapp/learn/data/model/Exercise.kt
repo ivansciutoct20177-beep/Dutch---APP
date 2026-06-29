@@ -1,7 +1,7 @@
 package com.dutchapp.learn.data.model
 
 /** Types of step the learner sees inside a lesson. */
-enum class ExerciseKind { TIP, INTRO, PICTURE, TRANSLATE, LISTEN, TYPE, MATCH, SPEAK }
+enum class ExerciseKind { TIP, INTRO, PICTURE, TRANSLATE, LISTEN, TYPE, MATCH, SPEAK, WORDORDER, CLOZE }
 
 /** A single step inside a lesson session. */
 sealed class Exercise {
@@ -62,6 +62,41 @@ data class SpeakExercise(
     val target: VocabItem
 ) : Exercise() {
     override val kind = ExerciseKind.SPEAK
+}
+
+/**
+ * Reorder the scrambled words to rebuild a correct Dutch sentence — trains
+ * syntax (V2, verb-final in subordinate clauses). The bank holds exactly the
+ * words of the reference sentence, shuffled, so there are no decoy words.
+ *
+ * `tokens` is the reference order; `scrambled` is what the bank shows.
+ * `alternates` are extra accepted orders (e.g. time-adverb topicalisation:
+ * "Gisteren was ik thuis" == "Ik was gisteren thuis").
+ */
+data class WordOrderExercise(
+    val item: VocabItem,
+    val tokens: List<String>,
+    val scrambled: List<String>,
+    val alternates: List<List<String>> = emptyList(),
+    val translation: String = ""
+) : Exercise() {
+    override val kind = ExerciseKind.WORDORDER
+}
+
+/**
+ * Fill the blank in an example sentence with the missing target word
+ * (multiple choice). `before`/`after` surround the blank; `answer` is the
+ * exact surface form removed; `options` = answer + distractors (shuffled).
+ */
+data class ClozeExercise(
+    val item: VocabItem,
+    val before: String,
+    val after: String,
+    val answer: String,
+    val options: List<String>,
+    val translation: String = ""
+) : Exercise() {
+    override val kind = ExerciseKind.CLOZE
 }
 
 /** Whether the step counts toward the lesson score. */

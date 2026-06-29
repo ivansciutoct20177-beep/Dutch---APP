@@ -15,11 +15,13 @@ import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.FlowRow
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.heightIn
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.rememberScrollState
@@ -56,6 +58,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.dutchapp.learn.audio.LocalTts
+import com.dutchapp.learn.data.model.ClozeExercise
 import com.dutchapp.learn.data.model.Exercise
 import com.dutchapp.learn.data.model.IntroExercise
 import com.dutchapp.learn.data.model.ListenExercise
@@ -66,6 +69,7 @@ import com.dutchapp.learn.data.model.TipExercise
 import com.dutchapp.learn.data.model.TranslateExercise
 import com.dutchapp.learn.data.model.TypeExercise
 import com.dutchapp.learn.data.model.VocabItem
+import com.dutchapp.learn.data.model.WordOrderExercise
 import com.dutchapp.learn.data.model.graded
 import com.dutchapp.learn.util.TextSimilarity
 import com.dutchapp.learn.ui.components.ChunkyButton
@@ -114,6 +118,8 @@ fun LessonScreen(
     var revealed by remember { mutableStateOf(false) }
     var lastCorrect by remember { mutableStateOf(false) }
     var matchDone by remember { mutableStateOf(false) }
+    // Word-order: scrambled-bank indices the learner has placed, in order.
+    val placed = remember { mutableStateListOf<Int>() }
 
     val current = session[index]
 
@@ -123,6 +129,7 @@ fun LessonScreen(
         revealed = false
         lastCorrect = false
         matchDone = false
+        placed.clear()
     }
 
     // Autoplay Dutch audio when a step appears
@@ -142,6 +149,12 @@ fun LessonScreen(
         is ListenExercise -> selected >= 0 && ex.options[selected].nl == ex.target.nl
         is TypeExercise -> normalize(typed) == normalize(ex.target.nl)
         is MatchExercise -> matchDone
+        is WordOrderExercise -> {
+            val candidate = normalize(placed.map { ex.scrambled[it] }.joinToString(" "))
+            val accepted = (listOf(ex.tokens) + ex.alternates).map { normalize(it.joinToString(" ")) }
+            placed.size == ex.scrambled.size && candidate in accepted
+        }
+        is ClozeExercise -> selected >= 0 && normalize(ex.options[selected]) == normalize(ex.answer)
         is IntroExercise -> true
         is TipExercise -> true
         is SpeakExercise -> true
@@ -150,6 +163,7 @@ fun LessonScreen(
     fun answerProvided(): Boolean = when (current) {
         is TypeExercise -> typed.isNotBlank()
         is MatchExercise -> matchDone
+        is WordOrderExercise -> placed.size == current.scrambled.size
         is IntroExercise, is TipExercise, is SpeakExercise -> true
         else -> selected >= 0
     }
@@ -182,6 +196,8 @@ fun LessonScreen(
                     when (val ex = current) {
                         is TranslateExercise -> tts?.speak(ex.target.nl)
                         is TypeExercise -> tts?.speak(ex.target.nl)
+                        is WordOrderExercise -> tts?.speak(ex.item.exampleNl)
+                        is ClozeExercise -> tts?.speak(ex.item.exampleNl)
                         else -> {}
                     }
                 } else {
@@ -263,6 +279,17 @@ fun LessonScreen(
                     onComplete = { matchDone = true; correct += 0 },
                     onSpeak = { tts?.speak(it) }
                 )
+                is WordOrderExercise -> WordOrderContent(
+                    ex = ex, placed = placed, revealed = revealed,
+                    onPlace = { if (!revealed) placed.add(it) },
+                    onUnplace = { pos -> if (!revealed) placed.removeAt(pos) },
+                    onSpeak = { tts?.speak(ex.item.exampleNl) }
+                )
+                is ClozeExercise -> ClozeContent(
+                    ex = ex, selected = selected, revealed = revealed,
+                    onSelect = { if (!revealed) selected = it },
+                    onSpeak = { tts?.speak(ex.item.exampleNl) }
+                )
             }
             Spacer(Modifier.height(16.dp))
         }
@@ -284,6 +311,8 @@ private fun correctAnswerText(ex: Exercise): String = when (ex) {
     is PictureExercise -> "${ex.target.emoji}  ${ex.target.nl}"
     is ListenExercise -> ex.target.nl
     is TypeExercise -> ex.target.nl
+    is WordOrderExercise -> ex.tokens.joinToString(" ")
+    is ClozeExercise -> ex.answer
     else -> ""
 }
 
@@ -782,6 +811,124 @@ private fun MatchContent(
     } else if (wrongFlash != null) {
         Spacer(Modifier.height(12.dp))
         Text("Riprova quella coppia", color = Orange, fontWeight = FontWeight.SemiBold)
+    }
+}
+
+@Composable
+private fun WordChip(text: String, onClick: () -> Unit) {
+    Box(
+        Modifier
+            .clip(RoundedCornerShape(12.dp))
+            .background(MaterialTheme.colorScheme.surfaceVariant.copy(alpha = 0.7f))
+            .clickable { onClick() }
+            .padding(horizontal = 14.dp, vertical = 10.dp)
+    ) {
+        Text(text, fontWeight = FontWeight.SemiBold, color = MaterialTheme.colorScheme.onBackground)
+    }
+}
+
+@Composable
+private fun WordOrderContent(
+    ex: WordOrderExercise,
+    placed: List<Int>,
+    revealed: Boolean,
+    onPlace: (Int) -> Unit,
+    onUnplace: (Int) -> Unit,
+    onSpeak: () -> Unit
+) {
+    Prompt("Rimetti le parole in ordine")
+    if (ex.translation.isNotBlank()) {
+        Text(
+            ex.translation,
+            fontSize = 16.sp,
+            color = MaterialTheme.colorScheme.onBackground.copy(alpha = 0.7f),
+            modifier = Modifier.padding(bottom = 12.dp)
+        )
+    }
+    // Answer line — tap a word to send it back to the bank.
+    Box(
+        Modifier
+            .fillMaxWidth()
+            .heightIn(min = 56.dp)
+            .clip(RoundedCornerShape(12.dp))
+            .background(MaterialTheme.colorScheme.surface)
+            .padding(8.dp)
+    ) {
+        FlowRow(horizontalArrangement = Arrangement.spacedBy(8.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
+            placed.forEachIndexed { pos, scrIdx ->
+                WordChip(ex.scrambled[scrIdx]) { onUnplace(pos) }
+            }
+        }
+    }
+    Spacer(Modifier.height(20.dp))
+    // Bank — tap a word to place it.
+    FlowRow(
+        Modifier.fillMaxWidth(),
+        horizontalArrangement = Arrangement.spacedBy(8.dp),
+        verticalArrangement = Arrangement.spacedBy(8.dp)
+    ) {
+        ex.scrambled.indices.filter { it !in placed }.forEach { i ->
+            WordChip(ex.scrambled[i]) { onPlace(i) }
+        }
+    }
+    if (revealed) {
+        Spacer(Modifier.height(16.dp))
+        Row(verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(10.dp)) {
+            Text(
+                ex.tokens.joinToString(" "),
+                fontWeight = FontWeight.Bold,
+                color = MaterialTheme.colorScheme.onBackground,
+                modifier = Modifier.weight(1f)
+            )
+            SpeakerButton(size = 40, onClick = onSpeak)
+        }
+    }
+}
+
+@Composable
+private fun ClozeContent(
+    ex: ClozeExercise,
+    selected: Int,
+    revealed: Boolean,
+    onSelect: (Int) -> Unit,
+    onSpeak: () -> Unit
+) {
+    Prompt("Completa la frase")
+    val sentence = if (revealed)
+        listOf(ex.before, ex.answer, ex.after).filter { it.isNotBlank() }.joinToString(" ")
+    else
+        listOf(ex.before, "_____", ex.after).filter { it.isNotBlank() }.joinToString(" ")
+    Row(verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(10.dp)) {
+        Text(
+            sentence,
+            fontSize = 22.sp,
+            fontWeight = FontWeight.SemiBold,
+            color = MaterialTheme.colorScheme.onBackground,
+            modifier = Modifier.weight(1f)
+        )
+        if (revealed) SpeakerButton(size = 40, onClick = onSpeak)
+    }
+    if (ex.translation.isNotBlank()) {
+        Spacer(Modifier.height(8.dp))
+        Text(ex.translation, fontSize = 15.sp, color = MaterialTheme.colorScheme.onBackground.copy(alpha = 0.6f))
+    }
+    Spacer(Modifier.height(20.dp))
+    ex.options.forEachIndexed { idx, opt ->
+        OptionCard(
+            modifier = Modifier.fillMaxWidth().padding(vertical = 6.dp),
+            selected = selected == idx,
+            correct = optionCorrectness(revealed, normalize(opt) == normalize(ex.answer), selected == idx),
+            onClick = { onSelect(idx) }
+        ) {
+            Text(
+                opt,
+                fontSize = 18.sp,
+                fontWeight = FontWeight.SemiBold,
+                color = MaterialTheme.colorScheme.onBackground,
+                modifier = Modifier.fillMaxWidth(),
+                textAlign = TextAlign.Center
+            )
+        }
     }
 }
 
