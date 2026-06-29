@@ -200,6 +200,192 @@
               "exampleIt": "Il rispetto reciproco è il fondamento di ogni collaborazione duratura."
             }
           ]
+        },
+        {
+          "id": "c1u1l3",
+          "title": "Idee astratte (2)",
+          "items": [
+            {
+              "nl": "de abstractie",
+              "it": "l'astrazione",
+              "en": "abstraction",
+              "emoji": "🌀",
+              "pos": "n",
+              "exampleNl": "Wiskunde werkt met een hoge mate van abstractie.",
+              "exampleIt": "La matematica lavora con un alto grado di astrazione."
+            },
+            {
+              "nl": "het concept",
+              "it": "il concetto",
+              "en": "concept",
+              "emoji": "💡",
+              "pos": "n",
+              "exampleNl": "Het concept van vrijheid is door de eeuwen heen veranderd.",
+              "exampleIt": "Il concetto di libertà è cambiato nei secoli."
+            },
+            {
+              "nl": "de essentie",
+              "it": "l'essenza",
+              "en": "essence",
+              "emoji": "🎯",
+              "pos": "n",
+              "exampleNl": "De essentie van zijn betoog ontging de meeste toehoorders.",
+              "exampleIt": "L'essenza del suo discorso sfuggì alla maggior parte degli ascoltatori."
+            },
+            {
+              "nl": "de paradox",
+              "it": "il paradosso",
+              "en": "paradox",
+              "emoji": "♾️",
+              "pos": "n",
+              "exampleNl": "Het is een paradox dat meer keuze ons vaak ongelukkiger maakt.",
+              "exampleIt": "È un paradosso che più scelta spesso ci renda più infelici."
+            },
+            {
+              "nl": "de subjectiviteit",
+              "it": "la soggettività",
+              "en": "subjectivity",
+              "emoji": "👁️",
+              "pos": "n",
+              "exampleNl": "De subjectiviteit van de beoordeling werd sterk bekritiseerd.",
+              "exampleIt": "La soggettività della valutazione fu molto criticata."
+            },
+            {
+              "nl": "de willekeur",
+              "it": "l'arbitrarietà",
+              "en": "arbitrariness",
+              "emoji": "🎲",
+              "pos": "n",
+              "exampleNl": "De willekeur waarmee straffen worden opgelegd, baart zorgen.",
+              "exampleIt": "L'arbitrarietà con cui vengono inflitte le pene preoccupa."
+            },
+            {
+              "nl": "de tendens",
+              "it": "la tendenza",
+              "en": "tendency",
+              "emoji": "📈",
+              "pos": "n",
+              "exampleNl": "Er is een duidelijke tendens naar individualisering.",
+              "exampleIt": "C'è una chiara tendenza verso l'individualizzazione."
+            },
+            {
+              "nl": "het fenomeen",
+              "it": "il fenomeno",
+              "en": "phenomenon",
+              "emoji": "🔭",
+              "pos": "n",
+              "exampleNl": "Dit fenomeen laat zich niet eenvoudig verklaren.",
+              "exampleIt": "Questo fenomeno non si spiega facilmente."
+            },
+            {
+              "nl": "de dimensie",
+              "it": "la dimensione",
+              "en": "dimension",
+              "emoji": "📐",
+              "pos": "n",
+              "exampleNl": "Het probleem heeft ook een ethische dimensie.",
+              "exampleIt": "Il problema ha anche una dimensione etica."
+            },
+            {
+              "nl": "het perspectief",
+              "it": "la prospettiva",
+              "en": "perspective",
+              "emoji": "🔍",
+              "pos": "n",
+              "exampleNl": "Vanuit een ander perspectief oogt de zaak heel anders.",
+              "exampleIt": "Da un'altra prospettiva la questione appare ben diversa."
+            },
+            {
+              "nl": "de strekking",
+              "it": "il senso / la portata",
+              "en": "gist",
+              "emoji": "🧭",
+              "pos": "n",
+              "exampleNl": "De strekking van zijn woorden was onmiskenbaar.",
+              "exampleIt": "Il senso delle sue parole era inequivocabile."
+            },
+            {
+              "nl": "de kern",
+              "it": "il nocciolo / il cuore",
+              "en": "core",
+              "emoji": "🎯",
+              "pos": "n",
+              "exampleNl": "Laten we tot de kern van de zaak komen.",
+              "exampleIt": "Veniamo al nocciolo della questione."
+            },
+            {
+              "nl": "het wezen",
+              "it": "l'essenza / la natura",
+              "en": "essence",
+              "emoji": "🌱",
+              "pos": "n",
+              "exampleNl": "In wezen verschillen de twee theorieën nauwelijks.",
+              "exampleIt": "In sostanza le due teorie si differenziano a malapena."
+            },
+            {
+              "nl": "de maatstaf",
+              "it": "il criterio / il metro",
+              "en": "criterion",
+              "emoji": "📏",
+              "pos": "n",
+              "exampleNl": "Winst mag niet de enige maatstaf voor succes zijn.",
+              "exampleIt": "Il profitto non può essere l'unico metro del successo."
+            },
+            {
+              "nl": "de invalshoek",
+              "it": "l'angolazione / l'approccio",
+              "en": "angle",
+              "emoji": "🔺",
+              "pos": "n",
+              "exampleNl": "Hij benadert het vraagstuk vanuit een verrassende invalshoek.",
+              "exampleIt": "Affronta la questione da un'angolazione sorprendente."
+            },
+            {
+              "nl": "de ambivalentie",
+              "it": "l'ambivalenza",
+              "en": "ambivalence",
+              "emoji": "↔️",
+              "pos": "n",
+              "exampleNl": "Zijn ambivalentie tegenover het plan was voelbaar.",
+              "exampleIt": "La sua ambivalenza verso il piano era palpabile."
+            },
+            {
+              "nl": "de complexiteit",
+              "it": "la complessità",
+              "en": "complexity",
+              "emoji": "🕸️",
+              "pos": "n",
+              "exampleNl": "De complexiteit van het systeem maakt hervorming lastig.",
+              "exampleIt": "La complessità del sistema rende difficile la riforma."
+            },
+            {
+              "nl": "de noodzaak",
+              "it": "la necessità",
+              "en": "necessity",
+              "emoji": "❗",
+              "pos": "n",
+              "exampleNl": "De noodzaak van verandering wordt breed erkend.",
+              "exampleIt": "La necessità di un cambiamento è ampiamente riconosciuta."
+            },
+            {
+              "nl": "het raakvlak",
+              "it": "il punto di contatto",
+              "en": "common ground",
+              "emoji": "🔗",
+              "pos": "n",
+              "exampleNl": "Er is een duidelijk raakvlak tussen beide disciplines.",
+              "exampleIt": "C'è un chiaro punto di contatto tra le due discipline."
+            },
+            {
+              "nl": "de wisselwerking",
+              "it": "l'interazione",
+              "en": "interplay",
+              "emoji": "🔄",
+              "pos": "n",
+              "exampleNl": "De wisselwerking tussen erfelijkheid en omgeving is complex.",
+              "exampleIt": "L'interazione tra ereditarietà e ambiente è complessa."
+            }
+          ]
         }
       ]
     },
@@ -518,6 +704,192 @@
               "exampleIt": "Il suo ragionamento suona convincente, ma contiene alcuni errori logici."
             }
           ]
+        },
+        {
+          "id": "c1u3l3",
+          "title": "Linguaggio accademico (2)",
+          "items": [
+            {
+              "nl": "de antithese",
+              "it": "l'antitesi",
+              "en": "antithesis",
+              "emoji": "⚖️",
+              "pos": "n",
+              "exampleNl": "Zijn betoog is opgebouwd uit these en antithese.",
+              "exampleIt": "Il suo discorso è costruito su tesi e antitesi."
+            },
+            {
+              "nl": "het paradigma",
+              "it": "il paradigma",
+              "en": "paradigm",
+              "emoji": "🔬",
+              "pos": "n",
+              "exampleNl": "De ontdekking leidde tot een nieuw wetenschappelijk paradigma.",
+              "exampleIt": "La scoperta portò a un nuovo paradigma scientifico."
+            },
+            {
+              "nl": "de methodologie",
+              "it": "la metodologia",
+              "en": "methodology",
+              "emoji": "🧪",
+              "pos": "n",
+              "exampleNl": "De methodologie van het onderzoek werd zorgvuldig beschreven.",
+              "exampleIt": "La metodologia della ricerca fu descritta con cura."
+            },
+            {
+              "nl": "de empirie",
+              "it": "l'empiria / i dati empirici",
+              "en": "empirical evidence",
+              "emoji": "📊",
+              "pos": "n",
+              "exampleNl": "Zijn beweringen worden door de empirie ondersteund.",
+              "exampleIt": "Le sue affermazioni sono sostenute dai dati empirici."
+            },
+            {
+              "nl": "het criterium",
+              "it": "il criterio",
+              "en": "criterion",
+              "emoji": "✅",
+              "pos": "n",
+              "exampleNl": "Aan welk criterium moet een goede bron voldoen?",
+              "exampleIt": "A quale criterio deve rispondere una buona fonte?"
+            },
+            {
+              "nl": "de validiteit",
+              "it": "la validità",
+              "en": "validity",
+              "emoji": "🎯",
+              "pos": "n",
+              "exampleNl": "De validiteit van de meting staat ter discussie.",
+              "exampleIt": "La validità della misurazione è oggetto di discussione."
+            },
+            {
+              "nl": "de aanname",
+              "it": "l'assunto",
+              "en": "assumption",
+              "emoji": "💭",
+              "pos": "n",
+              "exampleNl": "De hele redenering berust op één wankele aanname.",
+              "exampleIt": "Tutto il ragionamento poggia su un assunto fragile."
+            },
+            {
+              "nl": "de toetsing",
+              "it": "la verifica / il test",
+              "en": "testing",
+              "emoji": "🔎",
+              "pos": "n",
+              "exampleNl": "De toetsing van de hypothese vergde jaren van onderzoek.",
+              "exampleIt": "La verifica dell'ipotesi richiese anni di ricerca."
+            },
+            {
+              "nl": "de waarschijnlijkheid",
+              "it": "la probabilità",
+              "en": "probability",
+              "emoji": "🎲",
+              "pos": "n",
+              "exampleNl": "De waarschijnlijkheid van een fout is verwaarloosbaar klein.",
+              "exampleIt": "La probabilità di un errore è trascurabile."
+            },
+            {
+              "nl": "de afbakening",
+              "it": "la delimitazione",
+              "en": "delimitation",
+              "emoji": "📐",
+              "pos": "n",
+              "exampleNl": "Een heldere afbakening van het onderwerp is essentieel.",
+              "exampleIt": "Una chiara delimitazione del tema è essenziale."
+            },
+            {
+              "nl": "het vakgebied",
+              "it": "il campo / la disciplina",
+              "en": "field",
+              "emoji": "📚",
+              "pos": "n",
+              "exampleNl": "Binnen haar vakgebied geldt zij als een autoriteit.",
+              "exampleIt": "Nel suo campo è considerata un'autorità."
+            },
+            {
+              "nl": "de bevinding",
+              "it": "la scoperta / il risultato",
+              "en": "finding",
+              "emoji": "🔬",
+              "pos": "n",
+              "exampleNl": "De bevindingen werden in een vooraanstaand tijdschrift gepubliceerd.",
+              "exampleIt": "I risultati furono pubblicati in una rivista prestigiosa."
+            },
+            {
+              "nl": "de verhandeling",
+              "it": "il trattato / la dissertazione",
+              "en": "treatise",
+              "emoji": "📜",
+              "pos": "n",
+              "exampleNl": "Hij schreef een lijvige verhandeling over het onderwerp.",
+              "exampleIt": "Scrisse un voluminoso trattato sull'argomento."
+            },
+            {
+              "nl": "het vraagstuk",
+              "it": "la questione / il problema",
+              "en": "issue",
+              "emoji": "❓",
+              "pos": "n",
+              "exampleNl": "Het vraagstuk laat zich niet tot één oorzaak herleiden.",
+              "exampleIt": "La questione non si riduce a un'unica causa."
+            },
+            {
+              "nl": "de stellingname",
+              "it": "la presa di posizione",
+              "en": "stance",
+              "emoji": "✊",
+              "pos": "n",
+              "exampleNl": "Zijn duidelijke stellingname riep veel reacties op.",
+              "exampleIt": "La sua chiara presa di posizione suscitò molte reazioni."
+            },
+            {
+              "nl": "de weerlegging",
+              "it": "la confutazione",
+              "en": "refutation",
+              "emoji": "🛡️",
+              "pos": "n",
+              "exampleNl": "Een overtuigende weerlegging van het argument ontbrak.",
+              "exampleIt": "Mancava una confutazione convincente dell'argomento."
+            },
+            {
+              "nl": "de onderbouwing",
+              "it": "la fondatezza / l'argomentazione",
+              "en": "substantiation",
+              "emoji": "🧱",
+              "pos": "n",
+              "exampleNl": "De conclusie mist een degelijke onderbouwing.",
+              "exampleIt": "La conclusione manca di una solida argomentazione."
+            },
+            {
+              "nl": "de aanleiding",
+              "it": "la causa occasionale / il pretesto",
+              "en": "occasion",
+              "emoji": "⚡",
+              "pos": "n",
+              "exampleNl": "De directe aanleiding voor het conflict bleef onduidelijk.",
+              "exampleIt": "La causa diretta del conflitto rimase poco chiara."
+            },
+            {
+              "nl": "de causaliteit",
+              "it": "la causalità",
+              "en": "causality",
+              "emoji": "🔗",
+              "pos": "n",
+              "exampleNl": "De causaliteit tussen beide verschijnselen is statistisch aangetoond.",
+              "exampleIt": "La causalità tra i due fenomeni è dimostrata statisticamente."
+            },
+            {
+              "nl": "de drogreden",
+              "it": "il sofisma / l'argomento fallace",
+              "en": "fallacy",
+              "emoji": "🚫",
+              "pos": "n",
+              "exampleNl": "Zijn betoog zat vol drogredenen.",
+              "exampleIt": "Il suo discorso era pieno di argomenti fallaci."
+            }
+          ]
         }
       ]
     },
@@ -656,6 +1028,138 @@
               "pos": "n",
               "exampleNl": "De groeiende welvaart heeft de levensstandaard van miljoenen mensen verbeterd.",
               "exampleIt": "La crescente prosperità ha migliorato il tenore di vita di milioni di persone."
+            }
+          ]
+        },
+        {
+          "id": "c1u4l2",
+          "title": "Politica e società (2)",
+          "items": [
+            {
+              "nl": "de rechtvaardigheid",
+              "it": "la giustizia",
+              "en": "justice",
+              "emoji": "⚖️",
+              "pos": "n",
+              "exampleNl": "Er werd een beroep gedaan op het gevoel voor rechtvaardigheid.",
+              "exampleIt": "Si fece appello al senso di giustizia."
+            },
+            {
+              "nl": "de gelijkwaardigheid",
+              "it": "la pari dignità / l'equivalenza",
+              "en": "equality",
+              "emoji": "🟰",
+              "pos": "n",
+              "exampleNl": "De grondwet waarborgt de gelijkwaardigheid van alle burgers.",
+              "exampleIt": "La costituzione garantisce la pari dignità di tutti i cittadini."
+            },
+            {
+              "nl": "de polarisatie",
+              "it": "la polarizzazione",
+              "en": "polarization",
+              "emoji": "↔️",
+              "pos": "n",
+              "exampleNl": "De polarisatie in het debat neemt zorgwekkend toe.",
+              "exampleIt": "La polarizzazione nel dibattito aumenta in modo preoccupante."
+            },
+            {
+              "nl": "de inspraak",
+              "it": "la partecipazione (decisionale)",
+              "en": "participation",
+              "emoji": "🗣️",
+              "pos": "n",
+              "exampleNl": "Burgers eisen meer inspraak in het beleid.",
+              "exampleIt": "I cittadini chiedono più partecipazione nelle decisioni."
+            },
+            {
+              "nl": "het draagvlak",
+              "it": "il consenso / il sostegno",
+              "en": "support base",
+              "emoji": "🤝",
+              "pos": "n",
+              "exampleNl": "Zonder maatschappelijk draagvlak strandt elke hervorming.",
+              "exampleIt": "Senza un consenso sociale ogni riforma fallisce."
+            },
+            {
+              "nl": "de legitimiteit",
+              "it": "la legittimità",
+              "en": "legitimacy",
+              "emoji": "👑",
+              "pos": "n",
+              "exampleNl": "De legitimiteit van het bewind werd in twijfel getrokken.",
+              "exampleIt": "La legittimità del regime fu messa in dubbio."
+            },
+            {
+              "nl": "de rechtsorde",
+              "it": "l'ordine giuridico",
+              "en": "legal order",
+              "emoji": "📜",
+              "pos": "n",
+              "exampleNl": "Een aanslag op de rechtsorde wordt zwaar bestraft.",
+              "exampleIt": "Un attacco all'ordine giuridico è punito severamente."
+            },
+            {
+              "nl": "de machtsverhouding",
+              "it": "il rapporto di forze",
+              "en": "balance of power",
+              "emoji": "⚖️",
+              "pos": "n",
+              "exampleNl": "De machtsverhoudingen in de regio zijn verschoven.",
+              "exampleIt": "I rapporti di forza nella regione sono cambiati."
+            },
+            {
+              "nl": "de belangenbehartiging",
+              "it": "la tutela degli interessi",
+              "en": "advocacy",
+              "emoji": "🛡️",
+              "pos": "n",
+              "exampleNl": "De vakbond zorgt voor de belangenbehartiging van werknemers.",
+              "exampleIt": "Il sindacato si occupa della tutela degli interessi dei lavoratori."
+            },
+            {
+              "nl": "de rechtspraak",
+              "it": "la giurisdizione / la magistratura",
+              "en": "judiciary",
+              "emoji": "🏛️",
+              "pos": "n",
+              "exampleNl": "Een onafhankelijke rechtspraak is onmisbaar in een democratie.",
+              "exampleIt": "Una magistratura indipendente è indispensabile in democrazia."
+            },
+            {
+              "nl": "de gezagsdrager",
+              "it": "l'autorità (persona)",
+              "en": "authority figure",
+              "emoji": "👮",
+              "pos": "n",
+              "exampleNl": "Een gezagsdrager moet het vertrouwen van de burger verdienen.",
+              "exampleIt": "Chi detiene l'autorità deve meritare la fiducia del cittadino."
+            },
+            {
+              "nl": "de burgerrechten",
+              "it": "i diritti civili",
+              "en": "civil rights",
+              "emoji": "📜",
+              "pos": "n",
+              "exampleNl": "De beweging streed jarenlang voor gelijke burgerrechten.",
+              "exampleIt": "Il movimento lottò per anni per pari diritti civili."
+            },
+            {
+              "nl": "het staatsburgerschap",
+              "it": "la cittadinanza",
+              "en": "citizenship",
+              "emoji": "🛂",
+              "pos": "n",
+              "exampleNl": "Na tien jaar verkreeg zij het staatsburgerschap.",
+              "exampleIt": "Dopo dieci anni ottenne la cittadinanza."
+            },
+            {
+              "nl": "de stembusgang",
+              "it": "la consultazione elettorale",
+              "en": "election",
+              "emoji": "🗳️",
+              "pos": "n",
+              "exampleNl": "De stembusgang verliep ordelijk en vreedzaam.",
+              "exampleIt": "La consultazione elettorale si svolse in modo ordinato e pacifico."
             }
           ]
         }
@@ -909,6 +1413,1014 @@
               "pos": "adv",
               "exampleNl": "We hoeven ons geen zorgen te maken; we hebben immers genoeg tijd.",
               "exampleIt": "Non dobbiamo preoccuparci; del resto abbiamo abbastanza tempo."
+            }
+          ]
+        },
+        {
+          "id": "c1u6l2",
+          "title": "Connettivi formali (2)",
+          "items": [
+            {
+              "nl": "voorts",
+              "it": "inoltre",
+              "en": "furthermore",
+              "emoji": "➕",
+              "pos": "conj",
+              "exampleNl": "Voorts dient te worden opgemerkt dat de kosten zijn gestegen.",
+              "exampleIt": "Inoltre va osservato che i costi sono aumentati."
+            },
+            {
+              "nl": "tevens",
+              "it": "altresì / nonché",
+              "en": "also",
+              "emoji": "➕",
+              "pos": "adv",
+              "exampleNl": "Hij is tevens verantwoordelijk voor de financiën.",
+              "exampleIt": "È altresì responsabile delle finanze."
+            },
+            {
+              "nl": "hetzij",
+              "it": "sia... sia / o",
+              "en": "either",
+              "emoji": "🔀",
+              "pos": "conj",
+              "exampleNl": "Betaling kan hetzij contant, hetzij per kaart geschieden.",
+              "exampleIt": "Il pagamento può avvenire o in contanti o con carta."
+            },
+            {
+              "nl": "zodoende",
+              "it": "in tal modo / così",
+              "en": "thus",
+              "emoji": "➡️",
+              "pos": "adv",
+              "exampleNl": "Hij las veel; zodoende verbreedde hij zijn kennis.",
+              "exampleIt": "Leggeva molto; in tal modo ampliava la sua conoscenza."
+            },
+            {
+              "nl": "dientengevolge",
+              "it": "di conseguenza",
+              "en": "consequently",
+              "emoji": "⏩",
+              "pos": "adv",
+              "exampleNl": "De vraag daalde; dientengevolge kelderden de prijzen.",
+              "exampleIt": "La domanda calò; di conseguenza i prezzi crollarono."
+            },
+            {
+              "nl": "enerzijds",
+              "it": "da un lato",
+              "en": "on one hand",
+              "emoji": "◀️",
+              "pos": "adv",
+              "exampleNl": "Enerzijds is het plan duur, anderzijds levert het veel op.",
+              "exampleIt": "Da un lato il piano è costoso, dall'altro rende molto."
+            },
+            {
+              "nl": "anderzijds",
+              "it": "dall'altro lato",
+              "en": "on the other hand",
+              "emoji": "▶️",
+              "pos": "adv",
+              "exampleNl": "Het is riskant, maar anderzijds ook zeer kansrijk.",
+              "exampleIt": "È rischioso, ma d'altro canto anche molto promettente."
+            },
+            {
+              "nl": "kortom",
+              "it": "in breve / insomma",
+              "en": "in short",
+              "emoji": "📝",
+              "pos": "adv",
+              "exampleNl": "Kortom, het project is om meerdere redenen mislukt.",
+              "exampleIt": "Insomma, il progetto è fallito per più ragioni."
+            },
+            {
+              "nl": "evenwel",
+              "it": "tuttavia",
+              "en": "however",
+              "emoji": "↔️",
+              "pos": "adv",
+              "exampleNl": "Het voorstel is interessant; evenwel ontbreekt de financiering.",
+              "exampleIt": "La proposta è interessante; tuttavia manca il finanziamento."
+            },
+            {
+              "nl": "desalniettemin",
+              "it": "ciononostante",
+              "en": "nevertheless",
+              "emoji": "🔁",
+              "pos": "adv",
+              "exampleNl": "Het bewijs was zwak; desalniettemin werd hij veroordeeld.",
+              "exampleIt": "La prova era debole; ciononostante fu condannato."
+            },
+            {
+              "nl": "ofschoon",
+              "it": "sebbene / benché",
+              "en": "although",
+              "emoji": "🤔",
+              "pos": "conj",
+              "exampleNl": "Ofschoon hij gelijk had, gaf niemand hem steun.",
+              "exampleIt": "Sebbene avesse ragione, nessuno lo sostenne."
+            },
+            {
+              "nl": "respectievelijk",
+              "it": "rispettivamente",
+              "en": "respectively",
+              "emoji": "🔢",
+              "pos": "adv",
+              "exampleNl": "De prijzen bedragen respectievelijk tien en twintig euro.",
+              "exampleIt": "I prezzi ammontano rispettivamente a dieci e venti euro."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1u7",
+      "title": "Modi di dire (3)",
+      "icon": "🗯️",
+      "tip": "Espressioni idiomatiche olandesi autentiche e d'uso corrente. Vanno imparate come blocco: il senso non è letterale.",
+      "lessons": [
+        {
+          "id": "c1u7l1",
+          "title": "Espressioni figurate",
+          "items": [
+            {
+              "nl": "de handen uit de mouwen steken",
+              "it": "rimboccarsi le maniche",
+              "en": "to roll up one's sleeves",
+              "emoji": "💪",
+              "pos": "phr",
+              "exampleNl": "Genoeg gepraat; we moeten nu de handen uit de mouwen steken.",
+              "exampleIt": "Basta parlare; ora dobbiamo rimboccarci le maniche."
+            },
+            {
+              "nl": "een oogje in het zeil houden",
+              "it": "tenere d'occhio",
+              "en": "to keep an eye out",
+              "emoji": "👀",
+              "pos": "phr",
+              "exampleNl": "Kun jij een oogje in het zeil houden terwijl ik weg ben?",
+              "exampleIt": "Puoi tenere d'occhio la situazione mentre sono via?"
+            },
+            {
+              "nl": "het roer omgooien",
+              "it": "cambiare radicalmente rotta",
+              "en": "to change course",
+              "emoji": "🔄",
+              "pos": "phr",
+              "exampleNl": "Na het verlies besloot het bedrijf het roer om te gooien.",
+              "exampleIt": "Dopo la perdita l'azienda decise di cambiare rotta."
+            },
+            {
+              "nl": "de touwtjes in handen hebben",
+              "it": "tenere le redini",
+              "en": "to be in control",
+              "emoji": "🎮",
+              "pos": "phr",
+              "exampleNl": "In dit huishouden heeft oma de touwtjes in handen.",
+              "exampleIt": "In questa casa è la nonna a tenere le redini."
+            },
+            {
+              "nl": "door de bomen het bos niet meer zien",
+              "it": "non vedere più il quadro d'insieme",
+              "en": "to miss the forest for the trees",
+              "emoji": "🌲",
+              "pos": "phr",
+              "exampleNl": "Met al die regels zie ik door de bomen het bos niet meer.",
+              "exampleIt": "Con tutte queste regole non vedo più il quadro d'insieme."
+            },
+            {
+              "nl": "de handdoek in de ring gooien",
+              "it": "gettare la spugna",
+              "en": "to throw in the towel",
+              "emoji": "🥊",
+              "pos": "phr",
+              "exampleNl": "Ondanks de tegenslagen wilde hij de handdoek niet in de ring gooien.",
+              "exampleIt": "Nonostante le difficoltà non voleva gettare la spugna."
+            },
+            {
+              "nl": "van een mug een olifant maken",
+              "it": "fare di una mosca un elefante",
+              "en": "to make a mountain out of a molehill",
+              "emoji": "🐘",
+              "pos": "phr",
+              "exampleNl": "Stel je niet aan, je maakt van een mug een olifant.",
+              "exampleIt": "Non fare storie, fai di una mosca un elefante."
+            },
+            {
+              "nl": "spijkers met koppen slaan",
+              "it": "arrivare al sodo / decidere",
+              "en": "to get down to business",
+              "emoji": "🔨",
+              "pos": "phr",
+              "exampleNl": "Laten we nu eindelijk spijkers met koppen slaan.",
+              "exampleIt": "Adesso arriviamo finalmente al sodo."
+            },
+            {
+              "nl": "het onderspit delven",
+              "it": "avere la peggio",
+              "en": "to come off worst",
+              "emoji": "⬇️",
+              "pos": "phr",
+              "exampleNl": "In de onderhandelingen dolf de kleine partij het onderspit.",
+              "exampleIt": "Nelle trattative il piccolo partito ebbe la peggio."
+            },
+            {
+              "nl": "een vinger in de pap hebben",
+              "it": "avere voce in capitolo",
+              "en": "to have a say",
+              "emoji": "🥄",
+              "pos": "phr",
+              "exampleNl": "De gemeente wil ook een vinger in de pap hebben.",
+              "exampleIt": "Anche il comune vuole avere voce in capitolo."
+            },
+            {
+              "nl": "met twee maten meten",
+              "it": "usare due pesi e due misure",
+              "en": "to use double standards",
+              "emoji": "⚖️",
+              "pos": "phr",
+              "exampleNl": "Het is oneerlijk om met twee maten te meten.",
+              "exampleIt": "È ingiusto usare due pesi e due misure."
+            },
+            {
+              "nl": "het hoofd boven water houden",
+              "it": "tenere la testa fuori dall'acqua",
+              "en": "to keep one's head above water",
+              "emoji": "🌊",
+              "pos": "phr",
+              "exampleNl": "Met dit lage loon kan ze amper het hoofd boven water houden.",
+              "exampleIt": "Con questo basso stipendio riesce a malapena a tenere la testa fuori dall'acqua."
+            },
+            {
+              "nl": "de kogel is door de kerk",
+              "it": "la decisione è ormai presa",
+              "en": "the die is cast",
+              "emoji": "⛪",
+              "pos": "phr",
+              "exampleNl": "Na maanden twijfel: de kogel is door de kerk.",
+              "exampleIt": "Dopo mesi di dubbi: la decisione è ormai presa."
+            },
+            {
+              "nl": "de schouders eronder zetten",
+              "it": "impegnarsi a fondo",
+              "en": "to put one's back into it",
+              "emoji": "🏋️",
+              "pos": "phr",
+              "exampleNl": "Als we de schouders eronder zetten, halen we de deadline.",
+              "exampleIt": "Se ci impegniamo a fondo, rispettiamo la scadenza."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1u8",
+      "title": "Modi di dire (4)",
+      "icon": "🗯️",
+      "tip": "Altri idiomi reali del neerlandese. Attenzione: non tradurre alla lettera, usa l'equivalente italiano.",
+      "lessons": [
+        {
+          "id": "c1u8l1",
+          "title": "Ancora espressioni",
+          "items": [
+            {
+              "nl": "de bal aan het rollen brengen",
+              "it": "dare il via",
+              "en": "to get the ball rolling",
+              "emoji": "⚽",
+              "pos": "phr",
+              "exampleNl": "Met één simpele vraag bracht hij de bal aan het rollen.",
+              "exampleIt": "Con una sola semplice domanda diede il via a tutto."
+            },
+            {
+              "nl": "iemand op de kast jagen",
+              "it": "far innervosire qualcuno",
+              "en": "to wind someone up",
+              "emoji": "😤",
+              "pos": "phr",
+              "exampleNl": "Iemand op de kast jagen met flauwe grappen is niet aardig.",
+              "exampleIt": "Far innervosire qualcuno con battute insulse non è gentile."
+            },
+            {
+              "nl": "roeien met de riemen die je hebt",
+              "it": "arrangiarsi con quel che si ha",
+              "en": "to make do with what you have",
+              "emoji": "🚣",
+              "pos": "phr",
+              "exampleNl": "We hebben weinig budget, dus we roeien met de riemen die we hebben.",
+              "exampleIt": "Abbiamo poco budget, quindi ci arrangiamo con quel che abbiamo."
+            },
+            {
+              "nl": "een gat in de hand hebben",
+              "it": "spendere e spandere",
+              "en": "to spend money like water",
+              "emoji": "💸",
+              "pos": "phr",
+              "exampleNl": "Hij verdient genoeg, maar hij heeft een gat in de hand.",
+              "exampleIt": "Guadagna abbastanza, ma spende e spande."
+            },
+            {
+              "nl": "de kool en de geit sparen",
+              "it": "salvare capra e cavoli",
+              "en": "to try to please everyone",
+              "emoji": "🐐",
+              "pos": "phr",
+              "exampleNl": "De politicus probeerde de kool en de geit te sparen.",
+              "exampleIt": "Il politico cercava di salvare capra e cavoli."
+            },
+            {
+              "nl": "het hart op de tong hebben",
+              "it": "avere il cuore in mano",
+              "en": "to wear one's heart on one's sleeve",
+              "emoji": "❤️",
+              "pos": "phr",
+              "exampleNl": "Zij heeft het hart op de tong en zegt altijd wat ze denkt.",
+              "exampleIt": "Lei ha il cuore in mano e dice sempre ciò che pensa."
+            },
+            {
+              "nl": "de neus ophalen voor iets",
+              "it": "storcere il naso per qualcosa",
+              "en": "to turn one's nose up",
+              "emoji": "👃",
+              "pos": "phr",
+              "exampleNl": "Hij bleef de neus ophalen voor al het eenvoudige werk.",
+              "exampleIt": "Continuava a storcere il naso davanti a tutto il lavoro umile."
+            },
+            {
+              "nl": "het gras voor de voeten wegmaaien",
+              "it": "soffiare qualcosa a qualcuno",
+              "en": "to steal a march on someone",
+              "emoji": "🌱",
+              "pos": "phr",
+              "exampleNl": "Een concurrent maaide ons het gras voor de voeten weg.",
+              "exampleIt": "Un concorrente ci ha soffiato l'affare."
+            },
+            {
+              "nl": "in de aap gelogeerd zijn",
+              "it": "essere nei guai",
+              "en": "to be in a fix",
+              "emoji": "🐒",
+              "pos": "phr",
+              "exampleNl": "Als de auto nu kapotgaat, zijn we in de aap gelogeerd.",
+              "exampleIt": "Se ora si rompe la macchina, siamo nei guai."
+            },
+            {
+              "nl": "de boel op stelten zetten",
+              "it": "mettere a soqquadro",
+              "en": "to cause chaos",
+              "emoji": "🤹",
+              "pos": "phr",
+              "exampleNl": "De kinderen wisten de boel volledig op stelten te zetten.",
+              "exampleIt": "I bambini riuscirono a mettere tutto a soqquadro."
+            },
+            {
+              "nl": "een wit voetje halen",
+              "it": "ingraziarsi qualcuno",
+              "en": "to curry favour",
+              "emoji": "🤍",
+              "pos": "phr",
+              "exampleNl": "Hij probeert bij de baas een wit voetje te halen.",
+              "exampleIt": "Cerca di ingraziarsi il capo."
+            },
+            {
+              "nl": "schoon schip maken",
+              "it": "fare piazza pulita",
+              "en": "to make a clean sweep",
+              "emoji": "🧹",
+              "pos": "phr",
+              "exampleNl": "De nieuwe directeur wilde meteen schoon schip maken.",
+              "exampleIt": "Il nuovo direttore volle subito fare piazza pulita."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1u9",
+      "title": "Sfumature e registro formale",
+      "icon": "🎭",
+      "tip": "Avverbi di registro alto per sfumare un'affermazione (geenszins, nagenoeg, veeleer). Tipici dello scritto formale.",
+      "lessons": [
+        {
+          "id": "c1u9l1",
+          "title": "Modulare il discorso",
+          "items": [
+            {
+              "nl": "geenszins",
+              "it": "per nulla / affatto",
+              "en": "by no means",
+              "emoji": "🚫",
+              "pos": "adv",
+              "exampleNl": "Dat is geenszins de bedoeling van het voorstel.",
+              "exampleIt": "Non è affatto l'intenzione della proposta."
+            },
+            {
+              "nl": "allerminst",
+              "it": "tutt'altro / per niente",
+              "en": "least of all",
+              "emoji": "🙅",
+              "pos": "adv",
+              "exampleNl": "Hij was allerminst tevreden met het resultaat.",
+              "exampleIt": "Era tutt'altro che soddisfatto del risultato."
+            },
+            {
+              "nl": "ietwat",
+              "it": "alquanto / un po'",
+              "en": "somewhat",
+              "emoji": "🤏",
+              "pos": "adv",
+              "exampleNl": "De uitleg was ietwat verwarrend.",
+              "exampleIt": "La spiegazione era alquanto confusa."
+            },
+            {
+              "nl": "nagenoeg",
+              "it": "pressoché / quasi",
+              "en": "virtually",
+              "emoji": "➗",
+              "pos": "adv",
+              "exampleNl": "Het werk is nagenoeg voltooid.",
+              "exampleIt": "Il lavoro è pressoché completato."
+            },
+            {
+              "nl": "grotendeels",
+              "it": "in gran parte",
+              "en": "largely",
+              "emoji": "📊",
+              "pos": "adv",
+              "exampleNl": "Het project is grotendeels geslaagd.",
+              "exampleIt": "Il progetto è in gran parte riuscito."
+            },
+            {
+              "nl": "vermoedelijk",
+              "it": "presumibilmente",
+              "en": "presumably",
+              "emoji": "🔮",
+              "pos": "adv",
+              "exampleNl": "De storing is vermoedelijk door de hitte veroorzaakt.",
+              "exampleIt": "Il guasto è presumibilmente causato dal caldo."
+            },
+            {
+              "nl": "ongetwijfeld",
+              "it": "senza dubbio",
+              "en": "undoubtedly",
+              "emoji": "✅",
+              "pos": "adv",
+              "exampleNl": "Dit is ongetwijfeld zijn beste werk.",
+              "exampleIt": "Questa è senza dubbio la sua opera migliore."
+            },
+            {
+              "nl": "klaarblijkelijk",
+              "it": "a quanto pare / evidentemente",
+              "en": "apparently",
+              "emoji": "👀",
+              "pos": "adv",
+              "exampleNl": "Hij had het nieuws klaarblijkelijk nog niet gehoord.",
+              "exampleIt": "Evidentemente non aveva ancora sentito la notizia."
+            },
+            {
+              "nl": "ogenschijnlijk",
+              "it": "apparentemente",
+              "en": "seemingly",
+              "emoji": "🎭",
+              "pos": "adv",
+              "exampleNl": "Het was een ogenschijnlijk onschuldige opmerking.",
+              "exampleIt": "Era un'osservazione apparentemente innocente."
+            },
+            {
+              "nl": "zogenaamd",
+              "it": "cosiddetto / presunto",
+              "en": "so-called",
+              "emoji": "💬",
+              "pos": "adv",
+              "exampleNl": "Zijn zogenaamde vrienden lieten hem in de steek.",
+              "exampleIt": "I suoi cosiddetti amici lo abbandonarono."
+            },
+            {
+              "nl": "veeleer",
+              "it": "piuttosto",
+              "en": "rather",
+              "emoji": "↪️",
+              "pos": "adv",
+              "exampleNl": "Het is veeleer een kwestie van geduld dan van geld.",
+              "exampleIt": "È piuttosto una questione di pazienza che di denaro."
+            },
+            {
+              "nl": "hooguit",
+              "it": "al massimo",
+              "en": "at most",
+              "emoji": "🔝",
+              "pos": "adv",
+              "exampleNl": "Het kost hooguit een uur van je tijd.",
+              "exampleIt": "Costa al massimo un'ora del tuo tempo."
+            },
+            {
+              "nl": "louter",
+              "it": "puramente / meramente",
+              "en": "merely",
+              "emoji": "🔘",
+              "pos": "adv",
+              "exampleNl": "Het was louter toeval dat we elkaar daar tegenkwamen.",
+              "exampleIt": "Fu puro caso che ci incontrassimo lì."
+            },
+            {
+              "nl": "uitsluitend",
+              "it": "esclusivamente",
+              "en": "exclusively",
+              "emoji": "1️⃣",
+              "pos": "adv",
+              "exampleNl": "Deze ingang is uitsluitend voor personeel.",
+              "exampleIt": "Questo ingresso è esclusivamente per il personale."
+            },
+            {
+              "nl": "overwegend",
+              "it": "prevalentemente",
+              "en": "predominantly",
+              "emoji": "📈",
+              "pos": "adv",
+              "exampleNl": "Het publiek bestond overwegend uit studenten.",
+              "exampleIt": "Il pubblico era composto prevalentemente da studenti."
+            },
+            {
+              "nl": "voornamelijk",
+              "it": "principalmente",
+              "en": "mainly",
+              "emoji": "🎯",
+              "pos": "adv",
+              "exampleNl": "Het gaat voornamelijk om een principekwestie.",
+              "exampleIt": "Si tratta principalmente di una questione di principio."
+            },
+            {
+              "nl": "deels",
+              "it": "in parte",
+              "en": "partly",
+              "emoji": "½",
+              "pos": "adv",
+              "exampleNl": "De schuld ligt deels bij hemzelf.",
+              "exampleIt": "La colpa è in parte sua."
+            },
+            {
+              "nl": "goeddeels",
+              "it": "in buona parte",
+              "en": "largely",
+              "emoji": "📐",
+              "pos": "adv",
+              "exampleNl": "De oude binnenstad is goeddeels bewaard gebleven.",
+              "exampleIt": "Il vecchio centro si è conservato in buona parte."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1u10",
+      "title": "Collocazioni ed espressioni fisse",
+      "icon": "🔗",
+      "tip": "Combinazioni fisse verbo+nome del registro formale (rekening houden met, tot stand komen). Si usano come un'unità.",
+      "lessons": [
+        {
+          "id": "c1u10l1",
+          "title": "Combinazioni fisse",
+          "items": [
+            {
+              "nl": "rekening houden met",
+              "it": "tenere conto di",
+              "en": "to take into account",
+              "emoji": "🧮",
+              "pos": "phr",
+              "exampleNl": "Bij de planning moeten we rekening houden met vertraging.",
+              "exampleIt": "Nella pianificazione dobbiamo tenere conto dei ritardi."
+            },
+            {
+              "nl": "in aanmerking komen",
+              "it": "essere idoneo / avere diritto",
+              "en": "to be eligible",
+              "emoji": "✅",
+              "pos": "phr",
+              "exampleNl": "Alleen wie hier woont, kan voor de subsidie in aanmerking komen.",
+              "exampleIt": "Solo chi abita qui può avere diritto al sussidio."
+            },
+            {
+              "nl": "tot stand komen",
+              "it": "realizzarsi / nascere",
+              "en": "to come about",
+              "emoji": "🏗️",
+              "pos": "phr",
+              "exampleNl": "Het akkoord kwam pas na lange onderhandelingen tot stand.",
+              "exampleIt": "L'accordo si concretizzò solo dopo lunghe trattative."
+            },
+            {
+              "nl": "op het spel staan",
+              "it": "essere in gioco",
+              "en": "to be at stake",
+              "emoji": "🎲",
+              "pos": "phr",
+              "exampleNl": "Bij deze beslissing staat veel op het spel.",
+              "exampleIt": "In questa decisione c'è molto in gioco."
+            },
+            {
+              "nl": "van toepassing zijn",
+              "it": "essere applicabile / valere",
+              "en": "to apply",
+              "emoji": "📋",
+              "pos": "phr",
+              "exampleNl": "Deze regel is niet op iedereen van toepassing.",
+              "exampleIt": "Questa regola non vale per tutti."
+            },
+            {
+              "nl": "aan de orde komen",
+              "it": "essere affrontato / venire in discussione",
+              "en": "to come up",
+              "emoji": "🗣️",
+              "pos": "phr",
+              "exampleNl": "Dat punt zal op de volgende vergadering aan de orde komen.",
+              "exampleIt": "Quel punto verrà affrontato alla prossima riunione."
+            },
+            {
+              "nl": "ter sprake brengen",
+              "it": "sollevare (un argomento)",
+              "en": "to bring up",
+              "emoji": "💬",
+              "pos": "phr",
+              "exampleNl": "Niemand durfde het probleem ter sprake te brengen.",
+              "exampleIt": "Nessuno osava sollevare il problema."
+            },
+            {
+              "nl": "op de hoogte zijn",
+              "it": "essere al corrente",
+              "en": "to be informed",
+              "emoji": "ℹ️",
+              "pos": "phr",
+              "exampleNl": "Ik ben niet van de laatste ontwikkelingen op de hoogte.",
+              "exampleIt": "Non sono al corrente degli ultimi sviluppi."
+            },
+            {
+              "nl": "in twijfel trekken",
+              "it": "mettere in dubbio",
+              "en": "to question",
+              "emoji": "🤨",
+              "pos": "phr",
+              "exampleNl": "Niemand durfde zijn gezag in twijfel te trekken.",
+              "exampleIt": "Nessuno osava mettere in dubbio la sua autorità."
+            },
+            {
+              "nl": "de voorkeur geven aan",
+              "it": "preferire",
+              "en": "to prefer",
+              "emoji": "⭐",
+              "pos": "phr",
+              "exampleNl": "Veel mensen geven de voorkeur aan de trein boven het vliegtuig.",
+              "exampleIt": "Molti preferiscono il treno all'aereo."
+            },
+            {
+              "nl": "aandacht besteden aan",
+              "it": "prestare attenzione a / dedicarsi a",
+              "en": "to pay attention to",
+              "emoji": "👁️",
+              "pos": "phr",
+              "exampleNl": "De school besteedt veel aandacht aan taalonderwijs.",
+              "exampleIt": "La scuola dedica molta attenzione all'insegnamento delle lingue."
+            },
+            {
+              "nl": "ter beschikking stellen",
+              "it": "mettere a disposizione",
+              "en": "to make available",
+              "emoji": "🤲",
+              "pos": "phr",
+              "exampleNl": "De universiteit stelt de gegevens ter beschikking van onderzoekers.",
+              "exampleIt": "L'università mette i dati a disposizione dei ricercatori."
+            },
+            {
+              "nl": "in overweging nemen",
+              "it": "prendere in considerazione",
+              "en": "to take into consideration",
+              "emoji": "🤔",
+              "pos": "phr",
+              "exampleNl": "De commissie zal uw verzoek in overweging nemen.",
+              "exampleIt": "La commissione prenderà in considerazione la sua richiesta."
+            },
+            {
+              "nl": "tot uiting komen",
+              "it": "manifestarsi / esprimersi",
+              "en": "to be expressed",
+              "emoji": "🎨",
+              "pos": "phr",
+              "exampleNl": "Zijn talent komt vooral in zijn tekeningen tot uiting.",
+              "exampleIt": "Il suo talento si manifesta soprattutto nei suoi disegni."
+            },
+            {
+              "nl": "op losse schroeven staan",
+              "it": "essere in forse / vacillare",
+              "en": "to be up in the air",
+              "emoji": "🔩",
+              "pos": "phr",
+              "exampleNl": "Door de crisis staat het hele project op losse schroeven.",
+              "exampleIt": "A causa della crisi tutto il progetto è in forse."
+            },
+            {
+              "nl": "een beroep doen op",
+              "it": "fare appello a / ricorrere a",
+              "en": "to call upon",
+              "emoji": "📣",
+              "pos": "phr",
+              "exampleNl": "In nood kun je altijd een beroep doen op je familie.",
+              "exampleIt": "Nel bisogno puoi sempre fare appello alla tua famiglia."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1u11",
+      "title": "Lessico avanzato",
+      "icon": "📖",
+      "tip": "Termini specialistici di economia, diritto e scienza. Neutri: het enzym, het spectrum, het vermogen.",
+      "lessons": [
+        {
+          "id": "c1u11l1",
+          "title": "Economia, diritto, scienza",
+          "items": [
+            {
+              "nl": "de conjunctuur",
+              "it": "la congiuntura",
+              "en": "economic climate",
+              "emoji": "📉",
+              "pos": "n",
+              "exampleNl": "De conjunctuur trekt na de recessie weer aan.",
+              "exampleIt": "La congiuntura riprende dopo la recessione."
+            },
+            {
+              "nl": "de liquiditeit",
+              "it": "la liquidità",
+              "en": "liquidity",
+              "emoji": "💧",
+              "pos": "n",
+              "exampleNl": "Door een gebrek aan liquiditeit kwam het bedrijf in de problemen.",
+              "exampleIt": "Per una mancanza di liquidità l'azienda finì nei guai."
+            },
+            {
+              "nl": "de aansprakelijkheid",
+              "it": "la responsabilità (legale)",
+              "en": "liability",
+              "emoji": "⚖️",
+              "pos": "n",
+              "exampleNl": "De aansprakelijkheid voor de schade ligt bij de fabrikant.",
+              "exampleIt": "La responsabilità del danno è del produttore."
+            },
+            {
+              "nl": "de jurisdictie",
+              "it": "la giurisdizione",
+              "en": "jurisdiction",
+              "emoji": "🏛️",
+              "pos": "n",
+              "exampleNl": "Deze zaak valt buiten de jurisdictie van de rechtbank.",
+              "exampleIt": "Questo caso esula dalla giurisdizione del tribunale."
+            },
+            {
+              "nl": "de dagvaarding",
+              "it": "la citazione in giudizio",
+              "en": "summons",
+              "emoji": "📜",
+              "pos": "n",
+              "exampleNl": "Hij ontving een dagvaarding om voor de rechter te verschijnen.",
+              "exampleIt": "Ricevette una citazione a comparire davanti al giudice."
+            },
+            {
+              "nl": "de schikking",
+              "it": "l'accordo (transazione)",
+              "en": "settlement",
+              "emoji": "🤝",
+              "pos": "n",
+              "exampleNl": "Beide partijen bereikten buiten de rechtbank een schikking.",
+              "exampleIt": "Le due parti raggiunsero un accordo fuori dal tribunale."
+            },
+            {
+              "nl": "de nalatenschap",
+              "it": "l'eredità / il patrimonio",
+              "en": "estate",
+              "emoji": "📦",
+              "pos": "n",
+              "exampleNl": "De nalatenschap werd onder de erfgenamen verdeeld.",
+              "exampleIt": "Il patrimonio fu diviso tra gli eredi."
+            },
+            {
+              "nl": "de toezichthouder",
+              "it": "l'autorità di vigilanza",
+              "en": "regulator",
+              "emoji": "👁️",
+              "pos": "n",
+              "exampleNl": "De toezichthouder legde de bank een hoge boete op.",
+              "exampleIt": "L'autorità di vigilanza inflisse una multa salata alla banca."
+            },
+            {
+              "nl": "de mededinging",
+              "it": "la concorrenza (diritto)",
+              "en": "competition",
+              "emoji": "⚔️",
+              "pos": "n",
+              "exampleNl": "De fusie werd door de regels van de mededinging beperkt.",
+              "exampleIt": "La fusione fu limitata dalle norme sulla concorrenza."
+            },
+            {
+              "nl": "de katalysator",
+              "it": "il catalizzatore",
+              "en": "catalyst",
+              "emoji": "⚗️",
+              "pos": "n",
+              "exampleNl": "Een katalysator versnelt de chemische reactie.",
+              "exampleIt": "Un catalizzatore accelera la reazione chimica."
+            },
+            {
+              "nl": "de mutatie",
+              "it": "la mutazione",
+              "en": "mutation",
+              "emoji": "🧬",
+              "pos": "n",
+              "exampleNl": "Een toevallige mutatie kan tot een nieuwe eigenschap leiden.",
+              "exampleIt": "Una mutazione casuale può portare a una nuova caratteristica."
+            },
+            {
+              "nl": "het enzym",
+              "it": "l'enzima",
+              "en": "enzyme",
+              "emoji": "🧪",
+              "pos": "n",
+              "exampleNl": "Dit enzym breekt eiwitten af.",
+              "exampleIt": "Questo enzima scompone le proteine."
+            },
+            {
+              "nl": "de synthese",
+              "it": "la sintesi",
+              "en": "synthesis",
+              "emoji": "🔬",
+              "pos": "n",
+              "exampleNl": "De synthese van de stof verliep in het laboratorium.",
+              "exampleIt": "La sintesi della sostanza avvenne in laboratorio."
+            },
+            {
+              "nl": "het spectrum",
+              "it": "lo spettro",
+              "en": "spectrum",
+              "emoji": "🌈",
+              "pos": "n",
+              "exampleNl": "Het licht werd in zijn volledige spectrum ontleed.",
+              "exampleIt": "La luce fu scomposta nel suo intero spettro."
+            },
+            {
+              "nl": "de frequentie",
+              "it": "la frequenza",
+              "en": "frequency",
+              "emoji": "📡",
+              "pos": "n",
+              "exampleNl": "Het geluid heeft een zeer hoge frequentie.",
+              "exampleIt": "Il suono ha una frequenza molto alta."
+            },
+            {
+              "nl": "het vermogen",
+              "it": "il patrimonio / la capacità",
+              "en": "wealth/capacity",
+              "emoji": "💰",
+              "pos": "n",
+              "exampleNl": "Zijn vermogen werd op miljoenen geschat.",
+              "exampleIt": "Il suo patrimonio fu stimato in milioni."
+            },
+            {
+              "nl": "de entropie",
+              "it": "l'entropia",
+              "en": "entropy",
+              "emoji": "♨️",
+              "pos": "n",
+              "exampleNl": "In een gesloten systeem neemt de entropie altijd toe.",
+              "exampleIt": "In un sistema chiuso l'entropia aumenta sempre."
+            },
+            {
+              "nl": "de osmose",
+              "it": "l'osmosi",
+              "en": "osmosis",
+              "emoji": "💧",
+              "pos": "n",
+              "exampleNl": "Door osmose verplaatst water zich door het membraan.",
+              "exampleIt": "Per osmosi l'acqua si sposta attraverso la membrana."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1u12",
+      "title": "Verbi e aggettivi di precisione",
+      "icon": "🎯",
+      "tip": "Verbi per argomentare con precisione (onderbouwen, weerleggen, nuanceren) e aggettivi valutativi (steekhoudend, aannemelijk).",
+      "lessons": [
+        {
+          "id": "c1u12l1",
+          "title": "Argomentare con precisione",
+          "items": [
+            {
+              "nl": "nuanceren",
+              "it": "sfumare / precisare",
+              "en": "to nuance",
+              "emoji": "🎚️",
+              "pos": "v",
+              "exampleNl": "Hij wist zijn stelling op het juiste moment te nuanceren.",
+              "exampleIt": "Seppe precisare la sua tesi al momento giusto."
+            },
+            {
+              "nl": "impliceren",
+              "it": "implicare",
+              "en": "to imply",
+              "emoji": "➡️",
+              "pos": "v",
+              "exampleNl": "Zijn zwijgen leek instemming te impliceren.",
+              "exampleIt": "Il suo silenzio sembrava implicare un consenso."
+            },
+            {
+              "nl": "relativeren",
+              "it": "relativizzare / ridimensionare",
+              "en": "to put in perspective",
+              "emoji": "⚖️",
+              "pos": "v",
+              "exampleNl": "Het is verstandig om zulke cijfers te relativeren.",
+              "exampleIt": "È saggio ridimensionare certe cifre."
+            },
+            {
+              "nl": "onderbouwen",
+              "it": "argomentare / motivare",
+              "en": "to substantiate",
+              "emoji": "🧱",
+              "pos": "v",
+              "exampleNl": "Je moet je conclusie met feiten onderbouwen.",
+              "exampleIt": "Devi motivare la tua conclusione con dei fatti."
+            },
+            {
+              "nl": "weerleggen",
+              "it": "confutare",
+              "en": "to refute",
+              "emoji": "🛡️",
+              "pos": "v",
+              "exampleNl": "De onderzoeker kon de kritiek overtuigend weerleggen.",
+              "exampleIt": "Il ricercatore poté confutare la critica in modo convincente."
+            },
+            {
+              "nl": "staven",
+              "it": "comprovare / suffragare",
+              "en": "to corroborate",
+              "emoji": "📑",
+              "pos": "v",
+              "exampleNl": "Hij kon zijn bewering met documenten staven.",
+              "exampleIt": "Poté comprovare la sua affermazione con dei documenti."
+            },
+            {
+              "nl": "behelzen",
+              "it": "comportare / consistere in",
+              "en": "to entail",
+              "emoji": "📦",
+              "pos": "v",
+              "exampleNl": "Het plan zou een ingrijpende reorganisatie behelzen.",
+              "exampleIt": "Il piano comporterebbe una riorganizzazione radicale."
+            },
+            {
+              "nl": "voortvloeien",
+              "it": "derivare / conseguire",
+              "en": "to arise from",
+              "emoji": "🌊",
+              "pos": "v",
+              "exampleNl": "Daaruit zouden nog meer vragen kunnen voortvloeien.",
+              "exampleIt": "Da ciò potrebbero derivare ancora più domande."
+            },
+            {
+              "nl": "steekhoudend",
+              "it": "valido / fondato",
+              "en": "cogent",
+              "emoji": "✅",
+              "pos": "adj",
+              "exampleNl": "Zonder steekhoudende argumenten overtuig je niemand.",
+              "exampleIt": "Senza argomenti validi non convinci nessuno."
+            },
+            {
+              "nl": "aannemelijk",
+              "it": "plausibile / verosimile",
+              "en": "plausible",
+              "emoji": "🤔",
+              "pos": "adj",
+              "exampleNl": "Zijn verklaring klonk op het eerste gehoor aannemelijk.",
+              "exampleIt": "La sua spiegazione a prima vista sembrava plausibile."
+            },
+            {
+              "nl": "ontegenzeggelijk",
+              "it": "innegabile",
+              "en": "undeniable",
+              "emoji": "💯",
+              "pos": "adj",
+              "exampleNl": "Hij heeft ontegenzeggelijk veel talent.",
+              "exampleIt": "Ha innegabilmente molto talento."
+            },
+            {
+              "nl": "uiteenlopend",
+              "it": "divergente / disparato",
+              "en": "divergent",
+              "emoji": "🔀",
+              "pos": "adj",
+              "exampleNl": "De meningen over de kwestie zijn sterk uiteenlopend.",
+              "exampleIt": "Le opinioni sulla questione sono molto divergenti."
             }
           ]
         }
