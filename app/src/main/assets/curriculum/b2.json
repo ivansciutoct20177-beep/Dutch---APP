@@ -102,6 +102,174 @@
               "exampleIt": "Molti pensano che l'uguaglianza non sia ancora raggiunta ovunque."
             }
           ]
+        },
+        {
+          "id": "b2u1l2",
+          "title": "Politica e società",
+          "items": [
+            {
+              "nl": "de overheid",
+              "it": "il governo / le autorità",
+              "en": "government",
+              "emoji": "🏛️",
+              "pos": "n",
+              "exampleNl": "De overheid heeft nieuwe regels ingevoerd.",
+              "exampleIt": "Il governo ha introdotto nuove regole."
+            },
+            {
+              "nl": "de politiek",
+              "it": "la politica",
+              "en": "politics",
+              "emoji": "🗳️",
+              "pos": "n",
+              "exampleNl": "Hij is sinds kort actief in de politiek.",
+              "exampleIt": "Da poco è attivo in politica."
+            },
+            {
+              "nl": "de rechtsstaat",
+              "it": "lo stato di diritto",
+              "en": "rule of law",
+              "emoji": "⚖️",
+              "pos": "n",
+              "exampleNl": "In een rechtsstaat staat iedereen gelijk voor de wet.",
+              "exampleIt": "In uno stato di diritto tutti sono uguali davanti alla legge."
+            },
+            {
+              "nl": "de samenleving",
+              "it": "la società",
+              "en": "society",
+              "emoji": "👥",
+              "pos": "n",
+              "exampleNl": "De hele samenleving wordt door deze crisis geraakt.",
+              "exampleIt": "Tutta la società viene colpita da questa crisi."
+            },
+            {
+              "nl": "de besluitvorming",
+              "it": "il processo decisionale",
+              "en": "decision-making",
+              "emoji": "🗳️",
+              "pos": "n",
+              "exampleNl": "De besluitvorming verloopt vaak traag.",
+              "exampleIt": "Il processo decisionale è spesso lento."
+            },
+            {
+              "nl": "het wetsvoorstel",
+              "it": "la proposta di legge",
+              "en": "bill",
+              "emoji": "📜",
+              "pos": "n",
+              "exampleNl": "Het wetsvoorstel werd door het parlement verworpen.",
+              "exampleIt": "La proposta di legge è stata respinta dal parlamento."
+            },
+            {
+              "nl": "de staking",
+              "it": "lo sciopero",
+              "en": "strike",
+              "emoji": "✊",
+              "pos": "n",
+              "exampleNl": "Door de staking reden er geen treinen.",
+              "exampleIt": "A causa dello sciopero non circolavano treni."
+            },
+            {
+              "nl": "de demonstratie",
+              "it": "la manifestazione",
+              "en": "demonstration",
+              "emoji": "📣",
+              "pos": "n",
+              "exampleNl": "De demonstratie verliep gelukkig vreedzaam.",
+              "exampleIt": "La manifestazione si è svolta per fortuna pacificamente."
+            },
+            {
+              "nl": "de norm",
+              "it": "la norma",
+              "en": "norm",
+              "emoji": "📐",
+              "pos": "n",
+              "exampleNl": "Deze afspraak is inmiddels de norm geworden.",
+              "exampleIt": "Questo accordo è ormai diventato la norma."
+            },
+            {
+              "nl": "de discriminatie",
+              "it": "la discriminazione",
+              "en": "discrimination",
+              "emoji": "🚫",
+              "pos": "n",
+              "exampleNl": "Discriminatie op het werk is bij wet verboden.",
+              "exampleIt": "La discriminazione sul lavoro è vietata per legge."
+            },
+            {
+              "nl": "de integratie",
+              "it": "l'integrazione",
+              "en": "integration",
+              "emoji": "🤝",
+              "pos": "n",
+              "exampleNl": "De integratie van nieuwkomers kost tijd.",
+              "exampleIt": "L'integrazione dei nuovi arrivati richiede tempo."
+            },
+            {
+              "nl": "de immigratie",
+              "it": "l'immigrazione",
+              "en": "immigration",
+              "emoji": "🛂",
+              "pos": "n",
+              "exampleNl": "Over de immigratie wordt al jaren gediscussieerd.",
+              "exampleIt": "Sull'immigrazione si discute da anni."
+            },
+            {
+              "nl": "de vluchteling",
+              "it": "il rifugiato",
+              "en": "refugee",
+              "emoji": "🆘",
+              "pos": "n",
+              "exampleNl": "De vluchtelingen werden in het dorp opgevangen.",
+              "exampleIt": "I rifugiati sono stati accolti nel paese."
+            },
+            {
+              "nl": "de armoede",
+              "it": "la povertà",
+              "en": "poverty",
+              "emoji": "💔",
+              "pos": "n",
+              "exampleNl": "Veel gezinnen leven nog steeds in armoede.",
+              "exampleIt": "Molte famiglie vivono ancora in povertà."
+            },
+            {
+              "nl": "de ongelijkheid",
+              "it": "la disuguaglianza",
+              "en": "inequality",
+              "emoji": "⚖️",
+              "pos": "n",
+              "exampleNl": "De ongelijkheid tussen arm en rijk neemt toe.",
+              "exampleIt": "La disuguaglianza tra ricchi e poveri aumenta."
+            },
+            {
+              "nl": "de bevolking",
+              "it": "la popolazione",
+              "en": "population",
+              "emoji": "🌍",
+              "pos": "n",
+              "exampleNl": "De bevolking van de stad groeit elk jaar.",
+              "exampleIt": "La popolazione della città cresce ogni anno."
+            },
+            {
+              "nl": "het gezag",
+              "it": "l'autorità",
+              "en": "authority",
+              "emoji": "👮",
+              "pos": "n",
+              "exampleNl": "De politie heeft het gezag om in te grijpen.",
+              "exampleIt": "La polizia ha l'autorità di intervenire."
+            },
+            {
+              "nl": "de minderheid",
+              "it": "la minoranza",
+              "en": "minority",
+              "emoji": "👤",
+              "pos": "n",
+              "exampleNl": "De rechten van de minderheid moeten beschermd worden.",
+              "exampleIt": "I diritti della minoranza devono essere protetti."
+            }
+          ]
         }
       ]
     },
@@ -207,6 +375,174 @@
               "pos": "v",
               "exampleNl": "Ik wil solliciteren naar een functie bij een internationaal bedrijf.",
               "exampleIt": "Voglio candidarmi per una posizione in un'azienda internazionale."
+            }
+          ]
+        },
+        {
+          "id": "b2u2l2",
+          "title": "Impresa e affari",
+          "items": [
+            {
+              "nl": "de onderneming",
+              "it": "l'impresa",
+              "en": "enterprise",
+              "emoji": "🏢",
+              "pos": "n",
+              "exampleNl": "De onderneming werd vorig jaar opgericht.",
+              "exampleIt": "L'impresa è stata fondata l'anno scorso."
+            },
+            {
+              "nl": "de omzet",
+              "it": "il fatturato",
+              "en": "revenue",
+              "emoji": "📊",
+              "pos": "n",
+              "exampleNl": "De omzet van het bedrijf is sterk gestegen.",
+              "exampleIt": "Il fatturato dell'azienda è molto aumentato."
+            },
+            {
+              "nl": "de strategie",
+              "it": "la strategia",
+              "en": "strategy",
+              "emoji": "♟️",
+              "pos": "n",
+              "exampleNl": "Een nieuwe strategie zou de winst kunnen verhogen.",
+              "exampleIt": "Una nuova strategia potrebbe aumentare i profitti."
+            },
+            {
+              "nl": "de concurrentie",
+              "it": "la concorrenza",
+              "en": "competition",
+              "emoji": "⚔️",
+              "pos": "n",
+              "exampleNl": "Door de concurrentie dalen de prijzen.",
+              "exampleIt": "A causa della concorrenza i prezzi scendono."
+            },
+            {
+              "nl": "het product",
+              "it": "il prodotto",
+              "en": "product",
+              "emoji": "📦",
+              "pos": "n",
+              "exampleNl": "Het product wordt in heel Europa verkocht.",
+              "exampleIt": "Il prodotto viene venduto in tutta Europa."
+            },
+            {
+              "nl": "de dienst",
+              "it": "il servizio",
+              "en": "service",
+              "emoji": "🛎️",
+              "pos": "n",
+              "exampleNl": "Het bedrijf biedt een uitstekende dienst.",
+              "exampleIt": "L'azienda offre un servizio eccellente."
+            },
+            {
+              "nl": "de leverancier",
+              "it": "il fornitore",
+              "en": "supplier",
+              "emoji": "🚚",
+              "pos": "n",
+              "exampleNl": "De leverancier kon niet op tijd leveren.",
+              "exampleIt": "Il fornitore non è riuscito a consegnare in tempo."
+            },
+            {
+              "nl": "de productie",
+              "it": "la produzione",
+              "en": "production",
+              "emoji": "🏭",
+              "pos": "n",
+              "exampleNl": "De productie werd door de staking stilgelegd.",
+              "exampleIt": "La produzione è stata bloccata dallo sciopero."
+            },
+            {
+              "nl": "het management",
+              "it": "il management / la dirigenza",
+              "en": "management",
+              "emoji": "🧑‍💼",
+              "pos": "n",
+              "exampleNl": "Het management heeft een nieuw plan gepresenteerd.",
+              "exampleIt": "La dirigenza ha presentato un nuovo piano."
+            },
+            {
+              "nl": "de fusie",
+              "it": "la fusione",
+              "en": "merger",
+              "emoji": "🔗",
+              "pos": "n",
+              "exampleNl": "De fusie van de twee banken werd goedgekeurd.",
+              "exampleIt": "La fusione delle due banche è stata approvata."
+            },
+            {
+              "nl": "het faillissement",
+              "it": "il fallimento",
+              "en": "bankruptcy",
+              "emoji": "📉",
+              "pos": "n",
+              "exampleNl": "Door de schulden volgde het faillissement.",
+              "exampleIt": "A causa dei debiti seguì il fallimento."
+            },
+            {
+              "nl": "de bedrijfstak",
+              "it": "il comparto / il ramo",
+              "en": "industry branch",
+              "emoji": "🏭",
+              "pos": "n",
+              "exampleNl": "Deze bedrijfstak biedt werk aan duizenden mensen.",
+              "exampleIt": "Questo comparto dà lavoro a migliaia di persone."
+            },
+            {
+              "nl": "de overeenkomst",
+              "it": "l'accordo / il contratto",
+              "en": "agreement",
+              "emoji": "📄",
+              "pos": "n",
+              "exampleNl": "De overeenkomst werd door beide partijen ondertekend.",
+              "exampleIt": "L'accordo è stato firmato da entrambe le parti."
+            },
+            {
+              "nl": "de offerte",
+              "it": "il preventivo",
+              "en": "quote",
+              "emoji": "🧾",
+              "pos": "n",
+              "exampleNl": "Wij zullen u morgen een offerte sturen.",
+              "exampleIt": "Le invieremo un preventivo domani."
+            },
+            {
+              "nl": "het rendement",
+              "it": "il rendimento",
+              "en": "return",
+              "emoji": "📈",
+              "pos": "n",
+              "exampleNl": "Het rendement van de investering viel tegen.",
+              "exampleIt": "Il rendimento dell'investimento è stato deludente."
+            },
+            {
+              "nl": "de aandeelhouder",
+              "it": "l'azionista",
+              "en": "shareholder",
+              "emoji": "💼",
+              "pos": "n",
+              "exampleNl": "De aandeelhouders stemden over het voorstel.",
+              "exampleIt": "Gli azionisti hanno votato sulla proposta."
+            },
+            {
+              "nl": "de werkgelegenheid",
+              "it": "l'occupazione",
+              "en": "employment",
+              "emoji": "👷",
+              "pos": "n",
+              "exampleNl": "De nieuwe fabriek zou veel werkgelegenheid scheppen.",
+              "exampleIt": "La nuova fabbrica creerebbe molta occupazione."
+            },
+            {
+              "nl": "de doelgroep",
+              "it": "il pubblico di riferimento",
+              "en": "target group",
+              "emoji": "🎯",
+              "pos": "n",
+              "exampleNl": "De reclame is op een jonge doelgroep gericht.",
+              "exampleIt": "La pubblicità è rivolta a un pubblico giovane."
             }
           ]
         }
@@ -471,6 +807,138 @@
               "exampleIt": "Le aziende prestano sempre più attenzione alla sostenibilità e all'ambiente."
             }
           ]
+        },
+        {
+          "id": "b2u3l3",
+          "title": "Ambiente (2)",
+          "items": [
+            {
+              "nl": "het landschap",
+              "it": "il paesaggio",
+              "en": "landscape",
+              "emoji": "🏞️",
+              "pos": "n",
+              "exampleNl": "Het landschap werd door de mens sterk veranderd.",
+              "exampleIt": "Il paesaggio è stato molto cambiato dall'uomo."
+            },
+            {
+              "nl": "de woestijn",
+              "it": "il deserto",
+              "en": "desert",
+              "emoji": "🏜️",
+              "pos": "n",
+              "exampleNl": "Door de droogte breidt de woestijn zich uit.",
+              "exampleIt": "A causa della siccità il deserto si espande."
+            },
+            {
+              "nl": "de gletsjer",
+              "it": "il ghiacciaio",
+              "en": "glacier",
+              "emoji": "🏔️",
+              "pos": "n",
+              "exampleNl": "De gletsjers smelten door de opwarming snel.",
+              "exampleIt": "I ghiacciai si sciolgono in fretta per il riscaldamento."
+            },
+            {
+              "nl": "de orkaan",
+              "it": "l'uragano",
+              "en": "hurricane",
+              "emoji": "🌀",
+              "pos": "n",
+              "exampleNl": "De orkaan richtte enorme schade aan.",
+              "exampleIt": "L'uragano ha causato danni enormi."
+            },
+            {
+              "nl": "de aardbeving",
+              "it": "il terremoto",
+              "en": "earthquake",
+              "emoji": "🌍",
+              "pos": "n",
+              "exampleNl": "De stad werd door een zware aardbeving getroffen.",
+              "exampleIt": "La città è stata colpita da un forte terremoto."
+            },
+            {
+              "nl": "de vulkaan",
+              "it": "il vulcano",
+              "en": "volcano",
+              "emoji": "🌋",
+              "pos": "n",
+              "exampleNl": "De vulkaan is al honderd jaar niet uitgebarsten.",
+              "exampleIt": "Il vulcano non erutta da cent'anni."
+            },
+            {
+              "nl": "de ontbossing",
+              "it": "la deforestazione",
+              "en": "deforestation",
+              "emoji": "🪓",
+              "pos": "n",
+              "exampleNl": "De ontbossing bedreigt veel diersoorten.",
+              "exampleIt": "La deforestazione minaccia molte specie animali."
+            },
+            {
+              "nl": "het regenwoud",
+              "it": "la foresta pluviale",
+              "en": "rainforest",
+              "emoji": "🌴",
+              "pos": "n",
+              "exampleNl": "Het regenwoud wordt in hoog tempo gekapt.",
+              "exampleIt": "La foresta pluviale viene abbattuta a ritmo elevato."
+            },
+            {
+              "nl": "de koolstof",
+              "it": "il carbonio",
+              "en": "carbon",
+              "emoji": "⚫",
+              "pos": "n",
+              "exampleNl": "Bomen nemen koolstof uit de lucht op.",
+              "exampleIt": "Gli alberi assorbono il carbonio dall'aria."
+            },
+            {
+              "nl": "de waterstof",
+              "it": "l'idrogeno",
+              "en": "hydrogen",
+              "emoji": "💧",
+              "pos": "n",
+              "exampleNl": "Waterstof zou een schone brandstof kunnen zijn.",
+              "exampleIt": "L'idrogeno potrebbe essere un combustibile pulito."
+            },
+            {
+              "nl": "de klimaattop",
+              "it": "il vertice sul clima",
+              "en": "climate summit",
+              "emoji": "🌐",
+              "pos": "n",
+              "exampleNl": "Op de klimaattop werden nieuwe doelen afgesproken.",
+              "exampleIt": "Al vertice sul clima sono stati concordati nuovi obiettivi."
+            },
+            {
+              "nl": "het grondwater",
+              "it": "la falda acquifera",
+              "en": "groundwater",
+              "emoji": "🚰",
+              "pos": "n",
+              "exampleNl": "Het grondwater raakt door de droogte op.",
+              "exampleIt": "La falda si esaurisce a causa della siccità."
+            },
+            {
+              "nl": "de leefomgeving",
+              "it": "l'habitat / l'ambiente di vita",
+              "en": "habitat",
+              "emoji": "🐾",
+              "pos": "n",
+              "exampleNl": "De leefomgeving van veel dieren verdwijnt.",
+              "exampleIt": "L'habitat di molti animali scompare."
+            },
+            {
+              "nl": "de afvalverwerking",
+              "it": "lo smaltimento dei rifiuti",
+              "en": "waste processing",
+              "emoji": "♻️",
+              "pos": "n",
+              "exampleNl": "De afvalverwerking wordt steeds duurzamer.",
+              "exampleIt": "Lo smaltimento dei rifiuti diventa sempre più sostenibile."
+            }
+          ]
         }
       ]
     },
@@ -572,6 +1040,156 @@
               "pos": "n",
               "exampleNl": "Ze hebben ruzie gemaakt omdat ze het niet eens waren.",
               "exampleIt": "Hanno litigato perché non erano d'accordo."
+            }
+          ]
+        },
+        {
+          "id": "b2u4l2",
+          "title": "Carattere (2)",
+          "items": [
+            {
+              "nl": "arrogant",
+              "it": "arrogante",
+              "en": "arrogant",
+              "emoji": "😤",
+              "pos": "adj",
+              "exampleNl": "Zijn arrogante houding ergert iedereen.",
+              "exampleIt": "Il suo atteggiamento arrogante infastidisce tutti."
+            },
+            {
+              "nl": "creatief",
+              "it": "creativo",
+              "en": "creative",
+              "emoji": "🎨",
+              "pos": "adj",
+              "exampleNl": "Ze bedenkt altijd creatieve oplossingen.",
+              "exampleIt": "Trova sempre soluzioni creative."
+            },
+            {
+              "nl": "verantwoordelijk",
+              "it": "responsabile",
+              "en": "responsible",
+              "emoji": "🎯",
+              "pos": "adj",
+              "exampleNl": "Hij voelt zich verantwoordelijk voor het team.",
+              "exampleIt": "Si sente responsabile per la squadra."
+            },
+            {
+              "nl": "tolerant",
+              "it": "tollerante",
+              "en": "tolerant",
+              "emoji": "🕊️",
+              "pos": "adj",
+              "exampleNl": "Een tolerante samenleving accepteert verschillen.",
+              "exampleIt": "Una società tollerante accetta le differenze."
+            },
+            {
+              "nl": "humeurig",
+              "it": "lunatico / di malumore",
+              "en": "moody",
+              "emoji": "😒",
+              "pos": "adj",
+              "exampleNl": "'s Ochtends is hij vaak humeurig.",
+              "exampleIt": "La mattina è spesso di malumore."
+            },
+            {
+              "nl": "gereserveerd",
+              "it": "riservato",
+              "en": "reserved",
+              "emoji": "🤐",
+              "pos": "adj",
+              "exampleNl": "Bij vreemden is ze nogal gereserveerd.",
+              "exampleIt": "Con gli estranei è piuttosto riservata."
+            },
+            {
+              "nl": "sociaal",
+              "it": "socievole / sociale",
+              "en": "social",
+              "emoji": "🤗",
+              "pos": "adj",
+              "exampleNl": "Hij is heel sociaal en kent veel mensen.",
+              "exampleIt": "È molto socievole e conosce molte persone."
+            },
+            {
+              "nl": "dominant",
+              "it": "dominante",
+              "en": "dominant",
+              "emoji": "👑",
+              "pos": "adj",
+              "exampleNl": "Haar dominante karakter valt meteen op.",
+              "exampleIt": "Il suo carattere dominante si nota subito."
+            },
+            {
+              "nl": "meelevend",
+              "it": "empatico / premuroso",
+              "en": "empathetic",
+              "emoji": "🫂",
+              "pos": "adj",
+              "exampleNl": "Een meelevende arts luistert echt naar de patiënt.",
+              "exampleIt": "Un medico premuroso ascolta davvero il paziente."
+            },
+            {
+              "nl": "wantrouwig",
+              "it": "diffidente",
+              "en": "distrustful",
+              "emoji": "🧐",
+              "pos": "adj",
+              "exampleNl": "Na het bedrog werd hij erg wantrouwig.",
+              "exampleIt": "Dopo l'inganno è diventato molto diffidente."
+            },
+            {
+              "nl": "oprecht",
+              "it": "sincero",
+              "en": "sincere",
+              "emoji": "🤲",
+              "pos": "adj",
+              "exampleNl": "Zijn excuses leken volkomen oprecht.",
+              "exampleIt": "Le sue scuse sembravano del tutto sincere."
+            },
+            {
+              "nl": "hartelijk",
+              "it": "cordiale / caloroso",
+              "en": "cordial",
+              "emoji": "❤️",
+              "pos": "adj",
+              "exampleNl": "We werden heel hartelijk ontvangen.",
+              "exampleIt": "Siamo stati accolti molto calorosamente."
+            },
+            {
+              "nl": "de persoonlijkheid",
+              "it": "la personalità",
+              "en": "personality",
+              "emoji": "🧬",
+              "pos": "n",
+              "exampleNl": "Zij heeft een sterke en warme persoonlijkheid.",
+              "exampleIt": "Ha una personalità forte e calorosa."
+            },
+            {
+              "nl": "het temperament",
+              "it": "il temperamento",
+              "en": "temperament",
+              "emoji": "🔥",
+              "pos": "n",
+              "exampleNl": "Door zijn temperament wordt hij snel boos.",
+              "exampleIt": "Per il suo temperamento si arrabbia facilmente."
+            },
+            {
+              "nl": "de houding",
+              "it": "l'atteggiamento",
+              "en": "attitude",
+              "emoji": "🧍",
+              "pos": "n",
+              "exampleNl": "Zijn positieve houding werkt aanstekelijk.",
+              "exampleIt": "Il suo atteggiamento positivo è contagioso."
+            },
+            {
+              "nl": "het wantrouwen",
+              "it": "la diffidenza",
+              "en": "distrust",
+              "emoji": "🚫",
+              "pos": "n",
+              "exampleNl": "Er heerste veel wantrouwen tussen de collega's.",
+              "exampleIt": "Tra i colleghi regnava molta diffidenza."
             }
           ]
         }
@@ -723,6 +1341,156 @@
               "exampleIt": "Molti preferiscono investire i loro risparmi in immobili."
             }
           ]
+        },
+        {
+          "id": "b2u5l2",
+          "title": "Economia (2)",
+          "items": [
+            {
+              "nl": "de werkloosheid",
+              "it": "la disoccupazione",
+              "en": "unemployment",
+              "emoji": "📉",
+              "pos": "n",
+              "exampleNl": "De werkloosheid is dit jaar gedaald.",
+              "exampleIt": "La disoccupazione è calata quest'anno."
+            },
+            {
+              "nl": "de groei",
+              "it": "la crescita",
+              "en": "growth",
+              "emoji": "📈",
+              "pos": "n",
+              "exampleNl": "De economische groei werd door de crisis afgeremd.",
+              "exampleIt": "La crescita economica è stata frenata dalla crisi."
+            },
+            {
+              "nl": "de recessie",
+              "it": "la recessione",
+              "en": "recession",
+              "emoji": "⬇️",
+              "pos": "n",
+              "exampleNl": "Tijdens de recessie verloren velen hun baan.",
+              "exampleIt": "Durante la recessione molti persero il lavoro."
+            },
+            {
+              "nl": "de begroting",
+              "it": "il bilancio (preventivo)",
+              "en": "budget",
+              "emoji": "🧾",
+              "pos": "n",
+              "exampleNl": "De begroting werd door het parlement aangenomen.",
+              "exampleIt": "Il bilancio è stato approvato dal parlamento."
+            },
+            {
+              "nl": "het tekort",
+              "it": "il deficit / la carenza",
+              "en": "deficit",
+              "emoji": "➖",
+              "pos": "n",
+              "exampleNl": "Het tekort op de begroting moet verkleind worden.",
+              "exampleIt": "Il deficit di bilancio deve essere ridotto."
+            },
+            {
+              "nl": "het overschot",
+              "it": "l'eccedenza / il surplus",
+              "en": "surplus",
+              "emoji": "➕",
+              "pos": "n",
+              "exampleNl": "Dit jaar is er een overschot op de begroting.",
+              "exampleIt": "Quest'anno c'è un surplus di bilancio."
+            },
+            {
+              "nl": "de belegging",
+              "it": "l'investimento",
+              "en": "investment",
+              "emoji": "💹",
+              "pos": "n",
+              "exampleNl": "Een belegging in aandelen brengt risico's met zich mee.",
+              "exampleIt": "Un investimento in azioni comporta dei rischi."
+            },
+            {
+              "nl": "de consumptie",
+              "it": "il consumo",
+              "en": "consumption",
+              "emoji": "🛒",
+              "pos": "n",
+              "exampleNl": "De consumptie van vlees is de laatste jaren gedaald.",
+              "exampleIt": "Il consumo di carne è calato negli ultimi anni."
+            },
+            {
+              "nl": "de bezuiniging",
+              "it": "il taglio (di spesa)",
+              "en": "budget cut",
+              "emoji": "✂️",
+              "pos": "n",
+              "exampleNl": "De bezuinigingen treffen vooral het onderwijs.",
+              "exampleIt": "I tagli colpiscono soprattutto l'istruzione."
+            },
+            {
+              "nl": "de subsidie",
+              "it": "il sussidio / il contributo",
+              "en": "subsidy",
+              "emoji": "💶",
+              "pos": "n",
+              "exampleNl": "Het project wordt met een subsidie gefinancierd.",
+              "exampleIt": "Il progetto è finanziato con un sussidio."
+            },
+            {
+              "nl": "de koopkracht",
+              "it": "il potere d'acquisto",
+              "en": "purchasing power",
+              "emoji": "🛍️",
+              "pos": "n",
+              "exampleNl": "Door de inflatie daalt de koopkracht.",
+              "exampleIt": "Per l'inflazione cala il potere d'acquisto."
+            },
+            {
+              "nl": "de prijsstijging",
+              "it": "l'aumento dei prezzi",
+              "en": "price increase",
+              "emoji": "🔺",
+              "pos": "n",
+              "exampleNl": "De prijsstijging raakt vooral arme gezinnen.",
+              "exampleIt": "L'aumento dei prezzi colpisce soprattutto le famiglie povere."
+            },
+            {
+              "nl": "de loonsverhoging",
+              "it": "l'aumento di stipendio",
+              "en": "pay rise",
+              "emoji": "💵",
+              "pos": "n",
+              "exampleNl": "De werknemers eisen een loonsverhoging.",
+              "exampleIt": "I lavoratori chiedono un aumento di stipendio."
+            },
+            {
+              "nl": "de schuldenlast",
+              "it": "l'indebitamento",
+              "en": "debt burden",
+              "emoji": "⛓️",
+              "pos": "n",
+              "exampleNl": "De schuldenlast van het land blijft groeien.",
+              "exampleIt": "L'indebitamento del paese continua a crescere."
+            },
+            {
+              "nl": "de winstmarge",
+              "it": "il margine di profitto",
+              "en": "profit margin",
+              "emoji": "📊",
+              "pos": "n",
+              "exampleNl": "De winstmarge is dit kwartaal kleiner geworden.",
+              "exampleIt": "Il margine di profitto è diminuito questo trimestre."
+            },
+            {
+              "nl": "de kredietcrisis",
+              "it": "la crisi del credito",
+              "en": "credit crisis",
+              "emoji": "🏦",
+              "pos": "n",
+              "exampleNl": "De kredietcrisis trof banken over de hele wereld.",
+              "exampleIt": "La crisi del credito colpì le banche di tutto il mondo."
+            }
+          ]
         }
       ]
     },
@@ -863,6 +1631,156 @@
               "exampleIt": "Il paziente fu mandato a casa dopo la cura."
             }
           ]
+        },
+        {
+          "id": "b2u6l2",
+          "title": "Sanità (2)",
+          "items": [
+            {
+              "nl": "de chirurg",
+              "it": "il chirurgo",
+              "en": "surgeon",
+              "emoji": "🔪",
+              "pos": "n",
+              "exampleNl": "De chirurg voerde de operatie zorgvuldig uit.",
+              "exampleIt": "Il chirurgo eseguì l'operazione con cura."
+            },
+            {
+              "nl": "de anesthesie",
+              "it": "l'anestesia",
+              "en": "anaesthesia",
+              "emoji": "💉",
+              "pos": "n",
+              "exampleNl": "Onder anesthesie voel je niets van de ingreep.",
+              "exampleIt": "Sotto anestesia non senti nulla dell'intervento."
+            },
+            {
+              "nl": "de transplantatie",
+              "it": "il trapianto",
+              "en": "transplant",
+              "emoji": "🫀",
+              "pos": "n",
+              "exampleNl": "De transplantatie werd door een specialist gedaan.",
+              "exampleIt": "Il trapianto è stato eseguito da uno specialista."
+            },
+            {
+              "nl": "het orgaan",
+              "it": "l'organo",
+              "en": "organ",
+              "emoji": "🫁",
+              "pos": "n",
+              "exampleNl": "Een gezond orgaan kan een leven redden.",
+              "exampleIt": "Un organo sano può salvare una vita."
+            },
+            {
+              "nl": "de tumor",
+              "it": "il tumore",
+              "en": "tumour",
+              "emoji": "🩺",
+              "pos": "n",
+              "exampleNl": "Gelukkig bleek de tumor goedaardig te zijn.",
+              "exampleIt": "Per fortuna il tumore si è rivelato benigno."
+            },
+            {
+              "nl": "de chemotherapie",
+              "it": "la chemioterapia",
+              "en": "chemotherapy",
+              "emoji": "💊",
+              "pos": "n",
+              "exampleNl": "Na de chemotherapie voelde ze zich zwak.",
+              "exampleIt": "Dopo la chemioterapia si sentiva debole."
+            },
+            {
+              "nl": "de epidemie",
+              "it": "l'epidemia",
+              "en": "epidemic",
+              "emoji": "🦠",
+              "pos": "n",
+              "exampleNl": "De epidemie werd snel onder controle gebracht.",
+              "exampleIt": "L'epidemia è stata rapidamente messa sotto controllo."
+            },
+            {
+              "nl": "de pandemie",
+              "it": "la pandemia",
+              "en": "pandemic",
+              "emoji": "🌐",
+              "pos": "n",
+              "exampleNl": "Tijdens de pandemie werkten veel mensen thuis.",
+              "exampleIt": "Durante la pandemia molti lavoravano da casa."
+            },
+            {
+              "nl": "het vaccin",
+              "it": "il vaccino",
+              "en": "vaccine",
+              "emoji": "💉",
+              "pos": "n",
+              "exampleNl": "Het vaccin werd in recordtijd ontwikkeld.",
+              "exampleIt": "Il vaccino è stato sviluppato in tempi record."
+            },
+            {
+              "nl": "de immuniteit",
+              "it": "l'immunità",
+              "en": "immunity",
+              "emoji": "🛡️",
+              "pos": "n",
+              "exampleNl": "Na de ziekte bouw je immuniteit op.",
+              "exampleIt": "Dopo la malattia si sviluppa l'immunità."
+            },
+            {
+              "nl": "de bijwerking",
+              "it": "l'effetto collaterale",
+              "en": "side effect",
+              "emoji": "⚠️",
+              "pos": "n",
+              "exampleNl": "Dit medicijn heeft weinig bijwerkingen.",
+              "exampleIt": "Questo farmaco ha pochi effetti collaterali."
+            },
+            {
+              "nl": "de aandoening",
+              "it": "la patologia / il disturbo",
+              "en": "disorder",
+              "emoji": "🩹",
+              "pos": "n",
+              "exampleNl": "Hij lijdt aan een zeldzame aandoening.",
+              "exampleIt": "Soffre di una patologia rara."
+            },
+            {
+              "nl": "de zorgverlener",
+              "it": "l'operatore sanitario",
+              "en": "caregiver",
+              "emoji": "🧑‍⚕️",
+              "pos": "n",
+              "exampleNl": "De zorgverleners werden door iedereen geprezen.",
+              "exampleIt": "Gli operatori sanitari sono stati lodati da tutti."
+            },
+            {
+              "nl": "de prognose",
+              "it": "la prognosi",
+              "en": "prognosis",
+              "emoji": "📈",
+              "pos": "n",
+              "exampleNl": "De prognose van de patiënt is gunstig.",
+              "exampleIt": "La prognosi del paziente è favorevole."
+            },
+            {
+              "nl": "de erfelijkheid",
+              "it": "l'ereditarietà",
+              "en": "heredity",
+              "emoji": "🧬",
+              "pos": "n",
+              "exampleNl": "Sommige ziektes hebben met erfelijkheid te maken.",
+              "exampleIt": "Alcune malattie hanno a che fare con l'ereditarietà."
+            },
+            {
+              "nl": "het geneesmiddel",
+              "it": "il farmaco",
+              "en": "medicine",
+              "emoji": "💊",
+              "pos": "n",
+              "exampleNl": "Het geneesmiddel werd grondig getest.",
+              "exampleIt": "Il farmaco è stato testato a fondo."
+            }
+          ]
         }
       ]
     },
@@ -994,6 +1912,156 @@
               "exampleIt": "Gira voce che l'azienda chiuderà."
             }
           ]
+        },
+        {
+          "id": "b2u7l2",
+          "title": "Media (2)",
+          "items": [
+            {
+              "nl": "de journalist",
+              "it": "il giornalista",
+              "en": "journalist",
+              "emoji": "🎙️",
+              "pos": "n",
+              "exampleNl": "De journalist onthulde een groot schandaal.",
+              "exampleIt": "Il giornalista ha rivelato un grande scandalo."
+            },
+            {
+              "nl": "de redactie",
+              "it": "la redazione",
+              "en": "editorial team",
+              "emoji": "📰",
+              "pos": "n",
+              "exampleNl": "De redactie besloot het artikel niet te plaatsen.",
+              "exampleIt": "La redazione decise di non pubblicare l'articolo."
+            },
+            {
+              "nl": "het medium",
+              "it": "il mezzo (di comunicazione)",
+              "en": "medium",
+              "emoji": "📡",
+              "pos": "n",
+              "exampleNl": "Het internet is een krachtig medium geworden.",
+              "exampleIt": "Internet è diventato un mezzo potente."
+            },
+            {
+              "nl": "de berichtgeving",
+              "it": "l'informazione (giornalistica)",
+              "en": "news coverage",
+              "emoji": "🗞️",
+              "pos": "n",
+              "exampleNl": "De berichtgeving over de oorlog was eenzijdig.",
+              "exampleIt": "L'informazione sulla guerra era di parte."
+            },
+            {
+              "nl": "de censuur",
+              "it": "la censura",
+              "en": "censorship",
+              "emoji": "🚫",
+              "pos": "n",
+              "exampleNl": "In dat land bestaat er strenge censuur.",
+              "exampleIt": "In quel paese esiste una severa censura."
+            },
+            {
+              "nl": "het nepnieuws",
+              "it": "le notizie false",
+              "en": "fake news",
+              "emoji": "❌",
+              "pos": "n",
+              "exampleNl": "Nepnieuws wordt razendsnel verspreid.",
+              "exampleIt": "Le notizie false si diffondono velocissimamente."
+            },
+            {
+              "nl": "de hoofdredacteur",
+              "it": "il direttore (di giornale)",
+              "en": "editor-in-chief",
+              "emoji": "🖊️",
+              "pos": "n",
+              "exampleNl": "De hoofdredacteur keurde het stuk goed.",
+              "exampleIt": "Il direttore ha approvato l'articolo."
+            },
+            {
+              "nl": "de oplage",
+              "it": "la tiratura",
+              "en": "circulation",
+              "emoji": "🔢",
+              "pos": "n",
+              "exampleNl": "De oplage van de krant daalt elk jaar.",
+              "exampleIt": "La tiratura del giornale cala ogni anno."
+            },
+            {
+              "nl": "de objectiviteit",
+              "it": "l'obiettività",
+              "en": "objectivity",
+              "emoji": "⚖️",
+              "pos": "n",
+              "exampleNl": "Objectiviteit is voor een journalist belangrijk.",
+              "exampleIt": "L'obiettività è importante per un giornalista."
+            },
+            {
+              "nl": "de manipulatie",
+              "it": "la manipolazione",
+              "en": "manipulation",
+              "emoji": "🎭",
+              "pos": "n",
+              "exampleNl": "Reclame maakt soms gebruik van manipulatie.",
+              "exampleIt": "La pubblicità a volte usa la manipolazione."
+            },
+            {
+              "nl": "de propaganda",
+              "it": "la propaganda",
+              "en": "propaganda",
+              "emoji": "📢",
+              "pos": "n",
+              "exampleNl": "De propaganda werd door de staat verspreid.",
+              "exampleIt": "La propaganda è stata diffusa dallo stato."
+            },
+            {
+              "nl": "de roddel",
+              "it": "il pettegolezzo",
+              "en": "gossip",
+              "emoji": "🗣️",
+              "pos": "n",
+              "exampleNl": "De roddel bleek volledig verzonnen.",
+              "exampleIt": "Il pettegolezzo si è rivelato del tutto inventato."
+            },
+            {
+              "nl": "de krantenkop",
+              "it": "il titolo di giornale",
+              "en": "headline",
+              "emoji": "🗞️",
+              "pos": "n",
+              "exampleNl": "De krantenkop trok meteen de aandacht.",
+              "exampleIt": "Il titolo attirò subito l'attenzione."
+            },
+            {
+              "nl": "de persvrijheid",
+              "it": "la libertà di stampa",
+              "en": "press freedom",
+              "emoji": "🕊️",
+              "pos": "n",
+              "exampleNl": "Persvrijheid is een pijler van de democratie.",
+              "exampleIt": "La libertà di stampa è un pilastro della democrazia."
+            },
+            {
+              "nl": "de kijkcijfers",
+              "it": "gli ascolti / lo share",
+              "en": "ratings",
+              "emoji": "📺",
+              "pos": "n",
+              "exampleNl": "De kijkcijfers van het programma waren hoog.",
+              "exampleIt": "Gli ascolti del programma erano alti."
+            },
+            {
+              "nl": "de desinformatie",
+              "it": "la disinformazione",
+              "en": "disinformation",
+              "emoji": "🌀",
+              "pos": "n",
+              "exampleNl": "Tijdens de crisis nam de desinformatie toe.",
+              "exampleIt": "Durante la crisi la disinformazione aumentò."
+            }
+          ]
         }
       ]
     },
@@ -1123,6 +2191,156 @@
               "pos": "n",
               "exampleNl": "Het vonnis wordt volgende week door de rechter uitgesproken.",
               "exampleIt": "La sentenza sarà pronunciata dal giudice la prossima settimana."
+            }
+          ]
+        },
+        {
+          "id": "b2u8l2",
+          "title": "Giustizia (2)",
+          "items": [
+            {
+              "nl": "de jurisprudentie",
+              "it": "la giurisprudenza",
+              "en": "case law",
+              "emoji": "📚",
+              "pos": "n",
+              "exampleNl": "De rechter baseerde zich op de jurisprudentie.",
+              "exampleIt": "Il giudice si basò sulla giurisprudenza."
+            },
+            {
+              "nl": "de rechtszaak",
+              "it": "il processo / la causa",
+              "en": "lawsuit",
+              "emoji": "⚖️",
+              "pos": "n",
+              "exampleNl": "De rechtszaak duurde meer dan een jaar.",
+              "exampleIt": "Il processo è durato più di un anno."
+            },
+            {
+              "nl": "de aanklacht",
+              "it": "l'accusa / il capo d'imputazione",
+              "en": "charge",
+              "emoji": "📋",
+              "pos": "n",
+              "exampleNl": "De aanklacht tegen hem werd ingetrokken.",
+              "exampleIt": "L'accusa contro di lui è stata ritirata."
+            },
+            {
+              "nl": "de aanklager",
+              "it": "il pubblico ministero",
+              "en": "prosecutor",
+              "emoji": "🧑‍⚖️",
+              "pos": "n",
+              "exampleNl": "De aanklager eiste een zware straf.",
+              "exampleIt": "Il pubblico ministero chiese una pena severa."
+            },
+            {
+              "nl": "de verdachte",
+              "it": "l'indagato / il sospettato",
+              "en": "suspect",
+              "emoji": "🕵️",
+              "pos": "n",
+              "exampleNl": "De verdachte werd door de politie verhoord.",
+              "exampleIt": "Il sospettato è stato interrogato dalla polizia."
+            },
+            {
+              "nl": "de verdediging",
+              "it": "la difesa",
+              "en": "defence",
+              "emoji": "🛡️",
+              "pos": "n",
+              "exampleNl": "De verdediging voerde sterke argumenten aan.",
+              "exampleIt": "La difesa ha portato argomenti forti."
+            },
+            {
+              "nl": "de jury",
+              "it": "la giuria",
+              "en": "jury",
+              "emoji": "👥",
+              "pos": "n",
+              "exampleNl": "De jury kwam na uren tot een oordeel.",
+              "exampleIt": "La giuria giunse a un verdetto dopo ore."
+            },
+            {
+              "nl": "de bekentenis",
+              "it": "la confessione",
+              "en": "confession",
+              "emoji": "🗣️",
+              "pos": "n",
+              "exampleNl": "De verdachte legde een volledige bekentenis af.",
+              "exampleIt": "L'indagato rese una piena confessione."
+            },
+            {
+              "nl": "het alibi",
+              "it": "l'alibi",
+              "en": "alibi",
+              "emoji": "🕰️",
+              "pos": "n",
+              "exampleNl": "Zijn alibi werd door getuigen bevestigd.",
+              "exampleIt": "Il suo alibi è stato confermato dai testimoni."
+            },
+            {
+              "nl": "de veroordeling",
+              "it": "la condanna",
+              "en": "conviction",
+              "emoji": "🔒",
+              "pos": "n",
+              "exampleNl": "De veroordeling kwam voor velen als een verrassing.",
+              "exampleIt": "La condanna fu una sorpresa per molti."
+            },
+            {
+              "nl": "de vrijspraak",
+              "it": "l'assoluzione",
+              "en": "acquittal",
+              "emoji": "🕊️",
+              "pos": "n",
+              "exampleNl": "Na de vrijspraak was hij eindelijk vrij.",
+              "exampleIt": "Dopo l'assoluzione era finalmente libero."
+            },
+            {
+              "nl": "het misdrijf",
+              "it": "il reato",
+              "en": "crime",
+              "emoji": "🚔",
+              "pos": "n",
+              "exampleNl": "Voor dit misdrijf staat een hoge straf.",
+              "exampleIt": "Per questo reato è prevista una pena alta."
+            },
+            {
+              "nl": "de dader",
+              "it": "il colpevole / l'autore",
+              "en": "perpetrator",
+              "emoji": "👤",
+              "pos": "n",
+              "exampleNl": "De dader werd na een week opgepakt.",
+              "exampleIt": "Il colpevole è stato arrestato dopo una settimana."
+            },
+            {
+              "nl": "de fraude",
+              "it": "la frode",
+              "en": "fraud",
+              "emoji": "💸",
+              "pos": "n",
+              "exampleNl": "De fraude werd door een accountant ontdekt.",
+              "exampleIt": "La frode è stata scoperta da un contabile."
+            },
+            {
+              "nl": "de corruptie",
+              "it": "la corruzione",
+              "en": "corruption",
+              "emoji": "🤝",
+              "pos": "n",
+              "exampleNl": "De corruptie binnen de partij werd onthuld.",
+              "exampleIt": "La corruzione nel partito è stata svelata."
+            },
+            {
+              "nl": "de hechtenis",
+              "it": "la detenzione / il fermo",
+              "en": "detention",
+              "emoji": "⛓️",
+              "pos": "n",
+              "exampleNl": "De verdachte zit nog in hechtenis.",
+              "exampleIt": "Il sospettato è ancora in stato di fermo."
             }
           ]
         }
@@ -1263,6 +2481,1582 @@
               "pos": "n",
               "exampleNl": "De bezoekers mochten geen foto's maken in het museum.",
               "exampleIt": "I visitatori non potevano fare foto nel museo."
+            }
+          ]
+        },
+        {
+          "id": "b2u9l2",
+          "title": "Arte (2)",
+          "items": [
+            {
+              "nl": "het kunstwerk",
+              "it": "l'opera d'arte",
+              "en": "artwork",
+              "emoji": "🖼️",
+              "pos": "n",
+              "exampleNl": "Het kunstwerk werd voor miljoenen verkocht.",
+              "exampleIt": "L'opera d'arte è stata venduta per milioni."
+            },
+            {
+              "nl": "de beeldhouwer",
+              "it": "lo scultore",
+              "en": "sculptor",
+              "emoji": "🗿",
+              "pos": "n",
+              "exampleNl": "De beeldhouwer werkte jaren aan dit beeld.",
+              "exampleIt": "Lo scultore lavorò anni a questa statua."
+            },
+            {
+              "nl": "de architectuur",
+              "it": "l'architettura",
+              "en": "architecture",
+              "emoji": "🏛️",
+              "pos": "n",
+              "exampleNl": "De architectuur van de stad is wereldberoemd.",
+              "exampleIt": "L'architettura della città è famosa nel mondo."
+            },
+            {
+              "nl": "de fotografie",
+              "it": "la fotografia",
+              "en": "photography",
+              "emoji": "📷",
+              "pos": "n",
+              "exampleNl": "Zij studeerde fotografie aan de kunstacademie.",
+              "exampleIt": "Ha studiato fotografia all'accademia d'arte."
+            },
+            {
+              "nl": "het talent",
+              "it": "il talento",
+              "en": "talent",
+              "emoji": "🌟",
+              "pos": "n",
+              "exampleNl": "Zijn talent werd al vroeg ontdekt.",
+              "exampleIt": "Il suo talento è stato scoperto presto."
+            },
+            {
+              "nl": "de inspiratie",
+              "it": "l'ispirazione",
+              "en": "inspiration",
+              "emoji": "💡",
+              "pos": "n",
+              "exampleNl": "De natuur was zijn grootste inspiratie.",
+              "exampleIt": "La natura era la sua più grande ispirazione."
+            },
+            {
+              "nl": "de stijl",
+              "it": "lo stile",
+              "en": "style",
+              "emoji": "🎭",
+              "pos": "n",
+              "exampleNl": "Deze schilder ontwikkelde een eigen stijl.",
+              "exampleIt": "Questo pittore sviluppò uno stile proprio."
+            },
+            {
+              "nl": "de stroming",
+              "it": "la corrente (artistica)",
+              "en": "movement",
+              "emoji": "🌊",
+              "pos": "n",
+              "exampleNl": "Het impressionisme is een bekende stroming.",
+              "exampleIt": "L'impressionismo è una corrente nota."
+            },
+            {
+              "nl": "het genre",
+              "it": "il genere",
+              "en": "genre",
+              "emoji": "📚",
+              "pos": "n",
+              "exampleNl": "Dit boek hoort tot het genre van de thriller.",
+              "exampleIt": "Questo libro appartiene al genere del thriller."
+            },
+            {
+              "nl": "de componist",
+              "it": "il compositore",
+              "en": "composer",
+              "emoji": "🎼",
+              "pos": "n",
+              "exampleNl": "De componist schreef de muziek voor de film.",
+              "exampleIt": "Il compositore scrisse la musica per il film."
+            },
+            {
+              "nl": "het orkest",
+              "it": "l'orchestra",
+              "en": "orchestra",
+              "emoji": "🎻",
+              "pos": "n",
+              "exampleNl": "Het orkest werd door een beroemde dirigent geleid.",
+              "exampleIt": "L'orchestra fu diretta da un famoso direttore."
+            },
+            {
+              "nl": "de dirigent",
+              "it": "il direttore d'orchestra",
+              "en": "conductor",
+              "emoji": "🎶",
+              "pos": "n",
+              "exampleNl": "De dirigent kreeg een lang applaus.",
+              "exampleIt": "Il direttore ricevette un lungo applauso."
+            },
+            {
+              "nl": "de literatuur",
+              "it": "la letteratura",
+              "en": "literature",
+              "emoji": "📖",
+              "pos": "n",
+              "exampleNl": "Hij is gespecialiseerd in Italiaanse literatuur.",
+              "exampleIt": "È specializzato in letteratura italiana."
+            },
+            {
+              "nl": "de poëzie",
+              "it": "la poesia",
+              "en": "poetry",
+              "emoji": "✒️",
+              "pos": "n",
+              "exampleNl": "Poëzie raakt mensen op een diepe manier.",
+              "exampleIt": "La poesia tocca le persone in modo profondo."
+            },
+            {
+              "nl": "het gedicht",
+              "it": "la poesia (componimento)",
+              "en": "poem",
+              "emoji": "📜",
+              "pos": "n",
+              "exampleNl": "Het gedicht werd op de bruiloft voorgelezen.",
+              "exampleIt": "La poesia è stata letta al matrimonio."
+            },
+            {
+              "nl": "de recensie",
+              "it": "la recensione",
+              "en": "review",
+              "emoji": "⭐",
+              "pos": "n",
+              "exampleNl": "De recensie van de film was lovend.",
+              "exampleIt": "La recensione del film era entusiasta."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2u10",
+      "title": "Scienza e tecnologia",
+      "icon": "🔬",
+      "tip": "Lessico scientifico. Neutri: het experiment, het atoom, het heelal, het algoritme, het laboratorium, het molecuul. Spesso al passivo.",
+      "lessons": [
+        {
+          "id": "b2u10l1",
+          "title": "Ricerca e scoperte",
+          "items": [
+            {
+              "nl": "de wetenschap",
+              "it": "la scienza",
+              "en": "science",
+              "emoji": "🔬",
+              "pos": "n",
+              "exampleNl": "De wetenschap heeft veel raadsels opgelost.",
+              "exampleIt": "La scienza ha risolto molti enigmi."
+            },
+            {
+              "nl": "de speculatie",
+              "it": "la speculazione / l'ipotesi",
+              "en": "speculation",
+              "emoji": "💭",
+              "pos": "n",
+              "exampleNl": "Het bleef bij speculatie zonder echt bewijs.",
+              "exampleIt": "Restò una speculazione senza prove reali."
+            },
+            {
+              "nl": "het experiment",
+              "it": "l'esperimento",
+              "en": "experiment",
+              "emoji": "🧪",
+              "pos": "n",
+              "exampleNl": "Het experiment werd meerdere keren herhaald.",
+              "exampleIt": "L'esperimento è stato ripetuto più volte."
+            },
+            {
+              "nl": "de gevolgtrekking",
+              "it": "la deduzione / la conclusione",
+              "en": "inference",
+              "emoji": "🧩",
+              "pos": "n",
+              "exampleNl": "Uit het rapport maakte hij een logische gevolgtrekking.",
+              "exampleIt": "Dal rapporto trasse una deduzione logica."
+            },
+            {
+              "nl": "de formule",
+              "it": "la formula",
+              "en": "formula",
+              "emoji": "➗",
+              "pos": "n",
+              "exampleNl": "De formule beschrijft de beweging van planeten.",
+              "exampleIt": "La formula descrive il moto dei pianeti."
+            },
+            {
+              "nl": "het molecuul",
+              "it": "la molecola",
+              "en": "molecule",
+              "emoji": "⚛️",
+              "pos": "n",
+              "exampleNl": "Water bestaat uit kleine moleculen.",
+              "exampleIt": "L'acqua è composta da piccole molecole."
+            },
+            {
+              "nl": "het atoom",
+              "it": "l'atomo",
+              "en": "atom",
+              "emoji": "☢️",
+              "pos": "n",
+              "exampleNl": "Een atoom is de bouwsteen van alle materie.",
+              "exampleIt": "L'atomo è il mattone di tutta la materia."
+            },
+            {
+              "nl": "de zwaartekracht",
+              "it": "la gravità",
+              "en": "gravity",
+              "emoji": "🪐",
+              "pos": "n",
+              "exampleNl": "Door de zwaartekracht valt alles naar beneden.",
+              "exampleIt": "Per la gravità tutto cade verso il basso."
+            },
+            {
+              "nl": "de evolutie",
+              "it": "l'evoluzione",
+              "en": "evolution",
+              "emoji": "🐒",
+              "pos": "n",
+              "exampleNl": "De evolutie verklaart de diversiteit van het leven.",
+              "exampleIt": "L'evoluzione spiega la diversità della vita."
+            },
+            {
+              "nl": "het heelal",
+              "it": "l'universo",
+              "en": "universe",
+              "emoji": "🌌",
+              "pos": "n",
+              "exampleNl": "Het heelal blijft zich nog steeds uitbreiden.",
+              "exampleIt": "L'universo continua ancora a espandersi."
+            },
+            {
+              "nl": "de planeet",
+              "it": "il pianeta",
+              "en": "planet",
+              "emoji": "🪐",
+              "pos": "n",
+              "exampleNl": "Op deze planeet zou leven mogelijk zijn.",
+              "exampleIt": "Su questo pianeta la vita sarebbe possibile."
+            },
+            {
+              "nl": "de straling",
+              "it": "la radiazione",
+              "en": "radiation",
+              "emoji": "☢️",
+              "pos": "n",
+              "exampleNl": "De straling werd met een apparaat gemeten.",
+              "exampleIt": "La radiazione è stata misurata con uno strumento."
+            },
+            {
+              "nl": "de uitvinding",
+              "it": "l'invenzione",
+              "en": "invention",
+              "emoji": "💡",
+              "pos": "n",
+              "exampleNl": "Deze uitvinding heeft de wereld veranderd.",
+              "exampleIt": "Questa invenzione ha cambiato il mondo."
+            },
+            {
+              "nl": "de vooruitgang",
+              "it": "il progresso",
+              "en": "progress",
+              "emoji": "🚀",
+              "pos": "n",
+              "exampleNl": "De technologische vooruitgang gaat steeds sneller.",
+              "exampleIt": "Il progresso tecnologico è sempre più veloce."
+            },
+            {
+              "nl": "de robot",
+              "it": "il robot",
+              "en": "robot",
+              "emoji": "🤖",
+              "pos": "n",
+              "exampleNl": "In de fabriek wordt het werk door robots gedaan.",
+              "exampleIt": "In fabbrica il lavoro è svolto dai robot."
+            },
+            {
+              "nl": "het algoritme",
+              "it": "l'algoritmo",
+              "en": "algorithm",
+              "emoji": "🧮",
+              "pos": "n",
+              "exampleNl": "Het algoritme bepaalt wat je online ziet.",
+              "exampleIt": "L'algoritmo decide cosa vedi online."
+            },
+            {
+              "nl": "de innovatie",
+              "it": "l'innovazione",
+              "en": "innovation",
+              "emoji": "✨",
+              "pos": "n",
+              "exampleNl": "Innovatie is de motor van de economie.",
+              "exampleIt": "L'innovazione è il motore dell'economia."
+            },
+            {
+              "nl": "het laboratorium",
+              "it": "il laboratorio",
+              "en": "laboratory",
+              "emoji": "🧫",
+              "pos": "n",
+              "exampleNl": "De proeven werden in het laboratorium gedaan.",
+              "exampleIt": "Gli esperimenti sono stati fatti in laboratorio."
+            },
+            {
+              "nl": "de onderzoeker",
+              "it": "il ricercatore",
+              "en": "researcher",
+              "emoji": "🔭",
+              "pos": "n",
+              "exampleNl": "De onderzoeker publiceerde zijn resultaten.",
+              "exampleIt": "Il ricercatore pubblicò i suoi risultati."
+            },
+            {
+              "nl": "de doorbraak",
+              "it": "la svolta / la scoperta decisiva",
+              "en": "breakthrough",
+              "emoji": "🎉",
+              "pos": "n",
+              "exampleNl": "De doorbraak in het onderzoek werd wereldnieuws.",
+              "exampleIt": "La svolta nella ricerca fece notizia nel mondo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2u11",
+      "title": "Politica e istituzioni",
+      "icon": "🏛️",
+      "tip": "Istituzioni. Neutri: het parlement, het kabinet, het ministerie, het staatshoofd, het staatsbestel, het grondgebied. Passivo: 'werd aangenomen'.",
+      "lessons": [
+        {
+          "id": "b2u11l1",
+          "title": "Stato e governo",
+          "items": [
+            {
+              "nl": "het parlement",
+              "it": "il parlamento",
+              "en": "parliament",
+              "emoji": "🏛️",
+              "pos": "n",
+              "exampleNl": "Het parlement stemde over de nieuwe wet.",
+              "exampleIt": "Il parlamento votò sulla nuova legge."
+            },
+            {
+              "nl": "de minister",
+              "it": "il ministro",
+              "en": "minister",
+              "emoji": "🧑‍💼",
+              "pos": "n",
+              "exampleNl": "De minister werd door de pers ondervraagd.",
+              "exampleIt": "Il ministro è stato interrogato dalla stampa."
+            },
+            {
+              "nl": "de premier",
+              "it": "il primo ministro",
+              "en": "prime minister",
+              "emoji": "🎩",
+              "pos": "n",
+              "exampleNl": "De premier hield een toespraak op tv.",
+              "exampleIt": "Il primo ministro tenne un discorso in TV."
+            },
+            {
+              "nl": "de partij",
+              "it": "il partito",
+              "en": "party",
+              "emoji": "🎌",
+              "pos": "n",
+              "exampleNl": "De partij won de meeste zetels bij de verkiezingen.",
+              "exampleIt": "Il partito vinse la maggioranza dei seggi alle elezioni."
+            },
+            {
+              "nl": "de coalitie",
+              "it": "la coalizione",
+              "en": "coalition",
+              "emoji": "🤝",
+              "pos": "n",
+              "exampleNl": "De coalitie bestaat uit drie partijen.",
+              "exampleIt": "La coalizione è composta da tre partiti."
+            },
+            {
+              "nl": "de oppositie",
+              "it": "l'opposizione",
+              "en": "opposition",
+              "emoji": "🆚",
+              "pos": "n",
+              "exampleNl": "De oppositie bekritiseerde het beleid scherp.",
+              "exampleIt": "L'opposizione criticò aspramente la politica."
+            },
+            {
+              "nl": "het kabinet",
+              "it": "il governo (consiglio dei ministri)",
+              "en": "cabinet",
+              "emoji": "🏛️",
+              "pos": "n",
+              "exampleNl": "Het kabinet is na de crisis gevallen.",
+              "exampleIt": "Il governo è caduto dopo la crisi."
+            },
+            {
+              "nl": "het staatsbestel",
+              "it": "l'ordinamento statale",
+              "en": "political system",
+              "emoji": "🏛️",
+              "pos": "n",
+              "exampleNl": "Het staatsbestel werd na de revolutie hervormd.",
+              "exampleIt": "L'ordinamento statale fu riformato dopo la rivoluzione."
+            },
+            {
+              "nl": "het bondgenootschap",
+              "it": "l'alleanza",
+              "en": "alliance",
+              "emoji": "🤝",
+              "pos": "n",
+              "exampleNl": "Het bondgenootschap tussen de landen bleef sterk.",
+              "exampleIt": "L'alleanza tra i paesi rimase forte."
+            },
+            {
+              "nl": "de diplomatie",
+              "it": "la diplomazia",
+              "en": "diplomacy",
+              "emoji": "🕊️",
+              "pos": "n",
+              "exampleNl": "Het conflict werd via diplomatie opgelost.",
+              "exampleIt": "Il conflitto è stato risolto con la diplomazia."
+            },
+            {
+              "nl": "de ambassade",
+              "it": "l'ambasciata",
+              "en": "embassy",
+              "emoji": "🏢",
+              "pos": "n",
+              "exampleNl": "Voor een visum moet je naar de ambassade.",
+              "exampleIt": "Per un visto devi andare all'ambasciata."
+            },
+            {
+              "nl": "het grondgebied",
+              "it": "il territorio",
+              "en": "territory",
+              "emoji": "🗺️",
+              "pos": "n",
+              "exampleNl": "Het leger verdedigt het grondgebied van het land.",
+              "exampleIt": "L'esercito difende il territorio del paese."
+            },
+            {
+              "nl": "de zetel",
+              "it": "il seggio",
+              "en": "seat",
+              "emoji": "💺",
+              "pos": "n",
+              "exampleNl": "De partij verloor tien zetels in het parlement.",
+              "exampleIt": "Il partito perse dieci seggi in parlamento."
+            },
+            {
+              "nl": "het ministerie",
+              "it": "il ministero",
+              "en": "ministry",
+              "emoji": "🏛️",
+              "pos": "n",
+              "exampleNl": "Het ministerie van Onderwijs kreeg meer geld.",
+              "exampleIt": "Il ministero dell'Istruzione ricevette più fondi."
+            },
+            {
+              "nl": "de motie",
+              "it": "la mozione",
+              "en": "motion",
+              "emoji": "✋",
+              "pos": "n",
+              "exampleNl": "De motie werd met een ruime meerderheid aangenomen.",
+              "exampleIt": "La mozione fu approvata a larga maggioranza."
+            },
+            {
+              "nl": "de volksvertegenwoordiger",
+              "it": "il deputato / il rappresentante",
+              "en": "representative",
+              "emoji": "🗳️",
+              "pos": "n",
+              "exampleNl": "Een volksvertegenwoordiger behartigt de belangen van burgers.",
+              "exampleIt": "Un deputato tutela gli interessi dei cittadini."
+            },
+            {
+              "nl": "het staatshoofd",
+              "it": "il capo di stato",
+              "en": "head of state",
+              "emoji": "👑",
+              "pos": "n",
+              "exampleNl": "Het staatshoofd ontving de buitenlandse gasten.",
+              "exampleIt": "Il capo di stato ricevette gli ospiti stranieri."
+            },
+            {
+              "nl": "de gemeenteraad",
+              "it": "il consiglio comunale",
+              "en": "city council",
+              "emoji": "🏛️",
+              "pos": "n",
+              "exampleNl": "De gemeenteraad besloot tot een nieuw park.",
+              "exampleIt": "Il consiglio comunale decise per un nuovo parco."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2u12",
+      "title": "Istruzione e ricerca",
+      "icon": "🎓",
+      "tip": "Università e studio. Neutri: het onderwijs, het proefschrift, het curriculum, het schoolsysteem, het collegegeld.",
+      "lessons": [
+        {
+          "id": "b2u12l1",
+          "title": "All'università",
+          "items": [
+            {
+              "nl": "het onderwijs",
+              "it": "l'istruzione",
+              "en": "education",
+              "emoji": "🎓",
+              "pos": "n",
+              "exampleNl": "Het onderwijs zou voor iedereen gratis moeten zijn.",
+              "exampleIt": "L'istruzione dovrebbe essere gratuita per tutti."
+            },
+            {
+              "nl": "de wetenschapper",
+              "it": "lo scienziato",
+              "en": "scientist",
+              "emoji": "🔬",
+              "pos": "n",
+              "exampleNl": "De wetenschapper presenteerde zijn ontdekking.",
+              "exampleIt": "Lo scienziato presentò la sua scoperta."
+            },
+            {
+              "nl": "de scriptie",
+              "it": "la tesi",
+              "en": "thesis",
+              "emoji": "📄",
+              "pos": "n",
+              "exampleNl": "Voor haar scriptie deed ze maandenlang onderzoek.",
+              "exampleIt": "Per la sua tesi fece ricerche per mesi."
+            },
+            {
+              "nl": "het proefschrift",
+              "it": "la tesi di dottorato",
+              "en": "dissertation",
+              "emoji": "📚",
+              "pos": "n",
+              "exampleNl": "Zijn proefschrift werd met lof beoordeeld.",
+              "exampleIt": "La sua tesi di dottorato è stata valutata con lode."
+            },
+            {
+              "nl": "de hoogleraar",
+              "it": "il professore universitario",
+              "en": "professor",
+              "emoji": "👨‍🏫",
+              "pos": "n",
+              "exampleNl": "De hoogleraar geeft college over economie.",
+              "exampleIt": "Il professore tiene lezioni di economia."
+            },
+            {
+              "nl": "de faculteit",
+              "it": "la facoltà",
+              "en": "faculty",
+              "emoji": "🏛️",
+              "pos": "n",
+              "exampleNl": "Zij studeert aan de faculteit der rechten.",
+              "exampleIt": "Studia alla facoltà di giurisprudenza."
+            },
+            {
+              "nl": "de campus",
+              "it": "il campus",
+              "en": "campus",
+              "emoji": "🏫",
+              "pos": "n",
+              "exampleNl": "De campus ligt buiten het centrum.",
+              "exampleIt": "Il campus si trova fuori dal centro."
+            },
+            {
+              "nl": "de leerstof",
+              "it": "la materia di studio",
+              "en": "study material",
+              "emoji": "📖",
+              "pos": "n",
+              "exampleNl": "De leerstof voor het tentamen is omvangrijk.",
+              "exampleIt": "Il materiale per l'esame è vasto."
+            },
+            {
+              "nl": "het curriculum",
+              "it": "il programma di studi",
+              "en": "curriculum",
+              "emoji": "📋",
+              "pos": "n",
+              "exampleNl": "Het curriculum werd grondig vernieuwd.",
+              "exampleIt": "Il programma di studi è stato rinnovato a fondo."
+            },
+            {
+              "nl": "de aanpak",
+              "it": "l'approccio / il metodo",
+              "en": "approach",
+              "emoji": "🧭",
+              "pos": "n",
+              "exampleNl": "Een andere aanpak zou betere resultaten geven.",
+              "exampleIt": "Un approccio diverso darebbe risultati migliori."
+            },
+            {
+              "nl": "de didactiek",
+              "it": "la didattica",
+              "en": "didactics",
+              "emoji": "🍎",
+              "pos": "n",
+              "exampleNl": "Goede didactiek maakt lesgeven effectiever.",
+              "exampleIt": "Una buona didattica rende l'insegnamento più efficace."
+            },
+            {
+              "nl": "de geletterdheid",
+              "it": "l'alfabetizzazione",
+              "en": "literacy",
+              "emoji": "✍️",
+              "pos": "n",
+              "exampleNl": "De geletterdheid in het land is sterk gestegen.",
+              "exampleIt": "L'alfabetizzazione nel paese è molto aumentata."
+            },
+            {
+              "nl": "de leerplicht",
+              "it": "l'obbligo scolastico",
+              "en": "compulsory education",
+              "emoji": "🎒",
+              "pos": "n",
+              "exampleNl": "Door de leerplicht gaan alle kinderen naar school.",
+              "exampleIt": "Per l'obbligo scolastico tutti i bambini vanno a scuola."
+            },
+            {
+              "nl": "de kennisoverdracht",
+              "it": "la trasmissione del sapere",
+              "en": "knowledge transfer",
+              "emoji": "🔄",
+              "pos": "n",
+              "exampleNl": "Onderwijs draait om kennisoverdracht.",
+              "exampleIt": "L'istruzione ruota attorno alla trasmissione del sapere."
+            },
+            {
+              "nl": "het schoolsysteem",
+              "it": "il sistema scolastico",
+              "en": "school system",
+              "emoji": "🏫",
+              "pos": "n",
+              "exampleNl": "Het schoolsysteem verschilt sterk per land.",
+              "exampleIt": "Il sistema scolastico varia molto da paese a paese."
+            },
+            {
+              "nl": "de bijscholing",
+              "it": "l'aggiornamento (professionale)",
+              "en": "further training",
+              "emoji": "📈",
+              "pos": "n",
+              "exampleNl": "Werknemers krijgen elk jaar bijscholing.",
+              "exampleIt": "I dipendenti ricevono un aggiornamento ogni anno."
+            },
+            {
+              "nl": "de vakgroep",
+              "it": "il dipartimento (accademico)",
+              "en": "department",
+              "emoji": "👥",
+              "pos": "n",
+              "exampleNl": "De vakgroep organiseert een congres.",
+              "exampleIt": "Il dipartimento organizza un congresso."
+            },
+            {
+              "nl": "het collegegeld",
+              "it": "le tasse universitarie",
+              "en": "tuition fee",
+              "emoji": "💶",
+              "pos": "n",
+              "exampleNl": "Het collegegeld stijgt bijna elk jaar.",
+              "exampleIt": "Le tasse universitarie aumentano quasi ogni anno."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2u13",
+      "title": "Psicologia e comportamento",
+      "icon": "🧠",
+      "tip": "Mente e comportamento. Neutri: het bewustzijn, het instinct, het zelfbeeld. Condizionale: 'zou behandeld kunnen worden'.",
+      "lessons": [
+        {
+          "id": "b2u13l1",
+          "title": "La mente umana",
+          "items": [
+            {
+              "nl": "de psychologie",
+              "it": "la psicologia",
+              "en": "psychology",
+              "emoji": "🧠",
+              "pos": "n",
+              "exampleNl": "De psychologie bestudeert het menselijk gedrag.",
+              "exampleIt": "La psicologia studia il comportamento umano."
+            },
+            {
+              "nl": "de geest",
+              "it": "la mente / lo spirito",
+              "en": "mind",
+              "emoji": "💭",
+              "pos": "n",
+              "exampleNl": "Een gezonde geest in een gezond lichaam.",
+              "exampleIt": "Una mente sana in un corpo sano."
+            },
+            {
+              "nl": "het bewustzijn",
+              "it": "la coscienza",
+              "en": "consciousness",
+              "emoji": "🌟",
+              "pos": "n",
+              "exampleNl": "Na het ongeluk verloor hij even het bewustzijn.",
+              "exampleIt": "Dopo l'incidente perse per un attimo i sensi."
+            },
+            {
+              "nl": "de verslaving",
+              "it": "la dipendenza",
+              "en": "addiction",
+              "emoji": "🚬",
+              "pos": "n",
+              "exampleNl": "Een verslaving is moeilijk te overwinnen.",
+              "exampleIt": "Una dipendenza è difficile da superare."
+            },
+            {
+              "nl": "de depressie",
+              "it": "la depressione",
+              "en": "depression",
+              "emoji": "🌧️",
+              "pos": "n",
+              "exampleNl": "Een depressie zou met therapie behandeld kunnen worden.",
+              "exampleIt": "Una depressione potrebbe essere curata con la terapia."
+            },
+            {
+              "nl": "de therapie",
+              "it": "la terapia",
+              "en": "therapy",
+              "emoji": "🛋️",
+              "pos": "n",
+              "exampleNl": "Door de therapie voelt ze zich veel beter.",
+              "exampleIt": "Grazie alla terapia si sente molto meglio."
+            },
+            {
+              "nl": "de psycholoog",
+              "it": "lo psicologo",
+              "en": "psychologist",
+              "emoji": "🧑‍⚕️",
+              "pos": "n",
+              "exampleNl": "De psycholoog hielp hem met zijn angsten.",
+              "exampleIt": "Lo psicologo lo aiutò con le sue paure."
+            },
+            {
+              "nl": "de perceptie",
+              "it": "la percezione",
+              "en": "perception",
+              "emoji": "👁️",
+              "pos": "n",
+              "exampleNl": "Onze perceptie wordt door ervaring gevormd.",
+              "exampleIt": "La nostra percezione è formata dall'esperienza."
+            },
+            {
+              "nl": "de herinnering",
+              "it": "il ricordo",
+              "en": "memory",
+              "emoji": "📸",
+              "pos": "n",
+              "exampleNl": "Die herinnering blijft me altijd bij.",
+              "exampleIt": "Quel ricordo mi resterà sempre."
+            },
+            {
+              "nl": "de intelligentie",
+              "it": "l'intelligenza",
+              "en": "intelligence",
+              "emoji": "🎓",
+              "pos": "n",
+              "exampleNl": "Intelligentie is meer dan alleen kennis.",
+              "exampleIt": "L'intelligenza è più della sola conoscenza."
+            },
+            {
+              "nl": "het instinct",
+              "it": "l'istinto",
+              "en": "instinct",
+              "emoji": "🐾",
+              "pos": "n",
+              "exampleNl": "Dieren handelen vaak op hun instinct.",
+              "exampleIt": "Gli animali agiscono spesso per istinto."
+            },
+            {
+              "nl": "de empathie",
+              "it": "l'empatia",
+              "en": "empathy",
+              "emoji": "🫂",
+              "pos": "n",
+              "exampleNl": "Empathie helpt om anderen te begrijpen.",
+              "exampleIt": "L'empatia aiuta a capire gli altri."
+            },
+            {
+              "nl": "de frustratie",
+              "it": "la frustrazione",
+              "en": "frustration",
+              "emoji": "😤",
+              "pos": "n",
+              "exampleNl": "Zijn frustratie werd steeds groter.",
+              "exampleIt": "La sua frustrazione cresceva sempre di più."
+            },
+            {
+              "nl": "de impuls",
+              "it": "l'impulso",
+              "en": "impulse",
+              "emoji": "⚡",
+              "pos": "n",
+              "exampleNl": "Hij kocht het uit een plotselinge impuls.",
+              "exampleIt": "Lo comprò per un impulso improvviso."
+            },
+            {
+              "nl": "het zelfbeeld",
+              "it": "l'immagine di sé",
+              "en": "self-image",
+              "emoji": "🪞",
+              "pos": "n",
+              "exampleNl": "Een positief zelfbeeld geeft zelfvertrouwen.",
+              "exampleIt": "Un'immagine di sé positiva dà fiducia."
+            },
+            {
+              "nl": "het verlangen",
+              "it": "il desiderio",
+              "en": "desire",
+              "emoji": "💗",
+              "pos": "n",
+              "exampleNl": "Zijn verlangen naar vrijheid was groot.",
+              "exampleIt": "Il suo desiderio di libertà era grande."
+            },
+            {
+              "nl": "de prikkel",
+              "it": "lo stimolo",
+              "en": "stimulus",
+              "emoji": "⚡",
+              "pos": "n",
+              "exampleNl": "De hersenen reageren snel op een prikkel.",
+              "exampleIt": "Il cervello reagisce velocemente a uno stimolo."
+            },
+            {
+              "nl": "de zelfbeheersing",
+              "it": "l'autocontrollo",
+              "en": "self-control",
+              "emoji": "🧘",
+              "pos": "n",
+              "exampleNl": "Met veel zelfbeheersing bleef ze rustig.",
+              "exampleIt": "Con molto autocontrollo rimase calma."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2u14",
+      "title": "Verbi astratti e formali",
+      "icon": "🪄",
+      "tip": "Verbi di registro formale, frequenti in testi e saggi. Spesso seguiti da 'dat' + subordinata (verbo in fondo).",
+      "lessons": [
+        {
+          "id": "b2u14l1",
+          "title": "Esprimersi con precisione",
+          "items": [
+            {
+              "nl": "toelichten",
+              "it": "illustrare / spiegare",
+              "en": "to explain",
+              "emoji": "💬",
+              "pos": "v",
+              "exampleNl": "De minister zal het besluit morgen toelichten.",
+              "exampleIt": "Il ministro illustrerà la decisione domani."
+            },
+            {
+              "nl": "benaderen",
+              "it": "avvicinare / contattare",
+              "en": "to approach",
+              "emoji": "📩",
+              "pos": "v",
+              "exampleNl": "We zullen de klant volgende week benaderen.",
+              "exampleIt": "Contatteremo il cliente la prossima settimana."
+            },
+            {
+              "nl": "beschouwen",
+              "it": "considerare / ritenere",
+              "en": "to consider",
+              "emoji": "🤔",
+              "pos": "v",
+              "exampleNl": "Men beschouwt hem als de beste van zijn vak.",
+              "exampleIt": "Lo si considera il migliore del suo campo."
+            },
+            {
+              "nl": "constateren",
+              "it": "constatare / rilevare",
+              "en": "to ascertain",
+              "emoji": "🔎",
+              "pos": "v",
+              "exampleNl": "De arts constateerde een lichte ontsteking.",
+              "exampleIt": "Il medico constatò una lieve infiammazione."
+            },
+            {
+              "nl": "definiëren",
+              "it": "definire",
+              "en": "to define",
+              "emoji": "📖",
+              "pos": "v",
+              "exampleNl": "Het is moeilijk om geluk precies te definiëren.",
+              "exampleIt": "È difficile definire con precisione la felicità."
+            },
+            {
+              "nl": "formuleren",
+              "it": "formulare",
+              "en": "to formulate",
+              "emoji": "✍️",
+              "pos": "v",
+              "exampleNl": "Hij wist zijn kritiek heel beleefd te formuleren.",
+              "exampleIt": "Seppe formulare la sua critica con molta cortesia."
+            },
+            {
+              "nl": "garanderen",
+              "it": "garantire",
+              "en": "to guarantee",
+              "emoji": "✅",
+              "pos": "v",
+              "exampleNl": "Niemand kan een goede afloop garanderen.",
+              "exampleIt": "Nessuno può garantire un buon esito."
+            },
+            {
+              "nl": "interpreteren",
+              "it": "interpretare",
+              "en": "to interpret",
+              "emoji": "🧩",
+              "pos": "v",
+              "exampleNl": "Iedereen kan dit gedicht anders interpreteren.",
+              "exampleIt": "Ognuno può interpretare diversamente questa poesia."
+            },
+            {
+              "nl": "kenmerken",
+              "it": "caratterizzare",
+              "en": "to characterize",
+              "emoji": "🏷️",
+              "pos": "v",
+              "exampleNl": "Geduld kenmerkt een goede leraar.",
+              "exampleIt": "La pazienza caratterizza un buon insegnante."
+            },
+            {
+              "nl": "motiveren",
+              "it": "motivare",
+              "en": "to motivate",
+              "emoji": "🔥",
+              "pos": "v",
+              "exampleNl": "Een goede leider weet zijn team te motiveren.",
+              "exampleIt": "Un buon leader sa motivare la sua squadra."
+            },
+            {
+              "nl": "omschrijven",
+              "it": "descrivere / definire",
+              "en": "to describe",
+              "emoji": "📝",
+              "pos": "v",
+              "exampleNl": "Kun je het probleem nauwkeurig omschrijven?",
+              "exampleIt": "Puoi descrivere con precisione il problema?"
+            },
+            {
+              "nl": "stimuleren",
+              "it": "stimolare / incentivare",
+              "en": "to stimulate",
+              "emoji": "📈",
+              "pos": "v",
+              "exampleNl": "De overheid wil het lezen onder kinderen stimuleren.",
+              "exampleIt": "Il governo vuole incentivare la lettura tra i bambini."
+            },
+            {
+              "nl": "veronderstellen",
+              "it": "supporre / presupporre",
+              "en": "to assume",
+              "emoji": "💭",
+              "pos": "v",
+              "exampleNl": "We mogen niet zomaar veronderstellen dat hij liegt.",
+              "exampleIt": "Non possiamo dare per scontato che menta."
+            },
+            {
+              "nl": "verwezenlijken",
+              "it": "realizzare / concretizzare",
+              "en": "to achieve",
+              "emoji": "🎯",
+              "pos": "v",
+              "exampleNl": "Met hard werken kun je je dromen verwezenlijken.",
+              "exampleIt": "Con tanto lavoro puoi realizzare i tuoi sogni."
+            },
+            {
+              "nl": "voorspellen",
+              "it": "prevedere / predire",
+              "en": "to predict",
+              "emoji": "🔮",
+              "pos": "v",
+              "exampleNl": "Niemand kan de toekomst precies voorspellen.",
+              "exampleIt": "Nessuno può prevedere con esattezza il futuro."
+            },
+            {
+              "nl": "waarborgen",
+              "it": "garantire / tutelare",
+              "en": "to safeguard",
+              "emoji": "🛡️",
+              "pos": "v",
+              "exampleNl": "De wet moet de rechten van iedereen waarborgen.",
+              "exampleIt": "La legge deve tutelare i diritti di tutti."
+            },
+            {
+              "nl": "afleiden",
+              "it": "dedurre",
+              "en": "to deduce",
+              "emoji": "🧩",
+              "pos": "v",
+              "exampleNl": "Uit deze gegevens kunnen we een patroon afleiden.",
+              "exampleIt": "Da questi dati possiamo dedurre uno schema."
+            },
+            {
+              "nl": "bevorderen",
+              "it": "favorire / promuovere",
+              "en": "to promote",
+              "emoji": "🌱",
+              "pos": "v",
+              "exampleNl": "Sporten bevordert een goede gezondheid.",
+              "exampleIt": "Fare sport favorisce una buona salute."
+            },
+            {
+              "nl": "evalueren",
+              "it": "valutare",
+              "en": "to evaluate",
+              "emoji": "📋",
+              "pos": "v",
+              "exampleNl": "Aan het eind zullen we het project evalueren.",
+              "exampleIt": "Alla fine valuteremo il progetto."
+            },
+            {
+              "nl": "rechtvaardigen",
+              "it": "giustificare",
+              "en": "to justify",
+              "emoji": "⚖️",
+              "pos": "v",
+              "exampleNl": "Niets kan zulk geweld rechtvaardigen.",
+              "exampleIt": "Nulla può giustificare una simile violenza."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2u15",
+      "title": "Aggettivi avanzati",
+      "icon": "🔡",
+      "tip": "Aggettivi di livello alto per argomentare. Es.: 'het is vanzelfsprekend dat ...' (verbo in fondo).",
+      "lessons": [
+        {
+          "id": "b2u15l1",
+          "title": "Sfumare e valutare",
+          "items": [
+            {
+              "nl": "ingrijpend",
+              "it": "drastico / radicale",
+              "en": "drastic",
+              "emoji": "⚡",
+              "pos": "adj",
+              "exampleNl": "Er werden ingrijpende veranderingen doorgevoerd.",
+              "exampleIt": "Sono stati attuati cambiamenti radicali."
+            },
+            {
+              "nl": "aanzienlijk",
+              "it": "considerevole / notevole",
+              "en": "considerable",
+              "emoji": "📈",
+              "pos": "adj",
+              "exampleNl": "De kosten zijn aanzienlijk hoger dan verwacht.",
+              "exampleIt": "I costi sono notevolmente più alti del previsto."
+            },
+            {
+              "nl": "wezenlijk",
+              "it": "essenziale / sostanziale",
+              "en": "essential",
+              "emoji": "🔑",
+              "pos": "adj",
+              "exampleNl": "Er is een wezenlijk verschil tussen die twee.",
+              "exampleIt": "C'è una differenza sostanziale tra i due."
+            },
+            {
+              "nl": "doorslaggevend",
+              "it": "decisivo",
+              "en": "decisive",
+              "emoji": "🎯",
+              "pos": "adj",
+              "exampleNl": "Zijn stem was uiteindelijk doorslaggevend.",
+              "exampleIt": "Il suo voto è stato alla fine decisivo."
+            },
+            {
+              "nl": "omstreden",
+              "it": "controverso",
+              "en": "controversial",
+              "emoji": "⚔️",
+              "pos": "adj",
+              "exampleNl": "De beslissing bleef tot het einde omstreden.",
+              "exampleIt": "La decisione rimase controversa fino alla fine."
+            },
+            {
+              "nl": "veelzijdig",
+              "it": "versatile / poliedrico",
+              "en": "versatile",
+              "emoji": "🎭",
+              "pos": "adj",
+              "exampleNl": "Hij is een veelzijdige en getalenteerde kunstenaar.",
+              "exampleIt": "È un artista versatile e di talento."
+            },
+            {
+              "nl": "tegenstrijdig",
+              "it": "contraddittorio",
+              "en": "contradictory",
+              "emoji": "🔀",
+              "pos": "adj",
+              "exampleNl": "De getuigen gaven tegenstrijdige verklaringen.",
+              "exampleIt": "I testimoni diedero dichiarazioni contraddittorie."
+            },
+            {
+              "nl": "vanzelfsprekend",
+              "it": "ovvio / scontato",
+              "en": "self-evident",
+              "emoji": "✔️",
+              "pos": "adj",
+              "exampleNl": "Het is niet vanzelfsprekend dat hij meedoet.",
+              "exampleIt": "Non è scontato che partecipi."
+            },
+            {
+              "nl": "grootschalig",
+              "it": "su larga scala",
+              "en": "large-scale",
+              "emoji": "🏗️",
+              "pos": "adj",
+              "exampleNl": "Er kwam een grootschalig onderzoek op gang.",
+              "exampleIt": "Si avviò un'indagine su larga scala."
+            },
+            {
+              "nl": "structureel",
+              "it": "strutturale",
+              "en": "structural",
+              "emoji": "🏛️",
+              "pos": "adj",
+              "exampleNl": "Het probleem is structureel en niet tijdelijk.",
+              "exampleIt": "Il problema è strutturale e non temporaneo."
+            },
+            {
+              "nl": "fundamenteel",
+              "it": "fondamentale",
+              "en": "fundamental",
+              "emoji": "🧱",
+              "pos": "adj",
+              "exampleNl": "Vrijheid is een fundamenteel recht.",
+              "exampleIt": "La libertà è un diritto fondamentale."
+            },
+            {
+              "nl": "abstract",
+              "it": "astratto",
+              "en": "abstract",
+              "emoji": "🌀",
+              "pos": "adj",
+              "exampleNl": "Zijn uitleg bleef te abstract voor de studenten.",
+              "exampleIt": "La sua spiegazione restò troppo astratta per gli studenti."
+            },
+            {
+              "nl": "concreet",
+              "it": "concreto",
+              "en": "concrete",
+              "emoji": "🧱",
+              "pos": "adj",
+              "exampleNl": "Geef eens een concreet voorbeeld.",
+              "exampleIt": "Fai un esempio concreto."
+            },
+            {
+              "nl": "doeltreffend",
+              "it": "efficace",
+              "en": "effective",
+              "emoji": "🎯",
+              "pos": "adj",
+              "exampleNl": "Dit is een eenvoudige maar doeltreffende methode.",
+              "exampleIt": "Questo è un metodo semplice ma efficace."
+            },
+            {
+              "nl": "ontoereikend",
+              "it": "insufficiente / inadeguato",
+              "en": "inadequate",
+              "emoji": "📉",
+              "pos": "adj",
+              "exampleNl": "De maatregelen bleken volstrekt ontoereikend.",
+              "exampleIt": "Le misure si rivelarono del tutto inadeguate."
+            },
+            {
+              "nl": "wijdverspreid",
+              "it": "diffuso",
+              "en": "widespread",
+              "emoji": "🌍",
+              "pos": "adj",
+              "exampleNl": "Dit misverstand is helaas wijdverspreid.",
+              "exampleIt": "Questo malinteso è purtroppo diffuso."
+            },
+            {
+              "nl": "opmerkelijk",
+              "it": "notevole / sorprendente",
+              "en": "remarkable",
+              "emoji": "👀",
+              "pos": "adj",
+              "exampleNl": "Het was een opmerkelijke prestatie van het team.",
+              "exampleIt": "È stata una prestazione notevole della squadra."
+            },
+            {
+              "nl": "subtiel",
+              "it": "sottile / delicato",
+              "en": "subtle",
+              "emoji": "🎨",
+              "pos": "adj",
+              "exampleNl": "Het verschil is subtiel maar belangrijk.",
+              "exampleIt": "La differenza è sottile ma importante."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2u16",
+      "title": "Storia e geografia",
+      "icon": "🗺️",
+      "tip": "Storia e geografia. Neutri: het tijdperk, het rijk, het continent, het gebergte, het monument, het werelddeel.",
+      "lessons": [
+        {
+          "id": "b2u16l1",
+          "title": "Epoche e luoghi",
+          "items": [
+            {
+              "nl": "de geschiedenis",
+              "it": "la storia",
+              "en": "history",
+              "emoji": "📜",
+              "pos": "n",
+              "exampleNl": "De geschiedenis herhaalt zich soms.",
+              "exampleIt": "La storia a volte si ripete."
+            },
+            {
+              "nl": "het tijdperk",
+              "it": "l'epoca / l'era",
+              "en": "era",
+              "emoji": "⏳",
+              "pos": "n",
+              "exampleNl": "We leven in het tijdperk van de technologie.",
+              "exampleIt": "Viviamo nell'era della tecnologia."
+            },
+            {
+              "nl": "de oorlog",
+              "it": "la guerra",
+              "en": "war",
+              "emoji": "⚔️",
+              "pos": "n",
+              "exampleNl": "Door de oorlog raakten miljoenen mensen op de vlucht.",
+              "exampleIt": "Per la guerra milioni di persone furono costrette a fuggire."
+            },
+            {
+              "nl": "de vrede",
+              "it": "la pace",
+              "en": "peace",
+              "emoji": "🕊️",
+              "pos": "n",
+              "exampleNl": "Na jaren werd er eindelijk vrede gesloten.",
+              "exampleIt": "Dopo anni fu finalmente firmata la pace."
+            },
+            {
+              "nl": "het rijk",
+              "it": "l'impero / il regno",
+              "en": "empire",
+              "emoji": "👑",
+              "pos": "n",
+              "exampleNl": "Het Romeinse rijk strekte zich ver uit.",
+              "exampleIt": "L'impero romano si estendeva lontano."
+            },
+            {
+              "nl": "de revolutie",
+              "it": "la rivoluzione",
+              "en": "revolution",
+              "emoji": "🔥",
+              "pos": "n",
+              "exampleNl": "De revolutie veranderde het hele land.",
+              "exampleIt": "La rivoluzione cambiò tutto il paese."
+            },
+            {
+              "nl": "de keizer",
+              "it": "l'imperatore",
+              "en": "emperor",
+              "emoji": "👑",
+              "pos": "n",
+              "exampleNl": "De keizer regeerde meer dan veertig jaar.",
+              "exampleIt": "L'imperatore regnò più di quarant'anni."
+            },
+            {
+              "nl": "de beschaving",
+              "it": "la civiltà",
+              "en": "civilization",
+              "emoji": "🏛️",
+              "pos": "n",
+              "exampleNl": "Een oude beschaving liet deze tempels achter.",
+              "exampleIt": "Un'antica civiltà lasciò questi templi."
+            },
+            {
+              "nl": "de oudheid",
+              "it": "l'antichità",
+              "en": "antiquity",
+              "emoji": "🏺",
+              "pos": "n",
+              "exampleNl": "In de oudheid spraken geleerden Grieks en Latijn.",
+              "exampleIt": "Nell'antichità i dotti parlavano greco e latino."
+            },
+            {
+              "nl": "de middeleeuwen",
+              "it": "il Medioevo",
+              "en": "Middle Ages",
+              "emoji": "🏰",
+              "pos": "n",
+              "exampleNl": "In de middeleeuwen werden veel kastelen gebouwd.",
+              "exampleIt": "Nel Medioevo furono costruiti molti castelli."
+            },
+            {
+              "nl": "het continent",
+              "it": "il continente",
+              "en": "continent",
+              "emoji": "🌍",
+              "pos": "n",
+              "exampleNl": "Afrika is een enorm continent.",
+              "exampleIt": "L'Africa è un continente enorme."
+            },
+            {
+              "nl": "de hoofdstad",
+              "it": "la capitale",
+              "en": "capital",
+              "emoji": "🏙️",
+              "pos": "n",
+              "exampleNl": "Rome is de hoofdstad van Italië.",
+              "exampleIt": "Roma è la capitale d'Italia."
+            },
+            {
+              "nl": "het gebergte",
+              "it": "la catena montuosa",
+              "en": "mountain range",
+              "emoji": "⛰️",
+              "pos": "n",
+              "exampleNl": "De Alpen zijn een hoog gebergte.",
+              "exampleIt": "Le Alpi sono un'alta catena montuosa."
+            },
+            {
+              "nl": "de vlakte",
+              "it": "la pianura",
+              "en": "plain",
+              "emoji": "🌾",
+              "pos": "n",
+              "exampleNl": "De rivier stroomt door een brede vlakte.",
+              "exampleIt": "Il fiume scorre in un'ampia pianura."
+            },
+            {
+              "nl": "de kolonie",
+              "it": "la colonia",
+              "en": "colony",
+              "emoji": "🚩",
+              "pos": "n",
+              "exampleNl": "Het land was vroeger een Europese kolonie.",
+              "exampleIt": "Il paese era un tempo una colonia europea."
+            },
+            {
+              "nl": "de onafhankelijkheid",
+              "it": "l'indipendenza",
+              "en": "independence",
+              "emoji": "🎉",
+              "pos": "n",
+              "exampleNl": "Het land vierde zijn onafhankelijkheid.",
+              "exampleIt": "Il paese festeggiò la propria indipendenza."
+            },
+            {
+              "nl": "het monument",
+              "it": "il monumento",
+              "en": "monument",
+              "emoji": "🗽",
+              "pos": "n",
+              "exampleNl": "Op het plein staat een historisch monument.",
+              "exampleIt": "Sulla piazza c'è un monumento storico."
+            },
+            {
+              "nl": "het werelddeel",
+              "it": "il continente",
+              "en": "continent",
+              "emoji": "🗺️",
+              "pos": "n",
+              "exampleNl": "Antarctica is het koudste werelddeel.",
+              "exampleIt": "L'Antartide è il continente più freddo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2u17",
+      "title": "Settori e mestieri",
+      "icon": "🛠️",
+      "tip": "Settori economici e professioni. Quasi tutto 'de'. 'De zelfstandige' = lavoratore autonomo.",
+      "lessons": [
+        {
+          "id": "b2u17l1",
+          "title": "Il mondo del lavoro",
+          "items": [
+            {
+              "nl": "de sector",
+              "it": "il settore",
+              "en": "sector",
+              "emoji": "🏢",
+              "pos": "n",
+              "exampleNl": "De technologische sector groeit het snelst.",
+              "exampleIt": "Il settore tecnologico cresce più velocemente."
+            },
+            {
+              "nl": "de landbouw",
+              "it": "l'agricoltura",
+              "en": "agriculture",
+              "emoji": "🌾",
+              "pos": "n",
+              "exampleNl": "De landbouw is afhankelijk van het weer.",
+              "exampleIt": "L'agricoltura dipende dal tempo."
+            },
+            {
+              "nl": "de industrie",
+              "it": "l'industria",
+              "en": "industry",
+              "emoji": "🏭",
+              "pos": "n",
+              "exampleNl": "De industrie zorgt voor veel werkgelegenheid.",
+              "exampleIt": "L'industria genera molta occupazione."
+            },
+            {
+              "nl": "de horeca",
+              "it": "la ristorazione / il settore alberghiero",
+              "en": "hospitality",
+              "emoji": "🍽️",
+              "pos": "n",
+              "exampleNl": "In de horeca werken veel jonge mensen.",
+              "exampleIt": "Nella ristorazione lavorano molti giovani."
+            },
+            {
+              "nl": "de bouw",
+              "it": "l'edilizia",
+              "en": "construction",
+              "emoji": "🏗️",
+              "pos": "n",
+              "exampleNl": "De bouw van het ziekenhuis duurde drie jaar.",
+              "exampleIt": "La costruzione dell'ospedale durò tre anni."
+            },
+            {
+              "nl": "de detailhandel",
+              "it": "il commercio al dettaglio",
+              "en": "retail",
+              "emoji": "🛍️",
+              "pos": "n",
+              "exampleNl": "De detailhandel lijdt onder de webwinkels.",
+              "exampleIt": "Il commercio al dettaglio soffre per i negozi online."
+            },
+            {
+              "nl": "de logistiek",
+              "it": "la logistica",
+              "en": "logistics",
+              "emoji": "🚛",
+              "pos": "n",
+              "exampleNl": "De logistiek achter de levering is complex.",
+              "exampleIt": "La logistica dietro la consegna è complessa."
+            },
+            {
+              "nl": "de dienstverlening",
+              "it": "la fornitura di servizi",
+              "en": "services",
+              "emoji": "🤝",
+              "pos": "n",
+              "exampleNl": "De dienstverlening van de bank is verbeterd.",
+              "exampleIt": "La fornitura di servizi della banca è migliorata."
+            },
+            {
+              "nl": "de ambtenaar",
+              "it": "il funzionario pubblico",
+              "en": "civil servant",
+              "emoji": "🏛️",
+              "pos": "n",
+              "exampleNl": "Een ambtenaar werkt voor de overheid.",
+              "exampleIt": "Un funzionario lavora per lo Stato."
+            },
+            {
+              "nl": "de zelfstandige",
+              "it": "il lavoratore autonomo",
+              "en": "self-employed",
+              "emoji": "💼",
+              "pos": "n",
+              "exampleNl": "Als zelfstandige bepaalt hij zijn eigen uren.",
+              "exampleIt": "Da lavoratore autonomo decide i propri orari."
+            },
+            {
+              "nl": "de ondernemer",
+              "it": "l'imprenditore",
+              "en": "entrepreneur",
+              "emoji": "🚀",
+              "pos": "n",
+              "exampleNl": "De ondernemer startte drie bedrijven.",
+              "exampleIt": "L'imprenditore avviò tre aziende."
+            },
+            {
+              "nl": "de vakman",
+              "it": "l'artigiano / lo specialista",
+              "en": "craftsman",
+              "emoji": "🔧",
+              "pos": "n",
+              "exampleNl": "Voor dit werk heb je een echte vakman nodig.",
+              "exampleIt": "Per questo lavoro serve un vero artigiano."
+            },
+            {
+              "nl": "de deskundige",
+              "it": "l'esperto",
+              "en": "expert",
+              "emoji": "🎓",
+              "pos": "n",
+              "exampleNl": "Een deskundige werd om advies gevraagd.",
+              "exampleIt": "È stato chiesto un parere a un esperto."
+            },
+            {
+              "nl": "de boekhouder",
+              "it": "il contabile",
+              "en": "accountant",
+              "emoji": "🧾",
+              "pos": "n",
+              "exampleNl": "De boekhouder controleert alle rekeningen.",
+              "exampleIt": "Il contabile controlla tutti i conti."
+            },
+            {
+              "nl": "de notaris",
+              "it": "il notaio",
+              "en": "notary",
+              "emoji": "📜",
+              "pos": "n",
+              "exampleNl": "Het contract werd bij de notaris getekend.",
+              "exampleIt": "Il contratto è stato firmato dal notaio."
+            },
+            {
+              "nl": "de makelaar",
+              "it": "l'agente immobiliare",
+              "en": "real estate agent",
+              "emoji": "🏠",
+              "pos": "n",
+              "exampleNl": "De makelaar liet ons drie huizen zien.",
+              "exampleIt": "L'agente immobiliare ci mostrò tre case."
             }
           ]
         }
