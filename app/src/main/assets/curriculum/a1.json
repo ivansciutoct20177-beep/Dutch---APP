@@ -1174,6 +1174,237 @@
               "exampleIt": "Il pesce è fresco."
             }
           ]
+        },
+        {
+          "id": "a1u4l4",
+          "title": "Altro cibo e bevande",
+          "items": [
+            {
+              "nl": "de boter",
+              "it": "il burro",
+              "en": "butter",
+              "emoji": "🧈",
+              "pos": "n",
+              "exampleNl": "Ik doe boter op mijn brood.",
+              "exampleIt": "Metto il burro sul pane."
+            },
+            {
+              "nl": "de suiker",
+              "it": "lo zucchero",
+              "en": "sugar",
+              "emoji": "🍬",
+              "pos": "n",
+              "exampleNl": "Doe jij suiker in je koffie?",
+              "exampleIt": "Metti lo zucchero nel caffè?"
+            },
+            {
+              "nl": "het zout",
+              "it": "il sale",
+              "en": "salt",
+              "emoji": "🧂",
+              "pos": "n",
+              "exampleNl": "Er zit te veel zout in de soep.",
+              "exampleIt": "C'è troppo sale nella minestra."
+            },
+            {
+              "nl": "de peper",
+              "it": "il pepe",
+              "en": "pepper",
+              "emoji": "🌶️",
+              "pos": "n",
+              "exampleNl": "Wil je wat peper op je eieren?",
+              "exampleIt": "Vuoi un po' di pepe sulle uova?"
+            },
+            {
+              "nl": "de honing",
+              "it": "il miele",
+              "en": "honey",
+              "emoji": "🍯",
+              "pos": "n",
+              "exampleNl": "Ik eet brood met honing.",
+              "exampleIt": "Mangio pane con il miele."
+            },
+            {
+              "nl": "de jam",
+              "it": "la marmellata",
+              "en": "jam",
+              "emoji": "🍓",
+              "pos": "n",
+              "exampleNl": "Op zondag eten we brood met jam.",
+              "exampleIt": "La domenica mangiamo pane con la marmellata."
+            },
+            {
+              "nl": "het ijs",
+              "it": "il gelato",
+              "en": "ice cream",
+              "emoji": "🍦",
+              "pos": "n",
+              "exampleNl": "In de zomer eet ik graag ijs.",
+              "exampleIt": "D'estate mi piace mangiare il gelato."
+            },
+            {
+              "nl": "de koek",
+              "it": "il dolce / il biscotto",
+              "en": "cake/cookie",
+              "emoji": "🍪",
+              "pos": "n",
+              "exampleNl": "Bij de thee eten we een koek.",
+              "exampleIt": "Con il tè mangiamo un biscotto."
+            },
+            {
+              "nl": "de taart",
+              "it": "la torta",
+              "en": "cake",
+              "emoji": "🎂",
+              "pos": "n",
+              "exampleNl": "Voor mijn verjaardag bak ik een taart.",
+              "exampleIt": "Per il mio compleanno preparo una torta."
+            },
+            {
+              "nl": "het koekje",
+              "it": "il biscotto",
+              "en": "biscuit",
+              "emoji": "🍪",
+              "pos": "n",
+              "exampleNl": "Wil je een koekje bij de koffie?",
+              "exampleIt": "Vuoi un biscotto col caffè?"
+            },
+            {
+              "nl": "de chocolade",
+              "it": "la cioccolata",
+              "en": "chocolate",
+              "emoji": "🍫",
+              "pos": "n",
+              "exampleNl": "Ik hou heel veel van chocolade.",
+              "exampleIt": "Mi piace molto la cioccolata."
+            },
+            {
+              "nl": "het snoep",
+              "it": "le caramelle / i dolciumi",
+              "en": "sweets",
+              "emoji": "🍬",
+              "pos": "n",
+              "exampleNl": "Kinderen eten graag snoep.",
+              "exampleIt": "Ai bambini piace mangiare i dolciumi."
+            },
+            {
+              "nl": "de pasta",
+              "it": "la pasta",
+              "en": "pasta",
+              "emoji": "🍝",
+              "pos": "n",
+              "exampleNl": "Vanavond koken we pasta met tomaten.",
+              "exampleIt": "Stasera cuciniamo pasta al pomodoro."
+            },
+            {
+              "nl": "de pizza",
+              "it": "la pizza",
+              "en": "pizza",
+              "emoji": "🍕",
+              "pos": "n",
+              "exampleNl": "Op vrijdag bestellen we een pizza.",
+              "exampleIt": "Il venerdì ordiniamo una pizza."
+            },
+            {
+              "nl": "het broodje",
+              "it": "il panino",
+              "en": "bread roll",
+              "emoji": "🥖",
+              "pos": "n",
+              "exampleNl": "Ik koop een broodje voor de lunch.",
+              "exampleIt": "Compro un panino per il pranzo."
+            },
+            {
+              "nl": "de boterham",
+              "it": "la fetta di pane / il panino",
+              "en": "sandwich",
+              "emoji": "🍞",
+              "pos": "n",
+              "exampleNl": "Ik maak een boterham met kaas.",
+              "exampleIt": "Faccio un panino con il formaggio."
+            },
+            {
+              "nl": "de saus",
+              "it": "la salsa / il sugo",
+              "en": "sauce",
+              "emoji": "🥫",
+              "pos": "n",
+              "exampleNl": "De pasta heeft een lekkere saus.",
+              "exampleIt": "La pasta ha un buon sugo."
+            },
+            {
+              "nl": "de sla",
+              "it": "l'insalata",
+              "en": "lettuce/salad",
+              "emoji": "🥗",
+              "pos": "n",
+              "exampleNl": "Bij het vlees eten we sla.",
+              "exampleIt": "Con la carne mangiamo l'insalata."
+            },
+            {
+              "nl": "de ui",
+              "it": "la cipolla",
+              "en": "onion",
+              "emoji": "🧅",
+              "pos": "n",
+              "exampleNl": "Ik snijd een ui voor de soep.",
+              "exampleIt": "Taglio una cipolla per la minestra."
+            },
+            {
+              "nl": "de paprika",
+              "it": "il peperone",
+              "en": "bell pepper",
+              "emoji": "🫑",
+              "pos": "n",
+              "exampleNl": "De rode paprika is heel zoet.",
+              "exampleIt": "Il peperone rosso è molto dolce."
+            },
+            {
+              "nl": "de champignon",
+              "it": "il fungo (champignon)",
+              "en": "mushroom",
+              "emoji": "🍄",
+              "pos": "n",
+              "exampleNl": "Op de pizza liggen veel champignons.",
+              "exampleIt": "Sulla pizza ci sono molti funghi."
+            },
+            {
+              "nl": "de noot",
+              "it": "la noce",
+              "en": "nut",
+              "emoji": "🥜",
+              "pos": "n",
+              "exampleNl": "In de cake zitten kleine noten.",
+              "exampleIt": "Nella torta ci sono piccole noci."
+            },
+            {
+              "nl": "de yoghurt",
+              "it": "lo yogurt",
+              "en": "yoghurt",
+              "emoji": "🥛",
+              "pos": "n",
+              "exampleNl": "'s Ochtends eet ik yoghurt met fruit.",
+              "exampleIt": "La mattina mangio yogurt con la frutta."
+            },
+            {
+              "nl": "het gebak",
+              "it": "i dolci / la pasticceria",
+              "en": "pastry",
+              "emoji": "🧁",
+              "pos": "n",
+              "exampleNl": "In de winkel ligt vers gebak.",
+              "exampleIt": "In negozio c'è pasticceria fresca."
+            },
+            {
+              "nl": "de maaltijd",
+              "it": "il pasto",
+              "en": "meal",
+              "emoji": "🍽️",
+              "pos": "n",
+              "exampleNl": "Het avondeten is mijn favoriete maaltijd.",
+              "exampleIt": "La cena è il mio pasto preferito."
+            }
+          ]
         }
       ]
     },
@@ -1371,6 +1602,192 @@
               "pos": "n",
               "exampleNl": "Ik lees een boek.",
               "exampleIt": "Leggo un libro."
+            }
+          ]
+        },
+        {
+          "id": "a1u5l3",
+          "title": "In casa: oggetti",
+          "items": [
+            {
+              "nl": "de kast",
+              "it": "l'armadio",
+              "en": "cupboard",
+              "emoji": "🚪",
+              "pos": "n",
+              "exampleNl": "Mijn kleren liggen in de kast.",
+              "exampleIt": "I miei vestiti sono nell'armadio."
+            },
+            {
+              "nl": "de spiegel",
+              "it": "lo specchio",
+              "en": "mirror",
+              "emoji": "🪞",
+              "pos": "n",
+              "exampleNl": "Ik kijk in de spiegel.",
+              "exampleIt": "Mi guardo allo specchio."
+            },
+            {
+              "nl": "het bad",
+              "it": "la vasca da bagno",
+              "en": "bath",
+              "emoji": "🛁",
+              "pos": "n",
+              "exampleNl": "De kinderen zitten in het bad.",
+              "exampleIt": "I bambini sono nella vasca."
+            },
+            {
+              "nl": "de douche",
+              "it": "la doccia",
+              "en": "shower",
+              "emoji": "🚿",
+              "pos": "n",
+              "exampleNl": "'s Morgens neem ik een douche.",
+              "exampleIt": "La mattina faccio la doccia."
+            },
+            {
+              "nl": "het toilet",
+              "it": "il bagno / la toilette",
+              "en": "toilet",
+              "emoji": "🚽",
+              "pos": "n",
+              "exampleNl": "Waar is het toilet, alstublieft?",
+              "exampleIt": "Dov'è il bagno, per favore?"
+            },
+            {
+              "nl": "de wastafel",
+              "it": "il lavandino",
+              "en": "sink",
+              "emoji": "🚰",
+              "pos": "n",
+              "exampleNl": "Ik was mijn handen bij de wastafel.",
+              "exampleIt": "Mi lavo le mani al lavandino."
+            },
+            {
+              "nl": "het fornuis",
+              "it": "i fornelli / la cucina",
+              "en": "stove",
+              "emoji": "🍳",
+              "pos": "n",
+              "exampleNl": "Op het fornuis staat een pan.",
+              "exampleIt": "Sui fornelli c'è una pentola."
+            },
+            {
+              "nl": "de kraan",
+              "it": "il rubinetto",
+              "en": "tap",
+              "emoji": "🚰",
+              "pos": "n",
+              "exampleNl": "Het water komt uit de kraan.",
+              "exampleIt": "L'acqua esce dal rubinetto."
+            },
+            {
+              "nl": "de oven",
+              "it": "il forno",
+              "en": "oven",
+              "emoji": "🔥",
+              "pos": "n",
+              "exampleNl": "De pizza zit in de oven.",
+              "exampleIt": "La pizza è nel forno."
+            },
+            {
+              "nl": "de magnetron",
+              "it": "il microonde",
+              "en": "microwave",
+              "emoji": "♨️",
+              "pos": "n",
+              "exampleNl": "Ik warm de soep op in de magnetron.",
+              "exampleIt": "Scaldo la minestra nel microonde."
+            },
+            {
+              "nl": "de stofzuiger",
+              "it": "l'aspirapolvere",
+              "en": "vacuum cleaner",
+              "emoji": "🧹",
+              "pos": "n",
+              "exampleNl": "Ik maak het tapijt schoon met de stofzuiger.",
+              "exampleIt": "Pulisco il tappeto con l'aspirapolvere."
+            },
+            {
+              "nl": "de beker",
+              "it": "la tazza / il bicchiere",
+              "en": "mug",
+              "emoji": "🥤",
+              "pos": "n",
+              "exampleNl": "Ik drink melk uit een beker.",
+              "exampleIt": "Bevo il latte da una tazza."
+            },
+            {
+              "nl": "de schaal",
+              "it": "la ciotola / il piatto",
+              "en": "bowl",
+              "emoji": "🥣",
+              "pos": "n",
+              "exampleNl": "Het fruit ligt in een grote schaal.",
+              "exampleIt": "La frutta è in una grande ciotola."
+            },
+            {
+              "nl": "het bestek",
+              "it": "le posate",
+              "en": "cutlery",
+              "emoji": "🍴",
+              "pos": "n",
+              "exampleNl": "Het bestek ligt naast het bord.",
+              "exampleIt": "Le posate sono accanto al piatto."
+            },
+            {
+              "nl": "het servet",
+              "it": "il tovagliolo",
+              "en": "napkin",
+              "emoji": "🧻",
+              "pos": "n",
+              "exampleNl": "Pak een servet om je mond af te vegen.",
+              "exampleIt": "Prendi un tovagliolo per pulirti la bocca."
+            },
+            {
+              "nl": "de pan",
+              "it": "la pentola",
+              "en": "pan",
+              "emoji": "🍳",
+              "pos": "n",
+              "exampleNl": "De pan staat op het vuur.",
+              "exampleIt": "La pentola è sul fuoco."
+            },
+            {
+              "nl": "het kussen",
+              "it": "il cuscino",
+              "en": "pillow",
+              "emoji": "🛏️",
+              "pos": "n",
+              "exampleNl": "Op mijn bed ligt een zacht kussen.",
+              "exampleIt": "Sul mio letto c'è un cuscino morbido."
+            },
+            {
+              "nl": "het gordijn",
+              "it": "la tenda",
+              "en": "curtain",
+              "emoji": "🪟",
+              "pos": "n",
+              "exampleNl": "Doe jij het gordijn dicht?",
+              "exampleIt": "Chiudi la tenda?"
+            },
+            {
+              "nl": "de vloer",
+              "it": "il pavimento",
+              "en": "floor",
+              "emoji": "🧹",
+              "pos": "n",
+              "exampleNl": "De vloer is heel schoon.",
+              "exampleIt": "Il pavimento è molto pulito."
+            },
+            {
+              "nl": "de muur",
+              "it": "il muro / la parete",
+              "en": "wall",
+              "emoji": "🧱",
+              "pos": "n",
+              "exampleNl": "Aan de muur hangt een foto.",
+              "exampleIt": "Sul muro c'è una foto."
             }
           ]
         }
@@ -1654,6 +2071,156 @@
               "exampleIt": "La giornata inizia presto."
             }
           ]
+        },
+        {
+          "id": "a1u6l4",
+          "title": "Mesi e momenti",
+          "items": [
+            {
+              "nl": "februari",
+              "it": "febbraio",
+              "en": "February",
+              "emoji": "📅",
+              "pos": "propn",
+              "exampleNl": "In februari is het vaak koud.",
+              "exampleIt": "A febbraio fa spesso freddo."
+            },
+            {
+              "nl": "maart",
+              "it": "marzo",
+              "en": "March",
+              "emoji": "📅",
+              "pos": "propn",
+              "exampleNl": "In maart begint de lente.",
+              "exampleIt": "A marzo inizia la primavera."
+            },
+            {
+              "nl": "april",
+              "it": "aprile",
+              "en": "April",
+              "emoji": "📅",
+              "pos": "propn",
+              "exampleNl": "In april regent het veel.",
+              "exampleIt": "Ad aprile piove molto."
+            },
+            {
+              "nl": "mei",
+              "it": "maggio",
+              "en": "May",
+              "emoji": "📅",
+              "pos": "propn",
+              "exampleNl": "In mei wordt het weer warmer.",
+              "exampleIt": "A maggio il tempo diventa più caldo."
+            },
+            {
+              "nl": "juni",
+              "it": "giugno",
+              "en": "June",
+              "emoji": "📅",
+              "pos": "propn",
+              "exampleNl": "In juni beginnen de vakanties.",
+              "exampleIt": "A giugno iniziano le vacanze."
+            },
+            {
+              "nl": "augustus",
+              "it": "agosto",
+              "en": "August",
+              "emoji": "📅",
+              "pos": "propn",
+              "exampleNl": "In augustus is het erg warm.",
+              "exampleIt": "Ad agosto fa molto caldo."
+            },
+            {
+              "nl": "september",
+              "it": "settembre",
+              "en": "September",
+              "emoji": "📅",
+              "pos": "propn",
+              "exampleNl": "In september gaan de kinderen naar school.",
+              "exampleIt": "A settembre i bambini vanno a scuola."
+            },
+            {
+              "nl": "oktober",
+              "it": "ottobre",
+              "en": "October",
+              "emoji": "📅",
+              "pos": "propn",
+              "exampleNl": "In oktober vallen de bladeren.",
+              "exampleIt": "A ottobre cadono le foglie."
+            },
+            {
+              "nl": "november",
+              "it": "novembre",
+              "en": "November",
+              "emoji": "📅",
+              "pos": "propn",
+              "exampleNl": "In november wordt het vroeg donker.",
+              "exampleIt": "A novembre fa buio presto."
+            },
+            {
+              "nl": "het kwartier",
+              "it": "il quarto d'ora",
+              "en": "quarter hour",
+              "emoji": "⏲️",
+              "pos": "n",
+              "exampleNl": "De bus komt over een kwartier.",
+              "exampleIt": "L'autobus arriva tra un quarto d'ora."
+            },
+            {
+              "nl": "de datum",
+              "it": "la data",
+              "en": "date",
+              "emoji": "📆",
+              "pos": "n",
+              "exampleNl": "Wat is de datum van vandaag?",
+              "exampleIt": "Qual è la data di oggi?"
+            },
+            {
+              "nl": "de seconde",
+              "it": "il secondo",
+              "en": "second",
+              "emoji": "⏱️",
+              "pos": "n",
+              "exampleNl": "Een minuut heeft zestig seconden.",
+              "exampleIt": "Un minuto ha sessanta secondi."
+            },
+            {
+              "nl": "het weekend",
+              "it": "il fine settimana",
+              "en": "weekend",
+              "emoji": "📆",
+              "pos": "n",
+              "exampleNl": "In het weekend slaap ik lang.",
+              "exampleIt": "Nel fine settimana dormo a lungo."
+            },
+            {
+              "nl": "het seizoen",
+              "it": "la stagione",
+              "en": "season",
+              "emoji": "🍂",
+              "pos": "n",
+              "exampleNl": "De herfst is mijn favoriete seizoen.",
+              "exampleIt": "L'autunno è la mia stagione preferita."
+            },
+            {
+              "nl": "de eeuw",
+              "it": "il secolo",
+              "en": "century",
+              "emoji": "🏛️",
+              "pos": "n",
+              "exampleNl": "Honderd jaar is een eeuw.",
+              "exampleIt": "Cento anni sono un secolo."
+            },
+            {
+              "nl": "het tijdstip",
+              "it": "il momento / l'orario",
+              "en": "point in time",
+              "emoji": "🕓",
+              "pos": "n",
+              "exampleNl": "Op welk tijdstip begint de film?",
+              "exampleIt": "A che ora inizia il film?"
+            }
+          ]
         }
       ]
     },
@@ -1852,6 +2419,120 @@
               "pos": "n",
               "exampleNl": "De bij maakt honing.",
               "exampleIt": "L'ape fa il miele."
+            }
+          ]
+        },
+        {
+          "id": "a1u7l3",
+          "title": "Altri animali",
+          "items": [
+            {
+              "nl": "de eend",
+              "it": "l'anatra",
+              "en": "duck",
+              "emoji": "🦆",
+              "pos": "n",
+              "exampleNl": "In de vijver zwemt een eend.",
+              "exampleIt": "Nello stagno nuota un'anatra."
+            },
+            {
+              "nl": "de kikker",
+              "it": "la rana",
+              "en": "frog",
+              "emoji": "🐸",
+              "pos": "n",
+              "exampleNl": "De groene kikker zit op een blad.",
+              "exampleIt": "La rana verde sta su una foglia."
+            },
+            {
+              "nl": "de spin",
+              "it": "il ragno",
+              "en": "spider",
+              "emoji": "🕷️",
+              "pos": "n",
+              "exampleNl": "Er zit een spin in de hoek.",
+              "exampleIt": "C'è un ragno nell'angolo."
+            },
+            {
+              "nl": "het hert",
+              "it": "il cervo",
+              "en": "deer",
+              "emoji": "🦌",
+              "pos": "n",
+              "exampleNl": "In het bos zagen we een hert.",
+              "exampleIt": "Nel bosco abbiamo visto un cervo."
+            },
+            {
+              "nl": "de geit",
+              "it": "la capra",
+              "en": "goat",
+              "emoji": "🐐",
+              "pos": "n",
+              "exampleNl": "De geit eet gras op de berg.",
+              "exampleIt": "La capra mangia l'erba sulla montagna."
+            },
+            {
+              "nl": "het kuiken",
+              "it": "il pulcino",
+              "en": "chick",
+              "emoji": "🐥",
+              "pos": "n",
+              "exampleNl": "Het gele kuiken loopt achter de kip.",
+              "exampleIt": "Il pulcino giallo cammina dietro la gallina."
+            },
+            {
+              "nl": "de haan",
+              "it": "il gallo",
+              "en": "rooster",
+              "emoji": "🐓",
+              "pos": "n",
+              "exampleNl": "De haan kraait elke ochtend.",
+              "exampleIt": "Il gallo canta ogni mattina."
+            },
+            {
+              "nl": "de mier",
+              "it": "la formica",
+              "en": "ant",
+              "emoji": "🐜",
+              "pos": "n",
+              "exampleNl": "Een kleine mier draagt een blad.",
+              "exampleIt": "Una piccola formica porta una foglia."
+            },
+            {
+              "nl": "de dolfijn",
+              "it": "il delfino",
+              "en": "dolphin",
+              "emoji": "🐬",
+              "pos": "n",
+              "exampleNl": "De dolfijn springt uit het water.",
+              "exampleIt": "Il delfino salta fuori dall'acqua."
+            },
+            {
+              "nl": "de haai",
+              "it": "lo squalo",
+              "en": "shark",
+              "emoji": "🦈",
+              "pos": "n",
+              "exampleNl": "De haai zwemt diep in de zee.",
+              "exampleIt": "Lo squalo nuota in fondo al mare."
+            },
+            {
+              "nl": "de pinguïn",
+              "it": "il pinguino",
+              "en": "penguin",
+              "emoji": "🐧",
+              "pos": "n",
+              "exampleNl": "De pinguïn woont waar het koud is.",
+              "exampleIt": "Il pinguino vive dove fa freddo."
+            },
+            {
+              "nl": "de uil",
+              "it": "il gufo",
+              "en": "owl",
+              "emoji": "🦉",
+              "pos": "n",
+              "exampleNl": "De uil slaapt overdag.",
+              "exampleIt": "Il gufo dorme di giorno."
             }
           ]
         }
@@ -2352,6 +3033,1208 @@
               "pos": "adj",
               "exampleNl": "De trein is goedkoop.",
               "exampleIt": "Il treno è economico."
+            }
+          ]
+        },
+        {
+          "id": "a1u11l2",
+          "title": "Altri aggettivi",
+          "items": [
+            {
+              "nl": "rond",
+              "it": "rotondo",
+              "en": "round",
+              "emoji": "⭕",
+              "pos": "adj",
+              "exampleNl": "De bal is helemaal rond.",
+              "exampleIt": "La palla è tutta rotonda."
+            },
+            {
+              "nl": "zacht",
+              "it": "morbido / dolce",
+              "en": "soft",
+              "emoji": "🧸",
+              "pos": "adj",
+              "exampleNl": "Het kussen is heel zacht.",
+              "exampleIt": "Il cuscino è molto morbido."
+            },
+            {
+              "nl": "stil",
+              "it": "silenzioso / tranquillo",
+              "en": "quiet",
+              "emoji": "🤫",
+              "pos": "adj",
+              "exampleNl": "In de bibliotheek is het heel stil.",
+              "exampleIt": "In biblioteca c'è molto silenzio."
+            },
+            {
+              "nl": "vies",
+              "it": "sporco",
+              "en": "dirty",
+              "emoji": "🧤",
+              "pos": "adj",
+              "exampleNl": "Na het spelen zijn mijn handen vies.",
+              "exampleIt": "Dopo aver giocato le mie mani sono sporche."
+            },
+            {
+              "nl": "hoog",
+              "it": "alto",
+              "en": "high",
+              "emoji": "⬆️",
+              "pos": "adj",
+              "exampleNl": "De berg is heel hoog.",
+              "exampleIt": "La montagna è molto alta."
+            },
+            {
+              "nl": "laag",
+              "it": "basso",
+              "en": "low",
+              "emoji": "⬇️",
+              "pos": "adj",
+              "exampleNl": "De tafel is te laag.",
+              "exampleIt": "Il tavolo è troppo basso."
+            },
+            {
+              "nl": "dik",
+              "it": "spesso / grasso",
+              "en": "thick/fat",
+              "emoji": "🐘",
+              "pos": "adj",
+              "exampleNl": "Het boek is heel dik.",
+              "exampleIt": "Il libro è molto spesso."
+            },
+            {
+              "nl": "dun",
+              "it": "sottile / magro",
+              "en": "thin",
+              "emoji": "📄",
+              "pos": "adj",
+              "exampleNl": "Het papier is heel dun.",
+              "exampleIt": "La carta è molto sottile."
+            },
+            {
+              "nl": "zwaar",
+              "it": "pesante",
+              "en": "heavy",
+              "emoji": "🏋️",
+              "pos": "adj",
+              "exampleNl": "De tas is te zwaar.",
+              "exampleIt": "La borsa è troppo pesante."
+            },
+            {
+              "nl": "licht",
+              "it": "leggero",
+              "en": "light",
+              "emoji": "🪶",
+              "pos": "adj",
+              "exampleNl": "De doos is heel licht.",
+              "exampleIt": "La scatola è molto leggera."
+            },
+            {
+              "nl": "vol",
+              "it": "pieno",
+              "en": "full",
+              "emoji": "🫗",
+              "pos": "adj",
+              "exampleNl": "Mijn glas is al vol.",
+              "exampleIt": "Il mio bicchiere è già pieno."
+            },
+            {
+              "nl": "leeg",
+              "it": "vuoto",
+              "en": "empty",
+              "emoji": "🕳️",
+              "pos": "adj",
+              "exampleNl": "De fles is helemaal leeg.",
+              "exampleIt": "La bottiglia è completamente vuota."
+            },
+            {
+              "nl": "sterk",
+              "it": "forte",
+              "en": "strong",
+              "emoji": "💪",
+              "pos": "adj",
+              "exampleNl": "Mijn vader is heel sterk.",
+              "exampleIt": "Mio padre è molto forte."
+            },
+            {
+              "nl": "jong",
+              "it": "giovane",
+              "en": "young",
+              "emoji": "🧒",
+              "pos": "adj",
+              "exampleNl": "Mijn zus is nog jong.",
+              "exampleIt": "Mia sorella è ancora giovane."
+            },
+            {
+              "nl": "schoon",
+              "it": "pulito",
+              "en": "clean",
+              "emoji": "✨",
+              "pos": "adj",
+              "exampleNl": "De keuken is nu schoon.",
+              "exampleIt": "La cucina ora è pulita."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1u12",
+      "title": "Che tempo fa",
+      "icon": "🌤️",
+      "tip": "Il meteo: 'het onweer' e 'het weerbericht' sono neutri; la maggior parte è 'de' (de mist, de storm, de bui). Aggettivi: zonnig, bewolkt, mistig.",
+      "lessons": [
+        {
+          "id": "a1u12l1",
+          "title": "Pioggia e sole",
+          "items": [
+            {
+              "nl": "de mist",
+              "it": "la nebbia",
+              "en": "fog",
+              "emoji": "🌫️",
+              "pos": "n",
+              "exampleNl": "In de ochtend hangt er dichte mist.",
+              "exampleIt": "La mattina c'è una fitta nebbia."
+            },
+            {
+              "nl": "de storm",
+              "it": "la tempesta",
+              "en": "storm",
+              "emoji": "🌬️",
+              "pos": "n",
+              "exampleNl": "Tijdens de storm waaiden de bomen om.",
+              "exampleIt": "Durante la tempesta gli alberi sono caduti."
+            },
+            {
+              "nl": "de bui",
+              "it": "l'acquazzone",
+              "en": "shower",
+              "emoji": "🌦️",
+              "pos": "n",
+              "exampleNl": "Er komt een bui aan, neem een jas mee.",
+              "exampleIt": "Sta arrivando un acquazzone, prendi una giacca."
+            },
+            {
+              "nl": "het onweer",
+              "it": "il temporale",
+              "en": "thunderstorm",
+              "emoji": "⛈️",
+              "pos": "n",
+              "exampleNl": "Vannacht was er een hevig onweer.",
+              "exampleIt": "Stanotte c'è stato un forte temporale."
+            },
+            {
+              "nl": "de bliksem",
+              "it": "il fulmine",
+              "en": "lightning",
+              "emoji": "⚡",
+              "pos": "n",
+              "exampleNl": "De bliksem verlichtte de hele lucht.",
+              "exampleIt": "Il fulmine ha illuminato tutto il cielo."
+            },
+            {
+              "nl": "de donder",
+              "it": "il tuono",
+              "en": "thunder",
+              "emoji": "🔊",
+              "pos": "n",
+              "exampleNl": "Na de bliksem hoor je de donder.",
+              "exampleIt": "Dopo il fulmine si sente il tuono."
+            },
+            {
+              "nl": "de hagel",
+              "it": "la grandine",
+              "en": "hail",
+              "emoji": "🧊",
+              "pos": "n",
+              "exampleNl": "De hagel viel hard op het dak.",
+              "exampleIt": "La grandine cadeva forte sul tetto."
+            },
+            {
+              "nl": "de temperatuur",
+              "it": "la temperatura",
+              "en": "temperature",
+              "emoji": "🌡️",
+              "pos": "n",
+              "exampleNl": "De temperatuur daalt vannacht sterk.",
+              "exampleIt": "La temperatura stanotte scende molto."
+            },
+            {
+              "nl": "de graad",
+              "it": "il grado",
+              "en": "degree",
+              "emoji": "🌡️",
+              "pos": "n",
+              "exampleNl": "Het is vandaag twintig graden.",
+              "exampleIt": "Oggi ci sono venti gradi."
+            },
+            {
+              "nl": "zonnig",
+              "it": "soleggiato",
+              "en": "sunny",
+              "emoji": "☀️",
+              "pos": "adj",
+              "exampleNl": "Morgen wordt het een zonnige dag.",
+              "exampleIt": "Domani sarà una giornata soleggiata."
+            },
+            {
+              "nl": "bewolkt",
+              "it": "nuvoloso",
+              "en": "cloudy",
+              "emoji": "☁️",
+              "pos": "adj",
+              "exampleNl": "De hemel is vandaag heel bewolkt.",
+              "exampleIt": "Oggi il cielo è molto nuvoloso."
+            },
+            {
+              "nl": "mistig",
+              "it": "nebbioso",
+              "en": "foggy",
+              "emoji": "🌫️",
+              "pos": "adj",
+              "exampleNl": "Het is mistig op de weg.",
+              "exampleIt": "C'è nebbia sulla strada."
+            },
+            {
+              "nl": "nat",
+              "it": "bagnato",
+              "en": "wet",
+              "emoji": "💧",
+              "pos": "adj",
+              "exampleNl": "Door de regen is alles nat.",
+              "exampleIt": "Per la pioggia è tutto bagnato."
+            },
+            {
+              "nl": "winderig",
+              "it": "ventoso",
+              "en": "windy",
+              "emoji": "🌬️",
+              "pos": "adj",
+              "exampleNl": "Aan zee is het vaak winderig.",
+              "exampleIt": "Al mare è spesso ventoso."
+            },
+            {
+              "nl": "het weerbericht",
+              "it": "le previsioni del tempo",
+              "en": "weather forecast",
+              "emoji": "📺",
+              "pos": "n",
+              "exampleNl": "Het weerbericht zegt dat het gaat regenen.",
+              "exampleIt": "Le previsioni dicono che pioverà."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1u13",
+      "title": "Trasporti e mezzi",
+      "icon": "🚌",
+      "tip": "Mezzi e strada. Neutri: het stuur, het wiel, het verkeer, het stoplicht, het perron.",
+      "lessons": [
+        {
+          "id": "a1u13l1",
+          "title": "In viaggio in città",
+          "items": [
+            {
+              "nl": "de metro",
+              "it": "la metropolitana",
+              "en": "metro",
+              "emoji": "🚇",
+              "pos": "n",
+              "exampleNl": "Ik ga met de metro naar het werk.",
+              "exampleIt": "Vado al lavoro in metropolitana."
+            },
+            {
+              "nl": "de vrachtwagen",
+              "it": "il camion",
+              "en": "truck",
+              "emoji": "🚚",
+              "pos": "n",
+              "exampleNl": "De vrachtwagen brengt de spullen naar de winkel.",
+              "exampleIt": "Il camion porta la merce al negozio."
+            },
+            {
+              "nl": "de brommer",
+              "it": "il motorino",
+              "en": "moped",
+              "emoji": "🛵",
+              "pos": "n",
+              "exampleNl": "Hij rijdt op een blauwe brommer.",
+              "exampleIt": "Va in giro con un motorino blu."
+            },
+            {
+              "nl": "de motor",
+              "it": "la moto",
+              "en": "motorcycle",
+              "emoji": "🏍️",
+              "pos": "n",
+              "exampleNl": "Mijn broer heeft een snelle motor.",
+              "exampleIt": "Mio fratello ha una moto veloce."
+            },
+            {
+              "nl": "de halte",
+              "it": "la fermata",
+              "en": "stop",
+              "emoji": "🚏",
+              "pos": "n",
+              "exampleNl": "Bij de volgende halte stap ik uit.",
+              "exampleIt": "Alla prossima fermata scendo."
+            },
+            {
+              "nl": "het perron",
+              "it": "il binario / la banchina",
+              "en": "platform",
+              "emoji": "🚉",
+              "pos": "n",
+              "exampleNl": "De trein vertrekt van perron drie.",
+              "exampleIt": "Il treno parte dal binario tre."
+            },
+            {
+              "nl": "het stuur",
+              "it": "il volante / il manubrio",
+              "en": "steering wheel",
+              "emoji": "🎮",
+              "pos": "n",
+              "exampleNl": "Houd je handen op het stuur.",
+              "exampleIt": "Tieni le mani sul volante."
+            },
+            {
+              "nl": "het wiel",
+              "it": "la ruota",
+              "en": "wheel",
+              "emoji": "🛞",
+              "pos": "n",
+              "exampleNl": "Het wiel van de fiets is kapot.",
+              "exampleIt": "La ruota della bici è rotta."
+            },
+            {
+              "nl": "de chauffeur",
+              "it": "l'autista",
+              "en": "driver",
+              "emoji": "🧑‍✈️",
+              "pos": "n",
+              "exampleNl": "De chauffeur stopt bij de halte.",
+              "exampleIt": "L'autista si ferma alla fermata."
+            },
+            {
+              "nl": "de passagier",
+              "it": "il passeggero",
+              "en": "passenger",
+              "emoji": "💺",
+              "pos": "n",
+              "exampleNl": "Elke passagier moet een kaartje hebben.",
+              "exampleIt": "Ogni passeggero deve avere un biglietto."
+            },
+            {
+              "nl": "het verkeer",
+              "it": "il traffico",
+              "en": "traffic",
+              "emoji": "🚦",
+              "pos": "n",
+              "exampleNl": "'s Ochtends is er veel verkeer.",
+              "exampleIt": "La mattina c'è molto traffico."
+            },
+            {
+              "nl": "het stoplicht",
+              "it": "il semaforo",
+              "en": "traffic light",
+              "emoji": "🚥",
+              "pos": "n",
+              "exampleNl": "Wacht, het stoplicht is rood.",
+              "exampleIt": "Aspetta, il semaforo è rosso."
+            },
+            {
+              "nl": "de snelweg",
+              "it": "l'autostrada",
+              "en": "highway",
+              "emoji": "🛣️",
+              "pos": "n",
+              "exampleNl": "Op de snelweg rijden veel auto's.",
+              "exampleIt": "Sull'autostrada ci sono molte macchine."
+            },
+            {
+              "nl": "de parkeerplaats",
+              "it": "il parcheggio",
+              "en": "parking",
+              "emoji": "🅿️",
+              "pos": "n",
+              "exampleNl": "De parkeerplaats is helemaal vol.",
+              "exampleIt": "Il parcheggio è completamente pieno."
+            },
+            {
+              "nl": "de benzine",
+              "it": "la benzina",
+              "en": "petrol",
+              "emoji": "⛽",
+              "pos": "n",
+              "exampleNl": "De auto heeft benzine nodig.",
+              "exampleIt": "La macchina ha bisogno di benzina."
+            },
+            {
+              "nl": "de helm",
+              "it": "il casco",
+              "en": "helmet",
+              "emoji": "🪖",
+              "pos": "n",
+              "exampleNl": "Op de fiets draag ik een helm.",
+              "exampleIt": "In bici porto un casco."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1u14",
+      "title": "Spesa, negozi e denaro",
+      "icon": "🛒",
+      "tip": "Fare acquisti. Neutri: het geld, het cadeau. 'De boodschappen' è sempre plurale (= la spesa).",
+      "lessons": [
+        {
+          "id": "a1u14l1",
+          "title": "Al negozio",
+          "items": [
+            {
+              "nl": "het geld",
+              "it": "il denaro / i soldi",
+              "en": "money",
+              "emoji": "💶",
+              "pos": "n",
+              "exampleNl": "Ik heb niet veel geld bij me.",
+              "exampleIt": "Non ho molti soldi con me."
+            },
+            {
+              "nl": "de prijs",
+              "it": "il prezzo",
+              "en": "price",
+              "emoji": "🏷️",
+              "pos": "n",
+              "exampleNl": "Wat is de prijs van dit brood?",
+              "exampleIt": "Qual è il prezzo di questo pane?"
+            },
+            {
+              "nl": "de kassa",
+              "it": "la cassa",
+              "en": "checkout",
+              "emoji": "🧾",
+              "pos": "n",
+              "exampleNl": "Je betaalt bij de kassa.",
+              "exampleIt": "Si paga alla cassa."
+            },
+            {
+              "nl": "de euro",
+              "it": "l'euro",
+              "en": "euro",
+              "emoji": "💶",
+              "pos": "n",
+              "exampleNl": "Het kaartje kost twee euro.",
+              "exampleIt": "Il biglietto costa due euro."
+            },
+            {
+              "nl": "de winkelwagen",
+              "it": "il carrello",
+              "en": "shopping cart",
+              "emoji": "🛒",
+              "pos": "n",
+              "exampleNl": "Ik leg het brood in de winkelwagen.",
+              "exampleIt": "Metto il pane nel carrello."
+            },
+            {
+              "nl": "de rij",
+              "it": "la fila / la coda",
+              "en": "queue",
+              "emoji": "🧎",
+              "pos": "n",
+              "exampleNl": "Bij de kassa staat een lange rij.",
+              "exampleIt": "Alla cassa c'è una lunga fila."
+            },
+            {
+              "nl": "de bon",
+              "it": "lo scontrino",
+              "en": "receipt",
+              "emoji": "🧾",
+              "pos": "n",
+              "exampleNl": "Wilt u de bon mee?",
+              "exampleIt": "Vuole lo scontrino?"
+            },
+            {
+              "nl": "de korting",
+              "it": "lo sconto",
+              "en": "discount",
+              "emoji": "🔖",
+              "pos": "n",
+              "exampleNl": "Vandaag is er korting op fruit.",
+              "exampleIt": "Oggi c'è uno sconto sulla frutta."
+            },
+            {
+              "nl": "de boodschappen",
+              "it": "la spesa",
+              "en": "groceries",
+              "emoji": "🛒",
+              "pos": "n",
+              "exampleNl": "Ik doe de boodschappen op zaterdag.",
+              "exampleIt": "Faccio la spesa il sabato."
+            },
+            {
+              "nl": "de portemonnee",
+              "it": "il portafoglio",
+              "en": "wallet",
+              "emoji": "👛",
+              "pos": "n",
+              "exampleNl": "Mijn geld zit in mijn portemonnee.",
+              "exampleIt": "I miei soldi sono nel portafoglio."
+            },
+            {
+              "nl": "de bakker",
+              "it": "il panettiere / la panetteria",
+              "en": "baker",
+              "emoji": "🥖",
+              "pos": "n",
+              "exampleNl": "Ik koop brood bij de bakker.",
+              "exampleIt": "Compro il pane dal panettiere."
+            },
+            {
+              "nl": "de slager",
+              "it": "il macellaio",
+              "en": "butcher",
+              "emoji": "🥩",
+              "pos": "n",
+              "exampleNl": "De slager verkoopt vers vlees.",
+              "exampleIt": "Il macellaio vende carne fresca."
+            },
+            {
+              "nl": "de supermarkt",
+              "it": "il supermercato",
+              "en": "supermarket",
+              "emoji": "🏪",
+              "pos": "n",
+              "exampleNl": "De supermarkt is om de hoek.",
+              "exampleIt": "Il supermercato è dietro l'angolo."
+            },
+            {
+              "nl": "het winkelcentrum",
+              "it": "il centro commerciale",
+              "en": "mall",
+              "emoji": "🏬",
+              "pos": "n",
+              "exampleNl": "In het winkelcentrum zijn veel winkels.",
+              "exampleIt": "Nel centro commerciale ci sono molti negozi."
+            },
+            {
+              "nl": "het cadeau",
+              "it": "il regalo",
+              "en": "gift",
+              "emoji": "🎁",
+              "pos": "n",
+              "exampleNl": "Ik koop een cadeau voor mijn moeder.",
+              "exampleIt": "Compro un regalo per mia madre."
+            },
+            {
+              "nl": "gratis",
+              "it": "gratuito / gratis",
+              "en": "free",
+              "emoji": "🆓",
+              "pos": "adj",
+              "exampleNl": "De koffie is hier gratis.",
+              "exampleIt": "Qui il caffè è gratis."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1u15",
+      "title": "Il corpo",
+      "icon": "🧍",
+      "tip": "Parti del corpo. Quasi tutte 'de'; eccezione neutra qui: het voorhoofd (la fronte).",
+      "lessons": [
+        {
+          "id": "a1u15l1",
+          "title": "Dalla testa ai piedi",
+          "items": [
+            {
+              "nl": "de vinger",
+              "it": "il dito",
+              "en": "finger",
+              "emoji": "☝️",
+              "pos": "n",
+              "exampleNl": "Ik heb pijn aan mijn vinger.",
+              "exampleIt": "Mi fa male il dito."
+            },
+            {
+              "nl": "de rug",
+              "it": "la schiena",
+              "en": "back",
+              "emoji": "🔙",
+              "pos": "n",
+              "exampleNl": "Mijn rug doet pijn na het werk.",
+              "exampleIt": "Mi fa male la schiena dopo il lavoro."
+            },
+            {
+              "nl": "de buik",
+              "it": "la pancia",
+              "en": "belly",
+              "emoji": "🤰",
+              "pos": "n",
+              "exampleNl": "De baby heeft een ronde buik.",
+              "exampleIt": "Il bambino ha la pancia rotonda."
+            },
+            {
+              "nl": "de nek",
+              "it": "il collo",
+              "en": "neck",
+              "emoji": "🦒",
+              "pos": "n",
+              "exampleNl": "Ik heb een stijve nek.",
+              "exampleIt": "Ho il collo rigido."
+            },
+            {
+              "nl": "de schouder",
+              "it": "la spalla",
+              "en": "shoulder",
+              "emoji": "💪",
+              "pos": "n",
+              "exampleNl": "Hij draagt de tas op zijn schouder.",
+              "exampleIt": "Porta la borsa sulla spalla."
+            },
+            {
+              "nl": "de knie",
+              "it": "il ginocchio",
+              "en": "knee",
+              "emoji": "🦵",
+              "pos": "n",
+              "exampleNl": "Ik viel en bezeerde mijn knie.",
+              "exampleIt": "Sono caduto e mi sono fatto male al ginocchio."
+            },
+            {
+              "nl": "het voorhoofd",
+              "it": "la fronte",
+              "en": "forehead",
+              "emoji": "😀",
+              "pos": "n",
+              "exampleNl": "Hij heeft een hoog voorhoofd.",
+              "exampleIt": "Ha la fronte alta."
+            },
+            {
+              "nl": "de wang",
+              "it": "la guancia",
+              "en": "cheek",
+              "emoji": "😊",
+              "pos": "n",
+              "exampleNl": "De baby heeft rode wangen.",
+              "exampleIt": "Il bambino ha le guance rosse."
+            },
+            {
+              "nl": "de tong",
+              "it": "la lingua",
+              "en": "tongue",
+              "emoji": "👅",
+              "pos": "n",
+              "exampleNl": "De soep is heet, pas op je tong.",
+              "exampleIt": "La minestra è calda, attento alla lingua."
+            },
+            {
+              "nl": "de lip",
+              "it": "il labbro",
+              "en": "lip",
+              "emoji": "👄",
+              "pos": "n",
+              "exampleNl": "In de winter zijn mijn lippen droog.",
+              "exampleIt": "D'inverno ho le labbra secche."
+            },
+            {
+              "nl": "de duim",
+              "it": "il pollice",
+              "en": "thumb",
+              "emoji": "👍",
+              "pos": "n",
+              "exampleNl": "Hij steekt zijn duim omhoog.",
+              "exampleIt": "Alza il pollice."
+            },
+            {
+              "nl": "de teen",
+              "it": "il dito del piede",
+              "en": "toe",
+              "emoji": "🦶",
+              "pos": "n",
+              "exampleNl": "Ik stootte mijn teen tegen de stoel.",
+              "exampleIt": "Ho sbattuto il dito del piede contro la sedia."
+            },
+            {
+              "nl": "de huid",
+              "it": "la pelle",
+              "en": "skin",
+              "emoji": "🧴",
+              "pos": "n",
+              "exampleNl": "In de zon wordt mijn huid bruin.",
+              "exampleIt": "Al sole la mia pelle diventa scura."
+            },
+            {
+              "nl": "de borst",
+              "it": "il petto",
+              "en": "chest",
+              "emoji": "🫁",
+              "pos": "n",
+              "exampleNl": "De dokter luistert naar zijn borst.",
+              "exampleIt": "Il dottore ascolta il suo petto."
+            },
+            {
+              "nl": "de elleboog",
+              "it": "il gomito",
+              "en": "elbow",
+              "emoji": "💪",
+              "pos": "n",
+              "exampleNl": "Ik leun met mijn elleboog op de tafel.",
+              "exampleIt": "Mi appoggio con il gomito sul tavolo."
+            },
+            {
+              "nl": "de pols",
+              "it": "il polso",
+              "en": "wrist",
+              "emoji": "⌚",
+              "pos": "n",
+              "exampleNl": "Ik draag een horloge om mijn pols.",
+              "exampleIt": "Porto un orologio al polso."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1u16",
+      "title": "Vestiti di tutti i giorni",
+      "icon": "🧥",
+      "tip": "Abbigliamento. Neutri: het pak (l'abito), het ondergoed. Il plurale di 'de laars' è 'laarzen' (z).",
+      "lessons": [
+        {
+          "id": "a1u16l1",
+          "title": "Cosa indosso",
+          "items": [
+            {
+              "nl": "de trui",
+              "it": "il maglione",
+              "en": "sweater",
+              "emoji": "🧥",
+              "pos": "n",
+              "exampleNl": "In de winter draag ik een warme trui.",
+              "exampleIt": "D'inverno indosso un maglione caldo."
+            },
+            {
+              "nl": "de rok",
+              "it": "la gonna",
+              "en": "skirt",
+              "emoji": "👗",
+              "pos": "n",
+              "exampleNl": "Zij draagt een rode rok.",
+              "exampleIt": "Lei indossa una gonna rossa."
+            },
+            {
+              "nl": "de schoen",
+              "it": "la scarpa",
+              "en": "shoe",
+              "emoji": "👟",
+              "pos": "n",
+              "exampleNl": "Mijn rechter schoen is te klein.",
+              "exampleIt": "La mia scarpa destra è troppo piccola."
+            },
+            {
+              "nl": "de das",
+              "it": "la cravatta",
+              "en": "tie",
+              "emoji": "👔",
+              "pos": "n",
+              "exampleNl": "Op het werk draagt hij een das.",
+              "exampleIt": "Al lavoro porta una cravatta."
+            },
+            {
+              "nl": "de riem",
+              "it": "la cintura",
+              "en": "belt",
+              "emoji": "🪢",
+              "pos": "n",
+              "exampleNl": "Mijn broek heeft een bruine riem.",
+              "exampleIt": "I miei pantaloni hanno una cintura marrone."
+            },
+            {
+              "nl": "de handschoen",
+              "it": "il guanto",
+              "en": "glove",
+              "emoji": "🧤",
+              "pos": "n",
+              "exampleNl": "Buiten draag ik warme handschoenen.",
+              "exampleIt": "Fuori indosso guanti caldi."
+            },
+            {
+              "nl": "de sjaal",
+              "it": "la sciarpa",
+              "en": "scarf",
+              "emoji": "🧣",
+              "pos": "n",
+              "exampleNl": "Doe een sjaal om, het is koud.",
+              "exampleIt": "Mettiti una sciarpa, fa freddo."
+            },
+            {
+              "nl": "de muts",
+              "it": "il berretto",
+              "en": "beanie",
+              "emoji": "🧢",
+              "pos": "n",
+              "exampleNl": "Hij draagt een blauwe muts.",
+              "exampleIt": "Indossa un berretto blu."
+            },
+            {
+              "nl": "de laars",
+              "it": "lo stivale",
+              "en": "boot",
+              "emoji": "👢",
+              "pos": "n",
+              "exampleNl": "Er ligt een laars onder het bed.",
+              "exampleIt": "C'è uno stivale sotto il letto."
+            },
+            {
+              "nl": "de pyjama",
+              "it": "il pigiama",
+              "en": "pyjamas",
+              "emoji": "🛌",
+              "pos": "n",
+              "exampleNl": "'s Nachts draag ik een zachte pyjama.",
+              "exampleIt": "Di notte indosso un pigiama morbido."
+            },
+            {
+              "nl": "het pak",
+              "it": "l'abito (completo)",
+              "en": "suit",
+              "emoji": "🤵",
+              "pos": "n",
+              "exampleNl": "Voor het feest draagt hij een pak.",
+              "exampleIt": "Per la festa indossa un abito."
+            },
+            {
+              "nl": "de blouse",
+              "it": "la camicetta",
+              "en": "blouse",
+              "emoji": "👚",
+              "pos": "n",
+              "exampleNl": "Zij draagt een witte blouse.",
+              "exampleIt": "Lei indossa una camicetta bianca."
+            },
+            {
+              "nl": "het ondergoed",
+              "it": "la biancheria intima",
+              "en": "underwear",
+              "emoji": "🩲",
+              "pos": "n",
+              "exampleNl": "Schoon ondergoed ligt in de kast.",
+              "exampleIt": "La biancheria pulita è nell'armadio."
+            },
+            {
+              "nl": "de zwembroek",
+              "it": "il costume da bagno",
+              "en": "swimming trunks",
+              "emoji": "🩳",
+              "pos": "n",
+              "exampleNl": "Voor het zwembad pak ik mijn zwembroek.",
+              "exampleIt": "Per la piscina prendo il costume da bagno."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1u17",
+      "title": "A scuola",
+      "icon": "🏫",
+      "tip": "A scuola. Neutri: het potlood, het lokaal, het schrift, het krijt. 'De juf' e 'de meester' = maestra/maestro.",
+      "lessons": [
+        {
+          "id": "a1u17l1",
+          "title": "In classe",
+          "items": [
+            {
+              "nl": "de leerling",
+              "it": "l'alunno / lo studente",
+              "en": "pupil",
+              "emoji": "🧑‍🎓",
+              "pos": "n",
+              "exampleNl": "Elke leerling heeft een eigen boek.",
+              "exampleIt": "Ogni alunno ha un proprio libro."
+            },
+            {
+              "nl": "de pen",
+              "it": "la penna",
+              "en": "pen",
+              "emoji": "🖊️",
+              "pos": "n",
+              "exampleNl": "Ik schrijf met een blauwe pen.",
+              "exampleIt": "Scrivo con una penna blu."
+            },
+            {
+              "nl": "het potlood",
+              "it": "la matita",
+              "en": "pencil",
+              "emoji": "✏️",
+              "pos": "n",
+              "exampleNl": "Teken maar met een potlood.",
+              "exampleIt": "Disegna pure con una matita."
+            },
+            {
+              "nl": "de les",
+              "it": "la lezione",
+              "en": "lesson",
+              "emoji": "📖",
+              "pos": "n",
+              "exampleNl": "De les begint om negen uur.",
+              "exampleIt": "La lezione inizia alle nove."
+            },
+            {
+              "nl": "het lokaal",
+              "it": "l'aula",
+              "en": "classroom",
+              "emoji": "🚪",
+              "pos": "n",
+              "exampleNl": "Ons lokaal is op de eerste verdieping.",
+              "exampleIt": "La nostra aula è al primo piano."
+            },
+            {
+              "nl": "het schrift",
+              "it": "il quaderno",
+              "en": "notebook",
+              "emoji": "📓",
+              "pos": "n",
+              "exampleNl": "Ik schrijf de woorden in mijn schrift.",
+              "exampleIt": "Scrivo le parole nel mio quaderno."
+            },
+            {
+              "nl": "de klas",
+              "it": "la classe",
+              "en": "class",
+              "emoji": "👨‍🏫",
+              "pos": "n",
+              "exampleNl": "In mijn klas zitten twintig kinderen.",
+              "exampleIt": "Nella mia classe ci sono venti bambini."
+            },
+            {
+              "nl": "de som",
+              "it": "l'operazione / il conto",
+              "en": "sum",
+              "emoji": "➗",
+              "pos": "n",
+              "exampleNl": "De som is te moeilijk voor mij.",
+              "exampleIt": "L'operazione è troppo difficile per me."
+            },
+            {
+              "nl": "het krijt",
+              "it": "il gesso",
+              "en": "chalk",
+              "emoji": "🖍️",
+              "pos": "n",
+              "exampleNl": "De juf schrijft met krijt op het bord.",
+              "exampleIt": "La maestra scrive col gesso sulla lavagna."
+            },
+            {
+              "nl": "de meester",
+              "it": "il maestro",
+              "en": "teacher (m)",
+              "emoji": "👨‍🏫",
+              "pos": "n",
+              "exampleNl": "De meester legt de som uit.",
+              "exampleIt": "Il maestro spiega l'operazione."
+            },
+            {
+              "nl": "de juf",
+              "it": "la maestra",
+              "en": "teacher (f)",
+              "emoji": "👩‍🏫",
+              "pos": "n",
+              "exampleNl": "De juf leest een verhaal voor.",
+              "exampleIt": "La maestra legge una storia."
+            },
+            {
+              "nl": "de rugzak",
+              "it": "lo zaino",
+              "en": "backpack",
+              "emoji": "🎒",
+              "pos": "n",
+              "exampleNl": "Mijn boeken zitten in mijn rugzak.",
+              "exampleIt": "I miei libri sono nello zaino."
+            },
+            {
+              "nl": "de map",
+              "it": "la cartella / il raccoglitore",
+              "en": "folder",
+              "emoji": "🗂️",
+              "pos": "n",
+              "exampleNl": "Ik doe mijn tekeningen in een map.",
+              "exampleIt": "Metto i miei disegni in una cartella."
+            },
+            {
+              "nl": "de liniaal",
+              "it": "il righello",
+              "en": "ruler",
+              "emoji": "📏",
+              "pos": "n",
+              "exampleNl": "Ik teken een lijn met de liniaal.",
+              "exampleIt": "Disegno una linea con il righello."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1u18",
+      "title": "Sport e hobby",
+      "icon": "⚽",
+      "tip": "Sport e passatempi. Neutri: het zwembad, het team, het lied. Verbi: hardlopen, voetballen, winnen, verliezen, wandelen, zingen, gooien.",
+      "lessons": [
+        {
+          "id": "a1u18l1",
+          "title": "Tempo libero attivo",
+          "items": [
+            {
+              "nl": "de bal",
+              "it": "la palla",
+              "en": "ball",
+              "emoji": "⚽",
+              "pos": "n",
+              "exampleNl": "De kinderen spelen met een bal.",
+              "exampleIt": "I bambini giocano con una palla."
+            },
+            {
+              "nl": "het zwembad",
+              "it": "la piscina",
+              "en": "swimming pool",
+              "emoji": "🏊",
+              "pos": "n",
+              "exampleNl": "In de zomer gaan we naar het zwembad.",
+              "exampleIt": "D'estate andiamo in piscina."
+            },
+            {
+              "nl": "de wedstrijd",
+              "it": "la partita / la gara",
+              "en": "match",
+              "emoji": "🏆",
+              "pos": "n",
+              "exampleNl": "De wedstrijd begint om drie uur.",
+              "exampleIt": "La partita inizia alle tre."
+            },
+            {
+              "nl": "het team",
+              "it": "la squadra",
+              "en": "team",
+              "emoji": "👥",
+              "pos": "n",
+              "exampleNl": "Ons team speelt vandaag thuis.",
+              "exampleIt": "La nostra squadra gioca in casa oggi."
+            },
+            {
+              "nl": "de training",
+              "it": "l'allenamento",
+              "en": "training",
+              "emoji": "🏋️",
+              "pos": "n",
+              "exampleNl": "De training is elke dinsdag.",
+              "exampleIt": "L'allenamento è ogni martedì."
+            },
+            {
+              "nl": "de wandeling",
+              "it": "la passeggiata",
+              "en": "walk",
+              "emoji": "🚶",
+              "pos": "n",
+              "exampleNl": "We maken een wandeling in het park.",
+              "exampleIt": "Facciamo una passeggiata nel parco."
+            },
+            {
+              "nl": "hardlopen",
+              "it": "correre",
+              "en": "to run",
+              "emoji": "🏃",
+              "pos": "v",
+              "exampleNl": "Ik ga elke ochtend hardlopen in het park.",
+              "exampleIt": "Vado a correre ogni mattina al parco."
+            },
+            {
+              "nl": "wandelen",
+              "it": "passeggiare / camminare",
+              "en": "to walk",
+              "emoji": "🚶",
+              "pos": "v",
+              "exampleNl": "'s Avonds wandelen we langs het strand.",
+              "exampleIt": "La sera passeggiamo lungo la spiaggia."
+            },
+            {
+              "nl": "voetballen",
+              "it": "giocare a calcio",
+              "en": "to play football",
+              "emoji": "⚽",
+              "pos": "v",
+              "exampleNl": "De jongens voetballen op straat.",
+              "exampleIt": "I ragazzi giocano a calcio in strada."
+            },
+            {
+              "nl": "zingen",
+              "it": "cantare",
+              "en": "to sing",
+              "emoji": "🎤",
+              "pos": "v",
+              "exampleNl": "De kinderen zingen een mooi lied.",
+              "exampleIt": "I bambini cantano una bella canzone."
+            },
+            {
+              "nl": "winnen",
+              "it": "vincere",
+              "en": "to win",
+              "emoji": "🥇",
+              "pos": "v",
+              "exampleNl": "Ons team wil de wedstrijd winnen.",
+              "exampleIt": "La nostra squadra vuole vincere la partita."
+            },
+            {
+              "nl": "verliezen",
+              "it": "perdere",
+              "en": "to lose",
+              "emoji": "🥈",
+              "pos": "v",
+              "exampleNl": "Niemand vindt het leuk om te verliezen.",
+              "exampleIt": "A nessuno piace perdere."
+            },
+            {
+              "nl": "gooien",
+              "it": "lanciare / tirare",
+              "en": "to throw",
+              "emoji": "🤾",
+              "pos": "v",
+              "exampleNl": "Hij gooit de bal naar mij.",
+              "exampleIt": "Lancia la palla verso di me."
+            },
+            {
+              "nl": "de gitaar",
+              "it": "la chitarra",
+              "en": "guitar",
+              "emoji": "🎸",
+              "pos": "n",
+              "exampleNl": "Mijn broer speelt elke dag gitaar.",
+              "exampleIt": "Mio fratello suona la chitarra ogni giorno."
+            },
+            {
+              "nl": "de speler",
+              "it": "il giocatore",
+              "en": "player",
+              "emoji": "🏃",
+              "pos": "n",
+              "exampleNl": "Elke speler heeft een nummer.",
+              "exampleIt": "Ogni giocatore ha un numero."
+            },
+            {
+              "nl": "het lied",
+              "it": "la canzone",
+              "en": "song",
+              "emoji": "🎶",
+              "pos": "n",
+              "exampleNl": "De klas zingt een vrolijk lied.",
+              "exampleIt": "La classe canta una canzone allegra."
             }
           ]
         }
